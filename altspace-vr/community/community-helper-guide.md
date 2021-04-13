@@ -1,0 +1,38 @@
+---
+title: Communityhilfsanführungs
+description: Bleiben Sie auf dem laufenden mit dem communityhilfsprogramm von altspacevr und den Regeln und Verantwortlichkeiten der Verwendung des Features zum Aussetzen der Stimme auf dem laufenden.
+ms.date: 02/10/2021
+ms.topic: article
+keywords: Community, Guide, Rules
+ms.openlocfilehash: 6587ae86231c092da42aa68e782538828cc17606
+ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "107213229"
+---
+# <a name="community-helper-guide"></a><span data-ttu-id="55a27-104">Communityhilfsanführungs</span><span class="sxs-lookup"><span data-stu-id="55a27-104">Community helper guide</span></span>
+
+<span data-ttu-id="55a27-105">Das Feature zum Aussetzen der Stimme ist nur für die communityhilfsprogramme von altspacevr verfügbar.</span><span class="sxs-lookup"><span data-stu-id="55a27-105">The Vote to Suspend feature is available, exclusively to AltspaceVR’s Community Helpers.</span></span> <span data-ttu-id="55a27-106">Dabei handelt es sich um ein Moderations Tool, das das einladende, sichere und ausgereifte altspacevr schützt.</span><span class="sxs-lookup"><span data-stu-id="55a27-106">It's a moderation tool to help keep AltspaceVR welcoming, safe, and mature.</span></span> <span data-ttu-id="55a27-107">Mit Vote-to-suspend können communityhilfsprogramme jeden Benutzer markieren, der gegen die Richtlinien für die Community verstößt.</span><span class="sxs-lookup"><span data-stu-id="55a27-107">Vote-to-Suspend allows Community Helpers to flag anyone who is in violation of our Community Guidelines.</span></span> <span data-ttu-id="55a27-108">Im folgenden finden Sie die offiziellen Regeln und Verantwortlichkeiten im Zusammenhang mit der Funktion zum Aussetzen der Stimme.</span><span class="sxs-lookup"><span data-stu-id="55a27-108">Below are the official rules and responsibilities associated with the Vote-to-Suspend ability.</span></span> 
+
+## <a name="vote-to-suspend-rules--responsibilities"></a><span data-ttu-id="55a27-109">Regeln zum Aussetzen von Stimmen & Zuständigkeiten:</span><span class="sxs-lookup"><span data-stu-id="55a27-109">Vote-to-Suspend Rules & Responsibilities:</span></span> 
+
+<span data-ttu-id="55a27-110">**Regeln**</span><span class="sxs-lookup"><span data-stu-id="55a27-110">**Rules**</span></span> 
+
+* <span data-ttu-id="55a27-111">Die Unterbrechung ist nur zulässig, wenn ein Benutzer gegen die Communityrichtlinien von altspacevr verstößt.</span><span class="sxs-lookup"><span data-stu-id="55a27-111">Suspension is only permitted if a user is in violation of AltspaceVR's Community Guidelines.</span></span> <span data-ttu-id="55a27-112">Keine weiteren Gründe.</span><span class="sxs-lookup"><span data-stu-id="55a27-112">No other reasons.</span></span> <span data-ttu-id="55a27-113">Keine Ausnahmen.</span><span class="sxs-lookup"><span data-stu-id="55a27-113">No exceptions.</span></span>  
+* <span data-ttu-id="55a27-114">Veraltete Benutzer müssen sich explizit so identifizieren, dass Sie älter als 13 Jahre sind, bevor Sie diese aussetzen können.</span><span class="sxs-lookup"><span data-stu-id="55a27-114">Underaged users must explicitly identify themselves as being under 13 years of age before you can vote to suspend them.</span></span> 
+* <span data-ttu-id="55a27-115">Alle Abstimmungen werden im System protokolliert und nachverfolgt.</span><span class="sxs-lookup"><span data-stu-id="55a27-115">All votes are logged and tracked in our system.</span></span> 
+* <span data-ttu-id="55a27-116">Sie müssen in der Lage sein, Ihre Argumentation für das Votum an einen Ban-Benutzer zu erläutern, wenn Sie zur Ausarbeitung aufgefordert werden.</span><span class="sxs-lookup"><span data-stu-id="55a27-116">You must be willing and able to explain your reasoning for voting to a ban user, if asked to elaborate.</span></span> 
+
+<span data-ttu-id="55a27-117">**Aufgaben**</span><span class="sxs-lookup"><span data-stu-id="55a27-117">**Responsibilities**</span></span> 
+
+* <span data-ttu-id="55a27-118">Holen Sie sich Hilfe von der CST im Lager, wenn Sie eine Person treffen, die besonders schwierig ist, und Sie sich nicht sicher sind, wie am besten fortgefahren wird.</span><span class="sxs-lookup"><span data-stu-id="55a27-118">Get help from the CST in the Campfire if you meet someone who is particularly difficult and you're unsure about how best to continue.</span></span>  
+* <span data-ttu-id="55a27-119">Wenn Sie jemanden treffen, der möglicherweise eine sofortige Unterbrechung erfordert, sollten Sie die Hilfe von der CST im Lager selbst suchen.</span><span class="sxs-lookup"><span data-stu-id="55a27-119">If you meet someone who might require immediate suspension, seek help from the CST in the Campfire.</span></span> 
+* <span data-ttu-id="55a27-120">Neue Personen wissen möglicherweise nicht immer, was richtig und falsch ist.</span><span class="sxs-lookup"><span data-stu-id="55a27-120">New people may not always know what's right and wrong, so please be patient and kind.</span></span> <span data-ttu-id="55a27-121">Denken Sie daran, das Beispiel immer so festzulegen, was ein guter altspacevr-Bürger ist.</span><span class="sxs-lookup"><span data-stu-id="55a27-121">Remember to always set the example for what being a good AltspaceVR citizen means.</span></span> 
+* <span data-ttu-id="55a27-122">Helfen Sie Ihnen, Fragen zu den besten Möglichkeiten ihrer Fähigkeiten zu beantworten.</span><span class="sxs-lookup"><span data-stu-id="55a27-122">Help answer questions to the best of your abilities.</span></span> <span data-ttu-id="55a27-123">Wenn Sie sich nicht sicher sind, ob eine Antwort in Ordnung ist.</span><span class="sxs-lookup"><span data-stu-id="55a27-123">If you're unsure about an answer that's ok.</span></span> 
+* <span data-ttu-id="55a27-124">Jede Person, die ein technisches Problem oder eine Problembehandlung benötigt, sollte aufgefordert werden, ein Ticket mit unserem Support Team zu öffnen: [altvr.com/Support/](https://help.altvr.com/hc/requests/new?ticket_form_id=114093998653)</span><span class="sxs-lookup"><span data-stu-id="55a27-124">Anyone with a technical issue or in need of troubleshooting should be encouraged to open a ticket with our support team: [altvr.com/support/](https://help.altvr.com/hc/requests/new?ticket_form_id=114093998653)</span></span>
+
+<span data-ttu-id="55a27-125">**Denken Sie daran**</span><span class="sxs-lookup"><span data-stu-id="55a27-125">**Remember**</span></span> 
+
+* <span data-ttu-id="55a27-126">Sie können das Hilfsobjekt für die Community aktivieren/deaktivieren.</span><span class="sxs-lookup"><span data-stu-id="55a27-126">You can toggle your Community Helper badge on/off.</span></span> <span data-ttu-id="55a27-127">Wenn Sie das Badge "Off" umschalten, können Sie auch die Funktion zum Aufheben der Stimme in den Zustand "aus" umschalten.</span><span class="sxs-lookup"><span data-stu-id="55a27-127">When you toggle your badge "off", you'll also toggle "off" your Vote-to-Suspend ability.</span></span> 
+* <span data-ttu-id="55a27-128">Das Feature zum Aussetzen der Stimme ist ein Pilotprogramm, und es werden keine Garantien zum sicherstellen zukünftiger Möglichkeiten geboten.</span><span class="sxs-lookup"><span data-stu-id="55a27-128">The Vote-to-Suspend feature is a pilot program and no guarantees are made to ensure future abilities.</span></span> 

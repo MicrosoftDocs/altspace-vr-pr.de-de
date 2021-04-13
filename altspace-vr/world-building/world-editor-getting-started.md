@@ -1,0 +1,61 @@
+---
+title: Ersten Einstieg mit dem Welt-Editor
+description: Erfahren Sie, wie Sie den altspacevr World-Editor zum erzeugen, manipulieren und Platzieren von Objekten in ihren Welten verwenden.
+ms.date: 03/11/2021
+ms.topic: article
+keywords: Welt-Editor
+ms.openlocfilehash: 6fa55de4e95c7cfee4cc771f1fe4e7ff8c67350b
+ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "107213446"
+---
+# <a name="getting-started-with-the-world-editor"></a><span data-ttu-id="ce6e2-104">Ersten Einstieg mit dem Welt-Editor</span><span class="sxs-lookup"><span data-stu-id="ce6e2-104">Getting started with the World Editor</span></span>
+
+<span data-ttu-id="ce6e2-105">Der World Editor enthält die Tools und Fähigkeiten, die Sie zum erzeugen, ändern und Platzieren von Objekten und Elementen zum Erstellen einer Welt benötigen.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-105">The World Editor contains the tools and abilities you need to spawn, manipulate, and place objects and elements to construct a world.</span></span> <span data-ttu-id="ce6e2-106">Es ist Rollen abhängig, d. h., Sie können nur auf den Welt-Editor an Orten zugreifen, die Sie anpassen können, wie z. b. Ihren Heim Raum, Ihre Veranstaltungen oder Ihre Welt.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-106">It's role-dependent, which means you can only access the World Editor in places that are yours to customize, like your home-space, events, or worlds.</span></span> <span data-ttu-id="ce6e2-107">In diesen Bereichen wird Ihr World Editor in der unteren rechten Ecke Ihres Sicht Felds angezeigt.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-107">In these spaces, your World Editor appears on the lower right-hand corner of your field of view.</span></span>
+
+![Optionen des Bereichs "World Editor"](images/world-editor-img-01.png)
+
+<span data-ttu-id="ce6e2-109">Die primäre Schaltfläche in Ihrem Welt-Editor ist Ihr **Editor-Panel**.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-109">The primary button in your World Editor is your **Editor Panel**.</span></span> <span data-ttu-id="ce6e2-110">Dadurch wird das Fenster mit den einzelnen Hand Fenstern geöffnet, von dem aus Sie auf die meisten Steuerelemente der Welt Bearbeitung zugreifen können.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-110">This will open your one-stop-shop window from which you have access to most of the world editing controls.</span></span> <span data-ttu-id="ce6e2-111">Mit dem Editor-Panel können Sie auf einen Blick erkennen, welche Elemente ausgewählt sind und ob Sie gesperrt oder gesperrt sind.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-111">The Editor Panel helps you easily tell at-a-glance which items are selected and whether they’re locked or unlocked.</span></span> <span data-ttu-id="ce6e2-112">Elemente werden in der Welt und im Editor Panel entsprechend hervorgehoben, um Sie einfach zu finden.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-112">Items are correspondingly highlighted both in-world and in your Editor Panel, to make finding them simple.</span></span> 
+
+![Fenster "World Editor"](images/world-editor-img-02.png)
+
+<span data-ttu-id="ce6e2-114">Wenn Sie einen Bildlauf über ein Objekt durchführen, wird eine blaue Hervorhebungs Grenze angezeigt.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-114">When you scroll over an object, a blue highlight boundary will appear.</span></span> <span data-ttu-id="ce6e2-115">Klicken Sie auf das Objekt, um es auszuwählen.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-115">Click on the object to select it.</span></span> <span data-ttu-id="ce6e2-116">Die Grenze bleibt blau, solange Sie ausgewählt ist.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-116">The boundary will stay blue as long as it's selected.</span></span> <span data-ttu-id="ce6e2-117">Sie können ein Objekt auch sperren, um sicherzustellen, dass es genau dort positioniert ist, wo Sie es möchten.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-117">You can also lock an object in place to make sure it's positioned exactly where you'd like it to be.</span></span> <span data-ttu-id="ce6e2-118">Wenn Sie das Objekt Sperren, sehen Sie, dass die Markierung der Begrenzungs Farbe Rot ist.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-118">By locking the object, you'll see the highlight boundary color turn red.</span></span> <span data-ttu-id="ce6e2-119">Diese Farben und visuellen Hinweise entsprechen dem Editor-Panel. Dadurch können Sie leicht erkennen, was Sie arbeiten und in welchem Zustand sich ein Objekt befindet.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-119">These colors and visual cues correspond in your Editor Panel, which makes it easy to see what you're working on and what state an object is in.</span></span>
+
+:::row:::
+    :::column:::
+       <span data-ttu-id="ce6e2-120">![Bildlauf zum Hervorheben des Elements ](images/world-editor-img-03.png) *zum Markieren* des Elements</span><span class="sxs-lookup"><span data-stu-id="ce6e2-120">![Scroll to highlight item](images/world-editor-img-03.png) *Scroll to highlight item*</span></span>
+    :::column-end:::
+    :::column:::
+       <span data-ttu-id="ce6e2-121">![Klicken Sie, um das Element auszuwählen ](images/world-editor-img-04.png) *und auszuwählen* .</span><span class="sxs-lookup"><span data-stu-id="ce6e2-121">![Click to select item](images/world-editor-img-04.png) *Click to select*</span></span>
+    :::column-end:::
+    :::column:::
+       <span data-ttu-id="ce6e2-122">![Bild Lauf für gesperrten Element scrollvorgang ](images/world-editor-img-05.png) *gesperrt*</span><span class="sxs-lookup"><span data-stu-id="ce6e2-122">![Scroll locked item](images/world-editor-img-05.png) *Scroll locked item*</span></span>
+    :::column-end:::
+    :::column:::
+       <span data-ttu-id="ce6e2-123">![Gesperrtes Element auswählen ](images/world-editor-img-06.png)
+     *gesperrtes Element auswählen*</span><span class="sxs-lookup"><span data-stu-id="ce6e2-123">![Select locked item](images/world-editor-img-06.png)
+*Select locked item*</span></span>
+    :::column-end:::
+:::row-end:::
+
+<span data-ttu-id="ce6e2-124">Die anderen Schaltflächen oberhalb des Editor-Panels sind kurze kurze Einschnitte bei hilfreichen Features und Funktionen, die die weltweite Erstellung etwas vereinfachen.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-124">The other buttons above the Editor Panel are quick short-cuts to helpful features and functions that make world-building a little smoother.</span></span> 
+
+<span data-ttu-id="ce6e2-125">Verwenden Sie die Schaltfläche **Bearbeitungsmodus** , um zwischen dem Bearbeitungs-und dem livestatus schnell zu wechseln.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-125">Use your **Edit Mode** button to quickly toggle between the edit and live states.</span></span> <span data-ttu-id="ce6e2-126">Die Schaltfläche wird angezeigt, wenn ein-und ausgeschaltet wird. Sie können also feststellen, in welchem Zustand Sie sich auf einen Blick befinden, auch wenn Sie den World Editor schließen.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-126">The button lights up when toggled on, so you’re able to tell which state you’re in at-a-glance even if you close your World Editor.</span></span> <span data-ttu-id="ce6e2-127">Wenn Sie mit Elementen arbeiten, die in ihrer Welt überschneidende Eigenschaften verfügen, sind Sie statisch, solange Sie ausgewählt sind.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-127">If you're working with items that have interable properties in your World, they will be static as long as they're selected.</span></span> <span data-ttu-id="ce6e2-128">Zum Aktivieren der Interaktivität müssen Sie das Element deaktivieren und den Bearbeitungsmodus beenden.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-128">To enable interactivity, you must de-select the item and exit Edit Mode.</span></span>
+
+![Objekt mit ausgewähltem Bearbeitungsmodus](images/world-editor-img-07.png)
+
+<span data-ttu-id="ce6e2-130">Verwenden Sie die Schaltfläche **Umgebung umschalten** , um den Speicherplatz auszublenden oder anzuzeigen.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-130">Use your **Toggle Environment** button to hide or display your space.</span></span> <span data-ttu-id="ce6e2-131">Dies ist hilfreich für den einfachen Zugriff auf Elemente, die Sie auf der ganzen Welt platziert haben.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-131">This is helpful for easy-access to items that you've placed throughout the world.</span></span> <span data-ttu-id="ce6e2-132">Wenn Sie die Umgebung ausschalten, sehen Sie, dass im Feld der Ansicht weniger visuelle "Rauschen" angezeigt wird.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-132">By turning off the environment, you can see with less visual "noise" in your field of view.</span></span>
+
+![Schaltfläche "Umgebung umschalten" zum Ausblenden oder Anzeigen von Leerzeichen](images/world-editor-img-08.png)
+
+<span data-ttu-id="ce6e2-134">Verwenden Sie die Schaltfläche zum Umschalten des **Flugs** , um die Möglichkeit zu ermöglichen, die Schwerkraft zu</span><span class="sxs-lookup"><span data-stu-id="ce6e2-134">Use your **Toggle Flight** button to enable the ability to defy gravity.</span></span> <span data-ttu-id="ce6e2-135">Wer braucht ein Gerüstbau, wenn Sie den Himmel durchlaufen können?</span><span class="sxs-lookup"><span data-stu-id="ce6e2-135">Who needs a scaffolding when you can soar through the skies?</span></span> <span data-ttu-id="ce6e2-136">Verwenden Sie diese Funktion, um die "Konstruktions Website" auf die nächste Stufe zu bringen.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-136">Use this feature to take your “construction site” to the next level.</span></span> <span data-ttu-id="ce6e2-137">Das Fliegen ist einfach: sehen Sie sich einfach die gewünschte Richtung an, und verwenden Sie Ihre Hot-Keys (oder den Finger Stick auf dem Controller), um dorthin zu gelangen.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-137">Flying is simple: just look in the direction you want to fly and use your hot-keys (or thumbstick on controller) to get there.</span></span> 
+
+<span data-ttu-id="ce6e2-138">Verwenden Sie Ihre **Umgebungs clippingschaltfläche** , um Objekte problemlos zu durchlaufen, damit Sie im 3D-Raum herumlaufen können, ohne von den Elementen in der Welt abgeschnitten zu werden.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-138">Use your **Environment Clipping** button to pass through objects with ease so you can maneuver around in 3D space without getting tripped up by the items in your world.</span></span> <span data-ttu-id="ce6e2-139">Wenn Sie Elemente und Wände durchschneiden können, erhalten Sie die gesamte freie Bewegung, sodass Sie Ihre Welt ganz genau finden können.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-139">Being able to clip through items and walls give you total freedom of movement, so you can get your World perfectly detailed.</span></span>  
+
+<span data-ttu-id="ce6e2-140">Denken Sie daran, dass die Praxis perfekt ist.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-140">Remember, practice makes perfect.</span></span> <span data-ttu-id="ce6e2-141">Hop in der Welt und bauen Sie mit dem Welt-Editor auf.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-141">So hop in-world and get building with the World Editor!</span></span> 
+
+<span data-ttu-id="ce6e2-142">Wenn Sie weitere Fragen haben oder von den Profis lernen möchten, sehen Sie sich den #World bauchannel auf unserem [communityzwietracht-Server](https://discord.com/invite/altspacevr)an.</span><span class="sxs-lookup"><span data-stu-id="ce6e2-142">If you have other questions or want to learn from the pros, check out the #world-building channel on our community [Discord server](https://discord.com/invite/altspacevr).</span></span> 
+
+<span data-ttu-id="ce6e2-143">Fröhliche Bildung!</span><span class="sxs-lookup"><span data-stu-id="ce6e2-143">Happy building!</span></span>

@@ -1,0 +1,35 @@
+---
+title: Verwenden einer Mixed Reality-Erweiterung
+description: Erfahren Sie, wie Sie mithilfe von Mixed Reality-Erweiterungen ihre altspacevr-Welten erweitern und anpassen.
+ms.date: 03/11/2021
+ms.topic: article
+keywords: Gemischte Realität, Erweiterungen, Problembehandlung
+ms.openlocfilehash: 498e71c48f7c67abc40ce4f4667c9eeac4c4e73b
+ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "107212122"
+---
+# <a name="using-a-mixed-reality-extension"></a><span data-ttu-id="3d203-104">Verwenden einer Mixed Reality-Erweiterung</span><span class="sxs-lookup"><span data-stu-id="3d203-104">Using a Mixed Reality Extension</span></span>
+
+<span data-ttu-id="3d203-105">[Mixed Reality Extensions](https://developer.altvr.com/) (MRes) sind apps, die Sie in ihren Welten von [Helmen](https://account.altvr.com/mres/1173667287173955931) bis zu einem funktionierenden [startgate](https://account.altvr.com/mres/1152987031857529562)verwenden können.</span><span class="sxs-lookup"><span data-stu-id="3d203-105">[Mixed Reality Extensions](https://developer.altvr.com/) (MREs) are apps you can use in your Worlds from [helmets](https://account.altvr.com/mres/1173667287173955931) to a working [Stargate](https://account.altvr.com/mres/1152987031857529562).</span></span> <span data-ttu-id="3d203-106">Auf diese Weise können Community-Mitglieder mit Programmierfunktionen altspace und unidirektionale welergeneratoren interaktiv gestalten.</span><span class="sxs-lookup"><span data-stu-id="3d203-106">This is how community members with programming experience can extend Altspace and one-way World Builders can make their Worlds more interactive.</span></span> <span data-ttu-id="3d203-107">Obwohl MRes von beliebigen Benutzern in einer Welt verwendet werden kann, können nur Benutzer in der Welt, die sich in ihrer Welt befinden, in ihrer Welt nach MRes suchen und diese erzeugen.</span><span class="sxs-lookup"><span data-stu-id="3d203-107">While MREs can be used by anyone in a World, only people in the World Building Program can browse and spawn MREs in their Worlds.</span></span> 
+
+1. <span data-ttu-id="3d203-108">Navigieren Sie im Abschnitt MRE unserer [Website](https://account.altvr.com/mres).</span><span class="sxs-lookup"><span data-stu-id="3d203-108">Browse the MRE section of our [website](https://account.altvr.com/mres).</span></span> <span data-ttu-id="3d203-109">Standardmäßig sehen Sie Ihre eigenen MRes. Wählen Sie daher " **altspace** " aus, um offizielle MRes **anzuzeigen und die** MRes aus der Community anzuzeigen.</span><span class="sxs-lookup"><span data-stu-id="3d203-109">By default you'll see your own MREs so select on **Altspace** to see official MREs and **Featured** to see MREs from the community.</span></span> <span data-ttu-id="3d203-110">Machen Sie sich mit jedem MRE vertraut, bevor Sie es in ihrer Welt verwenden.</span><span class="sxs-lookup"><span data-stu-id="3d203-110">Get familiar with any MRE before you use it in your World.</span></span> 
+2. <span data-ttu-id="3d203-111">Navigieren Sie zu den [Helmen](https://account.altvr.com/mres/1173667287173955931) MRE, und wählen Sie **in Zwischenablage kopieren** aus.</span><span class="sxs-lookup"><span data-stu-id="3d203-111">Navigate to the [Helmets](https://account.altvr.com/mres/1173667287173955931) MRE and select **Copy to Clipboard**.</span></span> 
+3. <span data-ttu-id="3d203-112">Geben Sie Ihre Welt ein, und öffnen Sie den World Editor, um **Grundlagen > SDK-App**</span><span class="sxs-lookup"><span data-stu-id="3d203-112">Enter your World and open the World Editor to **Basics > SDK App**.</span></span> <span data-ttu-id="3d203-113">Fügen Sie die URL für Helme in das Feld Ziel-URI ein, und wählen Sie **bestätigen** aus.</span><span class="sxs-lookup"><span data-stu-id="3d203-113">Paste in the URL for Helmets into the Target URI field and select **Confirm**.</span></span> <span data-ttu-id="3d203-114">Das MRE-Objekt sollte angezeigt werden, und es wird versucht, eine Verbindung mit dem MRE herzustellen, das in der Cloud ausgeführt wird.</span><span class="sxs-lookup"><span data-stu-id="3d203-114">The MRE Object should appear and attempt to connect to the MRE that's running in the cloud.</span></span> <span data-ttu-id="3d203-115">Es sollten jetzt einige Helme angezeigt werden, auf die Sie klicken können.</span><span class="sxs-lookup"><span data-stu-id="3d203-115">You should now see some helmets you can click on.</span></span>
+4. <span data-ttu-id="3d203-116">Verschieben/drehen/skalieren Sie das MRE genauso wie jedes andere World-Objekt.</span><span class="sxs-lookup"><span data-stu-id="3d203-116">Move/rotate/scale the MRE just as you would any other World Object.</span></span>
+
+<span data-ttu-id="3d203-117">Glückwunsch!</span><span class="sxs-lookup"><span data-stu-id="3d203-117">Congratulations!</span></span> <span data-ttu-id="3d203-118">Sie verwenden jetzt MRes: Sie sind so cool!</span><span class="sxs-lookup"><span data-stu-id="3d203-118">You're using MREs now--you're so cool!</span></span>
+
+## <a name="troubleshooting"></a><span data-ttu-id="3d203-119">Problembehandlung</span><span class="sxs-lookup"><span data-stu-id="3d203-119">Troubleshooting</span></span>
+
+<span data-ttu-id="3d203-120">**MRE zeigt ein missmutiges-Emoji an**</span><span class="sxs-lookup"><span data-stu-id="3d203-120">**MRE is showing a frowning emoji**</span></span> 
+    * <span data-ttu-id="3d203-121">Überprüfen Sie, ob die URL richtig ist.</span><span class="sxs-lookup"><span data-stu-id="3d203-121">Verify that the URL is correct</span></span>
+    * <span data-ttu-id="3d203-122">Option "Wiedergabe Option" für das **Objekt umschalten und** " **bestätigen** " auswählen</span><span class="sxs-lookup"><span data-stu-id="3d203-122">Toggle **Is Playing** option on the Object and choose **confirm**</span></span>
+    * <span data-ttu-id="3d203-123">Erneut versuchen</span><span class="sxs-lookup"><span data-stu-id="3d203-123">Try reentering</span></span>
+
+<span data-ttu-id="3d203-124">**MRE hinkt** Je nachdem, wo ein MRE gehostet wird, tritt möglicherweise eine Netzwerk Latenz auf.</span><span class="sxs-lookup"><span data-stu-id="3d203-124">**MRE is lagging** Depending on where an MRE is hosted you may experience some network latency</span></span>
+
+<span data-ttu-id="3d203-125">**Warum müssen URLs eingefügt werden?**</span><span class="sxs-lookup"><span data-stu-id="3d203-125">**Why do we have to paste URLs?**</span></span>
+<span data-ttu-id="3d203-126">In Zukunft können Sie MRes wie Artefakte aus Kits verwalten und erzeugen.</span><span class="sxs-lookup"><span data-stu-id="3d203-126">In the future, you can manage and spawn MREs like you do Artifacts from Kits.</span></span> <span data-ttu-id="3d203-127">Bis dahin werden die URLs weiterhin verwendet.</span><span class="sxs-lookup"><span data-stu-id="3d203-127">Until then, we'll continue using URLs</span></span>

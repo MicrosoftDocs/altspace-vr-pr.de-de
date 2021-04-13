@@ -1,0 +1,32 @@
+---
+title: Funktionsweise von nametags
+description: Erfahren Sie mehr über die verschiedenen Arten von nametags und deren Funktionsweise in altspacevr.
+ms.date: 02/10/2021
+ms.topic: article
+keywords: faq
+ms.openlocfilehash: 396834a61c1b2cec03a917a2b156f84f2463dd90
+ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "107212178"
+---
+# <a name="how-do-nametags-work"></a><span data-ttu-id="170e3-104">Funktionsweise von nametags</span><span class="sxs-lookup"><span data-stu-id="170e3-104">How do nametags work?</span></span>
+
+<span data-ttu-id="170e3-105">Wenn Sie das nameTag eines anderen Benutzers anzeigen möchten, wählen Sie seinen Avatar mit Ihrem Cursor aus, und das zugehörige nameTag wird dann oben angezeigt.</span><span class="sxs-lookup"><span data-stu-id="170e3-105">If you'd like to see another user's Nametag, select their avatar with your cursor and their Nametag will, then display above.</span></span>
+
+<span data-ttu-id="170e3-106">Für das nameTag werden einige Symbole angezeigt: **Friend, Block** und **stumm**.</span><span class="sxs-lookup"><span data-stu-id="170e3-106">You'll see a few icons on the Nametag: **Friend, Block,** and **Mute**.</span></span>
+
+* <span data-ttu-id="170e3-107">**Stumm schalten:** Wenn Sie auf das stumm Symbol klicken, können Sie einen Benutzer stumm schalten, dies ist eine temporäre stumm Schaltung, und Sie können Sie jederzeit entstumm schalten.</span><span class="sxs-lookup"><span data-stu-id="170e3-107">**Mute:** Clicking the Mute icon will allow you to mute a user, this is a temporary mute and you can unmute them at any time.</span></span> <span data-ttu-id="170e3-108">Wenn das stumm Symbol dieses Benutzers bereits rot ist, bedeutet dies, dass Sie sich selbst stumm geschaltet haben.</span><span class="sxs-lookup"><span data-stu-id="170e3-108">If this users' mute icon is already red, it means they've muted themselves.</span></span>
+
+* <span data-ttu-id="170e3-109">**Blockieren:** Mit der Funktion "blockieren" können Sie einen Benutzer aus Ihrer Benutzer Funktionalität entfernen.</span><span class="sxs-lookup"><span data-stu-id="170e3-109">**Block:** The block feature will allow you to remove a user from your experience.</span></span> <span data-ttu-id="170e3-110">Dieser Benutzer wird Ihnen nicht mehr angezeigt, und er wird Ihnen nicht mehr angezeigt.</span><span class="sxs-lookup"><span data-stu-id="170e3-110">You'll no longer see or hear that user, and they'll no longer see or hear you.</span></span> <span data-ttu-id="170e3-111">Wenn Sie die Blockierung eines Benutzers wieder aufnehmen müssen, öffnen Sie das Freunde-Panel in altspacevr, wählen Sie die Registerkarte Block aus, und Entsperren Sie den Benutzer.</span><span class="sxs-lookup"><span data-stu-id="170e3-111">If you need to unblock a user, open up your Friends panel in AltspaceVR, select the block tab, then unblock the user.</span></span>
+
+* <span data-ttu-id="170e3-112">**Friend:** Die Friend-Schaltfläche sendet diesem Benutzer eine Friend-Anforderung. Nachdem Sie einen anderen Benutzer verlassen haben, können Sie ihn über Leerzeichen hinweg überprüfen, anzeigen, wann der Benutzer online ist, und sich problemlos an seinem Raum beteiligen.</span><span class="sxs-lookup"><span data-stu-id="170e3-112">**Friending:** The friend button will send that user a friend request, after Friending another user you can message them across spaces, see when that user is online, and easily join their room.</span></span> <span data-ttu-id="170e3-113">Das nameTag dieses Benutzers enthält auch einen blauen Rahmen, damit Sie Sie leicht als Friend erkennen können.</span><span class="sxs-lookup"><span data-stu-id="170e3-113">That user's Nametag will also include a blue border so you can easily recognize them as a friend.</span></span> <span data-ttu-id="170e3-114">Sie bemerken auch einen gegen Ende des nameTag, der die Dauer anzeigt, die Sie mit diesem Benutzer befreundet haben.</span><span class="sxs-lookup"><span data-stu-id="170e3-114">You'll also notice a counter at the bottom of their Nametag, which will show the duration that you've been friends with that user.</span></span>
+
+<span data-ttu-id="170e3-115">Wenn Sie Ihre eigene Aktivität hosten, erhalten Sie einige andere Tools für die Moderation.</span><span class="sxs-lookup"><span data-stu-id="170e3-115">When you host your own activity, you'll receive some other tools for moderation.</span></span> <span data-ttu-id="170e3-116">Sie haben jetzt die Möglichkeit, Benutzer zu richten, die noch nicht mit ihnen befreundet sind, und Sie können auch Benutzer starten.</span><span class="sxs-lookup"><span data-stu-id="170e3-116">You'll now have the ability to message users who you aren't yet friends with, and you'll also have the ability to Kick users.</span></span>
+
+* <span data-ttu-id="170e3-117">**Starten:** Wenn ein Benutzer die Aktivität interruptet, können Sie immer die Schaltfläche "Start" verwenden. Dadurch wird der Benutzer aus der Aktivität entfernt.</span><span class="sxs-lookup"><span data-stu-id="170e3-117">**Kick:** If a user interrupts your activity you can always use the Kick button, this will remove that user from your activity.</span></span> <span data-ttu-id="170e3-118">Nachdem Sie sie gestartet haben, sind Sie nicht mehr in der Lage, der aktuellen Aktivität beizutreten.</span><span class="sxs-lookup"><span data-stu-id="170e3-118">After being kicked they, they'll no longer be able to join your current activity.</span></span> 
+
+* <span data-ttu-id="170e3-119">**Administrator Badge:** Altspacevr hat Mitarbeiter an Hand 24/7 im Lager Lager, um Sie bei VR zu unterstützen.</span><span class="sxs-lookup"><span data-stu-id="170e3-119">**Admin Badge:** AltspaceVR has staff on hand 24/7 in The Campfire to assist you in VR.</span></span> <span data-ttu-id="170e3-120">Alle Mitarbeiter, die altspacevr darstellen, haben den Gold-Administrator Badge für das nameTag.</span><span class="sxs-lookup"><span data-stu-id="170e3-120">All staff members representing AltspaceVR will have the gold Admin Badge on their nametag.</span></span>
+
+<span data-ttu-id="170e3-121">Unsere Mitarbeiter sind dabei, Sie zu unterstützen und zu unterstützen. Stellen Sie also Fragen, die Sie möglicherweise haben.</span><span class="sxs-lookup"><span data-stu-id="170e3-121">Our staff is here to support and assist you, so please ask them any questions you might have!</span></span> 

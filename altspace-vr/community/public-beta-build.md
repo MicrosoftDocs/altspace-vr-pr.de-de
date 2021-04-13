@@ -1,0 +1,78 @@
+---
+title: Öffentliches Beta-Buildprogramm
+description: Hier finden Sie die neuesten Neuigkeiten zum Installieren und Einreichen von Fehlern für das neueste "altspacevr Beta Build"-Programm.
+ms.date: 02/10/2021
+ms.topic: article
+keywords: Beta, Beta-Build, Fehler
+ms.openlocfilehash: 1153a8d3f07e23556769416a33e5d45b1ea5007d
+ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "107212179"
+---
+# <a name="public-beta-build-programs"></a><span data-ttu-id="19305-104">Build-Programme der öffentlichen Beta Version</span><span class="sxs-lookup"><span data-stu-id="19305-104">Public beta build programs</span></span>
+
+<span data-ttu-id="19305-105">Willkommen!</span><span class="sxs-lookup"><span data-stu-id="19305-105">Welcome!</span></span> <span data-ttu-id="19305-106">Dieser Artikel beschreibt das Build-Programm der öffentlichen Beta Version.</span><span class="sxs-lookup"><span data-stu-id="19305-106">This article outlines the Public Beta Build Program.</span></span> <span data-ttu-id="19305-107">Diese Initiative bietet Personen, die an der Suche und Nachverfolgung von Fehlern in vorab Versionen von Build-Versionen interessiert sind, eine Gelegenheit, dies zu tun.</span><span class="sxs-lookup"><span data-stu-id="19305-107">This initiative gives individuals interested in helping find and track bugs in pre-released build versions, an opportunity to do so.</span></span> <span data-ttu-id="19305-108">Darüber hinaus können Inhalts Ersteller (Ereignis Hosts/Welt-Generatoren), die ihre Schöpfungen (Ereignisse/Welten) vor neuen Releases überprüfen möchten, ggf. auch das öffentliche Beta-Buildprogramm verwenden, um auf frühe Versionen früherer Builds zuzugreifen.</span><span class="sxs-lookup"><span data-stu-id="19305-108">Additionally, content creators (Event Hosts/World Builders) who would like to compatibility-check their creations (events/worlds) before new releases, may also use the Public Beta Build Program to access early versions of forthcoming builds.</span></span> <span data-ttu-id="19305-109">Im Allgemeinen sind die Ziele des öffentlichen Beta Programms:</span><span class="sxs-lookup"><span data-stu-id="19305-109">Overall, the goals of the Public Beta Build Program are to:</span></span> 
+
+* <span data-ttu-id="19305-110">Hilfe Ereignis Ersteller und Welt-Generatoren testen Dinge, bevor Updates online geschaltet werden.</span><span class="sxs-lookup"><span data-stu-id="19305-110">Help event creators and world builders test things before updates go live.</span></span>  
+* <span data-ttu-id="19305-111">Suchen Sie nach Regressionen zwischen Builds.</span><span class="sxs-lookup"><span data-stu-id="19305-111">Look for regressions between builds.</span></span> 
+* <span data-ttu-id="19305-112">Hilfe bei der Überprüfung eingehender Korrekturen</span><span class="sxs-lookup"><span data-stu-id="19305-112">Help verify incoming fixes</span></span> 
+ 
+## <a name="how-it-works"></a><span data-ttu-id="19305-113">Funktionsweise</span><span class="sxs-lookup"><span data-stu-id="19305-113">How It Works</span></span>
+
+<span data-ttu-id="19305-114">Das Build-Programm der öffentlichen Beta Version ist sowohl über den Speicher "Oculus", ".</span><span class="sxs-lookup"><span data-stu-id="19305-114">The Public Beta Build Program is available through both the Oculus Rift/Rift S and Oculus Quest/Quest 2 stores, and the Steam Library.</span></span> <span data-ttu-id="19305-115">Dadurch wird der Wechsel zwischen Live-und Beta-Builds einfach und einfach zu verwalten.</span><span class="sxs-lookup"><span data-stu-id="19305-115">This makes switching between Live and Beta builds simple and easy to self-manage.</span></span> <span data-ttu-id="19305-116">Dies bedeutet auch, dass die Teilnahme am Build-Programm der öffentlichen Beta-Version vollständig optional ist und jede Person den Ermessen entspricht.</span><span class="sxs-lookup"><span data-stu-id="19305-116">It also means participating in the Public Beta Build Program is entirely optional and at the discretion of each individual.</span></span> 
+
+## <a name="step-by-step-instructions"></a><span data-ttu-id="19305-117">Schritt-für-Schritt-Anweisungen</span><span class="sxs-lookup"><span data-stu-id="19305-117">Step-by-Step Instructions</span></span>  
+
+<span data-ttu-id="19305-118">Dampf Bibliothek:</span><span class="sxs-lookup"><span data-stu-id="19305-118">Steam library:</span></span>
+
+1. <span data-ttu-id="19305-119">Öffnen der Dampf Bibliothek</span><span class="sxs-lookup"><span data-stu-id="19305-119">Open the Steam Library</span></span>
+2. <span data-ttu-id="19305-120">Nach altspacevr suchen</span><span class="sxs-lookup"><span data-stu-id="19305-120">Search for AltspaceVR</span></span>
+3. <span data-ttu-id="19305-121">Klicken Sie mit der rechten Maustaste, und wählen Sie Eigenschaften aus</span><span class="sxs-lookup"><span data-stu-id="19305-121">Right-click and select "properties"</span></span>
+4. <span data-ttu-id="19305-122">Zur Registerkarte "Betas" wechseln</span><span class="sxs-lookup"><span data-stu-id="19305-122">Go to "BETAS" tab</span></span>
+5. <span data-ttu-id="19305-123">Wählen Sie in der Dropdown-Dropdown-Option "Beta-Release-Kandidaten"</span><span class="sxs-lookup"><span data-stu-id="19305-123">Select "Beta-Release candidates" from the drop-down</span></span>
+6. <span data-ttu-id="19305-124">Sie sollten den Code Abschnitt leer lassen.</span><span class="sxs-lookup"><span data-stu-id="19305-124">You should leave the code portion blank</span></span>
+7. <span data-ttu-id="19305-125">"Schließen" auswählen</span><span class="sxs-lookup"><span data-stu-id="19305-125">Select Close</span></span>
+8. <span data-ttu-id="19305-126">Nun sollte "altspacevr [Beta]" als Anwendungsname angezeigt werden.</span><span class="sxs-lookup"><span data-stu-id="19305-126">You should now see "AltspaceVR[beta]" as the application name</span></span>
+9. <span data-ttu-id="19305-127">"Play" auswählen, um den Beta-Build einzugeben</span><span class="sxs-lookup"><span data-stu-id="19305-127">Select Play to enter the beta build</span></span>
+
+<span data-ttu-id="19305-128">Oculus-Speicher:</span><span class="sxs-lookup"><span data-stu-id="19305-128">Oculus store:</span></span>
+
+1. <span data-ttu-id="19305-129">Anmelden bei Ihrem Oculus-Konto</span><span class="sxs-lookup"><span data-stu-id="19305-129">Log into your Oculus Account</span></span>
+2. <span data-ttu-id="19305-130">Nach altspacevr suchen</span><span class="sxs-lookup"><span data-stu-id="19305-130">Search for AltspaceVR</span></span>
+3. <span data-ttu-id="19305-131">Führen Sie einen Bildlauf nach unten durch den Abschnitt "Weitere Details" aus, um nach "Versions Anmerkungen" zu suchen.</span><span class="sxs-lookup"><span data-stu-id="19305-131">Scroll down through the "Additional details" section to find the "Version + Release Notes"</span></span>
+4. <span data-ttu-id="19305-132">Wählen Sie im Dropdown Menü "RC: x. x. x. xxxxx" aus.</span><span class="sxs-lookup"><span data-stu-id="19305-132">From the drop-down menu, select "RC: X.X.X.XXXXX"</span></span>
+5. <span data-ttu-id="19305-133">Starten Sie das Programm "altspacevr", um den betbuild einzugeben.</span><span class="sxs-lookup"><span data-stu-id="19305-133">Launch the AltspaceVR program to enter the beta build</span></span>
+
+## <a name="notes"></a><span data-ttu-id="19305-134">Hinweise</span><span class="sxs-lookup"><span data-stu-id="19305-134">Notes</span></span>
+
+<span data-ttu-id="19305-135">In der Dampf Bibliothek können Sie auf die Live Build-Version zurück wechseln, indem Sie die gleichen Schritte ausführen, aber stattdessen "None-opt off of all Beta Programme" für Schritt 5 auswählen.</span><span class="sxs-lookup"><span data-stu-id="19305-135">In the Steam Library, you can switch back to the Live Build version by following the same steps, but instead selecting "NONE - Opt out of all beta programs" for step # 5.</span></span> 
+
+<span data-ttu-id="19305-136">Im Oculus-/Quest-/go-Speicher können Sie zum livebuild zurück wechseln, indem Sie die gleichen Schritte ausführen, aber stattdessen "Live X. x. x. XXXXXXX" für Schritt 4 auswählen.</span><span class="sxs-lookup"><span data-stu-id="19305-136">In the Oculus Rift/Quest/Go store, you can switch back to the Live Build by following the same steps, but instead selecting “LIVE X.X.X.XXXXXXX” for step # 4.</span></span> 
+
+<span data-ttu-id="19305-137">Beachten Sie, dass die Beta-Abonnement Umgebung Geräte lokal über die-Dampf Bibliothek ist (gilt nur für das ausgewählte Gerät), das Abonnieren über den Oculus-Speicher-/Quest-/go-Speicher ist jedoch Global (gilt für alle Geräte derselben Kategorie, wie z. b. zwei Quests).</span><span class="sxs-lookup"><span data-stu-id="19305-137">Remember that Beta opt-in is device-local through the Steam Library (will apply only to selected device), however opt-in through the Oculus Rift/Quest/Go store is global (will apply across all devices of the same category, like two Quests for example.)</span></span> 
+
+<span data-ttu-id="19305-138">Es wird empfohlen, keine frühen BUILDS für die reguläre App-Verwendung zu verwenden.</span><span class="sxs-lookup"><span data-stu-id="19305-138">WE ADVISE THAT YOU DO NOT USE EARLY BUILDS FOR REGULAR APP USE.</span></span>  
+<span data-ttu-id="19305-139">Dies kann zu Kompatibilitätsproblemen führen, die sich auf Ihre altspacevr-Benutzeroberflächen und auch auf andere Personen auswirken können.</span><span class="sxs-lookup"><span data-stu-id="19305-139">This can cause compatibility issues that may impact your AltspaceVR experience and that of other individuals as well.</span></span> <span data-ttu-id="19305-140">Es empfiehlt sich, die Buildnummer regelmäßig zu bestätigen, um sicherzustellen, dass Beta-und livebuilds nicht verwechselt werden.</span><span class="sxs-lookup"><span data-stu-id="19305-140">It's good practice to confirm your build number regularly to ensure that you don't confuse Beta and Live builds.</span></span> 
+
+## <a name="filing-a-bugissue"></a><span data-ttu-id="19305-141">Einreichen eines Fehlers/Problems</span><span class="sxs-lookup"><span data-stu-id="19305-141">Filing a Bug/Issue</span></span>
+
+<span data-ttu-id="19305-142">Eines der Ziele des öffentlichen Beta Programms besteht darin, Fehler oder Probleme zu finden und zu protokollieren, die möglicherweise zwischen Releases auftreten, und mögliche Regressionen Zwischenversionen zu ermitteln.</span><span class="sxs-lookup"><span data-stu-id="19305-142">One of the goals of the Public Beta Build Program is to find and log any bugs or issues that may arise between releases, and identify any potential regressions between versions.</span></span>  
+
+<span data-ttu-id="19305-143">**Senden Sie alle Fehler und Probleme, die Sie in einem frühen Build finden, unter [altvr.com/betabuild](https://help.altvr.com/hc/requests/new?ticket_form_id=360004678833)**</span><span class="sxs-lookup"><span data-stu-id="19305-143">**Submit all bugs and issues found in any early build to us at [altvr.com/betabuild](https://help.altvr.com/hc/requests/new?ticket_form_id=360004678833)**</span></span>
+
+<span data-ttu-id="19305-144">Beachten Sie außerdem, dass Protokolle immer dann gesendet werden, wenn Sie über einen möglichen Fehler, eine Regression oder ein Problem verfügen.</span><span class="sxs-lookup"><span data-stu-id="19305-144">Additionally, remember to send logs anytime you come across a possible bug, regression, or issue.</span></span> <span data-ttu-id="19305-145">Wechseln Sie zum Übermitteln von Protokollen zur Registerkarte "Einstellungen" im Hauptmenü, wählen Sie Unterstützung und Protokolle senden aus.</span><span class="sxs-lookup"><span data-stu-id="19305-145">To submit logs go to the SETTINGS tab in your Main Menu, select SUPPORT, select SUBMIT LOGS.</span></span> <span data-ttu-id="19305-146">Wenn Sie einen Absturz erlebt haben, führen Sie die folgenden Schritte aus, und wählen Sie als letzten Schritt die Option Letzte Protokolle übermitteln aus.</span><span class="sxs-lookup"><span data-stu-id="19305-146">If you've experienced a crash, follow these steps but select SUBMIT LAST LOGS as your final step.</span></span> 
+
+<span data-ttu-id="19305-147">Im Allgemeinen sind Protokolle sehr nützlich, um uns dabei zu unterstützen, mögliche Probleme zu reproduzieren und zu überprüfen.</span><span class="sxs-lookup"><span data-stu-id="19305-147">In general, logs are extremely useful in helping us reproduce and verify any potential issues.</span></span> 
+
+## <a name="getting-beta-builds"></a><span data-ttu-id="19305-148">Erhalten von Beta-Builds</span><span class="sxs-lookup"><span data-stu-id="19305-148">Getting Beta Builds</span></span>
+
+<span data-ttu-id="19305-149">Ähnlich wie reguläre Builds sind Beta-Builds für Sie über den App Store oder die Bibliothek ihrer Vorlieben verfügbar.</span><span class="sxs-lookup"><span data-stu-id="19305-149">Much like regular builds, beta builds will become available to you through the app store or library of your preference.</span></span> <span data-ttu-id="19305-150">Beta-Builds werden automatisch installiert, wenn Sie sich aktiv durch den Store oder die Bibliothek angemeldet haben.</span><span class="sxs-lookup"><span data-stu-id="19305-150">Beta builds will auto-install if you're actively opted in through the store/library.</span></span> 
+
+## <a name="additional-information"></a><span data-ttu-id="19305-151">Zusätzliche Informationen</span><span class="sxs-lookup"><span data-stu-id="19305-151">Additional Information</span></span>
+
+* <span data-ttu-id="19305-152">Das Build-Programm der öffentlichen Beta Version ist eine vollständig optionale Initiative.</span><span class="sxs-lookup"><span data-stu-id="19305-152">The Public Beta Build Program is an entirely optional initiative.</span></span> <span data-ttu-id="19305-153">Das Testen von frühen Builds ist keine Voraussetzung für die Verwendung von altspacevr.</span><span class="sxs-lookup"><span data-stu-id="19305-153">Testing early builds isn't a requirement to using AltspaceVR.</span></span> 
+* <span data-ttu-id="19305-154">Sie können sich entscheiden, sich jederzeit über ihren jeweiligen App Store bzw. Ihre APP-Bibliothek (Oculus oder Steam) zu entscheiden.</span><span class="sxs-lookup"><span data-stu-id="19305-154">You may choose to opt out at any time through your respective app store/library (Oculus or Steam).</span></span>  
+* <span data-ttu-id="19305-155">Altspacevr behält sich das Recht vor, zu entscheiden, welche bevorstehenden Builds für das Public Beta-Buildprogramm qualifiziert sind.</span><span class="sxs-lookup"><span data-stu-id="19305-155">AltspaceVR reserves the right to decide which forthcoming builds are eligible for the Public Beta Build Program.</span></span> <span data-ttu-id="19305-156">Nicht jeder Build ist Teil des öffentlichen Beta-Build-Programms.</span><span class="sxs-lookup"><span data-stu-id="19305-156">Not every build will be part of the Public Beta Build Program.</span></span> 
+* <span data-ttu-id="19305-157">Die Prioritäts Reihenfolge und Lösungszeit Achsen für die Tickets, die Sie über das öffentliche Beta Programm für die Beta Version übermittelt haben, sind der alleinige Ermessen des altspacevr-Entwicklungsteams.</span><span class="sxs-lookup"><span data-stu-id="19305-157">The prioritization order and solution-timelines for the tickets submitted to us through the Public Beta Build Program are at the sole discretion of the AltspaceVR development team.</span></span> 
