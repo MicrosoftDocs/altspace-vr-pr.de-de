@@ -1,0 +1,115 @@
+### YamlMime:Hub
+title: Willkommen bei AltspaceVR!
+summary: Erkunden Sie die wachsende Welt der VR-Veranstaltungen mit AltspaceVR.
+brand: windows
+metadata:
+  title: Willkommen bei AltspaceVR!
+  description: Erkunden Sie die wachsende Welt der VR-Veranstaltungen mit AltspaceVR.
+  services: mixed-reality
+  ms.service: mixed-reality
+  ms.topic: hub-page
+  author: hferrone
+  ms.author: v-hferrone
+  ms.date: 02/10/2021
+highlightedContent:
+  items:
+    - title: Erste Schritte
+      itemType: get-started
+      url: getting-started/system-requirements.md
+    - title: Inhalte und Personen finden
+      itemType: overview
+      url: getting-started/system-requirements.md
+    - title: Veranstaltungen erstellen
+      itemType: how-to-guide
+      url: tutorials/creating-an-event.md
+    - title: Welten schaffen
+      itemType: learn
+      url: world-building/world-editor-getting-started.md
+    - title: Früher Zugang
+      itemType: whats-new
+      url: world-building/early-access.md
+    - title: Problembehandlung
+      itemType: reference
+      url: faqs/vr-headset-mic.md
+productDirectory:
+  title: Erste Schritte
+  summary: 'Verwenden Sie AltspaceVR, um Veranstaltungen zu hosten, virtuelle Umgebungen zu schaffen und mit Remotebenutzern und Communitys auf der ganzen Welt zu interagieren.'
+  items:
+    - title: Setup und Installation
+      imageSrc: images/icon-discovery.png
+      links:
+        - url: getting-started/registration.md
+          text: Registrieren eines Kontos
+        - url: getting-started/linking-microsoft-account.md
+          text: Verknüpfen von Microsoft-Konten
+        - url: getting-started/wmr-installation.md
+          text: Windows Mixed Reality-Installation
+        - url: getting-started/wmr-controls.md
+          text: Windows Mixed Reality-Steuerelemente
+        - url: getting-started/oculus-installation.md
+          text: Oculus Quest-Installation
+        - url: getting-started/oculus-controls.md
+          text: Oculus Quest-Installation
+    - title: Erstellen und Hosten von Veranstaltungen
+      imageSrc: images/icon-events.png
+      links:
+        - url: tutorials/creating-an-event.md
+          text: Erstellen einer Veranstaltung
+        - url: getting-started/roles.md
+          text: 'Rollen in Veranstaltungen, Welten und Gruppen'
+        - url: tutorials/main-events.md
+          text: Voraussetzungen für Veranstaltungen
+        - url: faqs/scaling-audiences.md
+          text: Skalieren von Zielgruppen
+        - url: tutorials/multimedia-console.md
+          text: Verwenden der Multimediakonsole
+        - url: tutorials/host-tools-overview.md
+          text: Übersicht über Host-Tools
+    - title: Erstellen von Welten
+      imageSrc: images/icon-worlds.png
+      links:
+        - url: world-building/world-editor-getting-started.md
+          text: Erkunden des Welt-Editors
+        - url: world-building/managing-worlds.md
+          text: Verwalten von Welten
+        - url: world-building/adding-custom-spawn-points.md
+          text: Hinzufügen von Erzeugungspunkten
+        - url: world-building/adding-user-abilities.md
+          text: Übertragen von Fertigkeiten an Benutzer
+        - url: world-building/world-building-toolkit-getting-started.md
+          text: Welterstellungs-Toolkit
+        - url: world-building/using-mixed-reality-extensions.md
+          text: Verwenden von Mixed Reality-Erweiterungen
+additionalContent:
+  sections:
+    - title: Zusätzliche Ressourcen
+      summary: Benötigen Sie Hilfe oder Support?
+      items:
+        - title: Community
+          links:
+            - text: Unseren Newsletter abonnieren
+              url: community/newsletter-subscriptions.md
+            - text: Community-Hilfsprogramm
+              url: community/community-helper-program.md
+            - text: Community-Hilfsleitfaden
+              url: community/community-helper-guide.md
+        - title: Problembehandlung und Support
+          links:
+            - text: Audioprobleme
+              url: faqs/vr-headset-mic.md
+            - text: Konten und Avatare
+              url: faqs/nametags.md
+            - text: AltspaceVR-Anwendung
+              url: faqs/app-version.md
+            - text: Integrität und Sicherheit
+              url: faqs/motion-sickness.md
+            - text: Ereignisse
+              url: faqs/front-row-events.md
+        - title: Kontakt
+          links:
+            - text: Öffnen eines Supporttickets
+              url: community/open-support-ticket.md
+            - text: Funktionsanfragen
+              url: community/feature-requests.md
+            - text: Einreichen von Missbrauchsberichten
+              url: community/filing-abuse-reports.md
