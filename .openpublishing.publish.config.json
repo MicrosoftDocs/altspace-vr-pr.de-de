@@ -32,7 +32,7 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft.de-de",
-      "branch": "main",
+      "branch": "master",
       "branch_mapping": {}
     },
     {
