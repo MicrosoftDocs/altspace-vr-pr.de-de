@@ -1,114 +1,125 @@
 ---
 title: Erstellen und Verknüpfen Ihres AltspaceVR-Kontos
-description: Hier finden Sie Schritt-für-Schritt-Anweisungen zum Erstellen eines neuen AltspaceVR-Kontos und zum Verknüpfen eines vorhandenen AltspaceVR-Kontos mit einem Microsoft-Konto.
-ms.date: 05/18/2021
+description: Hier finden Sie schrittweise Anweisungen zum Erstellen eines neuen AltspaceVR-Kontos und zum Verknüpfen eines vorhandenen AltspaceVR-Kontos mit einem Microsoft-Konto.
+ms.date: 06/25/2021
 ms.topic: article
-keywords: Registrierung, Konto, Kontoerstellung, Kontoverknüpfung, Microsoft-Konten, häufig gestellte Fragen, Problembehandlung, 2D-Modus, VR-Modus
-ms.openlocfilehash: f6009a868810f566590d076b3aa5606c885697b7
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+keywords: Registrierung, Konto, Kontoerstellung, Kontoverknüpfung, Microsoft-Konten, faqs, Problembehandlung, 2D-Modus, VR-Modus, Benutzername, Anzeige, Name
+ms.openlocfilehash: ea54c18ad8316911626159045ac7cca24b6643a0
+ms.sourcegitcommit: becdc9d9de1ce09a74aaf57af1b9de44c8346dc2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961243"
+ms.lasthandoff: 06/26/2021
+ms.locfileid: "112975841"
 ---
 # <a name="creating-and-linking-your-altspacevr-account"></a>Erstellen und Verknüpfen Ihres AltspaceVR-Kontos
+
+## <a name="disclaimer-regarding-account-linking"></a>Haftungsausschluss in Bezug auf Kontoverknüpfung
+
+Nachfolgend sind die verschiedenen Möglichkeiten aufgeführt, mit denen Sie Ihr AltspaceVR-Konto erstellen und verknüpfen können.
+
+Beachten Sie beim Erstellen oder Aktualisieren Ihres Kontos, dass es noch Features gibt, die ein AltspaceVR-Kennwort erfordern.
+
+Wenn Sie ein Konto mit MSA erstellt haben und kein AltspaceVR-Kennwort besitzen, melden Sie sich bei https://www.altvr.com/ an, wechseln Sie zu Ihrem Profil, und klicken Sie dann auf "Abmelden und ein neues Kennwort abrufen".
+
 
 ## <a name="how-to-create-an-account-in-vr"></a>Erstellen eines Kontos in VR
 
 Erstellen Ihres Kontos mit einer Microsoft-Anmeldung:
 
-1. Laden Sie zunächst den Live-Build von AltspaceVR aus Ihrem VR-App-Store oder ihrer Bibliothek herunter. <br>*Wenn Sie bereits über die Anwendung verfügen, stellen Sie sicher, dass die neuesten Updates installiert sind.*
+1. Laden Sie zunächst den Livebuild von AltspaceVR aus Ihrem VR-App-Store oder Ihrer VR-Bibliothek herunter. <br>*Wenn Sie bereits über die Anwendung verfügen, stellen Sie sicher, dass die neuesten Updates installiert sind.*
 2. Starten Sie die Anwendung, und navigieren Sie auf der linken Seite zur Schaltfläche "Anmelden".
 3. Wählen Sie die Schaltfläche "Anmelden" und dann die Schaltfläche "Bei Microsoft anmelden" aus.
-4. Es wird ein separater Bildschirm angezeigt, in dem Sie aufgefordert werden, Ihr Gerät über einen eindeutigen Code zu aktivieren, den Sie kopieren müssen.
+4. Es wird ein separater Bildschirm angezeigt, auf dem Sie aufgefordert werden, Ihr Gerät über einen eindeutigen Code zu aktivieren, den Sie kopieren müssen.
 6. Wechseln Sie zum Browserbildschirm Ihres Computers, und wechseln Sie zu . https://www.microsoft.com/devicelogin
-7. Geben Sie Ihren eindeutigen Code ein, und wählen Sie WEITER aus. *Beim Code wird die Schreibung nicht beachtet.*
+7. Geben Sie Ihren eindeutigen Code ein, und wählen Sie WEITER aus. *Beim Code wird die Groß-/Kleinschreibung nicht beachtet.*
 8. Befolgen Sie die Anweisungen auf dem Bildschirm, um Ihr Gerät zu aktivieren.
-9. Nachdem Sie die Kontoverknüpfung abgeschlossen haben, werden Sie in einer Eingabeaufforderung aufgefordert, Ihren Anzeigenamen und Benutzernamen einfüllen.
+9. Nachdem Sie die Kontoverknüpfung abgeschlossen haben, werden Sie in einer Eingabeaufforderung aufgefordert, Ihren Anzeigenamen und Benutzernamen auszufüllen.
 10. Wählen Sie "Registrieren" aus.
 
 ## <a name="how-to-create-an-account-in-2d-mode"></a>Erstellen eines Kontos im 2D-Modus
 
 Erstellen Ihres Kontos mit einer Microsoft-Anmeldung:
 
-1. Laden Sie [zunächst den Live-Build von AltspaceVR](https://altvr.com/getaltspacevr) aus Ihrem bevorzugten App Store oder Ihrer bevorzugten Bibliothek herunter. <br>*Wenn Sie bereits über die Anwendung verfügen, stellen Sie sicher, dass die neuesten Updates installiert sind.*
+1. Laden Sie zunächst [den Livebuild von AltspaceVR](https://altvr.com/getaltspacevr) aus Ihrem bevorzugten App Store oder Ihrer bevorzugten Bibliothek herunter. <br>*Wenn Sie bereits über die Anwendung verfügen, stellen Sie sicher, dass die neuesten Updates installiert sind.*
 2. Starten Sie die Anwendung.
 3. Wählen Sie die Schaltfläche "Anmelden" und dann die Schaltfläche "Bei Microsoft anmelden" aus.
-3. Ein separates Fenster wird geöffnet, in dem Sie aufgefordert werden, das Microsoft-Konto auszuwählen, das Sie verwenden möchten. Wählen Sie ein persönliches Microsoft-Konto aus, nicht eines, das einem Arbeits- oder Schulkonto zugeordnet ist.
-4. Nachdem Sie die Kontoverknüpfung abgeschlossen haben, werden Sie in einer Eingabeaufforderung aufgefordert, Ihren Anzeigenamen und Benutzernamen einfüllen.
+3. Ein separates Fenster wird geöffnet, in dem Sie aufgefordert werden, das microsoft-Konto auszuwählen, das Sie verwenden möchten. Wählen Sie ein persönliches Microsoft-Konto aus, nicht eines, das einem Arbeits- oder Schulkonto zugeordnet ist.
+4. Nachdem Sie die Kontoverknüpfung abgeschlossen haben, werden Sie in einer Eingabeaufforderung aufgefordert, Ihren Anzeigenamen und Benutzernamen auszufüllen.
 5. Wählen Sie "Registrieren" aus.
 
 ## <a name="linking-your-microsoft-account"></a>Verknüpfen Ihres Microsoft-Kontos
 
-Sie können Ihr bereits vorhandenes AltspaceVR-Konto innerhalb der AltspaceVR-Anwendung verknüpfen.
+Sie können Ihr bereits vorhandenes AltspaceVR-Konto in der AltspaceVR-Anwendung verknüpfen.
 
 Verknüpfen mit dem 2D-Modus auf dem PC:
 
 1. Stellen Sie sicher, dass die neuesten Updates installiert sind, und starten Sie AltspaceVR.
-2. Starten Sie AltspaceVR, und stellen Sie sicher, dass Sie mit Ihrem klassischen AltspaceVR-Konto angemeldet sind. Wenn Sie aufgefordert werden, sich beim Start von AltspaceVR anmelden, klicken Sie auf die Schaltfläche "Anmelden" und dann auf den Link "Oder melden Sie sich mit einem AltspaceVR-Konto an".
-2. Wählen Sie auf dem Titelbildschirm auf der rechten Seite die Registerkarte "Konto" aus. Wenn Ihr Konto nicht verknüpft ist, sollte der Kontostatus "Klassisches Altspace-Konto" lautet.
-3. Wählen Sie "Microsoft-Konto verknüpfen" aus. Vergewissern Sie sich, dass Ihr richtiger Benutzername angezeigt wird, und klicken Sie dann auf die Schaltfläche "Link".
+2. Starten Sie AltspaceVR, und stellen Sie sicher, dass Sie mit Ihrem klassischen AltspaceVR-Konto angemeldet sind. Wenn Sie aufgefordert werden, sich anzumelden, wenn AltspaceVR gestartet wird, wählen Sie die Schaltfläche "Anmelden" und dann den Link "Oder melden Sie sich mit einem AltspaceVR-Konto an".
+2. Wählen Sie auf dem Titelbildschirm auf der rechten Seite die Registerkarte "Konto" aus. Wenn Ihr Konto nicht verknüpft ist, sollte der Kontostatus "Klassisches Altspace-Konto" lauten.
+3. Wählen Sie "Microsoft-Konto verknüpfen" aus. Überprüfen Sie, ob Ihr korrekter Benutzername angezeigt wird, und wählen Sie dann die Schaltfläche "Link" aus.
 4. Ein separates Fenster wird geöffnet, in dem Sie aufgefordert werden, das Microsoft-Konto auszuwählen, das Sie verknüpfen möchten. Wählen Sie ein persönliches Microsoft-Konto aus, nicht eines, das einem Arbeits- oder Schulkonto zugeordnet ist.
-5. Befolgen Sie die Anweisungen zum Verknüpfen. Nachdem Sie die Kontoverknüpfung abgeschlossen haben, sehen Sie, dass Ihre Kontoanmeldeinformationen im Abschnitt "Konto" des Menüs aktualisiert wurden. Der Status sollte "Microsoft Home Account (MSA)" (Microsoft-Startseitenkonto (MSA)) sein.
+5. Befolgen Sie die Verknüpfungsanweisungen. Nachdem Sie den Kontoverknüpfungsprozess abgeschlossen haben, sehen Sie, dass Ihre Kontoanmeldeinformationen im Abschnitt "Konto" des Menüs aktualisiert wurden. Der Status sollte "Microsoft Home Account (MSA)" lauten.
 
 Verknüpfen mit dem VR-Modus auf Ihrem Headset:
 
 1. Stellen Sie sicher, dass die neuesten Updates installiert sind, und starten Sie AltspaceVR.
-2. Starten Sie AltspaceVR, und stellen Sie sicher, dass Sie mit Ihrem klassischen AltspaceVR-Konto angemeldet sind. Wenn Sie aufgefordert werden, sich beim Start von AltspaceVR anmelden, klicken Sie auf die Schaltfläche "Anmelden" und dann auf den Link "Oder melden Sie sich mit einem AltspaceVR-Konto an".
-2. Wählen Sie auf dem Titelbildschirm auf der rechten Seite die Registerkarte "Konto" aus. Wenn Ihr Konto nicht verknüpft ist, sollte der Kontostatus "Klassisches Altspace-Konto" lautet.
-4. Wählen Sie "Microsoft-Konto verknüpfen" aus. Vergewissern Sie sich, dass Ihr richtiger Benutzername angezeigt wird, und klicken Sie dann auf die Schaltfläche "Link".
-4. Es wird ein separater Bildschirm angezeigt, in dem Sie aufgefordert werden, Ihr Gerät über einen eindeutigen Code zu aktivieren, den Sie kopieren müssen.
+2. Starten Sie AltspaceVR, und stellen Sie sicher, dass Sie mit Ihrem klassischen AltspaceVR-Konto angemeldet sind. Wenn Sie aufgefordert werden, sich anzumelden, wenn AltspaceVR gestartet wird, wählen Sie die Schaltfläche "Anmelden" und dann den Link "Oder melden Sie sich mit einem AltspaceVR-Konto an".
+2. Wählen Sie auf dem Titelbildschirm auf der rechten Seite die Registerkarte "Konto" aus. Wenn Ihr Konto nicht verknüpft ist, sollte der Kontostatus "Klassisches Altspace-Konto" lauten.
+4. Wählen Sie "Microsoft-Konto verknüpfen" aus. Überprüfen Sie, ob Ihr korrekter Benutzername angezeigt wird, und wählen Sie dann die Schaltfläche "Link" aus.
+4. Es wird ein separater Bildschirm angezeigt, auf dem Sie aufgefordert werden, Ihr Gerät über einen eindeutigen Code zu aktivieren, den Sie kopieren müssen.
 5. Wechseln Sie zum Browserbildschirm Ihres Computers, und wechseln Sie zu . https://www.microsoft.com/devicelogin
-6. Geben Sie Ihren eindeutigen Code ein, und wählen Sie WEITER aus. *Hinweis: Beim Code wird die Schreibung nicht beachtet.*
+6. Geben Sie Ihren eindeutigen Code ein, und wählen Sie WEITER aus. *Hinweis: Beim Code wird die Groß-/Kleinschreibung nicht beachtet.*
 7. Befolgen Sie die Anweisungen auf dem Bildschirm, um Ihr Gerät zu aktivieren.
-8. Navigieren Sie zurück zu AltspaceVR. Sie sollten sehen, dass Ihre Kontoanmeldeinformationen im Abschnitt "Konto" des Menüs aktualisiert wurden. Der Status sollte "Microsoft Home Account (MSA)" (Microsoft Home Account (MSA)) lautet.
+8. Navigieren Sie zurück zu AltspaceVR. Sie sollten sehen, dass Ihre Kontoanmeldeinformationen im Abschnitt "Konto" des Menüs aktualisiert wurden. Der Status sollte "Microsoft Home Account (MSA)" lauten.
 
 Tipps zur Problembehandlung:
 
-* Wenn während der Kontoverknüpfung Probleme auftraumen, versuchen Sie, AltspaceVR zu beenden und zu schließen, bevor Sie erneut versuchen, Eine Verbindung mit Ihren Konten herzustellen.
-* Wenn Sie sich im VR-Modus befinden und Probleme haben, versuchen Sie, ihr Headset zu entpuggen und in den 2D-PC-Modus zu wechseln (oder umgekehrt).
-* Wenn Sie feststellen, dass Sie die Verbindung mit Ihrem Microsoft-Konto nicht wiederherstellen können, können Sie weiterhin mit Ihrem Benutzernamen und Kennwort zu AltspaceVR zurückkommen. Wählen Sie einfach die Schaltfläche "Mit AltspaceVR anmelden" aus.
+* Wenn während der Kontoverknüpfung Probleme auftreten, versuchen Sie, AltspaceVR zu beenden und zu schließen, bevor Sie erneut versuchen, Ihre Konten zu verbinden.
+* Wenn Sie sich im VR-Modus befinden und Probleme auftreten, versuchen Sie, das Headset zu trennen und in den 2D-PC-Modus zu wechseln (oder umgekehrt).
+* Wenn Sie keine neue Verbindung mit Ihrem Microsoft-Konto herstellen können, können Sie weiterhin mit Ihrem Benutzernamen und Kennwort zu AltspaceVR zurückkehren. Wählen Sie einfach die Schaltfläche "Mit AltspaceVR anmelden" aus.
 * Wenn Sie VR verwenden und aufgefordert werden, ein Dialogfeld zu öffnen, versuchen Sie dies auf einem PC, der bereits die Microsoft-Anmeldeinformationen verwendet, die Sie mit AltspaceVR verwenden möchten.
-* Übermitteln Sie Ihre Protokolle, wenn Probleme auft sind, indem Sie zum HAUPTMENÜ > EINSTELLUNGEN > SUPPORT > **Hochladen von Protokollen.**
+* Übermitteln Sie Ihre Protokolle, wenn Probleme auftreten, indem Sie im **Hauptmenü > EINSTELLUNGEN > SUPPORT > Protokolle hochladen aufrufen.**
 
 ## <a name="account-registration-faq"></a>Häufig gestellte Fragen zur Kontoregistrierung
 
-**Welchen Namen werden andere Benutzer sehen?**
+**Welcher Name wird anderen Benutzern angezeigt?**
 
-Ihr "Anzeigename" wird anderen Benutzern über Ihrem Avatar angezeigt. Ihr "Benutzername" wird auf der Registerkarte "Freunde" des Menüs für Personen angezeigt, die Sie als Freund hinzugefügt haben. Sowohl Ihr Anzeigename als auch Ihr Benutzername werden im Nametag Ihres Avatars angezeigt.
+Ihr "Anzeigename" wird anderen Benutzern über Ihrem Avatar angezeigt. Ihr "Benutzername" wird auf der Registerkarte "Freunde" des Menüs für Personen angezeigt, die Sie als Freund hinzugefügt haben. Sowohl Der Anzeigename als auch der Benutzername werden auf dem NameTag Ihres Avatars angezeigt.
 
 **Muss mein Anzeigename eindeutig sein?**
  
-Nein, Ihr Benutzername kann denselben Anzeigenamen wie andere verwenden. Wenn Ihr Anzeigename als "Dave" oder "Maria" geschrieben werden soll, können Sie dies tun! Ihr Anzeigename kann auch Leerzeichen enthalten, in denen ein Benutzername in der Regel nicht ist.
+Nein, Ihr Benutzername kann denselben Anzeigenamen wie andere Benutzer gemeinsam nutzen. Wenn Sie möchten, dass Ihr Anzeigename als "Dave" oder "Maria" geschrieben wird, ist dies möglich. Ihr Anzeigename kann auch Leerzeichen enthalten, in denen ein Benutzername in der Regel nicht zulässig ist.
 
-**Ich kann mich mein Kennwort nicht merken. Wie kann ich es zurücksetzen?**
+**Ich kann mein Kennwort nicht merken, wie kann ich es zurücksetzen?**
 
-- Wenn Sie ein Kennwort Microsoft-Konto, können Sie den Microsoft-Ablauf für die Kennwortzurücksetzung befolgen, nachdem Sie den Anmeldevorgang mit der Schaltfläche "Bei Microsoft anmelden" gestartet haben. 
-- Wenn Sie ein klassisches AltspaceVR-Konto verwenden, können Sie den Link "Kennwort vergessen" verwenden, um Ihr Kennwort zurückzusetzen, oder Sie können Ihr Kennwort hier [zurücksetzen.](https://account.altvr.com/users/password/new)
+- Wenn Sie eine Microsoft-Konto verwenden, können Sie den Microsoft-Kennwortzurücksetzungsflow befolgen, nachdem Sie den Anmeldevorgang mit der Schaltfläche "Bei Microsoft anmelden" gestartet haben. 
+- Wenn Sie ein klassisches AltspaceVR-Konto verwenden, können Sie den Link "Kennwort vergessen" verwenden, um Ihr Kennwort zurückzusetzen, oder Sie können Ihr Kennwort [hier](https://account.altvr.com/users/password/new)zurücksetzen.
 
 **Wie kann ich meinen Benutzernamen oder Anzeigenamen ändern?**
 
-Wenn Sie den Benutzernamen ändern möchten, der Ihrem Konto zugeordnet ist, [senden Sie uns ein Ticket](https://help.altvr.com/hc/requests/new). Stellen Sie sicher, dass Sie die E-Mail-Adresse, die Ihrem Konto zugeordnet ist, Ihren aktuellen Namen und den Benutzernamen angeben, den Sie in Zukunft verwenden möchten.
+Um Ihren **Benutzernamen oder Anzeigenamen** zu ändern, melden Sie sich bei altvr.com an, wählen Sie rechts oben Ihr Profilsymbol aus, Benutzerprofil, Bearbeiten, und aktualisieren Sie Ihren Benutzernamen oder Anzeigenamen. 
 
-Um Ihren **Anzeigenamen zu ändern,** melden Sie sich bei altvr.com an, wählen Sie oben rechts Ihr Profilsymbol aus, Benutzerprofil, Bearbeiten und Aktualisieren des Anzeigenamens.
+*Hinweis: Sie können Ihren Benutzernamen nur einmal ändern. Danach müssen Sie ein Supportticket übermitteln.*
+
+Wenn Sie den Ihrem Konto zugeordneten Benutzernamen ändern möchten, [senden Sie uns ein Ticket.](https://help.altvr.com/hc/requests/new) Stellen Sie sicher, dass Sie die E-Mail-Adresse, die Ihrem Konto zugeordnet ist, Ihren aktuellen Namen und den Benutzernamen einschließen, den Sie in Zukunft verwenden möchten.
 
 **Mein Menü ist leer, und ich kann mich nicht registrieren. Was kann ich tun?**
 
-Wenn ihr Menü "Sie" nicht angezeigt wird, sollte ein Neustart des AltspaceVR-Clients das Problem beheben, damit Sie sich anmelden können. Stellen Sie sicher, dass sowohl Ihr VR-Headset als auch Ihr 2D-Monitor an dieselbe GPU angeschlossen sind. Wenden Sie sich [an unseren Helpdesk,](https://help.altvr.com/hc/requests/new) wenn das Problem weiterhin besteht.
+Wenn Das Menü "Sie" nicht angezeigt wird, sollte das Problem durch einen Neustart des AltspaceVR-Clients behoben werden, damit Sie sich anmelden können. Stellen Sie sicher, dass sowohl Ihr VR-Headset als auch Ihr 2D-Monitor an dieselbe GPU angeschlossen sind. Wenden Sie sich an unseren [Helpdesk,](https://help.altvr.com/hc/requests/new) wenn das Problem weiterhin besteht.
 
-## <a name="microsoft-account-integration-faq"></a>Häufig gestellte Fragen zur Microsoft-Kontointegration
+## <a name="microsoft-account-integration-faq"></a>Häufig gestellte Fragen zur Integration von Microsoft-Konten
 
-**Ändert sich dadurch mein AltspaceVR-Benutzername oder wie meine Details in meinem Namenstag angezeigt werden?**
+**Ändert sich dadurch mein AltspaceVR-Benutzername, oder wie meine Details in meinem Namenstag angezeigt werden?**
 
-Wenn Sie Ihr AltspaceVR-Konto mit Ihrem Microsoft-Konto verknüpfen, ändert sich ihr öffentlich angezeigter Benutzername oder Vorname nicht. Es werden nur die Anmeldeinformationen Ihres Kontos geändert (die für Sie privat sind). Sie haben weiterhin die vollständige Kontrolle darüber, wie Ihr Name, Ihr Benutzername und Ihr Profilbild anderen Personen in AltspaceVR angezeigt werden.
+Wenn Sie Ihr AltspaceVR-Konto mit Ihrem Microsoft-Konto verknüpfen, wird ihr öffentlich angezeigter Benutzername oder Vorname nicht geändert. Es werden nur Ihre Anmeldeinformationen für Ihr Konto geändert (die für Sie privat sind). Sie haben weiterhin die vollständige Kontrolle darüber, wie Ihr Name, Ihr Benutzername und Ihr Profilbild anderen Personen in AltspaceVR angezeigt werden.
 
-**Kann ich trotzdem kontenwechseln? Diese Option befindet sich nicht mehr unter Einstellungen.**
+**Kann ich weiterhin kontenwechseln? Diese Option befindet sich nicht mehr unter Einstellungen.**
 
-Ja, wir haben ein wenig neu korriert. Sie können Ihr Konto jetzt verwalten, & Konten unter **Hauptmenü > Konto > wechseln.**
+Ja, wir haben ein wenig neu korrigiert. Sie können Ihr Konto jetzt verwalten, & Konten im **Hauptmenü > Me > Account** wechseln.
 
 **Habe ich bereits ein Microsoft-Konto?**
 
-Es ist möglich, dass Sie bereits über ein Microsoft-Konto verfügen. Spielen Sie Minecraft, Spielen auf einer Xbox, abonnieren Office 365 oder verwenden Sie regelmäßig andere Microsoft-Produkte oder -Dienste? Falls ja, verfügen Sie wahrscheinlich bereits über eine Microsoft-Anmeldung! Sie können hier überprüfen, ob Ihre E-Mail bereits an ein vorhandenes MSA gebunden [ist.](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2)
+Es ist möglich, dass Sie bereits über ein Microsoft-Konto verfügen. Spielen Sie Einspiel auf einer Xbox, abonnieren Sie Office 365, oder verwenden Sie andere Microsoft-Produkte oder -Dienste in regelmäßigen Abständen? Falls ja, verfügen Sie wahrscheinlich bereits über eine Microsoft-Anmeldung! Sie können hier überprüfen, ob Ihre E-Mail bereits an ein vorhandenes MSA gebunden [ist.](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2)
 
 **Bedeutet dies, dass ich eine neue E-Mail-Adresse mit Outlook erstellen muss?**
 
