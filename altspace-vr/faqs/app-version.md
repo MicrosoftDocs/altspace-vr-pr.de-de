@@ -1,56 +1,56 @@
 ---
-title: Ermitteln der Version der altspacevr-App
-description: Erfahren Sie, wie Sie die altspacevr-APP, Einstellungen und Client Protokolle verwenden, um die Version von altspacevr zu ermitteln, die Sie gerade ausführen.
+title: Suchen der AltspaceVR-App-Version
+description: Erfahren Sie, wie Sie die AltspaceVR-App, Einstellungen und Clientprotokolle verwenden, um die aktuell ausgeführte Version von AltspaceVR zu finden.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: App-Version
-ms.openlocfilehash: 5d503d3b89cd213696dd53616c5c7e3013aeef01
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 6b710e1724b890fa7ba0eecfcd774ef63128d5b7
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213182"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923177"
 ---
-# <a name="finding-the-altspacevr-app-version"></a>Ermitteln der Version der altspacevr-App
+# <a name="finding-the-altspacevr-app-version"></a>Suchen der AltspaceVR-App-Version
 
-Im Verlauf der Behebung eines Problems werden Sie möglicherweise gefragt, welche Version der altspacevr-App derzeit ausgeführt wird.
+Im Zuge der Problembehandlung werden Sie möglicherweise gefragt, welche Version der AltspaceVR-App Sie gerade ausführen.
 
-## <a name="in-altspacevr"></a>In altspacevr
+## <a name="in-altspacevr"></a>In AltspaceVR
 
-Navigieren Sie zum Suchen der App-Version in altspacevr zum **Menü "Einstellungen** ", **und wählen Sie** in der linken Navigationsleiste Info aus. Die "App-Version" wird hier angezeigt, wie im folgenden Screenshot gezeigt.
+Um die App-Version in AltspaceVR zu finden, navigieren Sie zum Einstellungsmenü, **und** wählen Sie **in** der linken Navigationsleiste About aus. Die "App-Version" wird hier gemeldet, wie im folgenden Screenshot gezeigt.
 
-![Menü "Einstellungen" mit Infobereich geöffnet](images/app-version-img-01.png)
+![Menü "Einstellungen" mit geöffneten "About"-Panel geöffnet](images/app-version-img-01.png)
 
-## <a name="in-windows-system-settings"></a>In den Windows-System Einstellungen
+## <a name="in-windows-system-settings"></a>In den Windows-Systemeinstellungen
 
-Wenn Sie altspacevr über das Microsoft Store installiert haben, können Sie die App-Version zusätzlich in den Windows-Systemeinstellungen finden.  Dieses Szenario eignet sich gut zum Melden der App-Version, wenn Sie sich nicht erfolgreich beim Client anmelden können.
+Wenn Sie AltspaceVR über die Microsoft Store installiert haben, finden Sie zusätzlich die App-Version in den Windows-Systemeinstellungen.  Dieses Szenario ist gut geeignet, wenn Sie die App-Version melden, wenn Sie sich nicht erfolgreich beim Client anmelden können.
 
-Um die App-Version in den Windows-Systemeinstellungen zu finden, öffnen Sie das **Startmenü**, geben Sie **apps & Features** ein, und wählen Sie das Ergebnis aus. Navigieren Sie in der Liste der apps zu **altspacevr** . Klicken Sie mit der linken Maustaste auf altspacevr, und wählen Sie im angezeigten Menü **Erweiterte Optionen** aus.
+Um die App-Version in den Windows-Systemeinstellungen zu finden, öffnen Sie das **Startmenü,** geben Sie Apps & **Features** ein, und wählen Sie das Ergebnis aus. Navigieren Sie in der Liste der Apps zu **AltspaceVR.** Klicken Sie mit der linken Maustaste auf AltspaceVR, und wählen **Sie im** angezeigten Menü Erweiterte Optionen aus.
 
-![Menü "Apps und Features" mit hervorgehobener erweiterte Option Öffnen](images/app-version-img-02.png)
+![Menü "Apps und Features" mit hervorgehobener Option "Erweitert" geöffnet](images/app-version-img-02.png)
 
-In den **erweiterten Optionen** muss die **App-Version** unter dem **Spezifikationen** -Header rechts neben der **Versions** Bezeichnung aufgeführt werden.
+In den **erweiterten Optionen** unter dem **Header Spezifikationen** sollte die **App-Version** rechts neben der Bezeichnung **Version aufgeführt** werden.
 
-![Erweiterte Optionen geöffnet mit hervorgehobener App-Version](images/app-version-img-03.png)
+![Erweiterte Optionen mit hervorgehobener App-Version geöffnet](images/app-version-img-03.png)
 
-## <a name="in-client-logs"></a>In Client Protokollen
+## <a name="in-client-logs"></a>In Clientprotokollen
 
-Altspacevr meldet die App-Version in der Client Protokolldatei beim Starten der Anwendung als "altspace-Version". Dies wäre eine gute Option, um die App-Version zu erhalten, wenn Sie sich nicht erfolgreich beim Client anmelden können, aber es wurde versucht, zu starten, bevor ein Fehler aufgetreten ist.
+AltspaceVR meldet die App-Version in der Clientprotokolldatei während des Anwendungsstarts als "ALTSPACE-Version". Dies wäre eine gute Option, um die App-Version zu erhalten, wenn Sie sich nicht erfolgreich beim Client anmelden können, aber es wurde versucht, vor dem Fehler zu starten.
 
 ## <a name="windows"></a>Windows
 
-Unter Windows befindet sich die Client Protokolldatei über den Windows-Explorer unter:
+Unter Windows finden Sie die Clientprotokolldatei über Windows-Explorer:
 
 ```
-%userprofile%\appdata\locallow\altspacevr\altspacevr\Player.log
-%userprofile%\appdata\locallow\altspacevr\altspacevr\Player-prev.log
+%userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player.log
+%userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player-prev.log
 ```
 
-Diese Datei wird jedes Mal überschrieben, wenn Sie "altspacevr" starten. "Player. log" stellt die neueste Sitzung dar, und "Player-Prev. log" stellt die vorherige Sitzung dar.
+Diese Datei wird jedes Mal überschrieben, wenn Sie AltspaceVR starten. "Player.log" stellt Ihre neueste Sitzung dar, und "Player-prev.log" stellt die vorherige Sitzung dar.
 
 ## <a name="via-powershell"></a>Über PowerShell
 
-Erweiterte Benutzer können die Client Protokolle für diese Zeichenfolge mithilfe von PowerShell wie folgt durchsuchen:
+Fortgeschrittene Benutzer können die Clientprotokolle wie folgt über PowerShell nach dieser Zeichenfolge durchsuchen:
 
 Eingabe:
 
@@ -60,4 +60,4 @@ gc $env:userprofile\appdata\locallow\altspacevr\altspacevr\Player.log | ? { $_ -
 
 Ausgabe:
 
-[2,047] altspacevr-Version: 3.2.23. e66c2
+[2.047] AltspaceVR Version: 3.2.23.e66c2

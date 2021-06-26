@@ -1,98 +1,97 @@
 ---
-title: Erkunden von altspacevr
-description: Beginnen Sie mit der Erstellung und dem Hosting von virtuellen Ereignissen auf der altspacevr-Plattform mit unserer zusammengestellten Checkpoint Journey.
+title: Erkunden von AltspaceVR
+description: Beginnen Sie mit unserer zusammengestellten Prüfpunkt-Journey mit dem Erstellen und Hosten virtueller Ereignisse auf der AltspaceVR-Plattform.
 ms.date: 03/29/2021
 ms.topic: article
-keywords: altspace, Virtual Reality, Events, World-Building, Tutorials
-ms.openlocfilehash: 4eee1f00e76acca16323cb76c576307a33d50796
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: altspace, virtual reality, events, world-building, tutorials
+ms.openlocfilehash: cf5217e54e17b37f00e921468d82585d8bb580d7
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213072"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923057"
 ---
-# <a name="exploring-altspacevr"></a>Erkunden von altspacevr
+# <a name="exploring-altspacevr"></a>Erkunden von AltspaceVR
 
-![Bild zu altspacevr-Banner](images/altspace-vr-banner.png)
+![AltspaceVR-Bannerbild](images/altspace-vr-banner.png)
 
-Altspacevr ist eine führende soziale Plattform für Virtual Reality. Mit dem Schwerpunkt auf Ereignisse, die von der Groß-und kleineren von Konzerten bis hin zu spezialisierten Meet-Ups reichen, verwendet altspacevr Technologie, um ihre menschliche Verbindung zu skalieren
+AltspaceVR ist eine führende soziale Plattform für virtuelle Realität. AltspaceVR konzentriert sich auf Ereignisse im großen Stil, von 2016 bis zu Fachgeschäften. AltspaceVR verwendet Technologie, um Ihre menschliche Verbindung zu skalieren.
 
-Egal, ob Sie ein erfahrener altspacevr-Veteran oder ein neuer Benutzer sind, es ist wichtig, dass Sie über solide Ressourcen verfügen, auf die Sie sich verlassen können. Wir haben die folgenden Prüfpunkte kompiliert, um Sie durch die Einführung ihrer virtuellen Ereignisse auf der ganzen Welt zu führen. Sie können diese sequenziell abdecken. Dies ist das, was wir empfehlen, oder Sie können hier springen, wenn Sie wissen, was Sie suchen. In jedem Fall sollten Sie diese Journey immer wieder besuchen, wenn Sie eine Richtung benötigen.
+Unabhängig davon, ob Sie ein erfahrener AltspaceVR-Benutzer oder ein neuer Benutzer sind, ist es wichtig, dass Sie über solide Ressourcen verfügen, auf die Sie zählen können. Wir haben die folgenden Prüfpunkte kompiliert, um Sie durch die Welt ihrer virtuellen Ereignisse zu bringen. Sie können sie sequenziell abdecken, was wir empfehlen, oder nach Beherher springen, wenn Sie wissen, was Sie suchen. In beiden Richtungen sollten Sie diese Reise immer dann erneut besuchen, wenn Sie eine Richtung benötigen.
 
 ## <a name="1-getting-started"></a>1. Erste Schritte
 
-Bevor Sie mit dem Erstellen und Hosting Ihrer eigenen virtuellen Ereignisse beginnen, benötigen Sie die richtigen Tools und Konten. Am Ende dieses Abschnitts ist Ihr System ordnungsgemäß konfiguriert und bereit für den Start.
+Bevor Sie mit dem Erstellen und Hosten Ihrer eigenen virtuellen Ereignisse beginnen, benötigen Sie die richtigen Tools und Konten. Am Ende dieses Abschnitts haben Sie Ihr System ordnungsgemäß konfiguriert und sind einsatzbereit!
 
 |  Prüfpunkt  |  Ergebnis  |
 | --- | --- |
 | [Systemanforderungen](getting-started/system-requirements.md) | Stellen Sie sicher, dass Sie über die richtigen Tools und Systemanforderungen für den Einstieg verfügen. |
-| Installieren von [Windows Mixed Reality](getting-started/wmr-installation.md) oder [Oculus Quest](getting-started/oculus-installation.md)| Herunterladen und Installieren der neuesten Windows Mixed Reality-oder Oculus Quest-apps |
-| [Registrieren eines altspacevr-Kontos](getting-started/registration.md) | Erstellen und Registrieren eines Kontos direkt in der altspacevr-App |
-| [Verknüpfen Sie Ihre Microsoft-Konto](getting-started/linking-microsoft-account.md) | Integrieren Sie Ihre Microsoft-Konto, um mit einem einzigen Anmelde Namen auf Ihre bevorzugten Microsoft-Produkte und-Dienste zuzugreifen. |
+| Installieren [Windows Mixed Reality](getting-started/wmr-installation.md) [oder Oculus Quest](getting-started/oculus-installation.md)| Herunterladen und Installieren der neuesten Windows Mixed Reality- oder Oculus Quest-Apps |
+| [Erstellen und Verknüpfen eines AltspaceVR-Kontos](getting-started/creating-and-linking-accounts.md) | Erstellen und Registrieren für ein Konto direkt in der AltspaceVR-App und Verknüpfen des Kontos mit Ihrem Microsoft-Konto|
 
-## <a name="2-getting-comfortable"></a>2.
+## <a name="2-getting-comfortable"></a>2. Erste Schritte
 
-Da altspacevr-Ereignisse in der virtuellen Welt stattfinden, müssen Sie sich mit dem Navigieren in Virtual Space vertraut machen. Am Ende dieses Abschnitts können Sie sich ganz sicher bewegen, Sie können Avatare Steuern und Tastenkombinationen verwenden.
-
-|  Prüfpunkt  |  Ergebnis  |
-| --- | --- |
-| Erlernen der [Windows Mixed Reality](getting-started/wmr-controls.md) -oder [Oculus Quest](getting-started/oculus-controls.md) -Eingabe Steuerelemente | Machen Sie sich mit virtuellen Steuerelementen in Windows Mixed Reality und Oculus Quest vertraut. |
-| [Steuern von Avataren](getting-started/avatar-controls.md) | Erfahren Sie mehr über die verschiedenen Steuerungs Schemas zum Steuern ihrer virtuellen Avatare. |
-| [Hilfreiche Tastenkombinationen](getting-started/keyboard-shortcuts.md) | Bleiben Sie mit den neuesten Tastenkombinationen auf dem neuesten Stand |
-
-## <a name="3-for-guests--audiences"></a>3. für Gäste & Zielgruppen
-
-Sie müssen nicht immer als Host in altspacevr angemeldet sein. manchmal sind Sie ein Gastmitglied einer Zielgruppe. In diesen Fällen sollten Sie mit den Features und Menüs vertraut sein, die im neuen Gebiet enthalten sind.
+Da AltspaceVR-Ereignisse in der virtuellen Welt stattfinden, müssen Sie sich mit der Navigation im virtuellen Raum aus dem Weg machen. Am Ende dieses Abschnitts werden Sie sich sicher bewegen, Avatare steuern und Tastenkombinationen verwenden.
 
 |  Prüfpunkt  |  Ergebnis  |
 | --- | --- |
-| [Bildschirm "Titel" erkunden](community/exploring-title-screen.md) | Navigieren Sie von der "altspacevr"-Plattform zum Anmeldebildschirm, geben Sie ein Ereignis ein, oder passen Sie den Avatar an. |
-| [Social Features & nametags](faqs/nametags.md) | Erfahren Sie, wie nametags und soziale Features in altspacevr funktionieren. |
+| Lernen Sie die [Windows Mixed Reality](getting-started/wmr-controls.md) [oder Oculus Quest-Eingabesteuerelemente](getting-started/oculus-controls.md) | Machen Sie sich mit virtuellen Steuerelementen in Windows Mixed Reality und Oculus Quest |
+| [Steuern Ihrer Avatare](getting-started/avatar-controls.md) | Erfahren Sie mehr über die verschiedenen Steuerungsschemas zum Steuern Ihrer virtuellen Avatare. |
+| [Hilfreiche Tastenkombinationen](getting-started/keyboard-shortcuts.md) | Bleiben Sie mit den neuesten Tastenkombinationen auf dem neuesten Stand. |
 
-## <a name="4-creating--hosting-events"></a>4. Erstellen von & hostingereignissen
+## <a name="3-for-guests--audiences"></a>3. Für Gäste & Zielgruppe
 
-Nachdem Sie sich mit der Logistik vertraut machen, ist es an der Zeit, zu erfahren, wie Sie Ereignisse erstellen und hosten. Altspacevr verfügt über verschiedene Features für diesen Prozess, aber wir haben Sie in die Grundlagen, erweiterten Optionen und hostingspezifischen Tools aufgeteilt. Unabhängig davon, ob Sie diese sequenziell durchlaufen oder springen, werden Sie am Ende dieses Abschnitts sicher Ihre eigenen Ereignisse erstellen.
-
-**Grundlegende Ereignis Einrichtung**
-
-|  Prüfpunkt  |  Ergebnis  |
-| --- | --- |
-| [Grundlegendes zu Rollen](getting-started/roles.md) | Erfahren Sie mehr über die verschiedenen verfügbaren Rollen für altspacevr-Ereignisse. |
-| [Einrichten eines Ereignisses](tutorials/creating-an-event.md) | Machen Sie sich mit der Terminologie, dem Branding, der Multimedia-Konsole und weiteren Funktionen zur Ereignis Erstellung vertraut. |
-| [Untersuchen der Gruppen Features](tutorials/group-features.md) | Erfahren Sie, wie Sie die Liste der virtuellen Ereignis Gäste manuell hinzufügen und konfigurieren. |
-| [Skalieren Ihrer Zielgruppen](faqs/scaling-audiences.md) | Spiegeln Sie das gesamte Ereignis über mehrere Instanzen hinweg, und vergrößern Sie die Zielgruppen Größe |
-| Freigeben von Medien mit der [Multimedia-Konsole](tutorials/multimedia-console.md) und dem [webprojektor](tutorials/web-projector-streaming.md) | Erfahren Sie, wie Sie eine bestimmte Browser Registerkarte direkt von Ihrem Desktop-PC in altspacevr streamen. |
-
-**Setup für erweiterte Ereignisse**
+Sie müssen nicht immer ein Host in AltspaceVR sein. Manchmal sind Sie ein Gast und ein Mitglied der Zielgruppe. In diesen Fällen sollten Sie mit den Features und Menüs vertraut sein, die im neuen Gebiet verfügbar sind.
 
 |  Prüfpunkt  |  Ergebnis  |
 | --- | --- |
-| [Beginnen Sie mit dem Welt-Editor](world-building/world-editor-getting-started.md) | Erfahren Sie, wie Sie Objekte und Elemente zum Erstellen einer Welt erzeugen, bearbeiten und platzieren. |
-| [Eigene Inhalte erstellen](community/creating-content.md) | Einstieg in die Erstellung und Freigabe von VR-Inhalten in altspacevr |
-| [Verwenden von Teleportern zum Erstellen von Breakout-Räumen](tutorials/teleporting.md) | Ermöglichen Sie Ihren Benutzern, von einem Ereignis und einer Welt zu einem anderen zu wechseln. |
-| [Importieren von 3D-Modellen (gltf)](world-building/importing-models.md) | Erfahren Sie, wie Sie. GLB-Dateien hochladen, um im Welt-Editor Modelle zu erstellen. |
-| [Verbessern der Welt Leistung](world-building/improving-performance.md) | Erhalten Sie Diagnose, Leistungs Tools und Tipps zur Problembehandlung für die Leistung |
-| [Importieren von benutzerdefinierten Skyboxes](world-building/uploading-custom-skyboxes.md) | Erstellen und importieren Sie Ihre eigenen benutzerdefinierten Skyboxes, damit Ihre virtuellen Bereiche rekursiv werden |
+| [Erkunden des Titelbildschirms](community/exploring-title-screen.md) | Navigieren Sie auf dem Titelbildschirm zur AltspaceVR-Plattform, um sich anzumelden, ein Ereignis ein anzumelden oder Ihren Avatar anzupassen. |
+| [Social Media& namentags](faqs/nametags.md) | Erfahren Sie, wie Nametags und soziale Features in AltspaceVR funktionieren. |
 
-**Hostingtools**
+## <a name="4-creating--hosting-events"></a>4. Erstellen & Hostereignissen
+
+Nachdem Sie nun die Logistik behandelt haben, können Sie lernen, wie Sie Ereignisse erstellen und hosten. AltspaceVR verfügt über verschiedene Features für diesen Prozess, aber wir haben sie in die Grundlagen, erweiterte Optionen und hostingspezifische Tools getrennt. Unabhängig davon, ob Sie diese sequenziell durchgehen oder losspringen, werden Sie am Ende dieses Abschnitts sicher eigene Ereignisse erstellen.
+
+**Grundlegende Ereigniseinrichtung**
 
 |  Prüfpunkt  |  Ergebnis  |
 | --- | --- |
-| [Machen Sie sich mit hostingtools vertraut](tutorials/host-tools-overview.md) | Verstehen der verschiedenen Tools, die Sie als Ereignis Host haben |
-| [Maximieren der Ereignis Sichtbarkeit](tutorials/main-events.md) | Erzielen Sie Ihre Ereignisse optimal, indem Sie Sie besser sichtbar machen |
-| [Hostingingtools für FrontRow-Ereignisse](tutorials/host-tools-for-events.md) | Sie können Ihren Benutzern Hostingberechtigungen innerhalb Ihrer virtuellen Ereignisse einräumen. |
+| [Informationen zu Rollen](getting-started/roles.md) | Erfahren Sie mehr über die verschiedenen Rollen, die für AltspaceVR-Ereignisse verfügbar sind. |
+| [Einrichten eines Ereignisses](tutorials/creating-an-event.md) | Machen Sie sich mit Terminologie, Branding, Multimediakonsole und mehr Funktionen für die Ereigniserstellung gut aus. |
+| [Erkunden der Gruppenfeatures](tutorials/group-features.md) | Erfahren Sie, wie Sie Ihre Gastliste für virtuelle Ereignisse manuell hinzufügen und konfigurieren. |
+| [Skalieren Ihrer Zielgruppen](faqs/scaling-audiences.md) | Spiegeln Sie Ihr gesamtes Ereignis über mehrere Instanzen hinweg, und erhöhen Sie die Zielgruppe. |
+| Freigeben von Medien mit [der Multimedia-Konsole und](tutorials/multimedia-console.md) dem [Webprojektor](tutorials/web-projector-streaming.md) | Erfahren Sie, wie Sie eine bestimmte Browserregisterkarte von Ihrem Desktop-PC direkt in AltspaceVR streamen. |
+
+**Erweiterte Ereigniseinrichtung**
+
+|  Prüfpunkt  |  Ergebnis  |
+| --- | --- |
+| [Erste Schritte mit dem World Editor](world-building/world-editor-getting-started.md) | Erfahren Sie, wie Sie Objekte und Elemente erstellen, bearbeiten und platzieren, um eine Welt zu erstellen. |
+| [Erstellen eigener Inhalte](community/creating-content.md) | Erste Schritte beim Erstellen und Freigeben von VR-Inhalten in AltspaceVR |
+| [Verwenden von Teleportern zum Erstellen von Breakouträumen](tutorials/teleporting.md) | Ermöglichen Sie es Ihren Benutzern, ein Ereignis und eine Welt zu erkunden und zu einem anderen zu reisen. |
+| [Importieren von 3D-Modellen (glTF)](world-building/importing-models.md) | Erfahren Sie, wie Sie GLB-Dateien hochladen, um Modelle im World Editor zu erstellen. |
+| [Verbessern der Leistung in der Welt](world-building/improving-performance.md) | Erhalten Sie Diagnosen, Leistungstools und Tipps zur Problembehandlung für die Leistung. |
+| [Importieren benutzerdefinierter Skyboxes](world-building/uploading-custom-skyboxes.md) | Erstellen und Importieren eigener benutzerdefinierter Skyboxes, um Ihre virtuellen Räume immersiver zu gestalten |
+
+**Hosting-Tools**
+
+|  Prüfpunkt  |  Ergebnis  |
+| --- | --- |
+| [Machen Sie sich mit hosting tools (Hostingtools)](tutorials/host-tools-overview.md) | Verstehen der verschiedenen Tools, die Sie als Ereignishost haben |
+| [Maximieren der Sichtbarkeit von Ereignis](tutorials/main-events.md) | Das Beste aus Ihren Ereignissen heraus zu erhalten, indem Sie sie sichtbarer und marktfähiger machen |
+| [Hosttools für FrontRow-Ereignisse](tutorials/host-tools-for-events.md) | Erteilen von Hostingberechtigungen für jeden Ihrer Benutzer in Ihren virtuellen Ereignissen |
 
 ## <a name="5-troubleshooting"></a>5. Problembehandlung
 
-Wenn Sie Probleme beim Erstellen von Ereignissen, der Audiodatei, der Anwendung "altspacevr" haben oder sich nur mit uns in Verbindung setzen möchten, verwenden Sie die nachfolgenden Abschnitte zur Problembehandlung. 
+Wenn Sie Probleme beim Erstellen von Ereignissen, Audio oder der AltspaceVR-Anwendung haben oder sich einfach nur an uns wenden möchten, verwenden Sie die folgenden Abschnitte zur Problembehandlung. 
 
 [!INCLUDE[](includes/troubleshooting.md)]
 
-## <a name="6-community--resources"></a>6. Community & Ressourcen
+## <a name="6-community--resources"></a>6. Community& Ressourcen
 
-Altspacevr ist eine Community, und wir freuen uns, ihnen beitreten zu können. Nehmen Sie sich einen Moment Zeit, um die communitystandards, die Nutzungsbedingungen und die Datenschutzrichtlinie zu überprüfen und den Newsletter zu abonnieren.
+AltspaceVR ist eine Community, und wir freuen uns, dass Sie beitreten. Nehmen Sie sich eine Minute Zeit, um unsere Communitystandards, Nutzungsbedingungen und Datenschutzrichtlinien zu überprüfen, und abonnieren Sie unseren Newsletter, um alle aktuellen Nachrichten zu erhalten.
 
-* [Communitystandards](community/community-standards.md)
-* [Nutzungsbedingungen für altspacevr](community/terms-of-service.md)
+* [Community-Standards](community/community-standards.md)
+* [AltspaceVR-Nutzungsbedingungen](community/terms-of-service.md)
 * [Microsoft-Datenschutzrichtlinie](https://privacy.microsoft.com/privacystatement)
-* [Abonnieren Sie unseren Newsletter](community/newsletter-subscriptions.md)
+* [Unseren Newsletter abonnieren](community/newsletter-subscriptions.md)

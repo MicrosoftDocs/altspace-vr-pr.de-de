@@ -1,154 +1,151 @@
 ---
-title: Hostingingtools für FrontRow-Ereignisse
-description: Erfahren Sie, wie Sie Ihre gesamten Hosttools für Front-of-Ereignisse nutzen können, einschließlich Muting, Messaging und Moderation ihrer Veranstaltungen.
+title: Hosttools für FrontRow-Ereignisse
+description: Erfahren Sie, wie Sie alle Ihre Hosttools für FrontRow-Ereignisse verwenden, einschließlich Muting, Messaging und Moderieren Ihrer Ereignisse.
 ms.date: 02/10/2021
 ms.topic: article
-keywords: Host Tools, Vorder Zeile, Ereignis
-ms.openlocfilehash: f1e7d7ca1a45ab897bc03c24cd9a27a3eb8e4186
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: Hosttools, erste Zeile, Ereignis
+ms.openlocfilehash: 34354041b0ab0044c69c42273f66478f382f52e6
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212278"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923127"
 ---
-# <a name="host-tools-for-frontrow-events"></a>Hostingingtools für FrontRow-Ereignisse
+# <a name="host-tools-for-frontrow-events"></a>Hosttools für FrontRow-Ereignisse
 
-Dieser Artikel basiert darauf, dass Sie FrontRow für Ihr Ereignis aktiviert haben. Informationen zum Aktivieren von Front TRow für Ihr Ereignis finden Sie in diesem Artikel: [Skalieren von Zielgruppen mit dem Front](../faqs/scaling-audiences.md)-End-Feature.
+Dieser Artikel basiert darauf, dass FrontRow für Ihr Ereignis aktiviert ist. Informationen zum Aktivieren von FrontRow für Ihr Ereignis finden Sie in diesem Artikel: [Skalieren Ihrer Zielgruppen mit dem FrontRow-Feature](../faqs/scaling-audiences.md).
 
-Wenn Sie weitere Informationen zu den Host Tools für ein nicht-FrontRow-Ereignis benötigen, finden Sie hier weitere Informationen: [Übersicht über Host Tools](host-tools-overview.md)
+Informationen zu den Hosttools für ein Nicht-FrontRow-Ereignis finden Sie hier: [Übersicht über Hosttools.](host-tools-overview.md)
 
-Nachdem Sie nun ihren Ereignis Satz als Front-End festgelegt haben, können Sie mit der Verwendung aller tollen Features fortfahren, die mit FrontRow aktiviert werden.
+Nachdem Sie Ihr Ereignis nun als FrontRow festgelegt haben, können Sie sich damit beschäftigen, wie Sie alle hervorragenden Features verwenden, die mit FrontRow aktiviert sind.
 
-Bei der ursprünglichen Erstellung des Ereignisses haben Sie den Host "Role" für dieses Ereignis eingerichtet. Sie können auch jeder anderen Person, die Sie beim Ausführen Ihres Ereignisses unterstützen möchten, die Hostrolle erteilen. Sie erhalten dann alle gleichen Hostingfunktionen wie Sie. (Weitere Informationen finden Sie hier: [Rollen in Ereignissen, Welten, Gruppen und in altspacevr](../getting-started/roles.md)). Die Hostrolle gewährt Ihnen Zugriff auf spezielle Features und Fähigkeiten, die speziell erstellt wurden, um das Hosten eines virtuellen Live Ereignisses einfach und einfach zu gestalten.
+Als Sie das Ereignis ursprünglich erstellt haben, wurden Sie mit dem Host "Role" für dieses Ereignis eingerichtet. Sie können die Hostrolle auch allen anderen Personen erteilen, die Sie beim Ausführen Ihres Ereignisses unterstützen möchten. Sie verfügen über die gleichen Hostingfunktionen wie Sie (weitere Informationen zu Rollen finden Sie hier: [Rollen in Ereignissen, Welten, Gruppen und in AltspaceVR](../getting-started/roles.md)). Die Hostrolle gewährt Ihnen Zugriff auf spezielle Features und Funktionen, die speziell erstellt wurden, um das Hosten eines virtuellen Liveereignisses einfach und einfach zu gestalten.
 
-Im folgenden finden Sie eine ausführliche Übersicht über diese Features und Funktionen sowie weitere hilfreiche Hinweise zum Hosting von Front TRow-Ereignissen in altspacevr.
+Im Folgenden finden Sie eine ausführliche Übersicht über diese Features, Funktionen und anderen hilfreichen Hinweise zum Hosten von FrontRow-Ereignissen in AltspaceVR.
 
-## <a name="host-tools-overview"></a>Übersicht über Host Tools
+## <a name="host-tools-overview"></a>Übersicht über Host-Tools
 
-Die Host Tools werden unten auf der rechten Seite Ihres Sicht Felds angezeigt. Sie steht Ihnen sofort nach der Erstellung Ihres Ereignisses zur Verfügung. Sie können das Ereignis jederzeit eingeben (die Ereignis Start Zeit gilt nicht für die Hosts oder Moderatoren eines Ereignisses), und Sie können sich mit den Tools vor der Showtime vertraut machen. Mit den Host Tools erhalten Sie Schnellklick Zugriff auf Dinge wie on-Air (für die Ausführung von Front-End-Ereignissen erforderlich). stumm Schaltung und Messaging Ihrer Zielgruppe, das ein-und Ausschalten ihrer Phasen Blockierer, das ein-und Ausschalten ihrer Gäste, das Sie Ihren Gästen die Möglichkeit bietet, Fragen zu stellen oder Feedback zu stellen, die Möglichkeit, von FrontRow Raum zu Raum zu wechseln, und vieles mehr.
+Die Hosttools werden unten rechts im Ansichtsfeld angezeigt. Es steht Ihnen unmittelbar nach der Erstellung ihres Ereignisses zur Verfügung, sodass Sie Ihr Ereignis jederzeit eingeben können (die Startzeit des Ereignisses gilt nicht für die Hosts oder Moderatoren eines Ereignisses) und sich mit den Tools vor showtime vertraut machen können. Die Hosttools bieten Ihnen Schnellklickzugriff auf Dinge wie "On-Air" (erforderlich für das Ausführen von FrontRow-Ereignissen), Muting und Messaging für Ihre Zielgruppe, das Ein- und Ausschalten Ihrer Phasenblocker, das Megafonnieren selbst, das Es Ihren Gästen ermöglicht, "ihre Hände zu heben", um Fragen zu stellen oder Feedback zu geben, die Möglichkeit, von FrontRow Room in Room zu wechseln und vieles mehr.
 
-![Menü "Hosttools" geöffnet mit hervorgehobenen verfügbaren Aktionen](images/host-front-row-img-01.png)
+![Menü "Hosttools" mit hervorgehobenen verfügbaren Aktionen geöffnet](images/host-front-row-img-01.png)
 
-*Wenn Sie die Schaltfläche Go On-Air sehen, können Sie festlegen, dass das Ereignis auf FrontRow festgelegt ist.*
+*Sie können feststellen, dass Ihr Ereignis auf FrontRow festgelegt ist, wenn die Schaltfläche GO ON-AIR angezeigt wird.*
 
 ### <a name="toggle-mute-all"></a>Mute-All umschalten
 
-Indem Sie Ihre Teilnehmer ändere, können Sie ablenkende Sounds einschränken und die Dinge in Ihrem FrontRow-Ereignis in angenehmer und stiller Weise halten. Die stumm Funktion wird so lange verwendet, wie ein Host zulässt, oder wenn der Host den Bereich verlässt. Wenn ein Teilnehmer das Ereignis eingibt oder versucht, seine stumm Schaltung durchzusetzen, erhalten Teilnehmer eine Meldung auf dem Bildschirm, die Sie darüber informiert, dass Sie vom Host stumm geschaltet wurden. Wenn der Host unstumm geschaltet wird, erhalten die Teilnehmer eine Nachricht, in der Sie darüber informiert werden, dass Sie auch unstumm sind.
+Indem Sie Ihre Teilnehmer stummschalten, können Sie ablenkende Sounds einschränken und die Dinge in Ihrem FrontRow-Ereignis gut und still halten. Die Stummschaltungsfunktion dauert so lange, wie ein Host dies zulässt, oder wenn der Host den Speicherplatz verlässt. Wenn ein Teilnehmer an der Veranstaltung teilnimmt oder versucht, die Unveränderlichung zu aufheben, erhalten die Teilnehmer eine Bildschirmnachricht, in der sie darüber informiert werden, dass sie vom Host stummgeschaltet wurden. Wenn die Unveränderlichung des Hosts aufgehoben wird, erhalten die Teilnehmer eine Nachricht, in der sie darüber informiert werden, dass sie ebenfalls unveränderlich sind.
 
-### <a name="message-all"></a>Alle Nachrichten
+### <a name="message-all"></a>Message All
 
-Hosts können eine Nachricht an alle Teilnehmer senden, die in Ihrem FrontRow-Ereignis vorhanden sind. Verwenden Sie eine der kurz Notizen, oder schreiben Sie einen ursprünglichen. Nachdem die Nachricht gesendet wurde, empfängt Sie die Nachricht als Popup.
+Hosts können eine Nachricht an alle Teilnehmer senden, die während ihres FrontRow-Ereignisses vorhanden sind. Verwenden Sie einen unserer Schnellhinweise, oder schreiben Sie einen originalen. Nach dem Senden erhält jeder die Nachricht als Popup.
 
-### <a name="amplify-my-voice"></a>Meine Stimme verstärken
+### <a name="amplify-my-voice"></a>Amplify My Voice
 
-Hosts können Ihr Mikrofon vergrößern, um sicherzustellen, dass alle Benutzer in Ihrem Front-Row-Ereignis wissen, was Sie unabhängig von der Entfernung sagen.
+Hosts können ihre Mikrofone verstärken, um sicherzustellen, dass jeder in Ihrem Front Row-Ereignis unabhängig von der Entfernung hören kann, was Sie sagen.
 
-### <a name="go-on-air"></a>Unterwegs
+### <a name="go-on-air"></a>Go On-Air
 
-Jeder Benutzer mit den Host-oder präsentatorrollen kann diese Schaltfläche sehen. Wenn Sie auf "Go On-Air" klicken, wird Ihr Avatar in alle Front-End-Räume "Spiegelung" angezeigt. Sobald Sie "gespiegelt" sind, wird alles, was Sie sagen und in allen Instanzen des Front-End-Ereignisses angezeigt werden, angezeigt.
+Jede Person mit der Hostrolle wird diese Schaltfläche sehen. Wenn Sie auf Go On-Air klicken, wird Ihr Avatar in alle FrontRow-Räume "gespiegelt". Sobald Sie "Gespiegelt" sind, wird alles, was Sie sagen und tun, in allen Instanzen Ihres FrontRow-Ereignisses angezeigt.
 
-Es ist sehr wichtig, dass Sie sich für das gesamte FrontRow-Ereignis im Vordergrund befinden. Sie müssen sich auf dem Weg befinden, damit die Hosttools ordnungsgemäß für alle Ihre Front-End-Räume funktionieren. Andernfalls funktionieren Sie nur in dem Raum, in dem Sie sich befinden.
+Es ist sehr wichtig, für das gesamte FrontRow-Ereignis on-Air zu sein. Sie müssen on-air sein, damit die Hosttools in allen Ihren FrontRow-Räumen ordnungsgemäß funktionieren. Andernfalls funktionieren sie nur in dem Raum, in dem Sie sich befinden.
 
 > [!NOTE]
-> Wenn Sie Ihr Ereignis erneut beitreten müssen, wechseln Sie zum Lager Lager und zurück, verlieren Ihre Internet Verbindung und wechseln von Raum zu Raum. Wenn Sie zurückkehren möchten, sind Sie nicht unterwegs. Stellen Sie sicher, dass Sie nach der Wiederherstellung wieder on-Air klicken.
+> Wenn Sie sich erneut an Ihrem Ereignis anschließen müssen, wechseln Sie zu "Fire" und "Zurück", verlieren Sie ihre Internetverbindung, wechseln Sie von Raum zu Raum, und wenn Sie zurückkehren möchten, sind Sie NICHT on-Air. Stellen Sie sicher, dass Sie erneut auf Los geht klicken, sobald Sie wieder zurück sind.
 
-### <a name="toggle-stage-blocker"></a>Phasen Blocker umschalten
+### <a name="toggle-stage-blocker"></a>Phasenblocker umschalten
 
-Entscheiden Sie, wann und wo Teilnehmer stehen können. Wählen Sie den Spotlight aus, nehmen Sie sich an, oder laden Sie alle auf der Stufe für eine Group Dance Party ein.
+Entscheiden Sie, wann und wo Teilnehmer stehen dürfen. Wählen Sie aus, ob Sie den Blickpunkt werfen, sich abwechseln oder jeden auf der Stage zu einer Gruppenfestgruppe einladen möchten.
 
 > [!IMPORTANT]
-> Nicht alle Welten enthalten einen Phasen Blocker, also wählen Sie Ihre Ereignis Vorlagen aus. Machen Sie sich mit den Ereignis Vorlagen für Test Ereignisse vertraut, bevor Sie Ihr offizielles Ereignis erstellen.
+> Nicht alle Welten enthalten einen Phasenblocker, daher wählen Sie Ihre Ereignisvorlagen mit Bedacht aus. Machen Sie sich mit unseren Ereignisvorlagen zu Testereignissen vertraut, bevor Sie Ihr offizielles Ereignis erstellen.
 
-## <a name="the-host-panel"></a>Der Host Panel
+## <a name="the-host-panel"></a>Hostbereich
 
-Wenn Sie auf die Schaltfläche "Host Panel" klicken, werden zusätzliche erweiterte Optionen für das FrontRow-Ereignis geöffnet:
+Wenn Sie auf die Schaltfläche Hostbereich klicken, werden erweiterte Optionen für Ihr FrontRow-Ereignis geöffnet:
 
-![Host Panel geöffnet mit ausgewählter Registerkarte "Gäste"](images/host-front-row-img-02.png)
+![Hostbereich mit ausgewählter Registerkarte "Gäste" geöffnet](images/host-front-row-img-02.png)
 
-## <a name="guest-panel"></a>Gast Panel
+## <a name="guest-panel"></a>Gastbereich
 
-Dies ermöglicht es Ihnen, alle Personen im "Raum" Ihres Ereignisses nachzuverfolgen. Bei einem FrontRow-Ereignis gibt es mehrere Räume, während der Gästebereich nur die Gäste im Raum anzeigt, in denen Sie sich gerade befinden. Sie können filtern, was angezeigt wird, indem Sie auf alle/Open Mics/Hosts/Freunde/on-Air klicken. Es handelt sich um eine interaktive Liste, in der Sie einen mehrseitigen Überblick über den Platz in Ihrem Raum erhalten.
+Ermöglicht es Ihnen, alle Benutzer im "Raum" Ihres Ereignisses nachzuverfolgen. Bei einem FrontRow-Ereignis gibt es mehrere Räume. Im Bereich Gäste werden nur die Gäste in dem Raum angezeigt, in dem Sie sich derzeit befinden. Sie können filtern, was angezeigt wird, indem Sie auf Alle / Mikrofone öffnen / Hosts / Freunde / On-Air klicken. Es handelt sich um eine interaktive Liste mit einer mehrseitigen Aufschlüsselung, wer sich in Ihrem Raum befindet.
 
-Versuchen Sie, jemanden mit fehlerhafter Audiodatei zu finden? Klicken Sie auf "Mics öffnen", um festzustellen, wer nicht stumm Möchten Sie sicherstellen, dass alle benötigten Personen in Ihrem FrontRow-Ereignis gespiegelt werden? Klicken Sie auf Luft, um alle zurzeit eingebundenen und gespiegelten anzuzeigen. 
+Versuchen Sie, jemanden mit ungültigen Audiodaten zu finden? Öffnen Sie Mics, um zu sehen, wer unveränderlich ist. Möchten Sie sicherstellen, dass alle benötigten Benutzer in Ihrem FrontRow-Ereignis gespiegelt sind? Wählen Sie On-Air (On-Air) aus, um alle Benutzer anzuzeigen, die derzeit on-air (On-Air) und Mirrored (Gespiegelt) sind. 
 
-### <a name="moderation-tools"></a>Moderations Tools
+### <a name="moderation-tools"></a>Moderationstools
 
-Als Ereignis Host sind Sie für die Verwaltung der Benutzeroberflächen verantwortlich. Um dies effizient zu machen, benötigen Sie und ihre Moderatoren robuste Moderations Tools. Als Host für ein FrontRow-Ereignis können Sie unterbrechende Personen stumm schalten, Regel Trennungen aus dem Ereignis herausholen (vorübergehend und/oder für die Dauer des Ereignisses) und die Moderator-/Hostrolle anderen Benutzern während des Ereignisses zuweisen, um Hilfe bei der Verwaltung der Zielgruppe zu erhalten.
+Als Ereignishost sind Sie für die Verwaltung der Erfahrungen anderer verantwortlich. Um effizient moderieren zu können, benötigen Sie und Ihre Moderatoren stabile Moderationstools. Als Host eines FrontRow-Ereignisses können Sie störende Personen stummschalten, Regel-Breaker (vorübergehend oder während Ihres Ereignisses) aus Ihrem Ereignis herausholen und während des Ereignisses sogar anderen Benutzern die Rolle Moderator/Host zuweisen, um Hilfe bei der Verwaltung der Zielgruppe zu erhalten.
 
-Sie können Gäste direkt über das Gast Panel stumm schalten, indem Sie auf das Redner Symbol neben dem Namen klicken, oder klicken Sie auf das Hamburger-Menü auf der rechten Seite des Fensters des Gasts, um weitere Optionen anzuzeigen:
+Sie können Gäste aus dem Gastbereich sofort stummschalten, indem Sie auf das Sprechersymbol neben ihrem Namen klicken, oder um zusätzliche Optionen zu erhalten, wählen Sie das Hamburger-Menü auf der rechten Seite des Gastbereichs aus:
 
-![Einzelnes Gast Element im Gast Panel ausgewählt](images/host-front-row-img-03.png)
+![Einzelnes Gastelement im Gastbereich ausgewählt](images/host-front-row-img-03.png)
 
-*Klicken Sie auf das Hamburger-Menü, um alle Moderations Tool Optionen zu öffnen.*
+*Klicken Sie auf das Hamburger-Menü, um alle Optionen des Moderationstools zu öffnen.*
 
-![Ausgewähltes Gast Element mit hervorgehobenem Moderations Tool Optionen](images/host-front-row-img-04.png)
+![Ausgewähltes einzelnes Gastelement mit hervorgehobenen Moderationstooloptionen](images/host-front-row-img-04.png)
 
-Nun können Sie Ihre Front-End-Hosting-Magic-Funktion arbeiten und diese Features für Ihre Teilnehmer nutzen:
-    * **Meldung** : Normalerweise müssen Sie Freunde sein, um eine Nachricht an einen anderen Benutzer senden zu können, aber als Host können Sie Nachrichten mit beliebigen Personen in Ihrem Ereignis senden/empfangen.
-    * **Stumm** schalten Sie diese für alle Benutzer im Ereignis.
-    * **Megaphone** : haben Sie die Möglichkeit, meine Stimme zu verstärken.
-    * **On-Air** -Sie können diesen Gast "spiegeln", damit der Avatar von allen Räumen in Ihrem FrontRow-Ereignis eingesehen und gehört.
-    * **Stufen Zugriff** : lassen Sie Sie alle Phasen Blockierer durchlaufen, und wechseln Sie in den Phasen Bereich.
-    * Als **Host** festlegen: weist diesen die Hostrolle in Ihrem FrontRow-Ereignis zu. Fügen Sie dynamisch eine Co-Host hinzu, und stellen Sie sicher, dass Sie unterwegs sind, und Sie können Sie dabei unterstützen, Dinge auszuführen oder zu den anderen Räumen zu wechseln, um die Dinge zu überprüfen. Ist jeder auf dem Luft und wird in den sekundären Räumen angezeigt? Ist Ihre Präsentation über alle aktiven Räume hinweg synchron? Wenn Sie sich im anderen Raum befinden, können Sie Avatar mit Avatar von Platz zu Raum sprechen!
-    * **Erstellen** Sie den Moderator: gibt dem Moderator die Rolle "Moderator" in Ihrem Front-Row-Ereignis, um Sie bei der Steuerung von Menschen zu Moderatoren haben Zugriff auf ein eingeschränktes Hosttool, sodass Sie von Raum zu Raum wechseln können, um die Dinge zu prüfen, aber nicht auf dem Weg. 
-    * **Starten** Sie Regel-Trennungen von Ihrem Ereignis, vorübergehend oder für die Dauer des Ereignisses.
+Jetzt können Sie Ihre FrontRow Hosting Magic-Funktion verwenden und diese Features für Ihre Teilnehmer verwenden:
+    * **Nachricht:** Normalerweise müssen Sie Freunde sein, um eine Nachricht an einen anderen Benutzer senden zu können, aber als Host können Sie Nachrichten mit jedem in Ihrem Ereignis senden/empfangen.
+    * **Stummschalten:** Stummschalten sie für alle Benutzer im Ereignis.
+    * **Megaphone:** Geben Sie ihnen die Möglichkeit, Meine Stimme zu erweitern.
+    * **On-Air** : Sie können diesen Gast "spiegeln", damit sein Avatar von allen Inseren in Ihrem FrontRow-Ereignis gesehen und gehört wird.
+    * **Stufenzugriff:** Sie können alle Phasenblocker durchlaufen und in den Phasenbereich wechseln.
+    * **Host erstellen:** Weist ihnen die Hostrolle in Ihrem FrontRow-Ereignis zu. Fügen Sie unterwegs eine Co-Host hinzu, stellen Sie sicher, dass sie on-air sind und Ihnen helfen können, Dinge auszuführen, oder lassen Sie sie in die anderen Räume reisen, um dinge zu überprüfen. Ist jeder in der Luft und wird in den sekundären Räumen angezeigt? Ist Ihre Präsentation für alle aktiven Räume synchron? Lassen Sie sie in die Luft gehen, wenn sie sich im anderen Raum befinden, und Sie können Avatar mit Avatar von Raum zu Raum sprechen!
+    * **Make Moderator:** Gibt ihnen die Moderator-Rolle in Ihrem Front Row-Ereignis, um Ihnen bei der Steuerung der Menge zu helfen. Moderatoren haben Zugriff auf eine begrenzte Anzahl von Hosttools, sodass sie von Raum zu Raum wechseln können, um Dinge zu überprüfen, müssen aber nicht in die Luft gehen. 
+    * **Kick:** Regelunterbrechungen werden vorübergehend oder während des Ereignisses aus dem Ereignis herausgelöscht.
 
-## <a name="participation-panel"></a>Teilnahme Bereich
+## <a name="participation-panel"></a>Teilnahmebereich
  
-Sie können dies verwenden, um die Interaktion mit ihren Ereignis Teilnehmer zu unterstützen. Sie können über eine Q&a verfügen, eine Warteschlange für eine offene MIC bilden oder sicherstellen, dass der Gast, mit dem Sie kommunizieren, auch gespiegelt ist, sodass jeder jeden Benutzer über alle Ihre Front-End-Räume sprechen kann:
+Sie können diesen Bereich verwenden, um mit Ihren Ereignisteilnehmern zu interagieren. Sie können eine Q-&A erstellen, eine Warteschlange für ein Offenes Mikrofon bilden oder sicherstellen, dass der Gast, mit dem Sie sprechen, auch gespiegelt ist, sodass jeder von Ihnen in allen FrontRow-Räumen miteinander sprechen kann:
 
-![Host Panel geöffnet mit ausgewählter Registerkarte "Teilnahme"](images/host-front-row-img-05.png)
+![Hostbereich mit ausgewählter Registerkarte "Teilnahme" geöffnet](images/host-front-row-img-05.png)
 
-Der Bereich "Teilnahme" ist so konzipiert, dass Sie die Interaktion und Teilnahme an Ihrer Zielgruppe verwalten können. Hier können Sie die Option "allow allow allow" (Zulassen von Hand lungen) umschalten, um die Teilnahme an der Zielgruppe zu entsperren. **Bei FrontRow-Ereignissen müssen Sie zuerst auf dem Luftweg stehen, um dies zu aktivieren. andernfalls wird diese Schaltfläche abgeblendet angezeigt.**
+Der Teilnahmebereich ist so konzipiert, dass Sie die Interaktion und Teilnahme Ihrer Zielgruppe verwalten können. Hier können Sie die Option "Hand-Raises zulassen" aktivieren, um die Teilnahme der Zielgruppe zu entsperren. **Bei FrontRow-Ereignissen müssen Sie zuerst "On-Air" sein, um dies zu aktivieren. Andernfalls wird diese Schaltfläche abgeblendet angezeigt.**
 
-Wenn die Funktion "Allow Hand Raise" aktiviert ist, wird die Schaltfläche "Auslösen von Hand" für alle Personen in Ihrem FrontRow-Ereignis im unteren rechten Bereich Ihres Sicht Felds angezeigt:
+Wenn die Funktion "Hand ausgelöste Hand zulassen" aktiviert ist, wird im unteren rechten Abschnitt ihres Sichtfelds für alle Benutzer in Ihrem FrontRow-Ereignis die Schaltfläche "Hand auslösen" angezeigt:
 
-![Im Teilnahme Panel hervorgehobene "Hand"-Funktion hervorheben](images/host-front-row-img-06.png)
+![Im Teilnahmebereich hervorgehobene Funktion "Hand auslösen"](images/host-front-row-img-06.png)
 
-*Durch Klicken auf "Raise Hand" werden die Gäste in eine Warteschlange eingefügt, die Sie steuern.*
+*Wenn Sie auf "Raise Hand" klicken, werden die Gäste in eine Warteschlange eingereiht, die Sie steuern.*
 
-Wenn ein Gast auf diese Schaltfläche klickt, wird er im Teilnahme Bereich angezeigt:
+Wenn ein Gast auf diese Schaltfläche klickt, wird er in Ihrem Teilnahmebereich angezeigt:
 
-![Bereich "Teilnahme" geöffnet mit Gast mit hervorgehobener Hand in Warteschlange](images/host-front-row-img-07.png)
+![Teilnahmebereich mit hervorgehobener Hand in Warteschlange geöffnet](images/host-front-row-img-07.png)
 
-Zur Unterstützung bei der Nachverfolgung zeigt der Bereich für die Teilnahme sogar eine rote Benachrichtigung an, wenn Gäste darauf warten, auf dem Aufruf von zu warten, und Sie können wissen, wie lange die einzelnen Gäste gewartet haben.
+Damit Sie den Überblick behalten können, wird im Teilnahmebereich sogar eine rote Benachrichtigung angezeigt, wenn Gäste darauf warten, aufgerufen zu werden, und sie informiert Sie darüber, wie lange die einzelnen Gäste gewartet haben.
 
-Nun können Sie für Sie durch Klicken auf die Schaltfläche "on-Air + megaphone" aufgerufen werden. Dadurch wird die Schaltfläche nach der Aktivierung aktiviert. Mit dieser Aktion werden zwei Nachrichten an die Hand Raiser gesendet, um zu bestätigen, dass Sie das Mikrofon aufheben dürfen und der Host Sie lauter aufgerufen hat. Sobald Sie angenommen haben, wird die Schaltfläche blau und damit die Schaltfläche "gespiegelt" angezeigt, und ich werde meine Stimme "megaphoned" verstärken, um Sie zu sehen und zu hören!
+Jetzt können Sie sie aufrufen, indem Sie auf die Schaltfläche "On-Air + Megaphone" klicken. Dadurch wird die Schaltfläche nach der Aktivierung blau. Mit dieser Aktion werden zwei Nachrichten an den Hand Raiser gesendet, um zu bestätigen, dass das Mikrofon des Benutzers unveränderlich gemacht werden soll. "Der Host hat sie aufgerufen und sie laut gemacht." Sobald sie akzeptieren, wird die Schaltfläche blau, und dadurch werden sie in der Luft "Gespiegelt" und "Amplify My Voice "Megaphoned" angezeigt, damit alle sehen und hören können!
 
-Wenn Sie mit der Interaktion damit fertig sind, klicken Sie erneut auf die blaue Schaltfläche, um Sie offline zu schalten, die Schaltfläche ist nicht mehr blau, und klicken Sie dann auf das X, um Sie aus der Liste zu schließen. Nun sind Sie bereit für die glückliche Anzahl von zwei, usw. und so weiter:)
+Nachdem Sie die Interaktion mit ihnen abgeschlossen haben, klicken Sie zuerst erneut auf die blaue Schaltfläche, um sie aus der Luft zu entfernen. Die Schaltfläche ist nicht mehr blau, und klicken Sie dann auf das X, um sie aus der Liste zu schließen. Jetzt sind Sie bereit für den 2. Kandidaten usw. und so weiter :)
 
-Sie können Ihnen auch temporären Phasen Zugriff geben, oder klicken Sie auf die Schaltfläche "alles verwerfen", um die Liste der Hand Räuber vollständig zu löschen und neu zu beginnen.
+Sie können ihnen auch temporären Stufenzugriff gewähren oder rechts auf die Schaltfläche Alle verwerfen klicken, um die Liste der Hand Raiser vollständig zu löschen und neu zu beginnen.
 
-## <a name="room-panel"></a>Raum Panel
+## <a name="room-panel"></a>Raumbereich
 
-Verschaffen Sie sich einen kurzen Einblick in die Informationen/Schaltflächen, die Sie zum Verwalten von Räumen während des Front-Service-Ereignisses benötigen:
+Verschaffen Sie sich einen kurzen Überblick über die Informationen/Schaltflächen, die Sie zum Verwalten von Räumen während Ihres FrontRow-Ereignisses benötigen:
 
-![Registerkarte "Räume" im Host Panel geöffnet](images/host-front-row-img-08.png)
+![Registerkarte "Räume" im Hostbereich geöffnet](images/host-front-row-img-08.png)
 
-*Beachten Sie, dass es sich **hier** um den Raum handelt, in dem Sie sich gerade befinden.*
+*Beachten Sie, dass **(Sie sind hier)** steht, d. h. den Raum, in dem Sie sich derzeit befinden.*
 
-Räume verfügen über Schaltflächen zum Zurücksetzen, Löschen von Speicherplatz und erneuten Verteilen von Benutzern und Teleports.
+Räume verfügen über Schaltflächen für "Speicherplatz zurücksetzen", "Speicherplatz löschen", "Benutzer verteilen" und "Teleport":
 
-![Schaltfläche "Zurücksetzen" im Raum Panel hervorgehoben](images/host-front-row-img-09.png)
+![Hervorgehobene Schaltfläche "Speicherplatz zurücksetzen" im Raumbereich](images/host-front-row-img-09.png)
 
-Führt in dem Raum, in dem Sie sich gerade befinden, einen "Reset Space" aus. Sie können keine Leerzeichen für alle Räume gleichzeitig zurücksetzen. Sie müssen zu jedem Raum wechseln, um eine zurück Setzung durchzuführen.
+Führt einen "Speicherplatz zurücksetzen" in dem Raum aus, in dem Sie sich derzeit befinden. Sie können keine Leerzeichen für alle Räume gleichzeitig zurücksetzen. Sie müssen zu jedem Raum reisen, um eine Zurücksetzung durchführen zu können.
 
-![Schaltfläche "Speicherplatz löschen" im Raum Panel hervorgehoben](images/host-front-row-img-10.png)
+![Im Raumbereich hervorgehobene Schaltfläche "Speicherplatz löschen"](images/host-front-row-img-10.png)
 
-Löscht dauerhaft den Raum, in dem Sie sich befinden. Alle Benutzer im gelöschten Raum treten automatisch dem Ereignis bei und treten einem anderen Raum bei.
+Löscht den Raum, in dem Sie sich derzeit befinden, dauerhaft. Alle Benutzer im gelöschten Raum treten dem Ereignis automatisch erneut bei und treten einem anderen Raum bei.
 
-![Schaltfläche "Benutzer neu verteilen" im Raum Panel hervorgehoben](images/host-front-row-img-11.png)
+![Im Raumbereich hervorgehobene Schaltfläche "Benutzer neu verteilen"](images/host-front-row-img-11.png)
 
-Wenn das Front-End-Ereignis für eine Weile aufgetreten ist, sind die ersten Räume in einigen Fällen fast ausgelastet, aber der letzte Raum oder zwei wenige Gäste haben möglicherweise nur eine kleine Anzahl von Gästen pro Raum. Wenn Sie auf diese Schaltfläche klicken, erhalten die Gäste in diesem Raum die Möglichkeit, in Ihrem aktuellen Raum zu bleiben oder zu einem stärker aufgefüllten Raum zu wechseln.
+Manchmal sind die ersten Räume nach dem FrontRow-Ereignis für eine Weile fast ausgelastet, aber das letzte Oder zwei zimmert möglicherweise nur eine kleine Anzahl von Gästen pro Zimmer. Wenn Sie auf diese Schaltfläche klicken, haben die Gäste in diesem Raum die Möglichkeit, in ihrem aktuellen Raum zu bleiben oder zu einem gefüllteren Raum zu gehen.
 
 > [!NOTE]
-> Sie müssen nicht zu dem Raum wechseln, den Sie neu verteilen möchten. Sie können auf die Schaltfläche "Benutzer neu verteilen" in einem beliebigen Raum direkt im Bereich "Räume" klicken. Versuchen Sie nicht, dies zu oft im gleichen Raum auszuführen. die Gäste in diesem Fall möchten Sie vielleicht nur ein paar Personen verwenden und möchten nicht weiter Nachrichten erhalten, in denen Sie zum Verschieben von Räumen aufgefordert werden.
+> Sie müssen nicht zu dem Raum reisen, den Sie neu verteilen möchten. Sie können in jedem Raum direkt im Bereich "Räume" auf die Schaltfläche Benutzer neu verteilen klicken. Versuchen Sie, dies nicht zu oft im selben Raum zu tun. Die Gäste dort möchten möglicherweise nur mit wenigen Personen zusammen sein und möchten möglicherweise keine Nachrichten erhalten, in denen sie aufgefordert werden, Räume zu verschieben.
 
-![Schaltfläche "teleporttyp" im Raum Panel hervorgehoben](images/host-front-row-img-12.png)
+![Die Schaltfläche "Teleport" ist im Raumbereich hervorgehoben.](images/host-front-row-img-12.png)
 
-Auf diese Weise wechseln Sie von einem vorderen Zeilen Raum zu einem anderen. Moderatoren möchten dies verwenden, um von Raum zu Raum zu springen, um die Menschen zu überprüfen. Während der Proben können Sie einen Host, auf dem Luftbild, im primären Raum und den Rest Ihrer Gruppe zu den anderen Räumen wechseln, um zu sehen, wie alles aussieht. Ist alles in den anderen Räumen synchron, und es sieht so aus, als würde es im primären Raum aussehen? Wenn alle Unterstützung für den Test die Hostrolle haben, können Sie auch zu den anderen Räumen wechseln. Sie können alle Benutzer sehen und hören, damit Sie über Räume hinweg miteinander kommunizieren können.
+Auf diese Weise gelangen Sie von einem Vorderzeilenraum in einen anderen. Moderatoren möchten dies verwenden, um von Raum zu Raum zu springen, um die Menschenmenge zu überprüfen. Während der Probe können Sie einen Host (On-Air) im Primären Raum haben und den Rest Ihres Teams zu den anderen Räumen wechseln lassen, um zu sehen, wie alles aussieht. Ist alles in den anderen Räumen synchron und sieht wie im Primären Raum aus? Wenn jeder, der tests unterstützt, über die Hostrolle verfügt, kann er auch zu den anderen Räumen reisen, ins Flugzeug gehen, und Sie können jeden sehen und hören, sodass Sie auf diese Weise über Räume hinweg kommunizieren können.
 
-> [!IMPORTANT]
-> Sie erhalten eine Warnung, wenn Sie versuchen, zu einem leeren Raum zu wechseln: "zusätzlichen Raum öffnen? Durch das teleportieren auf einen leeren Raum wird es auch für andere Personen geöffnet. " **Während ihres tatsächlichen Front-End-Ereignisses müssen Sie und Ihr Ereignis Team alle fünf Minuten vor der Ereignis Start Zeit im primären Raum sein** (die Türen werden 3 Minuten vor der Ereignis Start Zeit geöffnet, um sicher zu sein, Sie sind also fünf Minuten), oder die Gäste, die sich in diesem Fall befinden, werden die Sortierung für den Rest des Ereignisses auslösen.
-
-Das Gefühl ist, das alles auszuprobieren? Sehr gut! Erweitern Sie diese Front TRow-Ereignis Host-Muskeln.
+Möchten Sie alles ausprobieren? Prima! Fahren Sie fort, und strecken Sie diese FrontRow-Ereignishosts.

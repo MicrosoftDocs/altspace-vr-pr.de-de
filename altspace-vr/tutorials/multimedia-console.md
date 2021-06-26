@@ -1,114 +1,118 @@
 ---
-title: Verwenden der Multimedia-Konsole
-description: Erfahren Sie, wie Sie mit der Konfiguration, Veröffentlichung und Steuerung der Multimedia-Konsole in ihren altspacevr-Erfahrungen beginnen.
+title: Verwenden der Multimediakonsole
+description: Erfahren Sie, wie Sie mit dem Konfigurieren, Veröffentlichen und Steuern der Multimediakonsole in Ihren AltspaceVR-Funktionen beginnen.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: Konsole, Multimedia
-ms.openlocfilehash: 601328eb6f266dbcfc9d81fc4f1c2d09ac62b318
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 4a51ff76e44d3870972bc17288ae77c1fa888922
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212236"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923007"
 ---
-# <a name="using-the-multimedia-console"></a>Verwenden der Multimedia-Konsole
+# <a name="using-the-multimedia-console"></a>Verwenden der Multimediakonsole
 
-Die Multimedia-Konsole ist ein Tool, das die Medien Freigabe in Ereignissen und Welten ermöglicht. Sie können Sie verwenden, um Dinge wie Bilder, Präsentationsfolien, Livestreams, Videos, Wiedergabelisten usw. gemeinsam zu nutzen. Im folgenden finden Sie eine Schritt-für-Schritt-Anleitung zur Verwendung der Multimedia Console **v 0.5.0 +**. 
+Die Multimediakonsole ist ein Tool, das die Medienfreigabe in Ereignissen und Welten ermöglicht. Sie können damit u. a. Bilder, Präsentationsfolien, Livestreams, Videos, Wiedergabelisten und vieles mehr freigeben. Im Folgenden finden Sie eine schrittweise Anleitung zur Verwendung der Multimedia-Konsole **v0.5.0+**. 
 
 ## <a name="getting-started"></a>Erste Schritte
 
-Die ersten Schritte mit der Multimedia-Konsole sind ein zwei teilige Prozess.  Zuerst wird das Webportal verwendet, mit dem Sie eine Konfiguration für die Multimedia-Konsolen Sitzung generieren und veröffentlichen können, die Sie in Ihrer Umgebung platzieren.  Zweitens ist die Platzierung der eigentlichen Multimedia-Konsolen-app in Ihrer Umgebung und das Festlegen des zu verwendenden Konfigurations Codes.
+Die ersten Schritte mit der Multimediakonsole sind ein zweiteiler Prozess.  Zuerst gibt es das Webportal, mit dem Sie eine Konfiguration für die Multimediakonsolensitzung generieren und veröffentlichen, die Sie in Ihrer Umgebung platzieren.  Das zweite ist die Platzierung der eigentlichen Multimediakonsolen-App in Ihrer Umgebung und das Festlegen des Konfigurationscodes, den sie verwenden soll.
 
-### <a name="configuring-the-multimedia-console-with-the-web-portal"></a>Konfigurieren der Multimedia-Konsole mit dem Webportal
+### <a name="configuring-the-multimedia-console-with-the-web-portal"></a>Konfigurieren der Multimediakonsole mit dem Webportal
 
-1. Zunächst müssen Sie sicherstellen, dass Ihre Inhalte online gehostet werden, da Sie eine URL benötigen. (Sie können Fotos in altvr.com hochladen, eine Video-MP4-Datei Online hosten oder den Link Twitch Live Stream verwenden: https://www.twitch.tv/ninja) 
-2. Navigieren Sie zum Webportal für die Multimedia-Konsole unter. [https://multimedia-console.altvr.com/](https://multimedia-console.altvr.com/)
-3. Über das Webportal können Sie eine Konfiguration für die Multimedia-Konsole generieren und veröffentlichen.  (Weitere Informationen zu den verschiedenen Eigenschaften finden Sie unten.)
-4. Nachdem Sie das Medium in die Medien Liste eingegeben und die allgemeinen Einstellungen konfiguriert haben, wählen Sie im oberen rechten Bereich der APP die Schaltfläche veröffentlichen aus.
-5. Sobald die Veröffentlichung abgeschlossen ist, wird ein Dialogfeld mit einem zwei Word-Code angezeigt, in dem Sie die von Ihnen eingestellte Multimedia-Konsole eingeben können.
+1. Zunächst müssen Sie sicherstellen, dass Ihre Inhalte online gehostet werden, da Sie eine URL benötigen. (Sie können Fotos in altvr.com hochladen, ein Video .mp4 Datei online hosten oder einen Dlive-Livestreamlink verwenden: https://dlive.tv/yourlivestream) 
+2. Navigieren Sie zum Webportal für die Multimediakonsole unter . [https://multimedia-console.altvr.com/](https://multimedia-console.altvr.com/)
+3. Über das Webportal können Sie eine Konfiguration für die Multimediakonsole generieren und veröffentlichen.  (Weitere Informationen zu den verschiedenen Eigenschaften finden Sie unten.)
+4. Nachdem Sie die Medien in die Medienliste eingegeben und die allgemeinen Einstellungen konfiguriert haben, wählen Sie oben rechts in der App die Schaltfläche Veröffentlichen aus.
+5. Sobald die Veröffentlichung abgeschlossen ist, wird ein Dialogfeld mit einem Zwei-Wort-Code angezeigt, den Sie in die von Ihnen platzierte Multimediakonsole eingeben können.
   
-### <a name="placing-the-multimedia-console-in-your-environment"></a>Platzieren der Multimedia-Konsole in Ihrer Umgebung
+### <a name="placing-the-multimedia-console-in-your-environment"></a>Platzieren der Multimediakonsole in Ihrer Umgebung
 
-1. Wählen Sie auf der **Welt-Editor > Editor Panel > SDK-apps > Multimedia Console** aus. (Wechseln Sie nicht zum **Welt-Editor > Grundlagen > SDK-App**, die für nicht registrierte Apps steht.)  
-2. Positionieren Sie die Multimedia-Konsole, um ihren Platz und Ihre Zielgruppe am besten zu platzieren
-3. Klicken Sie auf die Schaltfläche orangefarbener Bearbeitungsmodus, um den Bearbeitungsmodus zu verlassen.
-4. Sie werden gefragt, dass **Sie der Media Player-Besitzer sind?** Wenn Sie die Person sind, die der offizielle Besitzer dieser Multimedia-Konsolen Sitzung sein soll, bestätigen Sie den Vorgang, und fahren Sie fort. (Es sind auch weitere Rollen bezogene Rollen verfügbar. Eine ausführliche Liste finden Sie unten.)
-5. Wählen Sie ja aus, um zu bestätigen, dass Sie der primäre Host sind.  
-6. Daraufhin wird ein Dialogfeld angezeigt, in dem Sie aufgefordert werden, einen Code aus dem Webportal oder aus einem gültigen JSON-Code einzugeben.  Geben Sie den beiden Wort Code aus dem Webportal ein, einschließlich des Bindestrichs, und drücken Sie OK. (JSON ist eine erweiterte Konfiguration, die unten beschrieben ist.)
-7. Die Multimedia-Konsole sollte nach einigen Sekunden mit der Konfiguration geladen werden, die Sie im Webportal erstellt haben.
+1. Wählen Sie **> Editor-Bereich > SDK-Apps > Multimedia-Konsole** die Option World Editor aus. (Wechseln Sie nicht zu **World Editor > Basics > SDK-App**, die für nicht registrierte Apps gilt.)  
+2. Positionieren Sie die Multimediakonsole so, dass Ihr Raum und Ihre Zielgruppe am besten geeignet sind.
+3. Wechseln Sie aus dem Bearbeitungsmodus, indem Sie auf die orangefarbene Schaltfläche Edit Mode (Bearbeitungsmodus) klicken.
+4. Sie werden **gefragt, sind Sie der Besitzer des Media Player?** Wenn Sie die Person sind, die der offizielle Besitzer dieser Multimediakonsolensitzung sein soll, bestätigen Sie dies, und fahren Sie fort. (Weitere rollenberechtigungen sind ebenfalls verfügbar. Eine ausführliche Liste finden Sie unten.)
+5. Wählen Sie Ja aus, um zu bestätigen, dass Sie der primäre Host sind.  
+6. Es sollte ein Dialogfeld angezeigt werden, in dem Sie aufgefordert werden, einen Code aus dem Webportal oder gültigen JSON-Code einzugeben.  Geben Sie den Zwei-Wort-Code aus dem Webportal ein, einschließlich des Bindestrichs, und drücken Sie OK. (JSON ist eine weiter unten beschriebene erweiterte Konfiguration.)
+7. Die Multimediakonsole sollte nach einigen Sekunden mit der Konfiguration geladen werden, die Sie im Webportal erstellt haben.
 
-### <a name="controlling-the-multimedia-console"></a>Steuern der Multimedia-Konsole
+### <a name="controlling-the-multimedia-console"></a>Steuern der Multimediakonsole
 
-1. Nachdem Sie den Code eingegeben und den Konfigurationsprozess fertiggestellt haben, werden die Kontroll Schaltflächen unterhalb einer Medien Anzeige angezeigt. 
-    * Wiedergeben startet den Media Viewer ( **oder startet beim** aktuellen Eintrag neu, wenn er zuvor beendet wurde). 
-    * **Beenden** beendet die Medien Anzeige und blendet die aktuellen Medien aus.  
-    * **Next/Prev** springt auf das nächste oder vorherige Medium. 
-    * **x/x**   zeigt den aktuellen Index in der Medien Liste an und ermöglicht es Ihnen, zu einem beliebigen Punkt in der Liste zu springen.
-    * **Config** ermöglicht das erneute Eingeben eines neuen Codes aus dem Webportal, um eine neue Konfiguration in der-Konsole festzulegen. 
+1. Nachdem Sie Ihren Code eingegeben und den Konfigurationsprozess abgeschlossen haben, werden Steuerelementschaltflächen unterhalb einer Medienanzeige angezeigt. 
+    * **Wiedergabe** startet den Medien-Viewer (oder startet beim aktuellen Eintrag neu, falls er zuvor beendet wurde) 
+    * **Beenden** beendet die Medienanzeige und blendet aktuelle Medien aus.  
+    * **Next/Prev** überspringt das nächste oder vorherige Medium. 
+    * **x/x**   zeigt den aktuellen Index in der Medienliste an und ermöglicht es Ihnen, zu einem beliebigen Punkt in der Liste zu springen.
+    * **Die Konfiguration** ermöglicht das erneute Eingeben eines neuen Codes aus dem Webportal, um eine neue Konfiguration in der Konsole festzulegen. 
 
-Nun haben Sie festgelegt, dass Sie über die Multimedia-Konsole mit der Freigabe beginnen!  
+Jetzt können Sie mit der Freigabe über die Multimediakonsole beginnen.  
  
 ## <a name="working-with-the-web-portal"></a>Arbeiten mit dem Webportal
 
-Das Webportal ist eine Web-App, die die Konfiguration der verschiedenen Features der Multimedia-Konsole ermöglicht.  Diese Funktionen sind in zwei Kategorien unterteilt: Allgemeine Medien Konsolen Einstellungen und die Liste der Medienwiedergabe.
+Das Webportal ist eine Web-App, mit der die verschiedenen Funktionen der Multimediakonsole konfiguriert werden können.  Diese Features lassen sich in zwei Kategorien unterteilen: Allgemeine Medienkonsoleneinstellungen und die Medienwiedergabeliste.
 
-### <a name="multimedia-console-general-settings"></a>Allgemeine Einstellungen der Multimedia-Konsole
+### <a name="multimedia-console-general-settings"></a>Allgemeine Einstellungen der Multimediakonsole
 
 **Wiedergabeeinstellungen**
 
-Allgemeine Wiedergabe Einstellungen für die Medien Liste
+Allgemeine Wiedergabeeinstellungen für die Medienliste
 
-* **Schleifen Medien Liste**: bestimmt, ob die Medien Liste eine Schleife durchlaufen soll, sobald Sie das Ende der Liste erreicht haben.
-* **Start Methode** : wählt die Methode aus, mit der die Multimedia-Konsole gestartet werden soll.
-    * Manuell: wartet, bis die Wiedergabe Schaltfläche gedrückt wird, bevor die Medien gestartet werden.
-    * Automatischer Start von Anfang an: Automatisches Starten der Medien Liste am Anfang der Liste
-    * Automatisches Starten von Random: Automatisches Starten des Mediums von einem zufälligen Startpunkt in der Liste
+* **Schleifenmedienliste:** Bestimmt, ob die Medienliste eine Schleife durchlaufen soll, sobald Sie das Ende der Liste erreicht haben.
+* **Methode starten:** Wählt die Methode aus, mit der die Multimediakonsole gestartet werden soll.
+    * Manuell: Wartet, bis die Wiedergabeschaltfläche gedrückt wird, bevor das Medium gestartet wird.
+    * Automatisch von Anfang starten: Starten Sie die Medienliste automatisch am Anfang der Liste.
+    * Auto Start Random : Startet die Medien automatisch von einem zufälligen Startpunkt in der Liste
 
 **Rollen**
 
-Rollenzuweisungen zum Steuern und Konfigurieren der Multimedia-Konsole.    Diese Rollen sind in den folgenden Satz untergliedert:
+Rollenzuweisungen zum Steuern und Konfigurieren der Multimediakonsole.    Diese Rollen sind in folgende Gruppe unterteilt:
 
-* **Nur Besitzer** : der Benutzer, der Besitzer der Multimedia-Konsolen Sitzung ist.
-* **Erhöhte Benutzer** : Benutzer, die über Moderator-, Host-oder präsentatorrollen im Bereich verfügen, in dem die Multimedia-Konsole ursprünglich konfiguriert ist
-* **Alle Benutzer** -alle Benutzer
+* **Nur Besitzer:** Der Benutzer, der Besitzer der Multimediakonsolensitzung ist
+* Benutzer mit **erhöhten Rechten:** Benutzer mit Moderator- oder Hostrollen in dem Bereich, in dem die Multimediakonsole ursprünglich konfiguriert wurde
+* **Alle Benutzer** – Alle Benutzer
 
-Diese Rollen Stapeln in dem Sinn, dass alle Rollen oberhalb der in dieser Liste ausgewählten Rollen auch die Berechtigung zur Verwendung dieses Features erhalten.  Beispiel: **Benutzer mit erhöhten** rechten enthalten den **Besitzer** , auch wenn Sie kein Moderator, Host oder Presenter * * in altspacevr sind. Folgende Features werden durch Rollenzuweisungen gesteuert:
+Diese Rollen stapeln sich in dem Sinne, dass allen Rollen, die über der in dieser Liste ausgewählten Rolle liegen, auch die Berechtigung zum Verwenden dieses Features erteilt wird.  Beispiel: Benutzer mit **erhöhten Rechten** enthalten den **Besitzer,** auch wenn sie kein Moderator oder Host** in AltspaceVR sind. Funktionen, die durch Rollenzuweisungen gesteuert werden, sind wie folgt:
 
-* **Kann Media Player Steuern** : legt fest, welche Rollen die Medienwiedergabe Schaltflächen für die Multimedia-Konsole steuern können.
-* **Kann den Media Player konfigurieren** : legt fest, welche Rollen die Multimedia-Konsole konfigurieren können, indem Sie Zugriff auf die **Konfigurations** Schaltfläche erhält.
+* **Kann den Medienplayer steuern:** Bestimmt, welche Rollen die Medienwiedergabeschaltflächen für die Multimediakonsole steuern können.
+* **Kann den Media Player konfigurieren:** Bestimmt, welche Rollen die Multimediakonsole konfigurieren können, indem Zugriff auf die Schaltfläche **"Konfiguration"** gewährt wird.
 
-### <a name="adding-photos-and-videos-to-the-media-list"></a>Hinzufügen von Fotos und Videos zur Medien Liste
+### <a name="adding-photos-and-videos-to-the-media-list"></a>Hinzufügen von Fotos und Videos zur Medienliste
 
-Medien sind das Herzstück der Multimedia-Konsole.  Bilder und Video Links werden als Medientypen in der Multimedia-Konsole unterstützt.  Wenn Sie neue Medien hinzufügen möchten, wählen Sie entweder die Symbole **Bild hinzufügen** oder **Video hinzufügen** aus, um ein Dialogfeld zum Eingeben der Medieninformationen und-Einstellungen anzuzeigen.  Im folgenden finden Sie eine Aufschlüsselung der Medientypen und der zugehörigen Einstellungen.
+Medien sind das Kernstück der Multimediakonsole.  Bilder und Videolinks werden in der Multimediakonsole als Medientypen unterstützt.  Um neue Medien hinzuzufügen, wählen Sie entweder das Symbol **Bild hinzufügen** oder **Video hinzufügen** aus, damit ein Dialogfeld angezeigt wird, in dem die Medieninformationen und -einstellungen eingegeben werden.  Im Folgenden finden Sie eine Aufschlüsselung der Medientypen und der zugehörigen Einstellungen.
 
 **Image**
 
-Bilder sollten ein Standard Bildtyp wie JPEG, PNG und Son in sein. Sie müssen an einem Ort mit einer öffentlichen Verknüpfung gehostet werden.
+Bilder sollten ein Standardbildtyp wie jpeg, png und son on sein. Sie müssen an einem Ort mit einem öffentlichen Link gehostet werden.
 
-* **Name** (erforderlich) Name, mit dem Sie das Bild identifizieren möchten.
-* **Bild-URL** -(erforderlich) die öffentliche URL des Bilds
-* Über **springen nach** : die Anzahl der Sekunden, nach der das Bild ausgelassen werden soll.
+* **Name:** (Erforderlich) Der Name, mit dem Sie das Bild identifizieren möchten.
+* **Bild-URL** – (erforderlich) Die öffentliche URL des Bilds
+* **Überspringen nach:** Die Anzahl von Sekunden, nach der das Bild übersprungen werden soll
 
 **Video**
 
-Videos können mithilfe von Twitch und dlive als gehostete Videos oder Livestreams angezeigt werden.  (Andere Unterstützung kann mit zusätzlicher Arbeit funktionieren, um die richtige Stream-URL zu erhalten, wird jedoch in der Multimedia-Konsole nicht vollständig unterstützt.)
+Videos können über Twitch und DLive gehostet werden.  (Andere Unterstützung kann mit zusätzlichem Aufwand funktionieren, um die richtige Stream-URL abzurufen, wird jedoch nicht vollständig in der Multimediakonsole unterstützt.)
 
-* **Name** (erforderlich) der Name, mit dem Sie das Video identifizieren möchten.
-* **Video-URL** : (erforderlich) die öffentliche URL, unter der das Video gehostet wird, oder der Livestream wird von bereitgestellt.
-* Über **springen nach** : die Anzahl der Sekunden, nach der das Video übersprungen werden soll.
-* **Volume** : das Volume des Videos von 0 (min.)-1 (max)-Werten.
-* **Startzeit** : die Anzahl von Sekunden ab dem Beginn des Videos ab.
-* **Start Distanz ausschalten** : die Distanz in Meter der Welt, an der das Volume beginnt, wenn Sie von der Multimedia-Konsole Weg wechseln.
-* **Ende der Video Aktion** : die Aktion, die nach dem Ende des Videos ausgeführt wird, wird erreicht.
-    * Beenden: die Medien Liste wird beendet, nachdem das Video beendet wurde.
-    * Schleife: das Video führt eine Schleife aus, bis es manuell übersprungen wird
-    * Weitergeben: das nächste Medium in der Medien Liste wird nach dem Ende des aktuellen Videos gestartet.
+* **Name:** (Erforderlich) Der Name, mit dem Sie das Video identifizieren möchten.
+* **Video-URL** : (Erforderlich) Die öffentliche URL, unter der das Video gehostet wird oder von der aus der Livestream bereitgestellt wird.
+* **Überspringen nach** : Die Anzahl von Sekunden, nach der das Video übersprungen werden soll
+
+> [!NOTE]
+> ERFORDERLICH: Geben Sie die Zeit ein, die der Länge des Videos entspricht, damit Videos ordnungsgemäß weitergeleitet werden können. Wenn Ihr Video beispielsweise 5 Minuten lang ist, legen Sie 300 Sekunden ein, andernfalls wird Ihr Video nicht mit dem nächsten Inhaltsteil übersprungen.
+
+* **Volume:** Das Videovolumen von 0 (min) bis 1 (max) Werten.
+* **Startzeit:** Die Anzahl von Sekunden ab dem Anfang des Videos.
+* **Roll Off Start Distance** :Die Entfernung in Metern auf der Welt, bei der das Volumen abfällt, wenn Sie sich von der Multimediakonsole wegbewegt haben.
+* **Videoendeaktion:** Die Aktion, die nach Erreichen des Videoendes erfolgen soll.
+    * Beenden: Die Medienliste wird beendet, nachdem das Video beendet wurde.
+    * Schleife: Das Video führt eine Schleife durch, bis es manuell übersprungen wird.
+    * Weiter wiedergeben: Die nächsten Medien in der Medienliste werden gestartet, nachdem das aktuelle Video beendet wurde.
 
 ## <a name="working-with-json-directly-advancedoptional"></a>Direktes Arbeiten mit JSON (erweitert/optional)
 
-Die Multimedia-Konsole unterstützt die direkte Eingabe von JSON in die Eingabeaufforderung der Konsole in altspacevr.  JSON ist der interne Mechanismus, mit dem wir die Media Player-Konfigurationen aktivieren. Die Möglichkeit, JSON direkt festzulegen, ist eine Möglichkeit, mit der Erweiterte Benutzer ihre eigenen Workflows erstellen können, die Ihre Bedürfnisse und Vertrautheit mit JSON Auflistungen gestalten.  Im folgenden finden Sie eine kurze Beschreibung der JSON-Struktur und des Schemas, mit dem der JSON-Code überprüft wird. Ausführlichere Beschreibungen der unten aufgeführten Eigenschaften finden Sie in den obigen Abschnitten, in denen die Konfiguration der Multimedia-Konsole erläutert wird.  Dieser Abschnitt konzentriert sich hauptsächlich auf die Schema Beispiele und die Strukturierung der JSON-Daten.
+Die Multimediakonsole unterstützt das direkte Eingeben von JSON in die Eingabeaufforderung der Konsole in AltspaceVR.  JSON ist der interne Mechanismus, mit dem Media Player-Konfigurationen aktiviert werden. Die Möglichkeit, JSON direkt festzulegen, ermöglicht es erweiterten Benutzern, ihre eigenen Workflows zu erstellen, die ihre Anforderungen erfüllen und mit JSON vertraut sind.  Es folgt eine kurze Beschreibung der JSON-Struktur und des Schemas, nach dem der JSON-Code überprüft wird. Ausführlichere Beschreibungen der folgenden Eigenschaften finden Sie in den obigen Abschnitten zum Konfigurieren der Multimediakonsole.  Dieser Abschnitt konzentriert sich hauptsächlich auf die Schemabeispiele und die Strukturierung für die JSON-Daten.
 
-### <a name="global-media-settings"></a>Globale Medien Einstellungen
+### <a name="global-media-settings"></a>Globale Medieneinstellungen
 
 ```json
 {
@@ -120,13 +124,13 @@ Die Multimedia-Konsole unterstützt die direkte Eingabe von JSON in die Eingabea
 }
 ```
 
-### <a name="media-list"></a>Medien Liste
+### <a name="media-list"></a>Medienliste
 
-Die Medien Liste ist eine Eigenschaft, die im Stammverzeichnis der JSON-Struktur wie die Rollen und Wiedergabe Einstellungen festgelegt ist.  Dabei handelt es sich um ein einfaches Array, das eine der folgenden Medien Konfigurations Strukturen enthalten kann. (Ausführliche Informationen zu den einzelnen Funktionen finden Sie in den oben aufgeführten Eigenschaften Beschreibungen.)
+Die Medienliste ist eine Eigenschaft, die im Stammverzeichnis der JSON-Struktur festgelegt ist, z. B. Rollen und Wiedergabeeinstellungen.  Es ist ein einfaches Array, das eine der folgenden Medienkonfigurationsstrukturen enthalten kann. (Ausführliche Informationen zu den einzelnen Eigenschaften finden Sie oben in den Eigenschaftenbeschreibungen.)
 
 **Bildbeispiel**
 
-*Erforderliche Felder: "Name" und "ImageUrl"*
+*Erforderliche Felder: "name" und "imageUrl"*
 
 ```json
 {
@@ -136,9 +140,9 @@ Die Medien Liste ist eine Eigenschaft, die im Stammverzeichnis der JSON-Struktur
 }
 ```
 
-**Video Beispiel**
+**Videobeispiel**
 
-*Erforderliche Felder: "Name" und "videourl"*
+*Erforderliche Felder: "name" und "videoUrl"*
 
 ```json
 {
@@ -316,4 +320,4 @@ Die Medien Liste ist eine Eigenschaft, die im Stammverzeichnis der JSON-Struktur
 ```
 
 > [!NOTE]
-> Auf dem neuesten Stand mit der Multimedia Console v 0.5.0
+> Aktuelle Version von Multimedia Console v0.5.0

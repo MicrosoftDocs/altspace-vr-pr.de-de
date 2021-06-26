@@ -1,62 +1,48 @@
 ---
-title: Gewähren von Welt Rollen
-description: Erfahren Sie mehr über das System "Rollen und Fähigkeiten" und erhalten Sie Schritt-für-Schritt-Anleitungen für die Bereitstellung von Benutzern in ihren altspacevr-Welten.
-ms.date: 03/11/2021
+title: Gewähren von World-Rollen
+description: Erfahren Sie mehr über das Rollen- und Fähigkeitssystem, und erhalten Sie schritt-für-Schritt-Anweisungen zum Zuweisen von Rollen für Benutzer in Ihren AltspaceVR-Welten.
+ms.date: 04/14/2021
 ms.topic: article
 keywords: roles
-ms.openlocfilehash: f8cd55fbd8ede6cedd199724a3e6b2413c5bc3e6
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 3a1d0f138b29fe545f52d851ff00062f156a860e
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212200"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923192"
 ---
-# <a name="granting-world-roles"></a>Gewähren von Welt Rollen
+# <a name="granting-world-roles"></a>Gewähren von World-Rollen
 
-In "altspace" ist ein System für Rollen und Fähigkeiten fest. Jede Person kann über mehrere Rollen verfügen, und ihre Rollen können abhängig davon, wo Sie sich befinden, unterschiedlich sein. Jede Rolle bietet Ihnen wiederum eine oder mehrere Funktionen. Wenn Sie sich z. b. in Ihrem eigenen Ereignis befinden, erhalten Sie automatisch die **Presenter** -und **Moderator** -Rollen. Mit diesen beiden Rollen können Sie unruly-Benutzer starten, sich in der Phase befinden und das-Programm möglicherweise freigeben. 
+Altspace verfügt über ein Rollen- und Fähigkeitssystem. Jede Person kann über mehrere Rollen verfügen, und ihre Rollen können sich je nach Ihrem Ort unterscheiden. Jede Rolle wiederum bietet Ihnen eine oder mehrere Fähigkeiten. Wenn Sie sich beispielsweise in Ihrem eigenen Ereignis sind, erhalten Sie automatisch die **Host-** und **Moderatorrollen.** Mit diesen beiden Rollen können Sie unbändige Benutzer starten, auf der Stage sein und die Conf conf zu veröffentlichen.
 
-1. Bearbeiten Sie Ihre Welt, und Scrollen Sie nach unten zum Abschnitt **in VR** ([Verwalten von Welten](managing-worlds.md)).
+1. Bearbeiten Sie Ihre Welt, und sehen Sie sich die rechte Spalte für **Kontextrollen** [(Verwalten von Welten) an.](managing-worlds.md)
 
-![Ändern von Rollen im VR-Abschnitt der Welten](images/granting-roles.png)
+![Ändern von Rollen im Abschnitt "Kontextrollen" von Welten](images/granting-roles.png)
 
-2. Bearbeiten Sie das Feld " **Rollen** ", wenn Sie bestimmten Benutzern bestimmte Rollen nur für diese Welt gewähren möchten. Wenn Sie z. b. **Presenter**  +  **Moderator** und Calen **Moderator** geben möchten, fügen Sie Folgendes hinzu, und wählen Sie **Speichern** aus. Das Format ist in jeder Zeile " **{Role}", "{username" oder "Email}** ". Beim Benutzernamen wird die Groß-/Kleinschreibung 
+2. Klicken **Sie im Feld** **Kontextrollen** auf Benutzer hinzufügen, wenn Sie bestimmten Benutzern nur für diese Welt bestimmte Rollen zuweisen möchten. Wenn Sie mir z. B. host moderator **geben** möchten, fügen Sie  +  den oben genannten hinzu, und wählen Sie **Speichern aus.** Das Format ist **Benutzername,** bei Benutzername wird die Groß-/Kleinschreibung nicht beachtet. Wählen Sie die Rolle im Dropdownmenü **Terraformer** aus, klicken Sie mehrmals auf Benutzer hinzufügen, um weitere Benutzer hinzuzufügen, und klicken Sie dann **auf Aktualisieren.**
 
-```
-presenter,jimmy
-moderator,jimmy
-moderator,calen
-```
+* Damit die Änderung in Altspace wirksam wird, sollten Sie "Space the world" zurücksetzen, um alle Benutzer zu zwingen, wieder dabei zu sein oder jeden Benutzer mit einer neuen Rolle wieder in die Welt zu nehmen.
 
-3. Wenn Sie erneut **Bearbeiten** auswählen, sollte Folgendes über dem Feld Rollen angezeigt werden. So haben Sie in der Datenbank aktualisiert.
-
-```
-Presenters: jimmy
-Moderators: jimmy,calen
-```
-
-* Damit die Änderungen in altspace wirksam werden, sollten Sie die Welt zurücksetzen und alle wiederherstellen. Unten finden Sie eine vollständige Liste der Rollen.
-
-4. Bearbeiten Sie das Feld " **Kontext Rollen** ", wenn Sie jeder Rolle, die der Welt Beitritt, eine Rolle erteilen möchten. Wenn Sie z. b. möchten, dass die Benutzer das Megafon ausführen und das Megafon verwenden können
+3. Bearbeiten Sie **das Feld Standardmäßige** kontextbezogene Rollen im Abschnitt **In VR,** wenn Sie jeder Rolle, die Ihrer Welt beitritt, eine Rolle zuweisen möchten. Wenn Sie z. B. personen das Megaphone zum Fliegt und verwenden möchten, damit sie sich im fernen Teil hören können, fügen Sie Folgendes hinzu:
 
 ```
 pilot,megaphone_only
 ```
 
-Nachdem Sie **Aktualisieren** ausgewählt haben, setzen Sie die Welt zurück. Dies wirkt sich nur auf diese Welt aus. Wenn Sie Rollen einem gesamten Universum zuweisen möchten, bearbeiten Sie die gleichen Felder im Universum. 
+Nachdem Sie Aktualisieren **ausgewählt haben,** setzen Sie den Speicherplatz in der Welt zurück. Dies wirkt sich nur auf diese Welt aus. Wenn Sie einem gesamten Universe Rollen zuweisen möchten, bearbeiten Sie die gleichen Felder im Universe. Dasselbe gilt für Ereignisse. Wenn Sie möchten, dass alle Benutzer in Ihrem Ereignis über diese Rollen verfügen, müssen Sie diese zu den **Standardkontexrollen** des Ereignisses selbst hinzufügen.
 
-## <a name="roles"></a>Rollen 
+## <a name="roles"></a>Rollen
 
-* **Presenter** -Funktionen wie die Bereitstellung auf der Stufe
-* **Moderator** : Funktionen wie " **Kick** " zur Wartung von Decorum
-* **Terraex** -Möglichkeit zur Verwendung des World-Editors
-* **Pilot Projekt** : Möglichkeit zum Umschalten des laufenden Modus und zum Erzeugen des 6DOF-Flight-Tools
-* **Megaphone_only** die Möglichkeit, in den Ohren von Benutzern zu sprechen, wo Sie sich auf der Welt befinden
-* **Showcase_new_sdk** Fähigkeit, MRE SDK-apps zu erzeugen
+* **Megaphone_only:** Möglichkeit, überall auf der Welt in die Menschen zu sprechen
+* **Moderator:** Fähigkeiten wie **"Kick"** zum Verwalten des Anstands
+* **Pilot:** Möglichkeit zum Umschalten des Flymodus und Zum Erstellen des 6DOF-Flugtools
+* **Host:** Fähigkeiten wie die Möglichkeit, auf der Stage zu sein, megaphone
+* **Terraformer:** Möglichkeit, den World Editor zu verwenden Weitere Informationen zu ( Rollen in Ereignissen, Welten, Gruppen und [in AltspaceVR](../getting-started/roles.md))
 
 ## <a name="troubleshooting"></a>Problembehandlung
 
 **Kann ich Rollen löschen?**
-Nicht aus dem Formular zurzeit können Sie eine Supportanfrage unter Help.altvr.com, und wir kümmern uns um die Datei.
+Ja, bearbeiten Sie Ihre Welt, klicken Sie **unterhalb** der Rolle, die Sie löschen möchten, auf Entfernen, und klicken Sie auf **Aktualisieren.**
 
-**Werden die Rollen kopiert, wenn eine Welt aus einer anderen importiert wird?**
+**Werden Rollen kopiert, wenn eine Welt aus einer anderen importiert wird?**
 Nein, Rollen werden nicht kopiert.

@@ -1,33 +1,39 @@
 ---
-title: Gewusst wie meine Client Protokolle hochladen?
-description: Informieren Sie sich über die verfügbaren Client Protokoll Felder und über das Hochladen von Client Protokollen, wenn Probleme mit altspacevr auftreten.
+title: Gewusst wie meine Clientprotokolle hoch?
+description: Erfahren Sie mehr über die verfügbaren Clientprotokollfelder und wie Sie Clientprotokolle hochladen, wenn Probleme mit AltspaceVR vorliegen.
 ms.date: 02/10/2021
 ms.topic: article
-keywords: Client Protokolle
-ms.openlocfilehash: 82b45859bcfb9dec6f9b7690637ec0a9e497a8dd
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: Clientprotokolle
+ms.openlocfilehash: e2fe1ea8b8070ca4c7d290269974610ce84f9cea
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213142"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923167"
 ---
-# <a name="how-do-i-upload-my-client-logs"></a>Gewusst wie meine Client Protokolle hochladen?
+# <a name="how-do-i-upload-my-client-logs"></a>Gewusst wie meine Clientprotokolle hoch?
 
-Die Anwendung "altspacevr" speichert ein Protokoll der Diagnosedaten und Ereignisse, die während der Verwendung von "altspacevr" auftreten. Im Rahmen der Problembehandlung werden Sie möglicherweise aufgefordert, ihre Protokolle zu "hochladen", damit das Team Sie überprüfen kann. Dies ist ein Feature von "altspacevr", mit dem Sie unser Team Ihren lokalen Protokoll Inhalt senden können, um uns bei der Problembehandlung zu unterstützen.
+Die AltspaceVR-Clientanwendung speichert ein Protokoll mit Diagnosedaten und Ereignissen, die während der Verwendung von AltspaceVR auftreten. Im Zuge der Problembehandlung werden Sie möglicherweise aufgefordert, "Ihre Protokolle hochzuladen", damit unser Team sie überprüfen kann. Dies ist ein Feature von AltspaceVR, mit dem Sie ihrem Team Ihre lokalen Protokollinhalte senden können, um uns bei der Problembehandlung zu unterstützen.
 
-## <a name="in-altspacevr"></a>In altspacevr
+## <a name="in-altspacevr"></a>In AltspaceVR
 
-Navigieren Sie zum Hochladen von Client Protokollen in altspacevr zum **Menü "Einstellungen** ", und wählen Sie in der linken Navigationsleiste **Unterstützung** aus. Mehrere Optionen zum Hochladen von Protokollen sind hier verfügbar, wie im folgenden Screenshot zu sehen.
+Navigieren Sie zum Hochladen von Clientprotokollen in AltspaceVR zum **Einstellungsmenü,** und wählen Sie **in** der linken Navigationsleiste Support aus. Hier sind mehrere Optionen zum Hochladen von Protokollen verfügbar, wie im folgenden Screenshot gezeigt.
 
-![Menü "Einstellungen" mit hervorgehobenem Öffnungs-und Protokollfeld](images/help-altvr-uploadlogs.png)
+![Menü "Einstellungen" mit geöffneten Supportbereichen und hervorgehobenen Protokollfeldern](images/help-altvr-uploadlogs.png)
 
 ## <a name="fields"></a>Felder
 
 **"Was ist schief gelaufen?"**
-Beschreiben Sie, was passiert ist. Wenn Sie z. b. einen Fehler finden, beschreiben Sie, was Sie im Gegensatz zu den tatsächlich Vorgängen erwartet haben. Diese Informationen werden zusammen mit dem Protokoll gesendet, wenn Sie auf Hochladen klicken.
+Beschreiben Sie, was passiert ist. Wenn Sie z. B. einen Fehler finden, beschreiben Sie, was sie erwartet haben, im Gegensatz zu dem, was tatsächlich passiert ist). Diese Informationen werden zusammen mit dem Protokoll gesendet, wenn Sie den Upload drücken.
 
-**"Protokolle hochladen"** Mit dieser Schaltfläche werden Protokolle aus der aktuellen Sitzung hochgeladen. Verwenden Sie diese Option, wenn Sie ein Problem in derselben Sitzung finden (z. b. Wenn Sie den altspacevr-Client nicht geschlossen haben) und ihn melden möchten.
+**"Protokolle hochladen"** Diese Schaltfläche lädt Protokolle aus der aktuellen Sitzung hoch. Verwenden Sie diese Option, wenn Sie in derselben Sitzung ein Problem finden (z. B. wenn Sie den AltspaceVR-Client nicht geschlossen haben) und ihn melden möchten.
 
-**"Letzte Protokolle hochladen"** Mit dieser Schaltfläche werden Protokolle aus der vorherigen Sitzung hochgeladen.
+**"Upload Last Logs" (Letzte Protokolle hochladen)** Diese Schaltfläche lädt Protokolle aus der vorherigen Sitzung hoch.
 
-**"Letztes Absturz Protokoll hochladen"** Mit dieser Schaltfläche werden weitere Protokoll Inhalte aus dem neuesten Absturz hochgeladen.
+**"Upload Last Crash Log" (Letztes Absturzprotokoll hochladen)** Diese Schaltfläche lädt weitere Protokollinhalte nach dem letzten Absturz hoch, den Sie gesehen haben.
+
+## <a name="in-client-logs"></a>In Clientprotokollen
+
+Sie können die Protokolldateien auch von Ihrem Computer abrufen. Anweisungen zum Abrufen dieser Protokolle finden Sie [hier.](https://docs.microsoft.com/windows/mixed-reality/altspace-vr/faqs/app-version#in-client-logs)
+
+Nachdem Sie diese Dateien gefunden haben, öffnen Sie ein [Supportticket,](https://help.altvr.com/hc/en-us/requests/new) und laden Sie Ihre Protokolle in Ihre Ticketanforderung hoch, bevor Sie auf Senden klicken.

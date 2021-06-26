@@ -1,63 +1,64 @@
 ---
-title: Verwenden des webprojektor zum Streamen eines Browsers
-description: Erfahren Sie, wie Sie den webprojektor verwenden, um Inhalte von einem bestimmten Browser in altspacevr-Erfahrungen zu streamen.
+title: Verwenden des Webprojektors zum Streamen eines Browsers
+description: Erfahren Sie, wie Sie den Webprojektor verwenden, um Inhalte aus einem bestimmten Browser in AltspaceVR-Funktionen zu streamen.
 ms.date: 03/11/2021
 ms.topic: article
-keywords: webprojektor, Stream, Browser
-ms.openlocfilehash: 4f89757a572ae3d77a7b11f068760268a4089ddd
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: Webprojektor, Stream, Browser
+ms.openlocfilehash: 2c5cb6ef917b7e799b8da3f1a769d77258866992
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212241"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112922997"
 ---
-# <a name="using-the-web-projector-to-stream-a-browser"></a>Verwenden des webprojektor zum Streamen eines Browsers
+# <a name="using-the-web-projector-to-stream-a-browser"></a>Verwenden des Webprojektors zum Streamen eines Browsers
 
-Der webprojektor von altspacevr ist eine robuste Lösung für die Medien Freigabe, die es Ihnen ermöglicht, eine bestimmte Browser Registerkarte direkt von Ihrem Desktop-PC in altspacevr zu streamen. Sie kann verwendet werden, um Folien, Videos, Fotos usw. zu teilen, die Sie in einem Browser öffnen können. * der webprojektor erfordert das Herunterladen einer Browser Erweiterung und ist zurzeit exklusiv über den Welt-Editor verfügbar. Im folgenden finden Sie eine umfassende Übersicht über das Feature und seine Verwendung:
+Der AltspaceVR-Webprojektor ist eine robuste Lösung für die Medienfreigabe, mit der Sie eine festgelegte Browserregisterkarte direkt von Ihrem Desktop-PC in AltspaceVR streamen können. Sie kann zum Freigeben von Folien, Videos, Fotos und fast allen anderen Funktionen verwendet werden, die Sie in einem Browser öffnen können.* Der Webprojektor erfordert das Herunterladen einer Browsererweiterung und ist derzeit ausschließlich über den World Editor verfügbar. Im Folgenden finden Sie eine vollständige Übersicht über das Feature und seine Verwendung:
 
 ## <a name="requirements"></a>Requirements (Anforderungen)
 
 1. Sie müssen einen PC oder Mac verwenden, um Ihren Browser zu streamen.
-2. Die erforderliche Browser Erweiterung wird derzeit vom Edge-Browser unterstützt. (Wir arbeiten daran, diese Liste zu erweitern.)
-3. Wenn Sie von einem Macintosh-Computer streamen, ist der webprojektor noch nicht im altspacevr Mac-Client verfügbar.
+2. Die erforderliche Browsererweiterung wird derzeit vom Edge-Browser unterstützt. (Wir arbeiten daran, diese Liste zu erweitern.)
+3. Sie können zwar von einem Mac-Computer streamen, der Webprojektor ist jedoch noch nicht auf dem AltspaceVR Mac-Client verfügbar.
+4. Wenn Sie alles richtig eingerichtet haben (bei der Browsererweiterung/AltspaceVR mit demselben Konto angemeldet, mit Web-Projektor in AltspaceVR verbunden/übertragen) und weiterhin einen grünen Bildschirm sehen, muss WebProjector tcp-Port 443 geöffnet und den UDP-Portbereich 20000-20400.
 
 > [!NOTE]
-> Diese Funktion ist hauptsächlich dazu gedacht, eine Browser Registerkarte Ihrer Wahl zu streamen. Wenn Sie versuchen, die Desktop Anwendung zu streamen, wird der webprojektor alle computeraudiodaten (einschließlich altspacevr) streamen, was zu Echo/Feedback führen kann. Sie müssen altspacevr stumm schalten, um dies zu verhindern. Alternativ können Sie auch ein separates Gerät verwenden, um altspacevr auszuführen, während Sie von Ihrem PC streamen.
+> Dieses Feature dient in erster Linie zum Streamen einer Browserregisterkarte Ihrer Wahl. Wenn Sie versuchen, stattdessen Ihre Desktopanwendung zu streamen, streamt der Web-Projektor alle Computeraudiodaten (einschließlich AltspaceVR), was zu Echo/Feedback führen kann. Sie müssen AltspaceVR stummschalten, um dies zu verhindern. Alternativ können Sie auch ein separates Gerät verwenden, um AltspaceVR auszuführen, während Sie von Ihrem PC streamen.
 
 ## <a name="getting-started"></a>Erste Schritte
 
-1. Zunächst müssen Sie die Browser Erweiterung herunterladen und installieren, die Sie [hier](https://account.altvr.com/web_projector)finden können.
-2. Im nächsten Schritt können [Sie Ihre Erweiterung in Ihrem Edge-Browser](https://docs.microsoft.com/microsoft-edge/extensions-chromium/getting-started/extension-sideloading)querladen.
-    * Wechseln Sie nach Abschluss des Downloads zum Abschnitt **Erweiterungen** Ihres Browsers. (Unter " **Einstellungen**" gefunden)
-    * Entzippen Sie die ZIP-Datei.
-    * Wechseln Sie in den **Entwicklermodus** , und wählen Sie **entpackt laden** aus.
-    * Wählen Sie den Ordner aus, den Sie soeben entzippt haben. Dies ist die webprojektor-Erweiterung.
-    * Nachdem Sie die Erweiterung hinzugefügt haben, können Sie die **Details** aufrufen, um Ihre Einstellungen einzurichten.
+1. Zunächst müssen Sie die Browsererweiterung herunterladen und installieren, die Sie [HIER](https://account.altvr.com/web_projector)finden.
+2. Laden Sie als Nächstes [die Erweiterung in Ihren Edge-Browser.](https://docs.microsoft.com/microsoft-edge/extensions-chromium/getting-started/extension-sideloading)
+    * Sobald der Download abgeschlossen ist, wechseln Sie zum Abschnitt **Erweiterungen** Ihres Browsers. (Gefunden unter **Einstellungen**)
+    * Entzippen Sie die .zip-Datei.
+    * Umschalten im **Entwicklermodus** und Auswählen von **"Entladen laden"**
+    * Wählen Sie den Ordner aus, den Sie gerade entpackt haben. Dies ist die Web-Projektor-Erweiterung.
+    * Nachdem Ihre Erweiterung hinzugefügt wurde, können Sie zu **Details** wechseln, um Ihre Einstellungen einzurichten.
 
-## <a name="setting-up-a-shareable-browser"></a>Einrichten eines Share fähigen Browsers
+## <a name="setting-up-a-shareable-browser"></a>Einrichten eines freigegebenen Browsers
 
-Nachdem Sie Ihre Erweiterung heruntergeladen und installiert haben, können Sie Sie verwenden!
+Sobald Ihre Erweiterung heruntergeladen und installiert wurde, können Sie sie verwenden!
 
-1. Öffnen Sie eine Registerkarte in Ihrem Edge-Browser, und navigieren Sie zu dem Medium, das Sie freigeben möchten.
-2. Richten Sie Ihr Fenster so ein, dass Sie freigegeben werden können. (Hinweis: das gesamte Browserfenster wird in der Welt projiziert)
-3. Suchen Sie die neu installierte Erweiterung (die als altspacevr-Symbol in der Nähe der URL-Leiste Ihres Browsers angezeigt wird). Wählen Sie altspacevr aus. Sie werden aufgefordert, sich bei Ihrem Konto anzumelden. (Hinweis: Es ist wichtig, dass Sie sich bei demselben Konto anmelden, das Sie zum Einrichten des webprojektor verwenden.)
-4. Sobald Sie angemeldet sind, sollte Ihnen der Erweiterungs Bildschirm eine **Start Streaming** -Option bieten. Wählen Sie ihn aus.
+1. Öffnen Sie eine Registerkarte in Ihrem Edge-Browser, und navigieren Sie zu den Medien, die Sie freigeben möchten.
+2. Richten Sie Ihr Fenster ein, damit Sie zur Freigabe bereit sind. (Hinweis: Ihr gesamtes Browserfenster wird weltweit projiziert.)
+3. Suchen Sie die neu installierte Erweiterung (die als AltspaceVR-Symbol in der Nähe Ihrer URL-Leiste in Ihrem Browser angezeigt wird). Wählen Sie AltspaceVR aus. Sie werden aufgefordert, sich bei Ihrem Konto anzumelden. (*Hinweis: Es ist wichtig, dass Sie sich bei demselben Konto anmelden, das Sie zum Einrichten Ihres Webprojektors verwenden.)
+4. Sobald Sie angemeldet sind, sollte auf dem Erweiterungsbildschirm die Option **Streaming starten** angezeigt werden. Wählen Sie ihn aus.
 
-## <a name="projecting-your-browser-in-world"></a>Projizieren Sie Ihren Browser weltweit
+## <a name="projecting-your-browser-in-world"></a>Projektieren Ihres Browsers in der Welt
 
-1. Wenn Ihr Browser für die Projektion eingerichtet ist und Sie das Streaming über die Erweiterung gestartet haben, öffnen Sie altspacevr.
-2. Richten Sie den webprojektor in Ihrer bevorzugten Umgebung ein, indem Sie Ihren Welt-Editor > Grundlagen > webprojektor öffnen.
-3. Nach dem platzieren können Sie Ihre World Editor-Steuerelemente verwenden, um die Größe des webprojektor zu ändern. (Es enthält auch Anweisungen, die auf dem Bildschirm angezeigt werden.)
-4. Klicken Sie auf die Schaltfläche **verbinden** , um mit dem streamen Ihres Edge-Browsers
-5. Vergessen Sie nicht, auf **Broadcast** zu klicken, um die Freigabe für alle Gäste des Raums zu beginnen.
-6. Vergessen Sie nicht, das **Streaming zu verhindern.** In Ihrer Sitzung tritt schließlich ein Timeout auf, aber bis zu einem späteren Zeitpunkt wird Ihr Browser weiterhin Live projekkt. Es empfiehlt sich, die Sitzung zu beenden, sobald Sie fertig sind.
+1. Sobald Ihr Browser für die Projektion eingerichtet ist und Sie mit dem Streaming über die Erweiterung begonnen haben, öffnen Sie AltspaceVR.
+2. Richten Sie den Webprojektor in Ihrer bevorzugten Umgebung ein, indem Sie Ihren World Editor > Basics > Web Overhead öffnen.
+3. Nach der Platzierung können Sie ihre World Editor-Steuerelemente verwenden, um die Größe des Webprojektors zu ändern. (Es enthält auch Anweisungen auf dem Bildschirm.)
+4. Wählen Sie die Schaltfläche **Verbinden** aus, um mit dem Streamen Ihres Edge-Browsers zu beginnen.
+5. Denken Sie daran, auf **Broadcast** zu klicken, um mit der Freigabe für alle Gäste im Raum zu beginnen.
+6. Vergessen Sie nicht, das Streaming zu **beenden.** Für Ihre Sitzung tritt schließlich ein Time out auf, bis zu diesem Zeitpunkt wird ihr Browser jedoch weiterhin live projiziert. Es ist am besten, ihre Sitzung zu beenden, sobald Sie fertig sind.
 
-![In altspacevr World projizierter Browser](images/web-project-img-01.png)
+![In altspaceVR world projizierter Browser](images/web-project-img-01.png)
 
-**Video-Streaming-Tipp:** Wenn Sie videostutters, das Streaming abbrechen, die Videoqualität an 480p oder 360p anpassen, starten Sie den Stream und die Übertragung neu. Höhere Auflösungen können die CPU und die hoch Lade Bandbreite belasten.
+**Videostreamingtipp:** Wenn video stuttert, beenden Sie das Streaming, passen Sie die Videoqualität auf 480p oder 360p an, und starten Sie den Stream neu, und übertragen Sie ihn. Höhere Auflösungen können die CPU- und Uploadbandbreite beeinträchtigen.
 
 > [!NOTE]
-> Zu diesem Zeitpunkt sind die zusätzlichen Steuerungs Schaltflächen oben im webprojektor noch nicht Live. Sie bleiben grau und können nicht klickbar sein. Dies ist kein Fehler, sondern ist beabsichtigt (vorerst).
+> Zu diesem Zeitpunkt sind die zusätzlichen Steuerelementschaltflächen oben im Webprojektor noch nicht live. Sie bleiben grau und können nicht angeklicken werden. Dies ist kein Fehler, er ist (vorerst) entwurfshalber.
 
 > [!IMPORTANT]
-> Haftungsausschluss: Beachten Sie, dass die Verwendung des webprojektor, wie alle anderen Features in altspacevr, den [Vertragsbedingungen](../community/terms-of-service.md) und unseren [communitystandards](../community/community-standards.md)unterliegt. Daher kann der webprojektor nicht zum Streamen von Inhalten verwendet werden, die gegen eine Vereinbarung verstoßen. Dies führt zu Moderations Aktionen von altspacevr. Der Zugriff auf den Web Projektor Open Beta ist nicht garantiert und kann nur für eine temporäre Testversion erteilt werden. Die Länge der Beta Version und die Länge ihrer Teilnahme liegt im Ermessen des altspacevr-Teams. Die Verwendung der Beta Version des webprojektor ist nicht erforderlich, und die Teilnahme an der Beta Version ist rein freiwillig. Teilnehmer werden gebeten, Feedback zum webprojektor anzubieten, der die Funktionalität und Nutzbarkeit des Features bei der Entwicklung unterstützt. Die Beta Version des webprojektor weist möglicherweise eingeschränkte Funktionen auf und unterliegt möglicherweise unerwarteten Fehlern. Vielen Dank für Ihre Teilnahme.
+> HAFTUNGSAUSSCHLUSS: Hinweis: Die Nutzung des Webprojektors unterliegt wie alle anderen Features in AltspaceVR unseren [Nutzungsbedingungen](../community/terms-of-service.md) und unseren [Communitystandards.](../community/community-standards.md) Daher kann der Web-Projektor nicht zum Streamen von Inhalten verwendet werden, die gegen eine der beiden Vereinbarungen verstoßen. Dies führt zu Moderationsaktionen, die von ALTSPACEVR ausgeführt werden. Der Zugriff auf die WebProjektor-Betaversion ist nicht garantiert und kann nur für eine temporäre Testversion gewährt werden. Die Dauer der Betaversion und die Dauer Ihrer Teilnahme liegen im Ermessen des AltspaceVR-Teams. Die Verwendung der Betaversion des Web-Projektors ist nicht erforderlich, und die Teilnahme an der Betaversion ist rein freiwillig. Den Teilnehmern wird empfohlen, Feedback zum Webprojektor zu geben, mit dem die Funktionalität und Nutzbarkeit des Features im Zuge der Entwicklung gestaltet werden kann. Die Betaversion des Web-Projektors verfügt möglicherweise über eingeschränkte Funktionalität und kann unerwarteten Fehlern ausgesetzt sein. Vielen Dank im Voraus für Ihre Teilnahme.
