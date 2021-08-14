@@ -1,97 +1,97 @@
 ---
 title: AltspaceVR Mobile Performance Guide
-description: Erfahren Sie, wie Sie verschiedene Unity-Eigenschaften verwenden, um Ihre Welten auf mobilen Geräten wie Oculus Quest leistungsbringend zu gestalten.
+description: Erfahren Sie, wie Sie verschiedene Unity-Eigenschaften verwenden, um Ihre Welten auf mobilen Geräten wie Oculus Quest leistunglich zu machen.
 ms.date: 04/20/2021
 ms.topic: article
-keywords: World Editor, Performance, oculus, quest, unity, textures, lightmaps, stats, profiler, draw calls, altspacevr, uploader
-ms.openlocfilehash: d9bb02cf6c51a604b858caf36ebbc5548e4fe267
-ms.sourcegitcommit: ab0ca34d20bbbcee3ce3415b17a681f8678565b7
+keywords: World Editor, Performance, Oculus, Quest, Unity, Texturen, Lightmaps, Statistiken, Profiler, Zeichnen-Aufrufe, altspacevr, uploader
+ms.openlocfilehash: d5689e245c10ccb61abdd0aaa2327132d4374bb7e53a2eaec316d991b38378fb
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "113634291"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126981"
 ---
 # <a name="altspacevr-mobile-performance-guide"></a>AltspaceVR Mobile Performance Guide
 
 ## <a name="main-points"></a>**Hauptpunkte:**
 
 * **72 FPS** auf Oculus Quest 1 und 2 ist das Ziel.
-* **Das Reduzieren von Zeichnen-Aufrufen über statische Batchverarbeitung** ist unerlässlich und ist auf **weniger als 25 Drawcalls** ausgerichtet.
-* **Ein Material pro Objekt** zur Unterstützung der statischen Batchverarbeitung (aufteilen von Objekten mit mehreren Materialien in separate Objekte).
-* **Objekte** in einer Umgebung sollten in den meisten Fällen auf **"Statisch"** festgelegt werden.
-* **Eine Lightmap pro Szene,** ein 2k oder ein 4k für die gesamte Szene, ca. 25 Texel pro Einheit, Lightmapskalierung sollte pro Objekt optimiert werden (Skalierungsdiagramm unten)
-* **Verwenden Sie Shader in Mobile-Qualität** (d. h. "Mobil/Diffus" usw.), vermeiden Sie den Unity Standard-Shader/PBR/Reflektionstest/Lichttest, da es sich um umfangreiche Vorgänge handelt, und im Fall der Tests werden Draw-Aufrufe hinzugefügt.
+* **Das Reduzieren von Zeichnen-Aufrufen** über statische Batchverarbeitung ist von entscheidender Bedeutung und zielt auf **weniger als 25 Drawcalls ab.**
+* **Ein Material pro Objekt, um** die statische Batchverarbeitung zu fördern (mehrere Materialobjekte in separate Objekte aufteilen).
+* **Objekte** in einer Umgebung sollten in den meisten Fällen **auf "Statisch"** festgelegt werden.
+* **Ein Lightmap** pro Szene, ein 2.000 oder ein 4.000 für die gesamte Szene, ca. 25 Texel pro Einheit. Die Lightmapskalierung sollte pro Objekt optimiert werden (Skalierungsdiagramm unten).
+* Verwenden Sie Shader in mobiler Qualität (d. h. "Mobil/Diffus" usw.), vermeiden Sie die Unity-Standard-Shader-/PBR-/Reflektions-/Licht-Tests, da es sich um hohe Vorgänge handelt und im Fall der Tests **Zeichnen-Aufrufe** hinzugefügt werden.
 * **Weniger als 100.000 Dreiecke** auf dem Bildschirm
-* **Occlusion Culling** kann dazu beitragen, Polygone auf dem Bildschirm zu reduzieren, obwohl es im Voraus Kosten für die Aktivierung der Okklusionskeulierung gibt. Messen Sie daher die Auswirkungen auf die Framerate in Altspace mithilfe des Diagnosebereichs.
-* Verwenden Sie für alle **Texturen** in einer Szene **"Override for Android" (Außerkraftsetzung für Android),** und legen Sie sie auf **RGB(A) Compressed ASTC 6x6 block format fest.**  Belassen Sie ihre Android Build Einstellungen-Komprimierung auf den Standardwert (finden Sie unter: Datei-/Build-Einstellungen/Android-/Texturkomprimierung: 'Nicht überschreiben'), damit Lightmaps keine ASTC-Komprimierung erhalten.  Indem wir die obigen Aufgaben ausführen und Materialien objektübergreifend freigeben, versuchen wir, das Unity-Paket unserer Szene für Android auf etwa **10-20 MB** zu halten.
+* **Occlusion Culling** kann dazu beitragen, Polygone auf dem Bildschirm zu reduzieren, obwohl die Aktivierung von Okklusions-Culling im Vorweg kosten muss. Messen Sie daher die Auswirkungen auf die Framerate im Altspace mithilfe des Diagnosebereichs.
+* Verwenden Sie **für alle Texturen** in einer Szene **"Override for Android",** und legen Sie sie auf **RGB(A) Compressed ASTC 6x6 block format (RGB(A)-komprimiertes ASTC 6x6-Blockformat fest.**  Lassen Sie ihre Android Build Einstellungen-Komprimierung auf den Standardwert festgelegt (siehe Datei/Build Einstellungen/Android/Texturkomprimierung: 'Nicht überschreiben'), damit Lightmaps keine ASTC-Komprimierung erhalten.  Indem wir die oben genannten Und-Materialien objektübergreifend freigeben, versuchen wir, das Unity-Paket unserer Szene für Android auf ca. **10-20 MB zu halten.**
 
-Das allgemeine Ziel besteht darin, eine akzeptable Framerate geräteübergreifend zu erreichen. Auf Oculus Quest 1 und 2 wird die Szene idealerweise bei 72 FPS von allen Vantagepunkten ausgeführt, wenn die Szene aufgefüllt wird, obwohl ein Bereich von 60 bis 72 FPS häufig ein realistischeres Ziel ist.
+Das allgemeine Ziel besteht im Erreichen einer akzeptablen Framerate auf allen Geräten– bei Oculus Quest 1 und 2 wird die Szene idealerweise bei 72 FPS von allen Vantagepunkten aus ausgeführt, wenn die Szene aufgefüllt ist, obwohl ein Bereich von 60-72 FPS häufig ein realistischeres Ziel ist.
 
-Die Framerate kann in AltspaceVR auf dem Gerät gemessen werden, das Sie verwenden (in der AltspaceVR-App unter **Einstellungen/Support/Diagnosebereich anzeigen/FPS).**
+Die Framerate kann innerhalb von AltspaceVR auf dem gerät gemessen werden, das Sie verwenden (in der AltspaceVR-App unter **Einstellungen/Support/Diagnosebereich anzeigen/FPS).**
 
-Ein Rundown der verfügbaren Unity-Standardtools, die Ihnen helfen, Ihre Szenen besser zu optimieren:
+Ein Rundown der verfügbaren Unity-Standardtools, mit deren Hilfe Sie Ihre Szenen besser optimieren können:
 
 ## <a name="stats-panelframe-debuggerprofiler"></a>**Statistikbereich/Framedebugger/Profiler**
 
-* Diese Tools sind Ihre besten Freunde bei der Verbesserung der Leistung Ihrer Szene.  Auf sie kann **nur verwiesen werden, während die Szene im Editor wiedergegeben wird,** da sich ihre Werte von denen unterscheiden, wenn die Szene nicht wiedergegeben wird (d. b. automatische statische Batchverarbeitung findet nicht statt, wenn die Szene nicht wiedergegeben wird).
+* Diese Tools sind Ihre besten Freunde bei der Verbesserung der Leistung Ihrer Szene.  Auf sie kann nur verwiesen werden, während die Szene Im Editor **spielt,** da sich ihre Werte von denen unterscheiden, wenn die Szene nicht abspielt (d. h., die automatische statische Batchverarbeitung findet nicht statt, wenn die Szene nicht abspielt).
 
-* **Der Statistikbereich** (in der Spielansicht unter "Statistiken" angezeigt) zeigt die Menge der **gespeicherten Batches/Batches, SetPass-Aufrufe und Framerate** an.
+* **Im Statistikbereich** (in der Spielansicht unter "Statistiken") wird die Menge der gespeicherten **Batches/Batches, SetPass-Aufrufe und Framerate angezeigt.**
 
-    * Batches: Die Anzahl der aktuellen Zeichnen-Aufrufe, die aus Sicht der aktuellen Kamera sichtbar sind.  **Weniger als 25 Batches** für eine Umgebung sind ein gutes Ziel.
-    * Gespeicherte Batches (nur sichtbar, wenn die Szene wiedergegeben wird) – die Anzahl der Draw-Aufrufe, die durch **statische Batchverarbeitung oder GPU-Instanziierung** reduziert wurden
-    * SetPass-Aufrufe: Die Anzahl der verschiedenen sichtbaren Materialien in einer Szene
-    * Framerate : die Menge der Frames pro Sekunde in der Spielansicht (gibt Ihnen eine ungefähre Vorstellung davon, was passiert; Szenen sollten immer in der App und im Headset getestet werden, indem sie das Oculus Framerate-Panel verwenden, da sich das FPS-Readout immer von dem unterscheidet, was im Editor vorkommt).
+    * Batches: Die Menge der aktuellen Zeichnen-Aufrufe, die aus sicht der aktuellen Kamera sichtbar sind.  **Weniger als 25 Batches für** eine Umgebung sind ein gutes Ziel.
+    * Gespeicherte Batches (nur sichtbar, wenn die Szene abspielt) – die Menge der Zeichnen-Aufrufe, die durch statische Batchverarbeitung oder **GPU-Instancing reduziert wurden**
+    * SetPass-Aufrufe– die Anzahl der verschiedenen sichtbaren Materialien in einer Szene
+    * Framerate: Die Menge der Frames pro Sekunde in der Spielansicht (bietet Ihnen eine ungefähre Vorstellung davon, was passiert. Szenen sollten immer in der App und im Headset getestet werden, indem sie den Oculus Framerate-Bereich verwenden, da sich die Fps-Leseauslese immer von dem im Editor unterscheiden wird)
 
-* **Framedebugger** (finden Sie unter Fenster/Analyse/Framedebugger).  Im Bereich "Statistiken" können Sie bei Aktivierung sehen, was die GPU zeichnet, um das endgültige Bild zu erstellen. Dort wird eine Liste der Drawcalls vom ersten bis zum letzten Zeitpunkt angezeigt.  Sie erhalten Gründe dafür, warum ein Draw-Aufruf nicht mit einem vorherigen Draw-Aufruf in Batches ausgeführt wurde (d. h. "Dieses Objekt verwendet ein anderes Material" oder "Dieses Objekt verwendet eine andere Lightmap"), und ist eine hervorragende Möglichkeit, um ein Verständnis dafür zu entwickeln, was in Ihrer Szene geschieht und wie und warum bestimmte visuelle Optionen rechenintensiv sein können.
+* **FrameDebugger** (unter Fenster-/Analyse-/Framedebugger)  Der Statistikbereich für Tafeln, mit dem Sie nach der Aktivierung sehen können, welche GPU gezeichnungt wird, um das endgültige Bild zu erstellen. Es wird eine Liste mit Drawcalls vom ersten bis zum letzten Bild angezeigt.  Es gibt Ihnen Gründe dafür, warum ein Zeichnen-Aufruf nicht mit einem vorherigen Zeichnen-Aufruf (d. h. "Dieses Objekt verwendet ein anderes Material" oder "Dieses Objekt verwendet eine andere Lightmap") als Batch verwendet wurde, und ist eine hervorragende Möglichkeit, um ein Verständnis dafür zu entwickeln, was in Ihrer Szene passiert und wie und warum bestimmte visuelle Optionen rechenintensiv sein können.
 
-* **Profiler** zeigt Ihnen, welche Teile des Computers zu einem beliebigen Zeitpunkt verwendet werden, während das Spiel ausgeführt wird. Hilfreich bei der Ermittlung, wo die Leistung einen Engpass darstellt.  Wenn Sie z. B. eine hohe CPU-Auslastung in Ihrer Szene sehen, kann es sein, dass zu viele Zeichnen-Aufrufe vorhanden sind, oder wenn eine hohe GPU-Auslastung auftritt, kann es zu viele Überzeichnungen geben (d.b. die Anzahl der Renderzeiten eines einzelnen Pixels zum Erzeugen des endgültigen Bilds), was durch mehrere transparente Oberflächen verursacht werden kann. oder Objekte, die nicht angezeigt werden, wenn sie nicht angezeigt werden.
+* **Profiler** zeigt Ihnen, welche Teile des Computers zu einem beliebigen Zeitpunkt verwendet werden, während das Spiel ausgeführt wird. Hilfreich bei der Ermittlung, wo die Leistung Engpässe verursacht.  Wenn Sie beispielsweise eine hohe CPU-Auslastung in Ihrer Szene sehen, kann es sein, dass zu viele Zeichnen-Aufrufe ausgeführt werden, oder wenn sie eine hohe GPU-Auslastung sehen, kann es zu viel Überzeichnung (d. h. die Anzahl der Renderung eines einzelnen Pixels zum Erzeugen des endgültigen Bilds) kommen, was durch mehrere transparente Oberflächen verursacht werden kann.  - oder -Objekte, die nicht gecullt werden, wenn sie nicht angezeigt werden.
 
 ## <a name="draw-calls-shadersmaterialsobjects"></a>**Zeichnen von Aufrufen (Shader/Materialien/Objekte)**
 
-* Jedes Mal, wenn ein Shader, Material oder Objekt gerendert werden muss, muss die CPU die GPU des Schalters anweisen (auch als "Zeichnen-Aufrufe" bezeichnet, üblicherweise **"Drawcalls").**  Das heißt, wenn Sie über 5 Shader, 10 Materialien und 20 Objekte verfügen, mit dem größten; Sie verfügen über ungefähr 20 Drawcalls.  Andere Dinge, die Drawcalls multiplizieren können, sind das Verwenden von Objekten auf verschiedenen Lightmaps oder das Verwenden mehrerer Echtzeitlichts in einer Szene (d. h., ein Punktlicht fügt jedem Objekt, das sich innerhalb seines Bereichs befindet, einen weiteren Drawcall hinzu), sodass im Allgemeinen alles andere als das richtungsbezogene Licht einer Szene vermieden werden sollte.  Reflektions- und Lichtteste multiplizieren auch Draw-Aufrufe für die Objekte, die sie treffen, sodass sie vermieden werden sollten.
+* Jedes Mal, wenn ein Shader, Material oder Objekt gerendert werden muss, muss die CPU die GPU des Switches anweisen (auch als "Zeichnen-Aufrufe" bezeichnet, **umgangssprachlich "Drawcalls").**  Das heißt, wenn Sie über 5 Shader, 10 Materialien und 20 Objekte verfügen, mit welchem am besten ist. Sie verfügen über ungefähr 20 Drawcalls.  Andere Dinge, die Drawcalls multiplizieren können, sind das Verwenden von Objekten auf unterschiedlichen Lightmaps oder das Verwenden von mehr als einem Echtzeitlicht in einer Szene (d.h. ein Punktlicht fügt jedem Objekt, das sich innerhalb seines Bereichs befindet, einen weiteren Zeichnencall hinzu). Daher sollte im Allgemeinen alles, was nicht das direktionale Licht einer Szene ist, vermieden werden.  Reflektions- und Licht-Tests multiplizieren auch Zeichnen-Aufrufe für die Objekte, auf die sie treffen, sodass sie vermieden werden sollten.
 
-* Bei der **statischen Batchverarbeitung** werden Objekte, die ähnliche Materialien gemeinsam nutzen, in einem einzelnen Objekt zusammengefasst, wenn sie an die GPU gesendet werden (wobei Occlusion Culling Gitternetze verwirft, die nicht angezeigt werden). Wenn Sie also alle Objekte im obigen Beispiel auf "Statisch" festlegen, würden Sie die Szene auf ungefähr 10 Drawcalls reduzieren, 1 für jedes Material. 
+* Bei der **statischen Batchverarbeitung** werden Objekte, die Like-Materials gemeinsam nutzen, in ein einzelnes Objekt gebatcht, wenn sie an die GPU gesendet werden (mit verwirften Verschlussgittern, die Gitternetze verwerfen, die nicht angezeigt werden). Wenn Sie also alle Objekte im obigen Beispiel auf "Statisch" festlegen, würden Sie die Szene auf ungefähr 10 Drawcalls reduzieren, 1 für jedes Material. 
 
-* **Materialbatches** treten auf, wenn ein Objekt über die genauen Materialien als ein anderes Objekt verfügt. Wenn ein Objekt jedoch über mehrere Materialien verfügt, wird es nicht mit einem Objekt, das weniger Materialien enthält, batchweise ausgeführt.  Aus diesem Grund: **Objekte DÜRFEN nur ein Material aufweisen,** und Objekte, die mehrere Materialien verwenden, sollten in separate Objekte pro Material aufgeteilt werden.  **Materialbatches** können durch **Texturat atlasing** reduziert werden (kombiniert die Texturen mehrerer eindeutiger Objekte, um ein einzelnes Texturblatt zu teilen, sodass alle das gleiche Material verwenden).  Versuchen Sie, die Menge von Atlases nach Möglichkeit auf eine einzelne 2k- oder 4k-Textur/material pro Szene zu halten.
+* **Materialbatches** treten auf, wenn ein Objekt über die genauen Materialien als ein anderes Objekt verfügt. Wenn ein Objekt jedoch über mehrere Materialien verfügt, wird es nicht mit einem Objekt batchen, das weniger Materialien enthält.  Aus diesem Grund: **Objekte DÜRFEN nur ein Material** enthalten, und Objekte, die mehrere Materialien verwenden, sollten in separate Objekte pro Material aufgeteilt werden.  **Materialbatches können** durch **Texture Atlasing** reduziert werden (indem die Texturen mehrerer eindeutiger Objekte kombiniert werden, um ein einzelnes Texturblatt gemeinsam zu verwenden, sodass alle das gleiche Material verwenden).  Versuchen Sie, die Menge an Atlases nach Möglichkeit auf eine einzelne 2k- oder 4k-Textur/ein einzelnes Material pro Szene zu halten.
 
-## <a name="scene-complexity"></a>**Szenenkomplexität**
+## <a name="scene-complexity"></a>**Komplexität der Szene**
 
-* **Geometrie:** Versuchen Sie, Bildschirmdreiecke für Umgebungen unter 100.000 beizubehalten.  Verwenden Sie die Registerkarte "Statistiken" im Spielbereich von Unity, um zu sehen, welche Dreiecksanzahl Sie von verschiedenen Vantagepunkten in der Szene erreichen.  Props als solche sollten sich im Bereich "Hunderte" von Dreiecken mit nur wichtigen "Hero"-Props im Tausenderbereich von Dreiecken befindet. 
+* **Geometrie:** Versuchen Sie, die Dreiecke auf dem Bildschirm für Umgebungen unter 100.000 zu halten.  Verwenden Sie die Registerkarte "Statistiken" im Unity-Spielbereich, um zu sehen, welche Dreiecksanzahl Sie von verschiedenen Vantagepunkten in der Szene aus treffen.  "Props" als solche sollten im Bereich "Hunderte" von Dreiecken liegen, mit nur wichtigen "Hero"-Props im Tausenden von Dreieckenbereich. 
 
-* Sie können **LODs** (Detailnetzebene) technisch verwenden, obwohl die Standardmäßige Lightmap-Lösung von Unity keine Lightmapdaten zwischen LODs teilt, sodass Sie möglicherweise Lightmappingartefakte erhalten, wenn die LODs bei dieser Auflösung wechseln.  Alternativ können Sie die LOD-Gruppenkomponente auch dann für einfache Distance Culling-Objekte verwenden, wenn das Objekt keine niedrigeren LOD-Gitternetze besitzt:
+* Technisch gesehen können Sie **LODs** (Level of Detail Meshes) verwenden, obwohl die Standardmäßige Lightmap-Lösung von Unity keine Lightmapdaten zwischen LODs gemeinsam nutzt, sodass Sie möglicherweise lightmapping-Artefakte erhalten, wenn die LODs bei dieser Auflösung wechseln.  Alternativ können Sie die LOD-Gruppenkomponente für einfache Distance Culling-Objekte verwenden, auch wenn das Objekt keine niedrigeren LOD-Gitternetze hat:
 
-![LOD-Gruppenfenster in Unity](images/world-building-lod-Group.png)
+![Fenster "LOD-Gruppe" in Unity](images/world-building-lod-Group.png)
 
-* **Occlusion Culling** reduziert die Anzahl der Objekte, die nur auf das gerendert werden, was sich innerhalb des Sicht-Frustums der Kamera befindet, und die sofort sichtbar sind (d.amp;quot;Objekte, die aus der Ansicht verdeckt werden, sind Culled.)  Occlusion culling sollte fast immer für Ihre Szene gebacken werden, und Ebenen sollten so entworfen werden, dass sie diese unterstützen (d. h. wenn Sie über eine große Ebene verfügen, können Wände oder große Objekte verwendet werden, um die Sichtlinie des Spielers aufzubrechen, sodass sie nicht immer bis zum entgegengesetzten Ende der Ebene durchsehen können.  Die Standardeinstellungen für bake sollten funktionieren, obwohl Sie möglicherweise die Werte "Smallest Occluder" oder "Smallest Hole" verkleinern müssen.  Für Objekte wie Zäunen, bei denen Sie möglicherweise Risse im Objekt oder transparente Objekte sehen können, sollten Sie den Occluder-Status des Objekts im Dropdownmenü "Statisch" deaktivieren, damit die darin enthaltenen Objekte nicht fälschlicherweise verdeckt werden. 
+* **Occlusion Culling** reduziert die Anzahl der Objekte, die nur auf das gerendert werden, was sich innerhalb des Ansichtsfrustums der Kamera befindet und sofort sichtbar sind (d. h. Objekte, die aus der Ansicht verdecken, werden gecullt).  Occlusion culling sollte fast immer für Ihre Szene gebacken werden, und Ebenen sollten so entworfen werden, dass sie unterstützt werden (d. h., wenn Sie über eine große Ebene verfügen, können Wände oder große Objekte verwendet werden, um die Sichtlinie des Spielers zu unterbrechen, damit sie nicht immer bis zum gegenüberliegenden Ende der Ebene durchgeblickt werden können.  Die standardmäßigen Bake-Einstellungen sollten funktionieren, obwohl Sie möglicherweise die Werte "Kleinstes Occluder" oder "Smallest Hole" verkleinern müssen.  Für Objekte wie Zäunen, bei denen Sie möglicherweise durch Risse im Objekt oder transparente Objekte sehen können, sollten Sie den Occluder-Status des Objekts im Dropdownmenü "Statisch" deaktivieren, damit objekte hinter ihm nicht fälschlicherweise verblendet werden. 
 
 ## <a name="lightmaps"></a>**Lightmaps**
 
-* Idealerweise nur **eine Lightmap pro Szene** (ein 2k oder ein 4k für alles), falls nicht; Weniger Lightmaps mit höheren Auflösungen sind besser als viele Lightmaps mit niedrigeren Auflösungen.
-* Mehrere Lightmaps können sich auch auf die Anzahl der Zeichnen-Aufrufe auswirken, da Objekte, die entweder Lightmaps haben oder nicht, sich in unterschiedlichen Batches befinden, und andere Lightmaps sich ebenfalls in unterschiedlichen Batches befinden.
-* Im Allgemeinen sollte eine Lightmap-Auflösung von etwa **25 Texel pro Einheit** ausreichen (auflösung in den Einstellungen für Beleuchtung/Szene festlegen).  Wenn Sie zusätzlichen Platz in Ihrer Lightmap haben, können Sie diesen Wert erhöhen.
-* Ändern Sie die **Lightmap-Skalierungseinstellung** pro Objekt, sodass die Auflösung für Objekte gespeichert wird, die sie benötigen. 
+* Idealerweise nur **ein Lightmap pro Szene** (ein 2.000 oder ein 4.000 für alles), falls nicht; weniger Lightmaps mit höheren Auflösungen sind besser als viele Lightmaps mit niedrigeren Auflösungen.
+* Mehrere Lightmaps können sich auch auf die Anzahl der Zeichnen-Aufrufe auswirken, da Objekte, die entweder Über- oder Keine Lightmaps haben, sich in verschiedenen Batches und andere Lightmaps ebenfalls in verschiedenen Batches finden.
+* Im Allgemeinen sollte eine Lightmap-Auflösung von **ca. 25 Texeln** pro Einheit ausreichen (legen Sie die Auflösung in den Einstellungen für Beleuchtung/Szene fest).  Wenn Sie zusätzlichen Platz in Ihrer Lightmap haben, können Sie diesen Wert erhöhen.
+* Ändern Sie die **Einstellung Lightmap-Skalierung** pro Objekt, sodass die Auflösung für Objekte gespeichert wird, die sie benötigen. 
 
 * **Lightmap-Skalierungsdiagramm** (Faustregel) 
-    * **Vordergrund** (geografischer Durchlaufgrad): 1 
-    * **Props** (insbesondere Props kleiner als ein Mensch): **2-3** (um Lightmapartefakte und Naht auf Ihren Objekten zu vermeiden) 
-    * **Midground** (Geometrie, die sich direkt außerhalb des Durchlaufbereichs und/oder großer Objekte wie Gebäude befindet): **0,5**
-    * **Hintergrund** (Vista-/entfernte Objekte): **0,02** 
-    * **Transparente Oberflächen** (z.B. Glass): **0** (mit deaktivierter Option "Cast/Receive Shadows") 
+    * **Foreground** (Traversable Level Geo): 1 
+    * **Props** (insbesondere Props kleiner als ein Mensch): **2-3** (um Lightmapartefakte und Nahtungen an Ihren Objekten zu vermeiden) 
+    * **Mittelgrund** (Geometrie, die sich direkt außerhalb des durchlaufbaren Bereichs und/oder großer Objekte wie Gebäude befindet): **0,5**
+    * **Hintergrund** (Vista-Objekte/entfernte Objekte): **0,02** 
+    * **Transparente Oberflächen** (z. B. Glass): **0** (mit deaktivierter "Cast/Receive Shadows" ( Cast/Receive Shadows) 
 
-Außerdem sind hier einige Einstellungen, die für die Screen Door Effect-Umgebung verwendet wurden, als Baseline:
+Als Baseline sind hier einige Einstellungen, die für die Screen Door Effect-Umgebung verwendet wurden:
 
 ![Beleuchtungsfenster in Unity](images/world-building-lightmaps.png)
 
-Hinweis: Wenn Sie diese Einstellungen verwenden, können Sie lightmapper auf "GPU Lightmapper" festlegen und die Lightmap-Größe für wesentlich schnellere Vorschau-Bakes auf "2048" festlegen und dann für ihren endgültigen Bake auf CPU und 4k sichern.
+Hinweis: Wenn Sie diese Einstellungen verwenden, können Sie den Lightmapper auf "GPU Lightmapper" und die Lightmap-Größe auf "2048" festlegen, um das Baking in der Vorschau deutlich zu beschleunigen, und dann auf CPU und 4k für den endgültigen Bake-Abschluss sichern.
 
 ## <a name="texture-compressionfile-size"></a>**Texturkomprimierung/Dateigröße**
 
-* Für unseren Android-Build versuchen wir, die Größe der Unity-Paketszene auf insgesamt etwa 10 bis 20 MB zu halten.  Dies geschieht, indem wir generische Materialien für viele Objekte freigeben, die Scheitelpunktfarbe verwenden, um die Objekte zu tönen, und indem wir manuelle Überschreibungen für Android festlegen, sodass Texturen die **ASTC 6x6-Blockkomprimierung** verwenden, die kleiner als die Standardkomprimierung ist.
+* Für unseren Android-Build versuchen wir, die Größe unserer Unity-Paketszene auf etwa 10 bis 20 MB zu halten.  Hierzu geben wir generische Materialien für viele Objekte weiter, verwenden Scheitelpunktfarbe, um die Objekte zu tönen, und setzen manuelle Überschreibungen für Android so ein, dass Texturen die **ASTC 6x6-Blockkomprimierung** verwenden, die kleiner als die Standardkomprimierung ist.
 
-* Der Grund dafür, dass wir die Android-Buildeinstellungen nicht für die Verwendung von ASTC festlegen, liegt daran, dass Lightmaps bei dieser Komprimierung nicht gut aussehen (viele Blockartefakte), und wir müssten die Lightmap so festlegen, dass sie ETC nach jedem Bake verwendet. Daher ist es einfacher, die Außerkraftsetzung für alle Szenentexturen einmal einzurichten, als die Komprimierungseinstellungen der Lightmap nach jedem Bake zu aktualisieren.
+* Der Grund dafür, dass wir die Android-Buildeinstellungen nicht für die Verwendung von ASTC festlegen, ist, dass Lightmaps mit dieser Komprimierung nicht gut aussehen (viele Blockierungsartefakte), und wir müssen die Lightmap so festlegen, dass nach jedem Baking etc verwendet wird, sodass es einfacher ist, stattdessen die Außerkraftsetzung für alle Szenentexturen einmal einrichten zu können, als die Komprimierungseinstellungen der Lightmap nach jedem Bake zu aktualisieren.
 
 ![Texturfenster in Unity](images/world-building-texutres.png)
 
-* Darüber hinaus kann das Festlegen von Texturen für die Verwendung des trilinearen Filtermodus mit einer Anisotropenebene von 2 dazu beitragen, dass sie in spitzen Winkeln bleiben.
+* Außerdem kann das Festlegen von Texturen für die Verwendung des trilinearen Filtermodus mit einer anisotropen Ebene von 2 dazu beitragen, dass sie beim Abblenden von Winkeln stark bleiben.
 
-Weitere Tipps und Tricks zur Leistung finden Sie in der Dokumentation Improving world performance (Verbessern der [Weltleistung).](improving-performance.md)
+Weitere Tipps und Tricks zur Leistung finden Sie in der Dokumentation Improving world performance (Verbessern [der Leistung in der Welt).](improving-performance.md)

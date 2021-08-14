@@ -1,56 +1,56 @@
 ---
-title: Verwenden des Teleporter
-description: Erfahren Sie, wie Sie mithilfe eines Teleporter in altspacevr von einem Ereignis oder einer Welt zu einem anderen Reisen können.
+title: Verwenden des Teleporters
+description: Erfahren Sie, wie Sie mithilfe eines Teleporters in AltspaceVR von einem Ereignis oder einer Welt zu einem anderen reisen.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: Teleporter
-ms.openlocfilehash: afc199e958824bb5f0a9ff6d74865cbcd3f16868
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 79c5b09e1643a70939ba1e967a948ac6c80c2b615bce9eef598d0e07b7722ea3
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213419"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126183"
 ---
-# <a name="using-the-teleporter"></a>Verwenden des Teleporter
+# <a name="using-the-teleporter"></a>Verwenden des Teleporters
 
-Das Reisen von einem Ereignis oder einer Welt zu einem anderen ist eine hervorragend für Sie und die Community, um alles zu untersuchen, was von altspacevr angeboten werden muss.
+Das Reisen von einem Ereignis oder einer Welt zu einem anderen ist eine hervorragende Möglichkeit für Sie und die Community, alles zu erkunden, was AltspaceVR zu bieten hat.
 
 ## <a name="the-short-version"></a>Die Kurzversion
 
-![Teleportierungs Schritte aus dem Editor-Panel zum Festlegen eines Teleportations-Ziels](images/teleporter.png)
+![Teleportierungsschritte im Editorbereich zum Festlegen eines Teleportierungsziels](images/teleporter.png)
 
 ## <a name="the-slightly-longer-version"></a>Die etwas längere Version
 
-Stellen Sie zunächst sicher, dass Sie sich in Ihrem Homespace befinden, in einem Ereignis oder einer Welt, das Sie erstellt haben oder in dem Sie die terraex-Rolle erhalten haben. Wenn Sie sich im 2D-Modus befinden und die Schaltfläche "World Editor" nicht in der unteren rechten Ecke der Benutzeroberfläche angezeigt wird, klicken Sie mit der rechten Maustaste auf die Maustaste, um diese ein-bzw. auszuschalten. Wenn die Schaltfläche "World Editor" immer noch nicht angezeigt wird, befinden Sie sich möglicherweise in einer anderen Person. Wenn dies der Fall ist, bitten Sie den Host, Ihnen die terraex-Rolle zu übergeben.
+Stellen Sie zunächst sicher, dass Sie sich in Ihrem Homespace, in einem Event oder einer Welt, in dem Sie die Terraformer-Rolle erstellt haben oder erhalten haben, auf einem Event oder in einer Welt befingen. Wenn Sie sich im 2D-Modus befinden und die Schaltfläche "Welt-Editor" unten rechts auf der Benutzeroberfläche nicht angezeigt wird, klicken Sie mit der rechten Maustaste auf die Maustaste, um sie ein-/ausschalten. Wenn die Schaltfläche "Welt-Editor" immer noch nicht angezeigt wird, sind Sie möglicherweise im Bereich eines anderen Benutzer. Wenn dies der Fall ist, bitten Sie den Host, Ihnen die Terraformer-Rolle zu geben.
 
-Außerdem wird Folgendes unterstützt: 
-1. Erstellen Sie zuerst die Ereignisse oder die Welt.
-2. Wechseln Sie zu der Stelle, an der Sie den Teleporter erzeugen möchten, damit Ihre Ereignisse/Welten im Bereich "Teleporter-Ziel" aufgefüllt werden und die Verbindung mit dem Teleporter schneller und einfacher gestalten.
+Dies hilft auch bei: 
+1. Erstellen der Ereignisse oder Welten zuerst
+2. Wechseln Sie zu dem Ort, an dem Sie den Teleporter ausfüllen möchten, damit Ihre Events/Worlds im Bereich Teleporter Destination aufgefüllt werden, damit Sie diese schneller und einfacher verbinden können.
 
-Ein weiterer Trick, mit dem Sie im 2D-Modus mit Teleportern navigieren können, ist die Verwendung von STRG + LEERTASTE. Die Eingabeaufforderung wird angezeigt, und Sie können Folgendes eingeben: "zurück", damit Sie wieder zum letzten Bereich gelangen, in dem Sie sich befinden. 
+Ein weiterer Trick, der Ihnen beim Navigieren mit Teleporters im 2D-Modus hilft, ist die Verwendung von STRG+LEERZEICHEN. Es wird die Eingabeaufforderung angezeigt, und Sie können" eingeben: zurück . Damit werden Sie zurück zum letzten Ort, in dem Sie sich auf dem Weg waren! 
 
-Wechseln Sie nun zu dem Speicherort, an dem Sie einen Teleporter erzeugen möchten, und wählen Sie im Bereich "World Editor/Editor Panel/Basics/Teleporter" aus.
+Wechseln Sie nun zu dem Standort, an dem Sie einen Teleporter erstellen möchten, und wählen Sie World Editor /Editor Panel / Basics /Teleporter aus.
 
-Dadurch wird der Bereich "Teleporter-Ziel" angezeigt. Es werden drei Kategorien angezeigt, aus denen Sie auswählen können:
+Dadurch wird der Bereich Teleporter Destination (Teleporter-Ziel) angezeigt. Es werden drei Kategorien zur Auswahl:
 
-* **Meine Leerzeichen** : Liste der von Ihnen erstellten Welten.
-* **Zuletzt** verwendete Liste der zuletzt verwendeten Ereignisse. Verwenden Sie diese Option, wenn Sie zu einem Ereignis wechseln möchten. Dies ist die einzige Option, die Sie zu einem Ereignis führt, das andere 2 ermöglicht nur die Übertragung zwischen den Welten. Hinweis: siehe weiter unten, wenn Sie Front Row-Ereignisse mit importierten Welten verbinden, müssen Sie die teleportoren in der importierten Welt und nicht im eigentlichen Ereignis einrichten und einrichten.
-* **Vorgestellt** : Liste der vorgestellten Welten Sie können den Teleporter auf Reisen festlegen.
+* **MY SPACES:** Liste der Welten, die Sie erstellt haben.
+* **RECENT:** Liste der aktuellen Ereignisse, die Sie bisher gesehen haben. Verwenden Sie diese Option, wenn Sie zu einem Ereignis reisen möchten. Dies ist die einzige Option, die Sie zu einem Ereignis weiterträgt. Die anderen 2 lassen sie nur zwischen Welten zu. HINWEIS: Wenn Sie Front Row-Ereignisse mit importierten Welten verbinden, müssen Sie die Teleporters in der importierten Welt und nicht im eigentlichen Ereignis neu einrichten und einrichten.
+* **FEATURED** : Liste der ausgewählte Welten, in die Teleporter reisen soll.
 
-Wählen Sie das Ereignis oder die Welt aus, das Sie verwenden möchten. Dadurch wird der Teleporter erzeugt und eine Text Bezeichnung für das Ereignis oder den Namen der Welt etwas zurückgesetzt. Sie können also das Zahnrad Symbol im Abschnitt "vorhandene Objekte" auswählen, um den Namen der Bezeichnung zu ändern.
+Wählen Sie das Ereignis oder die Welt aus, das bzw. die Sie verwenden möchten, wodurch der Teleporter angezeigt wird, und legen Sie einen Text Label of the Event or World name (Bezeichnung des Ereignisses oder World-Namens) etwas zurück. Sie können also das Zahnradsymbol im Abschnitt Objekte präsentieren auswählen, um den Bezeichnungsnamen zu ändern.
 
-Sie können entweder für den Teleporter mit dem Cursor auswählen (Sie werden gefragt, ob es in Ordnung ist, wenn es sich um einen Fehlschlag handelt) oder den Avatar direkt in den Teleporter verschieben, und Presto, dass Sie zu Ihrem Ziel gelangen. Sagen Sie, dass wir Hallo!
+Sie können entweder Teleporter mit dem Cursor auswählen (Sie werden gefragt, ob es in Ordnung ist, dort zu wechseln, falls es ein Mausklick war), oder Sie verschieben Ihren Avatar direkt in den Teleporter, und sie fahren zu Ihrem Ziel. Sagen Sie ihnen, dass wir hi!
 
 ## <a name="advanced-features"></a>Erweiterte Funktionen
 
-Wenn Sie eine Konferenz, einen Summit oder ein größeres Ereignis mithilfe von Front Row mit einer benutzerdefinierten Welt erstellen (z. b. eine Foundation World-, Unity-Uploader-Raum Vorlage, Re-Import Welt), müssen Sie den Teleporter in ihrer Foundation-Welt einrichten und nicht im eigentlichen Ereignis. Stellen Sie sicher, dass Sie den Teleporter so einrichten, dass er zum richtigen Ereignis (muss aus der Liste "zuletzt aufgeführt") in ihrer Foundation-Welt wechseln, und Re-Import Welt im Ereignis, um die teleportoren in allen Front-Row-Ereignis Räumen anzuzeigen.
+Wenn Sie eine Konferenz, einen Konferenztag oder ein größeres Ereignis mit Front Row mit einer benutzerdefinierten Welt erstellen (z. B. eine Foundation World- oder Unity Uploader Space-Vorlage, Re-Import World), müssen Sie Teleporter in Ihrer Foundation World einrichten und nicht im eigentlichen Ereignis. Stellen Sie sicher, dass Sie Teleporter so einrichten, dass es zum richtigen Ereignis (muss aus der Liste Zuletzt verwendet werden) in Ihrer Foundation World und dann Re-Import World im Ereignis eingerichtet wird, damit die Teleporters in allen Front Row-Ereignisräumen angezeigt werden.
 
 ## <a name="faqs"></a>Häufig gestellte Fragen
 
-**Fehler: "Wir möchten uns leider nicht erlauben, aber wir können Sie nur dort"**
+**Fehler: "Sorry, we't like to, but we can't let you in there"**
 
-An das Ereignis ist möglicherweise eine Gruppe angefügt, sodass nur Benutzernamen in der Gruppe in den Teleporter gelangen können, um das Ereignis für die private Gruppe zu erhalten.
+Dem Ereignis ist möglicherweise eine Gruppe angefügt, sodass nur Benutzernamen in der Gruppe an diesen Teleporter übertragen werden können, um zu diesem privaten Gruppenereignis zu kommen.
 
-**Wie viele teleportoren kann ich in einem Bereich verwenden?**
+**Wie viele Teleporter kann ich in einem Raum verwenden?**
 
-Teleportierer verwenden transparente Texturen mit animierten Partikel Effekten. es ist also am besten, dass sich nicht zu viele alle in derselben Stelle/überlappenden überlappenden, da dies die Leistung beeinträchtigen könnte. Versuchen Sie nicht, mehr als 4 im gleichen Bereich oder mehr als 10 zu verwenden, wenn Sie alle in Ihrem Raum verteilt sind.
+Teleporter verwenden transparente Texturen mit animierten Partikeleffekten, daher ist es am besten, nicht zu viele an derselben Stelle/Überlappung zu haben, da dies die Leistung beeinträchtigen kann. Versuchen Sie, nicht mehr als 4 im gleichen Bereich oder mehr als 10 zu haben, wenn sie alle in Ihrem Bereich verteilt sind.

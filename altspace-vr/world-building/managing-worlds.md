@@ -1,49 +1,49 @@
 ---
 title: Verwalten von Welten
-description: Erfahren Sie, wie Sie Ihre altspacevr-Welten erstellen, verwalten und herauf Stufen und Ihr eigenes benutzerdefiniertes Universum generieren.
+description: Erfahren Sie, wie Sie Ihre AltspaceVR-Welten erstellen, verwalten und bewerben sowie Ihr eigenes benutzerdefiniertes Universe generieren.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: Welten, Features
-ms.openlocfilehash: 48a294efb151461d79d707b66aeeeaa47528d2f8
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 2f5faab6311a245035a374060ef6306dd0f2b469970ccbea8df999c72721f321
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213390"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125610"
 ---
 # <a name="managing-worlds"></a>Verwalten von Welten
 
-Sie sind Glück! Sehen Sie sich unseren ersten Schritten mit der [Welt Erstellungs Anleitung](world-building-getting-started.md) an, um Ihre erste persönliche Welt zu besuchen. Wenn Sie erweiterte Features verwenden oder andere Welten und Universen erstellen möchten, ist diese Anleitung für Sie vorgesehen. Eingeschränkte globale Steuerelemente sind in VR verfügbar, und die vollständige Kontrolle ist auf unserer Website verfügbar.
+Sie haben Pech! Sehen Sie [sich unseren Leitfaden für Erste Schritte world-building an,](world-building-getting-started.md) um Ihre erste persönliche Welt zu besuchen. Wenn Sie erweiterte Features verwenden oder andere Welten und Universen erstellen möchten, ist dieser Leitfaden für Sie da. Limited World-Steuerelemente sind in VR verfügbar, und vollständige Steuerelemente sind auf unserer Website verfügbar.
 
 ## <a name="creating-extra-worlds"></a>Erstellen zusätzlicher Welten
 
-1. Navigieren Sie zu " [Worlds >](https://account.altvr.com/worlds/my) ".
+1. Navigieren zu [Worlds > Mine](https://account.altvr.com/worlds/my)
 
-![Welten in der Webansicht "altspacevr" geöffnet, in der ein Bereich ausgewählt ist](images/manage-worlds-img-01.png)
+![In der AltspaceVR-Webansicht geöffnete Welten mit ausgewähltem Bereich "Mine"](images/manage-worlds-img-01.png)
 
-2. Ihre Startseite und das Standard-Universum sollten angezeigt werden. Ein Universum ist eine Auflistung von Welten. Dadurch wird es einfacher, alle faszinierenden Welten zu organisieren, die Sie erstellen werden. Wählen Sie Ihr Standard Universum aus, und wählen Sie dann **Welt erstellen** aus:
+2. Es sollten Ihre Startseite und Ihr Standard-Universe angezeigt werden. Ein Universe ist eine Sammlung von Welten. Dadurch wird es einfacher, alle beeindruckenden Welten zu organisieren, die Sie erstellen werden. Wählen Sie Ihr Standard-Universe und dann **Welt erstellen aus:**
 
 ![Universe-Panel mit ausgewählter Welt](images/manage-worlds-img-02.png)
 
-3. Ihr Standard-Universum hat eine Standard Welt.
-4. Wählen Sie eine Vorlage aus. Sie beginnen mit einigen grundlegenden. Sehen Sie sich das [Unity-Uploader](world-building-toolkit-getting-started.md) an, wenn Sie eigene Vorlagen erstellen möchten. Geben Sie die Details ein, und stellen Sie sicher, dass Sie ein Bild hochladen. Dadurch erhalten Menschen eine Vorstellung von der Art und Weise, wie Ihre Welt aussieht. Wählen Sie **Erstellen** , wenn Sie bereit sind.
+3. Ihr Standard-Universe hat die Standard-Welt.
+4. Auswählen einer Vorlage. Sie beginnen mit einigen grundlegenden. Sehen Sie sich [den Unity-Uploader](world-building-toolkit-getting-started.md) an, wenn Sie ihre eigenen Vorlagen erstellen möchten. Geben Sie die Details ein, und stellen Sie sicher, dass Sie ein Bild hochladen. So erhalten die Menschen eine Vorstellung davon, wie Ihre Welt aussieht. Wählen **Sie Erstellen** aus, wenn Sie bereit sind.
 
-![Erstellen von "World Panel Open" mit Eingabefeldern](images/manage-worlds-img-03.png)
+![Öffnen des Weltbereichs mit Eingabefeldern](images/manage-worlds-img-03.png)
 
-5. Herzlichen Glückwunsch zu ihrer ganz neuen Welt! Sie können **jetzt eingeben** auswählen, um altspace zu starten oder den Link auf dieser Seite für Ihre Freunde freizugeben. In VR finden Sie diese in den Welten > meine Welten. Es gibt keine Beschränkung für die Anzahl der Umgebungen, die Sie erstellen können.
+5. Congrott on your brand new World! Sie können jetzt **eingeben auswählen,** um ALTSPACE zu starten oder den Link zu dieser Seite für Ihre Freunde frei zu geben. In VR finden Sie es unter Worlds > My Worlds. Es gibt keine Beschränkung für die Anzahl der Welten, die Sie erstellen können.
 
-![Welt in VR gestartet](images/manage-worlds-img-04.png)
+![Gestartete Welt, die in VR ausgeführt wird](images/manage-worlds-img-04.png)
 
 ## <a name="advanced-features"></a>Erweiterte Funktionen
 
-* **Private Welten** : Aktivieren Sie das **private** Kontrollkästchen, wenn Sie Datenschutz benötigen. Sie können das Auflisten von Benutzern gestatten, indem Sie Sie dem Feld in VR > Zulassungsliste hinzufügen.
-* Herauf Stufung: Sie können Widgets von Websites für soziale **Medien einbetten** , um Sie auf der Webseite Ihrer Welt anzuzeigen. Sie fügen diese nicht in der VR-Welt hinzu.
-* **Anweisungen** : Diese Meldung wird den Personen jedes Mal angezeigt, wenn Sie eingeben.
-* **Nicht aufgelistete Welten** : Blenden Sie Ihre Welt aus den Welten aus, > beliebt und suchen
-* **Aus der Welt importieren** : Sie können aus einer anderen Welt importieren.
-* **Suchen** : Fügen Sie Tags hinzu, um Ihre Welt besser zu suchen.
-* **Rollen und Fähigkeiten** : bestimmte Personen können Möglichkeiten zur Verfügung stehen, indem Sie ihnen Rollen gewähren
+* **Private Worlds:** Aktivieren Sie das **private** Kontrollkästchen, wenn Sie Datenschutz wünschen. Sie können zulassen, dass listen Sie Personen beitreten, indem Sie sie dem Feld In VR > Allow List (Liste zulassen) hinzufügen.
+* **Promotion:** Sie können Widgets von Social Media-Websites einbetten, um sie auf der Webseite Ihrer Welt zu zeigen. Dadurch werden diese nicht zu Ihrer in VR World hinzugefügt.
+* **Anweisungen:** Diese Meldung wird den Personen bei jeder Eingabe angezeigt.
+* **Nicht aufgeführte Welten** – Welten vor Welten ausblenden> und Suche
+* **Aus Welt importieren:** Sie können aus einer anderen Ihrer Welten importieren.
+* **Suche:** Fügen Sie Tags hinzu, um Ihre Welt suchfreundlicher zu gestalten.
+* **Rollen und Fähigkeiten:** Geben Sie bestimmten Personen Fähigkeiten, indem Sie ihnen Rollen gewähren.
 
 ## <a name="creating-extra-universes"></a>Erstellen zusätzlicher Universen
 
-In den **Welten > meine Welten > Universes** gibt es oben eine Schaltfläche " **universe erstellen** ". Dadurch wird ein neues Universum erstellt. Universen sind noch nicht in VR verfügbar.
+Unter **Worlds > My Worlds > Universes** finden Sie oben die Schaltfläche **Universe** erstellen. So wird ein neues Universe erstellt. Universen werden noch nicht in VR an oberflächet.

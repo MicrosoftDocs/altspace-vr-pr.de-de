@@ -1,58 +1,58 @@
 ---
-title: Importieren von gltf-Modellen
-description: Erfahren Sie, wie Sie 3D-gltf-Modelle ordnungsgemäß in Ihre altspacevr-Erfahrungen importieren und Probleme beheben.
+title: Importieren von glTF-Modellen
+description: Erfahren Sie, wie Sie 3D-GlTF-Modelle ordnungsgemäß in Ihre AltspaceVR-Funktionen importieren und Probleme beheben.
 ms.date: 03/11/2021
 ms.topic: article
-keywords: Modelle, gltf, Import, schräl, Problembehandlung
-ms.openlocfilehash: 4489f90832bd1cf85ff161caed11684257cce6ab
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: models, glTF, importing, sketchfab, troubleshooting
+ms.openlocfilehash: 527c38fc49028258fa432445fe14a355710a18be65ee74252a8c39bc1bfe5190
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213259"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127059"
 ---
-# <a name="importing-gltf-models"></a>Importieren von gltf-Modellen
+# <a name="importing-gltf-models"></a>Importieren von glTF-Modellen
 
 > [!NOTE]
-> Diese Funktion ist zurzeit für ausgewählte Benutzer im frühzeitigen Zugriffs Programm verfügbar.
+> Dieses Feature ist derzeit für ausgewählte Benutzer im Early Access-Programm verfügbar.
 
-Eine Möglichkeit zum bringen von 3D-Modellen und-Szenen in altspace ist die Verwendung des [gltf-Standards](https://en.wikipedia.org/wiki/GlTF). Sie können eine GLB-Datei (gepacktes gltf) hochladen, um ein Modell zu erstellen, das Sie später im World-Editor erzeugen können. Es ist eine Alternative zum [Hochladen Ihrer eigenen Kits](uploading-custom-kits.md). Wir empfehlen die Erstellung von Modellen für schnelle Demos, da Sie Unity nicht verwenden müssen, und Kits, wenn Sie die Leistung und Wiederverwendbarkeit maximieren möchten. 
+Eine Möglichkeit, 3D-Modelle und -Szenen in Altspace zu bringen, ist die Verwendung des [glTF-Standards](https://en.wikipedia.org/wiki/GlTF). Sie können eine GLB-Datei (gepacktes glTF) hochladen, um ein Modell zu erstellen, das Sie später im World Editor erstellen können. Dies ist eine Alternative zum [Hochladen Ihrer eigenen Kits.](uploading-custom-kits.md) Es wird empfohlen, Modelle für schnelle Demos zu erstellen, da Sie Unity und Kits nicht verwenden müssen, wenn Sie die Leistung und Wiederverwendbarkeit maximieren möchten. 
 
-1. Suchen Sie nach einigen gltf 3D-Assets. Ein Ort für die Suche ist "schrätchfab" (Filtern Sie nach **herunterladbaren** Modellen wie [diesem](https://sketchfab.com/search?features=downloadable&q=low+poly+wolf&sort_by=-pertinence&type=models)). Wenn Sie ihn gefunden haben, wählen Sie **3D-Modell herunterladen** aus:
+1. Suchen Sie nach einigen glTF 3D-Ressourcen. Ein Ort, an dem Sie suchen können, ist Sketchfab (versuchen Sie, nach **herunterladbaren** Modellen wie diesem zu [filtern).](https://sketchfab.com/search?features=downloadable&q=low+poly+wolf&sort_by=-pertinence&type=models) Sobald Sie es finden, wählen **Sie 3D-Modell herunterladen aus:**
 
-![3D-Hunde Modell aus "schrätchfab"](images/importing-models-img-01.png)
+![3D-Hundemodell von Sketchfab](images/importing-models-img-01.png)
 
-2. Kopieren Sie den Link in das Modell, und lesen Sie die Lizenzanforderungen. 
-3. Herunterladen der Version des **Auto konvertierten Formats (gltf)**
+2. Kopieren Sie den Link zum Modell, und lesen Sie die Lizenzanforderungen. 
+3. Herunterladen der **GlTF-Version (Autoconverted Format)**
 
-![Optionen zum Herunterladen von "schrätchfab" mit hervorgehobenem Format](images/importing-models-img-02.png)
+![Sketchfab-Downloadoptionen mit hervorgehobenen automatisch konvertierten Formaten](images/importing-models-img-02.png)
 
-4. Öffnen Sie die [GLB Packer](https://glb-packer.glitch.me) -Website, und aktivieren Sie das Kontrollkästchen **PNG in JPEG konvertieren (Beta)** .
-5. Deinstalkomprimieren Sie die heruntergeladenen gltf-Dateien, und ziehen Sie Sie nacheinander auf die Browser Registerkarte GLB Packer.
+4. Öffnen Sie die [GLB Packer-Website,](https://glb-packer.glitch.me) und aktivieren Sie das Kontrollkästchen **Convert PNG to JPEG (beta) (PNG in JPEG konvertieren (Betaversion)).**
+5. Dekomprimieren Sie die heruntergeladenen glTF-Dateien, und ziehen Sie sie alle gleichzeitig auf die GLB Packer-Browserregisterkarte.
 
-![Fenster mit unkomprimierung des Modells](images/importing-models-img-03.png)
+![Fenster mit Der Dekomprimierung des Modells](images/importing-models-img-03.png)
 
-6. Abhängig von der Anzahl und Größe der Dateien kann es eine Weile dauern, bis Sie verarbeitet wird. Wenn die Verarbeitung abgeschlossen ist, wird eine **out. GLB** -Datei heruntergeladen. Benennen Sie diese Datei in eine informative Datei um. Dies ist der Name des Objekts auf der Welt (z **. b. "Low Poly. GLB**").
-7. Navigieren Sie zu [altvr.com > weitere > Modelle](https://account.altvr.com/users/sign_in) , und wählen Sie **Erstellen** aus.
-8. Geben Sie den Speicherort der GLB-Datei an, und stellen Sie sicher, dass Sie den Link "schrätchfab" in die Beschreibung für die Zuordnung kopieren. Wenn Sie möchten, können Sie ein Vorschaubild angeben und dann **Modell erstellen** auswählen:
+6. Je nach Anzahl und Größe der Dateien kann die Verarbeitung eine Weile dauern. Wenn die Verarbeitung erfolgt ist, wird die Datei **out.glb** heruntergeladen. Benennen Sie diese Datei in einen informativen Namen um. Dies ist der Name des Objekts in der Welt (z.B. **Low Poly Muss.glb**).
+7. Navigieren Sie zu [altvr.com > Weitere > Modelle,](https://account.altvr.com/users/sign_in) und wählen Sie **Erstellen aus.**
+8. Geben Sie den Speicherort der GLB-Datei an, und kopieren Sie den Sketchfab-Link zur Zuordnung in die Beschreibung. Sie können ein Vorschaubild angeben, wenn Sie möchten, und dann **Modell erstellen auswählen:**
 
-![Modell Vorschau in altspacevr](images/importing-models-img-04.png)
+![Modellvorschau in AltspaceVR](images/importing-models-img-04.png)
 
-9. **In Zwischenablage kopieren** auswählen
-10. Öffnen des **World Editors > altspace > Grundlagen > gltf**
-11. Fügen Sie die URL ein, und wählen Sie **bestätigen** aus.
+9. Wählen Sie **In Zwischenablage kopieren aus.**
+10. Öffnen Sie **den World Editor > Altspace > Basics > GLTF.**
+11. Fügen Sie Ihre URL ein, und wählen Sie Bestätigen **aus.**
 
-Herzlichen Glückwunsch! Sie haben soeben das erste Modell erzeugt.
+Herzlichen Glückwunsch! Sie haben soeben Ihr erstes Modell entwickelt.
 
 ## <a name="troubleshooting"></a>Problembehandlung
 
-**Beim Anklicken **bestätigen** , dass nichts passiert ist**
-    * Wir haben derzeit ein Polygon Limit von 100 KB. Wenn dies nicht möglich ist, löschen Sie das Objekt, um potenzielle Probleme mit Benutzern zu vermeiden, die ihrer Welt beitreten
-    * Möglicherweise gibt es andere Probleme mit dem Asset. Versuchen Sie, Ressourcen mit möglichst wenigen Polygonen zu verwenden.
-    * Das Modell, das Sie einbinden, kann klein oder groß sein. Versuchen Sie, die Skalierung zu vergrößern oder zu verringern oder den Avatar zu verschieben. möglicherweise sind Sie im Modell.
+**Wenn ich auf Confirm nothing happened **(Nichts** geschehen bestätigen) geklickt habe**
+    * Wir haben derzeit einen Polygongrenzwert von 100.000. Wenn ein Fehler auftritt, löschen Sie das Objekt, um potenzielle Probleme mit Benutzern zu vermeiden, die Ihrer Welt beitreten.
+    * Möglicherweise gibt es andere Probleme mit der Ressource. Versuchen Sie, Objekte mit möglichst wenigen Polygonen zu verwenden.
+    * Das Modell, das Sie verwenden, kann klein oder groß sein. Versuchen Sie, die Skalierung zu erhöhen/zu verringern, oder bewegen Sie Ihren Avatar, möglicherweise stehen Sie im Modell!
 
-**Die Auslastung ist langsam** . Wie schnell andere Benutzer weltweit laden, hängt von der Verbindungsgeschwindigkeit ab. Sie wird auch nicht wie Kit-Assets zwischengespeichert. Wenn Sie einen in Ihrem Zuhause platzieren, können Sie das gleiche Modell jedes Mal erneut herunterladen, wenn Sie beitreten, was nicht gut ist.
+**Langsames Laden** Wie schnell andere Benutzer auf der Welt geladen werden, hängt von ihrer Verbindungsgeschwindigkeit ab. Es wird auch nicht wie Kit-Objekte zwischengespeichert. Wenn Sie ein Modell in Ihrer Startseite platzieren, laden Sie das gleiche Modell bei jedem Beitritt erneut ab, was nicht gut ist.
 
-**Es gibt keine Kollision** . Standardmäßig gibt es keine Konflikte mit den Objekten, die auf diese Weise eingeführt werden.
+**Es gibt keine Kollision.** Standardmäßig gibt es keine Kollision mit den Objekten, die auf diese Weise gebracht werden.
 
-**Wenn ich Sie verwende, verliere ich meine Steuerelemente auf sechs DOF-Daten, oder ich bin darin, dass es schwierig ist, Sie zu bearbeiten** . Ja, wir kennen diese Probleme und hoffen, Sie bald zu beheben.  
+**Wenn ich es aussuche,** verliere ich meine Steuerelemente auf sechs DOF, oder ich bin drin, sodass es schwierig ist, es zu bearbeiten. Ja, wir sind uns dieser Probleme bewusst und hoffen, sie bald beheben zu können.  

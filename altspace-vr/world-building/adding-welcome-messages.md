@@ -1,36 +1,36 @@
 ---
-title: Hinzufügen von Begrüßungs Nachrichten
-description: Erfahren Sie, wie Sie Ihren altspacevr-Umgebungen Willkommens Nachrichten erstellen, Probleme beheben und diese hinzufügen.
+title: Hinzufügen von Begrüßungsnachrichten
+description: Erfahren Sie, wie Sie Ihre AltspaceVR-Erfahrungen erstellen, Problembehandlungen durchführen und Begrüßungsnachrichten hinzufügen.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: Willkommen, Problembehandlung
-ms.openlocfilehash: bd6ce242297b84a205a0c457c6bc7e6e125da34c
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 4331aec99462e01b36be83a857201a6ad96bc0aa8b0847bd3d22f43fe5cfee24
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212217"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127209"
 ---
-# <a name="adding-welcome-messages"></a>Hinzufügen von Begrüßungs Nachrichten
+# <a name="adding-welcome-messages"></a>Hinzufügen von Begrüßungsnachrichten
 
-Wenn Sie eine Welt eingeben, wird möglicherweise eine Begrüßungs Meldung wie die folgende angezeigt:
+Wenn Sie eine Welt eingeben, wird möglicherweise eine Begrüßungsnachricht wie die folgende angezeigt:
 
-![Neue SignIn-Nachricht für eine Welt](images/welcome-img-01.png)
+![Neue Anmeldemeldung für eine Welt](images/welcome-img-01.png)
 
-World-Builder können eine optionale Nachricht hinzufügen, die jeder Person angezeigt wird, wenn Sie in Ihre Welt eintreten. Dies kann hilfreich sein, wenn Ihre Welt das Fliegen aktiviert hat und Sie möchten, dass Besucher das Fliegen einschalten. 
+World Builders kann eine optionale Meldung hinzufügen, die jeder Person angezeigt wird, wenn sie ihre Welt betritt. Dies kann hilfreich sein, wenn Ihre Welt über aktivierte Kurve verfügt und Sie möchten, dass Besucher sich eingeschaltet haben. 
 
-1. Navigieren Sie auf unserer Website zu " [Worlds >](https://account.altvr.com/users/sign_in)", und bearbeiten Sie Ihre Welt.
-2. Geben Sie im Feld " **Anweisungen** " Ihre Nachricht ein, **und klicken Sie** auf
+1. Navigieren Sie auf unserer Website zu [Worlds > Mine,](https://account.altvr.com/users/sign_in)und bearbeiten Sie Ihre Welt.
+2. Geben Sie Ihre Nachricht in das Feld **Anweisungen ein,** und klicken Sie **auf Aktualisieren.**
 
-![Bearbeiten von "World instructions Message"](images/welcome-img-02.png)
+![Bearbeiten einer Weltanweisungsmeldung](images/welcome-img-02.png)
 
-3. Geben Sie in "altspace" Ihre Welt ein, und die aktualisierte Meldung sollte angezeigt werden.
+3. Geben Sie in Altspace Ihre Welt ein, und dann sollte die aktualisierte Meldung angezeigt werden.
 
 ## <a name="troubleshooting"></a>Problembehandlung
 
-**Die Zeilen sind nicht Umbrüche/Super lang** . Drücken Sie die EINGABETASTE im Textfeld, damit Sie zur nächsten Zeile wechselt.
+**Die Zeilen sind nicht umschließend/sehr lang** Drücken Sie die EINGABETASTE in das Textfeld, um zur nächsten Zeile zu gelangen.
 
-**Gewusst wie meinen Text in den Sinn machen?**
-Sehen Sie sich die [Erweiterte Syntax](http://digitalnativestudios.com/textmeshpro/docs/rich-text/#color)an. Es werden nur wenige Tags unterstützt, und die Farbe ist eine davon.
+**Gewusst wie text farbig zu machen?**
+Sehen Sie sich die erweiterte [Syntax an.](http://digitalnativestudios.com/textmeshpro/docs/rich-text/#color) Es werden nur wenige Tags unterstützt, und Farbe ist eines davon.
 
-**Die Meldung wird immer dann immer angezeigt, wenn Sie in** Zurzeit ist es nicht möglich, diese Nachricht dauerhaft zu verwerfen, aber wir können diese Funktion in Zukunft hinzufügen.
+**Die Nachricht wird immer wieder angezeigt, wenn sie eingeben.** Derzeit ist es nicht möglich, diese Nachricht dauerhaft zu verdringen, aber wir können dieses Feature in Zukunft hinzufügen.
