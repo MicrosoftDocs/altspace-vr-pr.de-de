@@ -81,15 +81,15 @@ Ja, absolut! Unsere Feeds für soziale Medien und wöchentliche Newsletter entha
 Es gibt einige Dinge, die wir beim Erstellen Ihres Ereignisses empfehlen, um die Wahrscheinlichkeit zu erhöhen, dass Sie sich im Ereigniskalender befinden & für die Heraufstufung ausgewählt werden:
 
 1. Verwenden Sie Ihren Titel, um Diess zu wähnen.
-    * Seien Sie spezifisch. Sprechen Sie mit den Interessen der Menschen. Seien Sie einladungsell.
-    * Zum b. B.: "Chat"-Chat ist weniger überzeugend als "FINAL FINALS Watch Party"
+    * Seien Sie spezifisch. Sprechen Sie mit den Interessen der Menschen. Seien Sie einladungserregend.
+    * Z.B.: "Chat Chat" ist weniger überzeugend als "FINALS Finals Watch Party"
 2. Schreiben einer kurzen, aber informativen Beschreibung
-    * Teilen Sie den Menschen mit, was Sie erwarten können. Halten Sie es kurz, aber interessant. Nicht kryptisch sein. Verwenden Sie markdown nicht.
-    * Beispiel: "Science talk abouts" ist weniger interessant als "Join Dr.Press Geller on a safari-like durch a virtualIgessic World." Erfahren Sie mehr über die 40000Er jahre, die einmal unsere Erde beredt haben."
+    * Informieren Sie die Benutzer darüber, was sie erwartet. Halten Sie es kurz, aber interessant. Seien Sie nicht kryptisch. Verwenden Sie markdown nicht.
+    * Beispiel: "Science talk about algorithms" ist weniger interessant als "Join Dr. Vmer Geller on a safari-like boots through a virtualLaufssic World. Erfahren Sie mehr über die Aussteller, die sich einmal auf der Erde bewegen."
 3. Verwenden eines benutzerdefinierten Images
-    * Interessante Visuals sind eine sichere Möglichkeit, sich im Kalender heraus zu zeichnen.
-    * Vermeiden Sie das Hinzufügen von Text. Farbe verwenden; Fügen Sie Logos in der Moderation hinzu.
-4. Erstellen Sie Ihre Auflistung frühzeitig und weit vor ihrem Ereignisdatum.
-    * Wenn Ihr Ereignis mehr Zeit für den Kalender verbringt, desto mehr Zeit müssen Sie von neuen Zielgruppen entdecken.
-5. Konsistente Inhalte und Kommunikation
-    * Legen Sie einen Ereigniszeitplan fest& um Ihre Zielgruppe darüber zu informieren, wann Sie nach Ihrer nächsten Auflistung suchen sollten. Verwenden Sie soziale Medien oder Plattformen wie Discord, um mit Ihren Fans zu kommunizieren.
+    * Interessante Visuals sind eine sichere Möglichkeit, sich im Kalender abzuheben.
+    * Vermeiden Sie das Hinzufügen von Text. Farbe verwenden; Fügen Sie Logos in moderation hinzu.
+4. Erstellen Sie Ihr Listing frühzeitig und rechtzeitig vor Dem Ereignisdatum.
+    * Je mehr Zeit Ihr Ereignis für den Kalender aufwendet, desto mehr Zeit müssen Sie von neuen Zielgruppen entdeckt werden.
+5. Konsistenz in Inhalt und Kommunikation
+    * Legen Sie einen Ereigniszeitplan fest, & Ihre Zielgruppe zu informieren, wann Sie nach Ihrer nächsten Auflistung suchen sollten. verwenden Sie soziale Medien oder Plattformen wie Discord, um mit Ihren Fans zu kommunizieren.

@@ -17,7 +17,7 @@ Das Early Access-Programm bietet Ihnen Zugriff auf die neuesten Features, die si
 
 ## <a name="in-vr"></a>In VR
 
-1. Öffnen Sie Ihr Menü, um allgemein zu **Einstellungen >,** und schalten **Sie Am Early Access Program teilnehmen** um:
+1. Öffnen Sie Ihr Menü, um allgemein zu **Einstellungen >,** und schalten **Sie am Early Access Program teilnehmen** um:
 
 ![Einstellungen Menü mit hervorgehobener Option für den frühen Zugriff](images/early-access-img-01.png)
 
@@ -38,5 +38,5 @@ Das Early Access-Programm bietet Ihnen Zugriff auf die neuesten Features, die si
 
 * Ich habe keine bestimmte Fähigkeit
     * Haben Sie Altspace neu gestartet? Funktionen werden geladen, wenn Sie ALTSPACE zum ersten Mal starten.
-    * Sind Sie die neueste Version von Altspace? Öffnen Sie Ihr Menü, um zu Einstellungen > Zu überprüfende Informationen anzuzeigen. Bestätigen Sie bei Bedarf mit einem Administrator in DerFire.
+    * Sind Sie die neueste Version von Altspace? Öffnen Sie ihr Menü, um die Zu überprüfende Einstellungen > Zu überprüfen. Bestätigen Sie bei Bedarf mit einem Administrator in DerFire.
     * Einige Funktionen sind nur für Administratoren und einige nur an bestimmten Stellen verfügbar. Beispielsweise verfügen Sie möglicherweise über besondere Fähigkeiten in Ihrer Startseite, aber nicht in einer öffentlichen Welt. Bestätigen Sie mit einem Administrator, ob Sie in diesem Kontext über eine bestimmte Fähigkeit verfügen sollten.

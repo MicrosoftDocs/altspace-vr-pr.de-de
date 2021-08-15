@@ -15,7 +15,7 @@ ms.locfileid: "119127260"
 
 Personen, die in Ihre Welt eintreten, werden am Ursprung und an der Position (0,0,0) **angezeigt,** wenn sie in Ihre Welt eintreten. Sie können jedoch einen oder mehrere Spawn Points hinzufügen, wenn Sie z. B. personen am Eingang ihrer Stadt beginnen möchten. Wenn Sie mehrere Spawn Points angeben, wird nach dem Zufallsprinzip einer ausgewählt, wenn jemand eingeht und der Ursprung nicht eingeschlossen wird. Sie können Spawn Points to any World oder Event (Spawn Points to any World oder Event) verwalten, bei dem Ihr World Editor aktiviert ist. Sie steuern, wo Personen entstehen (Position) und welche Richtung sie haben (Drehung). Spawn Points sind nur im Bearbeitungsmodus sichtbar. 
 
-1. Wechseln Sie in die Nähe der Stelle, an der Die Menschen erstellen sollen. Öffnen Sie **den World Editor > Grundlagen,** und stellen Sie sicher, dass die **Sperrrotation** aktiviert ist. Wählen Sie **Spawn Point (Spawn Point)** aus, um einen zu erstellen. Verschieben Sie sie an die gewünschte Position:
+1. Wechseln Sie in die Nähe der Stelle, an der Die Menschen erstellen sollen. Öffnen Sie **den Editor für die Welt > Grundlagen,** und stellen Sie sicher, dass die **Sperrrotation** aktiviert ist. Wählen Sie **Spawn Point (Spawn Point)** aus, um einen zu erstellen. Verschieben Sie sie an die gewünschte Position:
 
 ![Fenster "Grundlagen" des World-Editors geöffnet](images/spawn-points-img-01.png)
 
@@ -25,13 +25,13 @@ Personen, die in Ihre Welt eintreten, werden am Ursprung und an der Position (0,
 
 3. Reenter Your World via **Menu > Einstellungen > General > Reenter Space > Re-Enter**
 4. Sie sollten am neuen Spawn Point erstellen!
-5. Wenn Sie möchten, dass Personen in eine andere Richtung wechseln, wählen Sie die Einstellungen für Spawn Point (Spawn Point) aus, und legen Sie Rotation > Y only (Nur **Drehung > Y)** fest. Versuchen Sie, Y auf 180 und sowohl X als auch Z auf 0 festzulegen (Warnung: X und Z sind erweitert, kann dies dazu führen, dass Die Menschen untätig werden). Wählen Sie dann **Bestätigen** aus, und geben Sie die Welt erneut ein. Dadurch sollten Sie die entgegengesetzte Richtung sehen. 
+5. Wenn Sie möchten, dass Personen in eine andere Richtung wechseln, wählen Sie die Einstellungen für den Spawn Point (Spawn Point) aus, und legen Sie Rotation > Y only (Nur **Drehung > Y)** fest. Versuchen Sie, Y auf 180 und sowohl X als auch Z auf 0 festzulegen (Warnung: X und Z sind erweitert, kann dies dazu führen, dass Die Menschen untätig werden). Wählen Sie dann **Bestätigen** aus, und geben Sie die Welt erneut ein. Dadurch sollten Sie die entgegengesetzte Richtung sehen. 
 
 ## <a name="troubleshooting"></a>Problembehandlung
 
 **Personen, die noch am Ursprung entstehen?**
     * Stellen Sie sicher, dass sich Die Spawn Points leicht über dem Boden oder der Oberfläche befinden. Wenn sich der Spawn-Punkt mit anderen Objekten überschneidet, werden die Personen am Standardspeicherort, dem Ursprung, angezeigt. Dies kann passieren, wenn der Spawn Point innerhalb eines Objekts und die Höhe der Person variieren. 
-    * Versuchen Sie, Ihre Welt über **das Menü > Einstellungen > Moderieren > Zurücksetzen des Speicherplatzes zurückzusetzen.**
+    * Versuchen Sie, Ihre Welt über **menü > Einstellungen > Moderieren > Zurücksetzen des Speicherplatzes zurückzusetzen.**
 
 **Haben Sie mehrere Spawn Points, aber werden immer noch an derselben Stelle spawning?**
 Möglicherweise sind Sie unaufdinglich– es ist schließlich zufällig. Versuchen Sie es mindestens fünfmal erneut, bevor Sie davon ausgehen, dass ein Fehler vorliegt. 

@@ -33,7 +33,7 @@ Eine Möglichkeit, 3D-Modelle und -Szenen in Altspace zu bringen, ist die Verwen
 ![Fenster mit Der Dekomprimierung des Modells](images/importing-models-img-03.png)
 
 6. Je nach Anzahl und Größe der Dateien kann die Verarbeitung eine Weile dauern. Wenn die Verarbeitung erfolgt ist, wird die Datei **out.glb** heruntergeladen. Benennen Sie diese Datei in einen informativen Namen um. Dies ist der Name des Objekts in der Welt (z.B. **Low Poly Muss.glb**).
-7. Navigieren Sie zu [altvr.com > Weitere > Modelle,](https://account.altvr.com/users/sign_in) und wählen Sie **Erstellen aus.**
+7. Navigieren Sie zu [altvr.com > Weitere > Modelle,](https://account.altvr.com/users/sign_in) und wählen Sie Erstellen **aus.**
 8. Geben Sie den Speicherort der GLB-Datei an, und kopieren Sie den Sketchfab-Link zur Zuordnung in die Beschreibung. Sie können ein Vorschaubild angeben, wenn Sie möchten, und dann **Modell erstellen auswählen:**
 
 ![Modellvorschau in AltspaceVR](images/importing-models-img-04.png)

@@ -24,7 +24,7 @@ Eine Sicherung umfasst derzeit die meisten Dinge, die Sie mit dem World Editor e
 * Spawn-Punkte
 * Fotos
 * MRE SDK-Apps
-* Native Apps (z. B. Hologramme Against Reality)
+* Native Apps (z.B. Hologramme Against Reality)
 
 Folgendes ist nicht enthalten:
 

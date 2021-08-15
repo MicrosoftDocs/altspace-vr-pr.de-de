@@ -1,6 +1,6 @@
 ---
-title: Hilfe zum Erstellen einer Welt
-description: Bleiben Sie mit den neuesten häufig gestellten Fragen und Lösungen für das Gebäude in AltspaceVR auf dem laufenden.
+title: Hilfe bei der Entwicklung weltweit
+description: Bleiben Sie mit den neuesten häufig gestellten Fragen und Lösungen für die Entwicklung weltweit in AltspaceVR auf dem laufenden.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Hilfe
@@ -11,19 +11,19 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 08/11/2021
 ms.locfileid: "119126743"
 ---
-# <a name="world-building-help"></a>Hilfe zum Erstellen einer Welt
+# <a name="world-building-help"></a>Hilfe bei der Entwicklung weltweit
 
 1. **Was ist eine Welt? Was ist ein Universe?**
-Ein Altspace "World" ist ein virtueller Ort, an dem Personen teilnehmen und aufhängen können. Ein "Universe" ist eine Sammlung von Welten. Beispielsweise könnte das "Star Wars"-Universe die Worlds "Tatooine" und "Coruscant" enthalten.
+Ein Altspace "World" ist ein virtueller Ort, an dem Personen teilnehmen und aufhängen können. Ein "Universe" ist eine Sammlung von Welten. Beispielsweise könnte das "Star Wars"-Universe die Welten "Tatooine" und "Corusdrossel" enthalten.
 
 2. **Wie fange ich an?**
 Wir haben Ihre Anforderungen erwartet und diesen Leitfaden erstellt.
 
-3. **Gewusst wie ich meine Welten und Universen verwalten?**
-Sie können dies auf unserer Website tun. Hier ist ein Leitfaden. 
+3. **Gewusst wie meine Welten und Universen verwalten?**
+Dies können Sie auf unserer Website tun. Hier ist ein Leitfaden. 
 
 4. **Kann ich meine Welten sichern?**
-Ja, es gibt verschiedene Möglichkeiten, in erster Linie sicherungswiederherstellungen zu speichern (derzeit als Momentaufnahmen auf dem Client bezeichnet).
+Ja, es gibt einige Möglichkeiten, hauptsächlich Wiederherstellungssicherungen zu speichern (derzeit als Momentaufnahmen im Client bezeichnet).
 
-5. **Gibt es eine Funktion zum Rückgängig/Wiederholen?**
+5. **Gibt es ein Rückgängig-/Wiederholungsfeature?**
 Wir arbeiten daran.

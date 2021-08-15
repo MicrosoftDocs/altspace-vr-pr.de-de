@@ -13,7 +13,7 @@ ms.locfileid: "119125525"
 ---
 # <a name="uploading-custom-kits"></a>Hochladen benutzerdefinierter Kits
 
-Der World Editor verfügt über Kits, die Artifacts enthalten, die Sie in Ihrer Welt erstellen können. Beispielsweise verfügt das [Kits für die Feuersuche](https://account.altvr.com/kits/993516233267609824) über viele Arten von Strukturen– jeder Strukturtyp ist ein Artefakt. Um Ihr eigenes Kit zu erstellen, müssen Sie Unity AssetBundles erstellen und eine .zip-Datei mit einem Unity Prefab für jedes Artefakt hochladen und jedes Artefakt auf unserer Website registrieren. Glücklicherweise automatisiert der communitygesteuerte Unity Uploader den Großteil des Workflows. Nach dem Hochladen können Sie Objekte aus Ihren eigenen Kits in Ihrer Welt erstellen, und andere Benutzer können sie automatisch sehen. Später können Sie Ihr Kit für Ihre Freunde oder sogar für die gesamte Community freigeben, indem Sie es verwenden.
+Der World Editor verfügt über Kits, die Artifacts enthalten, die Sie in Ihrer Welt erstellen können. Beispielsweise verfügt das [Kits für die Feuersuche](https://account.altvr.com/kits/993516233267609824) über viele Arten von Strukturen– jeder Strukturtyp ist ein Artefakt. Um Ihr eigenes Kit zu erstellen, müssen Sie Unity AssetBundles erstellen und eine .zip-Datei mit einem Unity-Prefab für jedes Artefakt hochladen und jedes Artefakt auf unserer Website registrieren. Glücklicherweise automatisiert der communitygesteuerte Unity Uploader den Großteil des Workflows. Nach dem Hochladen können Sie Objekte aus Ihren eigenen Kits in Ihrer Welt erstellen, und andere Benutzer können sie automatisch sehen. Später können Sie Ihr Kit für Ihre Freunde oder sogar für die gesamte Community freigeben, indem Sie es verwenden.
 
 ## <a name="prerequisites"></a>Voraussetzungen
 
@@ -39,7 +39,7 @@ Der World Editor verfügt über Kits, die Artifacts enthalten, die Sie in Ihrer 
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-my-own-Kits-Part-2/player]
 
-1. Geben Sie kit **folder name (Kit-Ordnername)** mit Ihrer Kit-ID als Präfix und einem Design (z. **B. 1137484494681408069_pirates)** und **kit asset name (Kit-Ressourcenname)** mit Ihrer Kit-ID als Präfix ein. Alle Ressourcen müssen über dieses Präfix verfügen.
+1. Geben Sie kit folder name (Name des **Kitordners)** mit Ihrer Kit-ID als Präfix und einem Design (z. **B. 1137484494681408069_pirates)** ein, und geben Sie Kit Asset Name (Name des **Kit-Medienobjekts)** mit Ihrer Kit-ID als Präfix ein. Alle Ressourcen müssen über dieses Präfix verfügen.
 
 ![AltspaceVR-Schnittstelle in Unity mit Dem Namen des Kit-Ordners](images/custom-kits-img-03.png)
 
