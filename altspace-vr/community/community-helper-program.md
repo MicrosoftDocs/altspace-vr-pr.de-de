@@ -15,12 +15,12 @@ ms.locfileid: "119126522"
 
 ## <a name="what-is-a-community-helper"></a>Was ist ein Community Helper? 
 
-Community Hilfsmitglieder sind reguläre AltspaceVR-Mitglieder, die ihre Zeit zum Teilen von Informationen, zum Trainieren anderer und zum Dienen als Community-Botschafter freiwillig nutzen. Sie sind mit den verschiedenen Aspekten von AltspaceVR vertraut– z. B. EventHosting oder World Building – und veranschaulichen und halten unsere [Community Standards](community-standards.md) und [Nutzungsbedingungen](terms-of-service.md)vor. Obwohl Community Helpers keine Mitarbeiter oder Administratoren von AltspaceVR sind, handelt es sich um eine großartige Gruppe von Personen, die sich dafür einsetzen, neue Personen zu fördern, andere über die Kultur von AltspaceVR zu informieren und AltspaceVR zu einem einladenden Ort für alle zu machen.
+Community Hilfsmitglieder sind reguläre AltspaceVR-Mitglieder, die ihre Zeit zum Teilen von Informationen, zum Trainieren anderer und zum Dienen als Community-Botschafter freiwillig nutzen. Sie sind mit den verschiedenen Aspekten von AltspaceVR vertraut – z. B. EventHosting oder World Building – und sie veranschaulichen und halten unsere [Community Standards](community-standards.md) und [Nutzungsbedingungen](terms-of-service.md)vor. Obwohl Community Helpers keine Mitarbeiter oder Administratoren von AltspaceVR sind, handelt es sich um eine großartige Gruppe von Personen, die sich dafür einsetzen, neue Personen zu fördern, andere über die Kultur von AltspaceVR zu informieren und AltspaceVR zu einem einladenden Ort für alle zu machen.
 
 ## <a name="how-do-i-find-a-community-helper"></a>Gewusst wie ein Community Helper finden? 
 Community Hilfshilfen befinden sich überall in AltspaceVR. Sie können sie identifizieren, indem Sie mit dem Mauszeiger auf einen Avatar zeigen und ihr Namenstag betrachten. Community Namenstags von Hilfern haben einen grünen Umriss und einen grünen Heart-Badge. Da sie Freiwillige sind, können Community Helpers ihren Badge jederzeit ein/aus umschalten, um AltspaceVR auch als reguläre Altspacer zu nutzen!
 
-## <a name="how-can-i-become-a-community-helper"></a>Wie kann ich Community Helper werden? 
+## <a name="how-can-i-become-a-community-helper"></a>Wie kann ich ein Community Helper werden? 
 
 Qualifikationen: 
 
@@ -52,13 +52,13 @@ Als Community Helper MÜSSEN Sie diese Erwartungen erfüllen oder überschreiten
 
 Ja... unsere undying love and love and love. Ferner gilt Folgendes:
 
-1. Abstimmung bis Zum Anhalten: Als Community Helper verfügen Sie über zusätzliche Sicherheitstools, um Gegenmaßnahmen gegen Trolle und solche zu ergreifen, die gegen unsere Community Standards verstoßen. Sehen Sie sich die Regeln & Zuständigkeiten für die Abstimmung zur Suspendierung [hier](community-helper-guide.md)an.
+1. Abstimmung bis Zum Anhalten: Als Community Helper verfügen Sie über zusätzliche Sicherheitstools, um Maßnahmen gegen Trolle und solche zu ergreifen, die gegen unsere Community Standards verstoßen. Sehen Sie sich die Regeln & Zuständigkeiten für die Abstimmung zur Suspendierung [hier](community-helper-guide.md)an.
 2. Zugriff auf einen speziellen Community Helpers-Kanal auf dem offiziellen AltspaceVR Discord-Server.
 3. Frühzeitiger Zugriff auf bestimmte Communityankündigungen.
 
 ## <a name="other-considerations"></a>Weitere Überlegungen
 
-AltspaceVR behält sich das Recht vor, Community Helper-Badges zu widerrufen, wenn die Berechtigungsanforderungen nicht erfüllt werden, erwartungen nicht eingehalten werden, altspaceVR aus Gründen der Programmkapazität, verstöße gegen unsere Community Standards und Nutzungsbedingungen sowie aus allen Gründen, die nicht aufgeführt, aber als gültig betrachtet werden.
+AltspaceVR behält sich das Recht vor, Community Helper-Badges zu widerrufen, wenn die Berechtigungsanforderungen nicht erfüllt werden, erwartungen nicht eingehalten werden, altspaceVR aus Gründen der Programmkapazität, verstöße gegen unsere Community Standards und Nutzungsbedingungen sowie aus gründen, die nicht aufgeführt, aber als gültig eingestuft werden.
 
 Wenn Sie Community Helper waren und Ihren Badge verloren oder anderweitig aufgegeben haben, müssen Sie mindestens sechs Monate (180 Tage) warten, bevor Sie sich erneut für das Programm anmelden.
 
