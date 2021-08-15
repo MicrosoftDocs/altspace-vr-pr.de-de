@@ -1,19 +1,19 @@
 ---
-title: Funktionsanforderungen werden übermittelt
-description: Erfahren Sie, wie Sie Featureanforderungen an das altspacevr Engineering-Team übermitteln.
+title: Übermitteln von Featureanforderungen
+description: Erfahren Sie, wie Sie Featureanforderungen an das AltspaceVR-Engineeringteam übermitteln.
 ms.date: 03/11/2021
 ms.topic: article
-keywords: Funktions Anforderung
-ms.openlocfilehash: 411aa9e8301310f80c892a9b1cc3d9b760b34bef
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: Featureanforderung
+ms.openlocfilehash: a07adf6ec0a46e1329fcca67901e39630dafa7702f216c082debf0f3e52ca4f9
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213590"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125005"
 ---
-# <a name="submitting-feature-requests"></a>Funktionsanforderungen werden übermittelt
+# <a name="submitting-feature-requests"></a>Übermitteln von Featureanforderungen
 
-Sehr gut! Vielen Dank, dass Sie uns bei der Unterstützung von uns wünschen, wir freuen uns auf Ihr Feedback.
+Prima! Vielen Dank, dass sie uns helfen möchten, freuen wir uns auf Ihr Feedback.
 
 > [!div class="nextstepaction"] 
-> [Funktions Anforderung einreichen](https://help.altvr.com/hc/en-us/requests/new?ticket_form_id=360001742213)
+> [Erstellen einer Featureanforderung](https://help.altvr.com/hc/en-us/requests/new?ticket_form_id=360001742213)

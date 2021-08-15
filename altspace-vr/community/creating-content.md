@@ -1,44 +1,44 @@
 ---
-title: Erstellen von altspacevr-Inhalten
-description: Erfahren Sie, wie Sie altspacevr-Inhalte erstellen, Erweiterungen für gemischte Erweiterungen verwenden und der erweiterten Community beitreten.
+title: Erstellen von AltspaceVR-Inhalten
+description: Erfahren Sie, wie Sie AltspaceVR-Inhalte erstellen, Mixed Reality-Erweiterungen verwenden und der wachsenden Community beitreten.
 ms.date: 02/10/2021
 ms.topic: article
-keywords: Erweiterungen für gemischte Realität, Community, World Building, Resources
-ms.openlocfilehash: f77c1ad1dfc5a6e95882f153152ad6dcbefcab8b
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: Mixed Reality-Erweiterungen, Community, World Building, Ressourcen
+ms.openlocfilehash: 83888f0a6a4d81ca4573641daa28d0e5343039ea073337c2b18d8e7610d2a14e
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212182"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125099"
 ---
-# <a name="creating-altspacevr-content"></a>Erstellen von altspacevr-Inhalten
+# <a name="creating-altspacevr-content"></a>Erstellen von AltspaceVR-Inhalten
 
-Altspacevr ist eine großartige Community für diejenigen, die VR-Inhalte erstellen und freigeben möchten. 
+AltspaceVR ist eine großartige Community für diejenigen, die VR-Inhalte erstellen und freigeben möchten. 
 
-## <a name="mre-mixed-reality-extension-sdk"></a>MRE-SDK (Mixed Reality Extension)
+## <a name="mre-mixed-reality-extension-sdk"></a>MRE -SDK (Mixed Reality-Erweiterung)
 
-Wir möchten unsere Entwickler Community unterstützen und erweitern. Wir haben eine Reihe von Ressourcen erstellt, die wir hoffentlich auch Einsteiger bei der Erstellung von 3D-Web-Apps und-Umgebungen unterstützen. 
+Wir möchten unsere Entwicklercommunity unterstützen und erweitern. Wir haben mehrere Ressourcen erstellt, von denen wir hoffen, dass sie sogar Entwickler bei der Erstellung von 3D-Web-Apps und -Erfahrungen mit mehreren Benutzern unterstützen. 
 
-## <a name="start-creating"></a>Erstellung starten
+## <a name="start-creating"></a>Beginnen Sie mit der Erstellung.
 
-Besuchen Sie unser [altspacevr-Entwickler Portal](https://developer.altvr.com/) , um mehr über das MRE-SDK (Mixed Reality Extension) zu erfahren.
+Besuchen Sie unsere [AltspaceVR-Entwicklerportal,](https://developer.altvr.com/) um mehr über das MRE (Mixed Reality Extension) SDK zu erfahren.
 
 ## <a name="join-the-community"></a>Beitritt zur Community
 
-Sie können sich bei anderen Communitymitgliedern in unseren Zwietracht-Kanälen wenden:
+Sie erreichen andere Communitymitglieder in unseren Discord-Kanälen:
 
-* [Zwietracht-offizieller altspacevr](https://discord.gg/eYQ5VxK)
-* [Zwietracht-MRE SDK](https://discord.gg/ypvBkWz)
+* [Discord – Official AltspaceVR](https://discord.gg/eYQ5VxK)
+* [Discord – MRE SDK](https://discord.gg/ypvBkWz)
 
-Sie können uns auch in altspacevr über unsere zwei Wochen (Med @ 16:00 Uhr PT/do @ 11am PT) [altspacevr SDK Meetups!](https://account.altvr.com/channels/sdk)
+Sie können uns auch zweiwöchentlich in AltspaceVR beitreten (Mi @ 16:00 Uhr PT/Do @ 11:00 Uhr PT) [AltspaceVR SDK Meetups!](https://account.altvr.com/channels/sdk)
 
-## <a name="world-building"></a>Welt aufbauen
+## <a name="world-building"></a>World-Building
 
-Mit der weltweiten Erstellung können Benutzer problemlos Objekte in ihren eigenen Raum ziehen und ablegen, um Ihre eigene Welt zu erstellen!
+Mit world-building können Benutzer Objekte auf einfache Weise in ihrem eigenen Raum ziehen und ablegen, um ihre eigene Welt zu erstellen!
 
 ## <a name="resources"></a>Ressourcen
 
-* Hilfeseiten-weltweite Gebäude
-    * [Gewusst wie Sie den Einstieg in die Welt.](../world-building/world-building-getting-started.md)
-    * [Wo erhalte ich Hilfe bei der Welt erbaustellung?](../world-building/getting-help.md)
-* [Zwietracht-offizieller altspacevr](https://discord.gg/eYQ5VxK)im #World bauchannel
+* Hilfeseiten – World-Building
+    * [Gewusst wie beginnen Sie mit der Entwicklung?](../world-building/world-building-getting-started.md)
+    * [Wo erhalte ich Hilfe bei der Entwicklung in der Welt?](../world-building/getting-help.md)
+* [Discord – Official AltspaceVR](https://discord.gg/eYQ5VxK), im #world Building Channel

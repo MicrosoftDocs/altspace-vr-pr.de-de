@@ -1,20 +1,20 @@
 ---
-title: Wo erhalte ich Hilfe?
-description: Bleiben Sie auf dem neuesten Stand, um Unterstützung zu erhalten und bei ihren altpsacevr-Erfahrungen zu helfen.
+title: Wo kann ich Hilfe erhalten?
+description: Bleiben Sie über die besten Kanäle auf dem Laufenden, um Support zu erhalten und Hilfe bei Ihren AltpsaceVR-Erfahrungen zu erhalten.
 ms.date: 02/10/2021
 ms.topic: article
-keywords: help
-ms.openlocfilehash: 5ba7e82881f79c6c5bbb4fdf5140c291f28c3b71
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: Hilfe
+ms.openlocfilehash: c3543c4130b7742e5356de71c6e93d8b3a78be168a73496cf834b56e1c1c4229
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212123"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125373"
 ---
-# <a name="where-can-i-get-help"></a>Wo erhalte ich Hilfe?
+# <a name="where-can-i-get-help"></a>Wo kann ich Hilfe erhalten?
 
-Freunde können Freunde nicht allein erstellen. Hier finden Sie einige Möglichkeiten, Hilfe zu erhalten:
+Freunde lassen Freunde nicht allein Welten erstellen. Hier sind einige Möglichkeiten, Hilfe zu erhalten:
 
-* Durchsuchen Sie diese [Wissensdatenbank](../index.yml) , und Durchsuchen Sie insbesondere den [Abschnitt "World-Building](world-editor-getting-started.md)". Erstellen Sie ein Konto (Klicken Sie oben rechts auf "Anmelden" und dann auf "registrieren"), und befolgen Sie diesen Abschnitt, um benachrichtigt zu werden, wenn neue Artikel veröffentlicht werden.
-* Treten Sie der [weltweiten Builder-Uneinigkeit](https://discordapp.com/invite/altspacevr)bei. Die meisten Welt-Generatoren und einige altspace-Techniker hängen hier ab. Stellen Sie im #Help Channel Fragen.
-* Treten Sie der [MRE SDK-Zwietracht](https://discord.gg/xyBcQec)bei. Für erweiterte Welt-Generatoren, die unser Programmieren Software Development Kit (SDK) und Unity-Tools verwenden. 
+* Durchsuchen Sie diese [Knowledge Base,](../index.yml) und [](world-editor-getting-started.md)durchsuchen Sie insbesondere den Abschnitt zum Erstellen von Welten. Erstellen Sie ein Konto (klicken Sie oben rechts auf "Anmelden" und dann auf "Registrieren"), und befolgen Sie diesen Abschnitt, um benachrichtigt zu werden, wenn neue Artikel veröffentlicht werden.
+* Treten Sie [der World Builders -Verwesung bei.](https://discordapp.com/invite/altspacevr) Die meisten Ersteller der Welt und einige Altspace-Techniker hängen hier. Versuchen Sie, Fragen im #help stellen.
+* Treten Sie dem [MRE SDK –Verwesung bei.](https://discord.gg/xyBcQec) Für fortgeschrittene Entwickler, die unser Software Development Kit (SDK) und Unity-Tools verwenden. 

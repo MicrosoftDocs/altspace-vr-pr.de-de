@@ -1,23 +1,23 @@
 ---
-title: Gibt es eine Push-to-Talk-Schaltfläche?
-description: Erfahren Sie, wie Sie eine Push-to-Talk-Schaltfläche in ihrer altspacevr-Ansicht suchen und identifizieren können.
+title: Gibt es eine Taste, die zum Sprechen gedrückt wird?
+description: Erfahren Sie, wie Sie eine Push-to-Talk-Schaltfläche in Ihrer AltspaceVR-Ansicht finden und identifizieren.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: ''
-ms.openlocfilehash: 7abadd15b8238b271bb2514311804c711dcc41b4
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 0a25810f18b87964549495e85a5aa5b0497deba1a7c5b1e06fefa7e1ab78ba1e
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212175"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128030"
 ---
-# <a name="is-there-a-push-to-talk-button"></a>Gibt es eine Push-to-Talk-Schaltfläche?
+# <a name="is-there-a-push-to-talk-button"></a>Gibt es eine Taste, die zum Sprechen gedrückt wird?
 
-In der unteren rechten Ecke der Ansicht steht eine Mikrofon Schaltfläche zur Verfügung, mit der Sie umschalten können, ob Ihre Stimme für andere Benutzer freigegeben wird. Alternativ können Sie die Tastenkombination **STRG + ALT + T** verwenden, um diese Einstellung zu ändern. 
+In der unteren rechten Ecke ihrer Ansicht befindet sich eine Mikrofonschaltfläche, mit der Sie umschalten können, ob Ihre Stimme für andere Benutzer freigegeben wird. Alternativ können Sie die Tastenkombination **STRG+ALT+T** verwenden, um diese Einstellung umschalten. 
  
-Wenn das Symbol beim Gespräch blinkt ist, funktioniert Ihr Mikrofon!
+Wenn das Symbol blinkt, wenn Sie sprechen, funktioniert Ihr Mikrofon!
  
 Haben Sie Fragen oder Feedback? 
 
 > [!div class="nextstepaction"]
-> [Klicken Sie hier, um eine Support Anfrage zu senden](https://help.altvr.com/hc/requests/new).
+> [Klicken Sie hier, um eine Supportanfrage zu senden.](https://help.altvr.com/hc/requests/new)

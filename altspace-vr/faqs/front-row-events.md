@@ -1,28 +1,28 @@
 ---
-title: Was sind FrontRow-Ereignisse?
-description: Erfahren Sie, wie Sie mit Front-Row-Ereignissen Ihre Benutzer in altspacevr-Ereignissen in der Nähe von nah und privat erhalten.
+title: Was sind FrontRow-Veranstaltungen?
+description: Erfahren Sie, wie Front-Row-Ereignisse es Ihren Benutzern ermöglichen, sich in AltspaceVR-Ereignissen nah und privat zu befinden.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: faq
-ms.openlocfilehash: 25bb2638dd0d9eeb1b11ac3913c1b5cab005bdf7
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 3c2374662017377f8d50c3261efd2d6c5ce1a619dee02cdc9ad16d6e48436694
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213539"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128172"
 ---
-# <a name="what-are-frontrow-events"></a>Was sind FrontRow-Ereignisse? 
+# <a name="what-are-frontrow-events"></a>Was sind FrontRow-Veranstaltungen? 
 
-Front Row-Ereignisse ermöglichen es, dass eine beliebige Anzahl von Audience-Membern unsere aufregendsten und interessantesten Ereignisse besucht. Egal, ob es sich um eine Komödie oder ein musikalisches Konzert handelt, wir möchten, dass alle Benutzer in der Lage sind, diese Veranstaltungen zu besuchen und zu genießen, ohne in irgendeiner Weise warten zu müssen. 
+Front Row Events ermöglichen es einer beliebigen Anzahl von Zielgruppenmitgliedern, an unseren interessanten und interessanten Ereignissen teilzunehmen. Unabhängig davon, ob es sich um ein Stand-Up- oder ein Musikfest handelt, möchten wir, dass jeder an diesen Veranstaltungen teilnehmen und sie nutzen kann, ohne in zeilenlangen Warteschlangen warten zu müssen. 
 
-Unsere Front-Row-Technologie ermöglicht es dem Performer, über so viele Instanzen des VR-Veranstaltungsorts hinweg zu verfügen, wie es erforderlich ist, um die Anzahl der interessierten Teilnehmer dieses bestimmten Ereignisses zu unterstützen. 
+Unsere Front Row-Technologie ermöglicht es dem Performer, in so vielen Instanzen des VR-Veranstaltungsorts zu sein, wie es erforderlich ist, um die Anzahl der interessierten Teilnehmer dieses bestimmten Ereignisses zu unterstützen. 
 
-## <a name="my-friends-are-in-a-different-instance-of-the-event-than-me-how-can-i-join-them"></a>Meine Freunde befinden sich in einer anderen Instanz des Ereignisses als mich, wie kann ich Sie beitreten?
+## <a name="my-friends-are-in-a-different-instance-of-the-event-than-me-how-can-i-join-them"></a>Meine Freunde befinden sich in einer anderen Instanz des Ereignisses als ich. Wie kann ich ihnen beitreten?
 
-Nachdem einer der Freunde einem Front-Row-Ereignis beigetreten ist, können Sie die Instanz des Ereignisses über den Pfeil neben dem Namen in der Liste Ihrer Freunde eingeben. Wenn Ihre Instanz voll ist, können Sie Sie in einer Meldung ablegen, die Sie dazu auffordert, Sie in Ihrer Instanz beizutreten. 
+Nachdem einer Ihrer Freunde einem Front Row-Ereignis beigetreten ist, können Sie seine Instanz des Ereignisses eingeben, indem Sie den Pfeil neben ihrem Namen in der Liste Ihres Freundes verwenden. Wenn die Instanz voll ist, können Sie eine Nachricht löschen, in der sie dazu aufgefordert werden, Mit ihnen in Ihrer Instanz teilzunehmen. 
 
-## <a name="can-the-performer-see-me"></a>Kann mir der Performer angezeigt werden?
+## <a name="can-the-performer-see-me"></a>Kann der Performer mich sehen?
 
-Das Talent in der Phase ist das Anzeigen der Zielgruppe, die eine einzelne Instanz des Front-Row-Ereignisses auffüllt, obwohl die Emojis angezeigt werden, die Benutzer über alle Instanzen des Ereignisses generieren.
+Der Talent auf der Stage betrachtet die Zielgruppe, die eine einzelne Instanz des Front Row-Ereignisses auffüllt, obwohl er die Emojis sehen kann, die Benutzer für alle Instanzen des Ereignisses generieren.
 
-Wenn ein Benutzer die Schaltfläche "Raise" (anwenden) auswählt, können die Ereignis Hosts mithilfe unserer Hosttools die on-Air-Methode für diese Person aktivieren. An diesem Punkt kann das Audience-Mitglied in allen Instanzen genauso wie die Darsteller angezeigt und gehört werden. Dies ermöglicht es Benutzern, sich während Q&eine Sitzung an der Show und Interaktion mit dem Talent zu beteiligen.
+Wenn ein Benutzer seine Schaltfläche "Hand auslösen" auswählt, können die Ereignishosts mithilfe unserer Hosttools On-Air für diese Person aktivieren. An diesem Punkt kann das Zielgruppenmitglied auf allen Instanzen genau wie die Akteure gesehen und gehört werden. Dadurch können Benutzer während der Q&A-Sitzungen an der Show teilnehmen und mit dem Talent interagieren, unabhängig davon, in welchem Raum sie sich befinden!

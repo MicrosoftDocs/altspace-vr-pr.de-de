@@ -4,12 +4,12 @@ description: Erfahren Sie mehr über alle verschiedenen Rollen, die Sie Ihren Be
 ms.date: 03/11/2021
 ms.topic: article
 keywords: Rollen, Ereignisse, Welten, Gruppen, Promotion
-ms.openlocfilehash: 7434002b9926b424ac08a0f93a368966fefe6606
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: a4f612fb80a95fa775aa34f4b73f0d29ba446e3541756a99eefd0feeeb1e004d
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923147"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127746"
 ---
 # <a name="roles-in-events-worlds-groups-and-in-altspacevr"></a>Rollen in Ereignissen, Welten, Gruppen und in AltspaceVR
 
@@ -24,7 +24,7 @@ Sie müssen zuerst Ihr Ereignis erstellen und anschließend die Rollen hinzufüg
 Wenn Sie ein Ereignis erstellen, erhalten Sie automatisch Zugriff auf die Administrator-, Host- und Moderatorrollen:
 
 * **Administrator**
-    - Alle Ereignisverwaltungstools über die Website. Sie können Bearbeiten, Endereignis, Auf Entwurf festlegen, Re-Import World, Duplikatereignis, Löschereignis und Als Hauptereignis hinzufügen (nur öffentliche Ereignisse).
+    - Alle Ereignisverwaltungstools über die Website. Sie können Bearbeiten, Endereignis, Auf Entwurf festlegen, Re-Import World, Duplicate Event, Delete Event und Add as Main Event (Nur öffentliche Ereignisse) festlegen.
     - Aktiviert den World Editor in Ihrem Ereignis: Umgebungsausschneiden, Flug umschalten, Umgebung umschalten, Bearbeitungsmodus und Editorbereich.
 
 * **Host**
@@ -42,13 +42,13 @@ Verfügbar beim Bearbeiten des Ereignisses:
 | Host* | Alle oben genannten Möglichkeiten wie der Host, einschließlich Hosttools |
 | Nur Megaphone | Gewährt diesem Benutzer Zugriff auf Hosttools, aber nur "Amplify My Voice" |
 | Moderator ^ | Identisch mit der Moderatorrolle "Ereignisersteller" |
-| Pilotphase | Fügt Flugfunktionen für diese Person hinzu. HINWEIS: Muss dies unter Einstellungen/Eingabe/Fly aktivieren. |
+| Pilotphase | Fügt Flugfunktionen für diese Person hinzu. HINWEIS: Muss dies in Einstellungen/Eingabe/Fly aktivieren. |
 | Terraformer | Fügt der Benutzeroberfläche die Schaltfläche "Welt-Editor" hinzu. |
 
 > [!NOTE]
 > ^ = Jeder Benutzer mit diesen Rollen kann das Ereignis frühzeitig eingeben, indem er zu Events/My Events/YourEvent (Ereignisse/Meine Ereignisse/YourEvent) geht. Dies ist ideal für technische Überprüfungen und Prüfungen!
 
-### <a name="mid-event-role-promotion"></a>Mid-Event Rollenaufstufung
+### <a name="mid-event-role-promotion"></a>Mid-Event rollenaufstufung
 
 Jeder Benutzer mit der Hostrolle kann Benutzern, die sich während des Ereignisses in Ihrem Ereignis befinden, Rollen zuweisen, indem er Hosttools/Hostbereich/Gäste/Gast auswählen verwendet:
 
@@ -69,10 +69,10 @@ So fügen Sie einen Administrator hinzu:
 
 ### <a name="giving-everyone-in-your-event-a-role"></a>Allen In-Ihrem Ereignis eine Rolle geben
 
-Einige Ereignisse profitieren, wenn alle Benutzer über Superleistung verfügen können! Wenn sich Ihr Ereignis beispielsweise in einem großen Bereich befindet, soll jeder die Möglichkeit haben, meine Stimme zu fliegt und zu verstärken, damit Sie sich alle von weit entfernt hören können. Um dies hinzuzufügen, bearbeiten Sie Ihr Ereignis, klicken Sie auf Erweiterte Optionen, und unter dem Abschnitt In VR ist standardbedingte Rollen. Rollieren Sie den grünen Kreis für alle Rollen, die Sie hinzufügen können. Für das obige Beispiel fügen Sie Folgendes hinzu: megaphone_only, Pilot.
+Einige Ereignisse profitieren, wenn alle Benutzer über Superleistung verfügen können! Wenn sich Ihr Ereignis beispielsweise in einem großen Bereich befindet, möchten Sie möglicherweise, dass jeder die Möglichkeit hat, meine Stimme zu fliegt und zu verstärken, damit Sie sich alle von weit weg hören können. Um dies hinzuzufügen, bearbeiten Sie Ihr Ereignis, klicken Sie auf Erweiterte Optionen, und unter dem Abschnitt In VR ist standardbedingte Rollen. Rollieren Sie den grünen Kreis für alle Rollen, die Sie hinzufügen können. Für das obige Beispiel fügen Sie Folgendes hinzu: megaphone_only, Pilot.
 
 > [!NOTE] 
-> Jede Person muss dies unter Einstellungen/Eingabe/Fly aktivieren.
+> Jede Person muss dies in Einstellungen/Eingabe/Fly aktivieren.
 
 ## <a name="roles-in-worlds"></a>Rollen in Welten
 
@@ -97,8 +97,8 @@ Verfügbar, wenn Sie Ihre Welt bearbeiten:
 | Nur Megaphone | Gewährt diesem Benutzer Zugriff auf Hosttools, aber nur "Amplify My Voice" |
 | Moderator | Identisch mit der Moderator-Rolle des Erstellers der Welt |
 | Musical Performer |Audio mit besserer Qualität für Dieb- oder Nachspielgeräte  |
-| Pilotphase | Fügt Flugfunktionen für diese Person hinzu. HINWEIS: Muss dies unter Einstellungen/Eingabe/Fly aktivieren. |
-| Host | Identisch mit der Hostrolle "Weltersteller" |
+| Pilotphase | Fügt Flugfunktionen für diese Person hinzu. HINWEIS: Muss dies in Einstellungen/Eingabe/Fly aktivieren. |
+| Host | Identisch mit der Hostrolle des Erstellers der Welt |
 | Terraformer | Fügt der Benutzeroberfläche die Schaltfläche "Welt-Editor" hinzu. | 
 
 ### <a name="adding-more-admins-to-your-world"></a>Hinzufügen von mehr Administratoren zu Ihrer Welt
@@ -120,6 +120,6 @@ Sie müssen zuerst Ihre Gruppe erstellen und anschließend Administratoren hinzu
 
 * **Early Access Program**: Das Early Access Program bietet Ihnen Zugriff auf die neuesten Features, die sich noch in der Entwicklung befinden. Viele Features für World Building, Moveable Menus und Groups sind nur für Benutzer verfügbar, die sich in Early Access befinden. So können Sie sich entscheiden: Was ist das Early Access Program?
 
-* **Worlds Beta:** Öffnen Sie in der AltspaceVR-App Menü/Einstellungen/Aktivieren der Aktivierung von Worlds Beta. Dadurch wird die Registerkarte WORLDS (BETA) im Hauptmenü aktiviert, damit Sie auf Ihre Welten zugreifen können.
+* **Worlds Beta:** Öffnen Sie in der AltspaceVR-App Menu / Einstellungen / Enable Worlds Beta to activate (Aktivieren von Worlds Beta). Dadurch wird die Registerkarte WORLDS (BETA) im Hauptmenü aktiviert, damit Sie auf Ihre Welten zugreifen können.
 
-* **Community Helper:** Vote-to-Suspend, Zugriff auf den Community Helpers-Kanal auf dem AltspaceVR-Diskothekenserver und Frühzeitiger Zugriff auf bestimmte Communityankündigungen. Weitere Informationen dazu, wie Sie ein Community Helper werden können: Community Helper Program
+* **Community Helper**: Vote-to-Suspend, Access to the Community Helpers channel in the AltspaceVR Discord server and Early access to certain community announcements( Zugriff auf den Community Helpers-Kanal auf dem AltspaceVR Discord-Server und frühzeitiger Zugriff auf bestimmte Communityankündigungen). Weitere Informationen dazu, wie Sie ein Community Helper-Programm werden können: Community Helper-Programm

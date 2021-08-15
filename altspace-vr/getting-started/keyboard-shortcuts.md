@@ -1,29 +1,29 @@
 ---
 title: Tastenkombinationen
-description: Bleiben Sie auf dem neuesten Stand mit allen verfügbaren Tastenkombinationen und Aktionen, die von der Anwendung "altspacevr" unterstützt werden.
+description: Bleiben Sie mit allen verfügbaren Tastenkombinationen und Aktionen, die von der AltspaceVR-Anwendung unterstützt werden, auf dem neuesten Stand.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Tastatur, Tastenkombinationen
-ms.openlocfilehash: 9e8ec2475c650e27f201e8b265740f9e68425c63
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 5106f34d7cdba5ad42ca04070e66b7b77157f46554e5f3542b08ecb6e7f15030
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213119"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127877"
 ---
 # <a name="keyboard-shortcuts"></a>Tastenkombinationen
 
 | Schlüssel | Aktion |
 |---|---|
-| ESC | Hauptmenü öffnen/schließen |
-| 1 bis 6-Schlüssel (oberhalb der QWERTY) | Emojis |
-| STRG + ALT + F5 | Wiedergeben von Speicherplatz |
-| STRG + ALT + R | Speicherplatz zurücksetzen |
-| STRG + ALT + P | Benutzeroberfläche ein-/ausschalten |
-| UMSCHALT + ALT + B | Cursor ein/aus umschalten |
-| Rechte Maustaste + Mausrad | Vergrößern/Verkleinern |
-| STRG + ALT + T oder Leertaste | Stumm schalten/deaktivieren |
-| STRG + ALT + LEERTASTE | Befehlszeile öffnen, geben Sie "Help" für Optionen ein. |
-| STRG + ALT + N | Jimmy CAM für VR-Modus |
-| STRG + ALT + K | "Stumm schalten, wenn sich altspacevr im Leerlauf befindet" ein/aus |
-| STRG + ALT + X | Deaktivieren Sie den Bearbeitungsmodus für den Welt-Editor, und deaktivieren Sie |
+| ESC | Öffnen/Schließen des Hauptmenüs |
+| 1 bis 6 Schlüssel (über qwerty) | Emojis |
+| STRG+ALT+F5 | Geben Sie den Speicherplatz erneut ein. |
+| STRG+ALT+R | Zurücksetzen des Speicherplatzes |
+| STRG+ALT+P | Ein-/Ausschalten der Benutzeroberfläche |
+| UMSCHALT+ALT+B | Cursor ein-/ausschalten |
+| Rechte Maustaste + Maus-Scrollrad | Vergrößern/Verkleinern |
+| STRG+ALT+T oder LEERZEICHEN | Umschalten aus/ein |
+| STRG+ ALT + LEERZEICHEN | Öffnen Sie die Befehlszeile, und geben Sie "Hilfe" für Optionen ein. |
+| STRG+ ALT + N | JimmyCam für den VR-Modus |
+| STRG+ALT+K | Umschalten von "Mute when AltspaceVR is idle" (Stummschalten, wenn altspaceVR im Leerlauf ist) aus/ein |
+| STRG+ALT+X | Umschalten des Bearbeitungsmodus des Editors (World Editor) aus/ein |

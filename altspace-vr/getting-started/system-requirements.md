@@ -1,19 +1,19 @@
 ---
 title: Mindestsystemanforderungen
-description: Bleiben Sie mit den aktuellen Systemanforderungen für AltspaceVR auf Bildschirmen mit Head-Mounted, Oculus Rift und CSV Vive auf dem Laufenden.
+description: Bleiben Sie auf dem neuesten Stand der Systemanforderungen für AltspaceVR auf Head-Mounted-Displays, Oculus Rift- und CSV Vive-Geräten.
 ms.date: 06/03/2021
 ms.topic: article
 keywords: Anforderungen, Bildschirme mit Head-Mounted, Oculus Rift, vive, Windows 2D-Modus
-ms.openlocfilehash: db76d3594102d292d0d6f3741222b92a1677640a
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 7783d2c6e1acbbc48c4b0ca63d26c58c107f48559fc9d0fe7d88156a1d6762f9
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923157"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127554"
 ---
 # <a name="minimum-system-requirements"></a>Mindestsystemanforderungen
 
-Wir empfehlen die unten angegebenen Mindestsystemprofile, um die vollständige AltspaceVR-Erfahrung zu erhalten. AltspaceVR unterstützt derzeit die folgenden Head-Mounted-Displays:
+Wir empfehlen die unten angegebenen Mindestsystemprofile, um die vollständige AltspaceVR-Erfahrung zu erhalten. AltspaceVR unterstützt derzeit die folgenden Bildschirme mit Haupteinführung:
 
 * Oculus Rift CV1
 * HTC Vive
@@ -28,7 +28,7 @@ Wir empfehlen die unten angegebenen Mindestsystemprofile, um die vollständige A
 * Kompatibler CLIP 1.3-Videoausgabe 
 * Windows 8 oder neuer 
 
-## <a name="htc-vive-windows-only"></a>ICE Vive (nur Windows)
+## <a name="htc-vive-windows-only"></a>ONLY Vive (nur Windows)
 
 * NVIDIA GeForce® GTX 970, AMD Amd™ R9 290 gleichwertig oder höher
 * Intel® i5-4590, AMD FX 8350 oder höher   

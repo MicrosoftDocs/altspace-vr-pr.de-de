@@ -1,21 +1,21 @@
 ---
-title: Abonnieren unseres Newsletter
-description: Melden Sie sich für unseren wöchentlichen Newsletter an, und informieren Sie sich über anstehende Veranstaltungen, neue Features und Community-Informationen.
+title: Abonnieren des Newsletters
+description: Registrieren Sie sich für unseren wöchentlichen Newsletter, und bleiben Sie mit bevorstehenden Veranstaltungen, neuen Features und Communityinformationen auf dem laufenden.
 ms.date: 03/11/2021
 ms.topic: article
-keywords: rund
-ms.openlocfilehash: ebd0f2dd2166588ad0c4f2c04877400df4678e66
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: Newsletter
+ms.openlocfilehash: e2d2c7a31c790cbf3b4b661add566de45385e279f42918249bd6b20a203aeb94
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213222"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125082"
 ---
-# <a name="subscribing-to-our-newsletter"></a>Abonnieren unseres Newsletter
+# <a name="subscribing-to-our-newsletter"></a>Abonnieren des Newsletters
 
-Wir freuen uns, Ihnen mitzuteilen, dass Sie Updates und Neuigkeiten zu altspacevr erhalten möchten. Unser wöchentlicher Newsletter ist der beste Ort, um über bevorstehende Veranstaltungen und neue Features zu erfahren. Zu unseren Live Veranstaltungen gehören eine Reihe von Veranstaltungen, Q&Sitzungen und Musik Aufführungen. Sehen Sie sich ein Ereignis an, an dem Sie teilnehmen möchten? Wählen Sie die Schaltfläche "interessiert" in unserer e-Mail aus, und wir stellen sicher, dass Sie vor dem Start des Ereignisses eine Erinnerung senden, damit Sie nicht übersehen werden!
+Wir freuen uns, dass Sie an Updates und Neuigkeiten zu AltspaceVR interessiert sind. Unser wöchentlicher Newsletter ist der beste Ort, um mehr über bevorstehende Veranstaltungen und neue Features zu erfahren. Zu unseren Liveereignissen gehören Stand up-Sessions, Q&A-Sitzungen und Musikleistungen. Sehen Sie sich eine Veranstaltung an, an der Sie teilnehmen möchten? Wählen Sie in unserer E-Mail die Schaltfläche "Interessiert" aus, und wir senden Ihnen eine Erinnerung, bevor das Ereignis gestartet wird, damit Sie es nicht verpassen!
 
-Wir aktualisieren ständig altspacevr und planen Ereignisse nur für Sie. 
+Wir aktualisieren AltspaceVR ständig und planen Ereignisse nur für Sie. 
 
 > [!div class="nextstepaction"] 
-> [Klicken Sie hier, um zu abonnieren!](http://altvr.us7.list-manage.com/subscribe?u=ca3b0ab1f83e7c2123f094df6&id=519b6a1ca4)
+> [Klicken Sie hier, um das Abonnement zu abonnieren.](http://altvr.us7.list-manage.com/subscribe?u=ca3b0ab1f83e7c2123f094df6&id=519b6a1ca4)

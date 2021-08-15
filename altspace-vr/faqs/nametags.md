@@ -1,32 +1,32 @@
 ---
-title: Funktionsweise von nametags
-description: Erfahren Sie mehr über die verschiedenen Arten von nametags und deren Funktionsweise in altspacevr.
+title: Wie funktionieren Namenstags?
+description: Erfahren Sie mehr über die verschiedenen Arten von Namenstags und deren Funktionsweise in AltspaceVR.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: faq
-ms.openlocfilehash: 396834a61c1b2cec03a917a2b156f84f2463dd90
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 2d635e04c4baec8577f7f5670c5a7f41714b8d3df3b530d26708b38287df7b84
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212178"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128138"
 ---
-# <a name="how-do-nametags-work"></a>Funktionsweise von nametags
+# <a name="how-do-nametags-work"></a>Wie funktionieren Namenstags?
 
-Wenn Sie das nameTag eines anderen Benutzers anzeigen möchten, wählen Sie seinen Avatar mit Ihrem Cursor aus, und das zugehörige nameTag wird dann oben angezeigt.
+Wenn Sie das Nametag eines anderen Benutzers anzeigen möchten, wählen Sie seinen Avatar mit dem Cursor und seinem Nametag aus, und zeigen Sie dann oben an.
 
-Für das nameTag werden einige Symbole angezeigt: **Friend, Block** und **stumm**.
+Im Nametag werden einige Symbole angezeigt: **Friend, Block und** **Mute**.
 
-* **Stumm schalten:** Wenn Sie auf das stumm Symbol klicken, können Sie einen Benutzer stumm schalten, dies ist eine temporäre stumm Schaltung, und Sie können Sie jederzeit entstumm schalten. Wenn das stumm Symbol dieses Benutzers bereits rot ist, bedeutet dies, dass Sie sich selbst stumm geschaltet haben.
+* **Stummschalten:** Wenn Sie auf das Symbol Stummschalten klicken, können Sie einen Benutzer stummschalten. Dies ist ein temporäres Stummschalten, das Sie jederzeit wieder ändern können. Wenn das Stummschaltsymbol dieses Benutzer bereits rot ist, bedeutet dies, dass er sich selbst stummgeschaltet hat.
 
-* **Blockieren:** Mit der Funktion "blockieren" können Sie einen Benutzer aus Ihrer Benutzer Funktionalität entfernen. Dieser Benutzer wird Ihnen nicht mehr angezeigt, und er wird Ihnen nicht mehr angezeigt. Wenn Sie die Blockierung eines Benutzers wieder aufnehmen müssen, öffnen Sie das Freunde-Panel in altspacevr, wählen Sie die Registerkarte Block aus, und Entsperren Sie den Benutzer.
+* **Blockieren:** Mit der Blockfunktion können Sie einen Benutzer aus Ihrer Benutzeroberfläche entfernen. Sie werden diesen Benutzer nicht mehr sehen oder hören, und er wird Sie nicht mehr sehen oder hören. Wenn Sie die Blockierung eines Benutzers entsperren müssen, öffnen Sie den Bereich Freunde in AltspaceVR, wählen Sie die Registerkarte Blockieren aus, und entsperren Sie den Benutzer.
 
-* **Friend:** Die Friend-Schaltfläche sendet diesem Benutzer eine Friend-Anforderung. Nachdem Sie einen anderen Benutzer verlassen haben, können Sie ihn über Leerzeichen hinweg überprüfen, anzeigen, wann der Benutzer online ist, und sich problemlos an seinem Raum beteiligen. Das nameTag dieses Benutzers enthält auch einen blauen Rahmen, damit Sie Sie leicht als Friend erkennen können. Sie bemerken auch einen gegen Ende des nameTag, der die Dauer anzeigt, die Sie mit diesem Benutzer befreundet haben.
+* **Friending:** Über die Schaltfläche "Friend" wird dem Benutzer eine Friend-Anforderung gesendet. Nachdem Sie einen anderen Benutzer befremdt haben, können Sie ihn über Leerzeichen hinweg senden, sehen, wann dieser Benutzer online ist, und sich problemlos in sein Zimmer einbetten. Das Nametag dieses Benutzers enthält auch einen blauen Rahmen, damit Sie ihn leicht als Freund erkennen können. Sie werden auch einen Zähler am unteren Rand des Namenstags sehen, der die Dauer anschaut, mit der Sie mit diesem Benutzer als Freunde zusammengelangt haben.
 
-Wenn Sie Ihre eigene Aktivität hosten, erhalten Sie einige andere Tools für die Moderation. Sie haben jetzt die Möglichkeit, Benutzer zu richten, die noch nicht mit ihnen befreundet sind, und Sie können auch Benutzer starten.
+Wenn Sie Ihre eigene Aktivität hosten, erhalten Sie einige andere Tools für die Moderation. Sie haben jetzt die Möglichkeit, Benutzern, mit denen Sie noch keine Freunde sind, Nachrichten zu senden, und Sie haben auch die Möglichkeit, Benutzer zu starten.
 
-* **Starten:** Wenn ein Benutzer die Aktivität interruptet, können Sie immer die Schaltfläche "Start" verwenden. Dadurch wird der Benutzer aus der Aktivität entfernt. Nachdem Sie sie gestartet haben, sind Sie nicht mehr in der Lage, der aktuellen Aktivität beizutreten. 
+* **Kick:** Wenn ein Benutzer Ihre Aktivität unterbricht, können Sie jederzeit die Schaltfläche "Kick" verwenden. Dadurch wird dieser Benutzer aus Ihrer Aktivität entfernt. Nach dem Start können sie ihrer aktuellen Aktivität nicht mehr beitreten. 
 
-* **Administrator Badge:** Altspacevr hat Mitarbeiter an Hand 24/7 im Lager Lager, um Sie bei VR zu unterstützen. Alle Mitarbeiter, die altspacevr darstellen, haben den Gold-Administrator Badge für das nameTag.
+* **Badge für Administratoren:** AltspaceVR verfügt rund um die Uhr über Mitarbeiter, die Sie in VR unterstützen. Alle Mitarbeiter, die AltspaceVR repräsentieren, verfügen über den goldenen Administratorbadge auf ihrem Namenstag.
 
-Unsere Mitarbeiter sind dabei, Sie zu unterstützen und zu unterstützen. Stellen Sie also Fragen, die Sie möglicherweise haben. 
+Unsere Mitarbeiter sind hier, um Sie zu unterstützen und zu unterstützen. Stellen Sie ihnen daher alle Fragen, die Sie haben könnten! 

@@ -1,49 +1,49 @@
 ---
-title: Verwenden des-interactables-spawners
-description: Erfahren Sie, wie Sie den interactables-Spawner erstellen, verwenden und anpassen, um Elemente in Ihrem altspacevr-Raum zu platzieren.
+title: Verwenden des Spawners "Interactables"
+description: Erfahren Sie, wie Sie die interaktionsfähige Spawner-Datei erstellen, verwenden und anpassen, um Elemente in Ihren AltspaceVR-Räumen zu platzieren.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Spawner, Interaktionen, Anpassungen
-ms.openlocfilehash: 7f4b87591b2e11b2084af4d2bf83748ed51fd193
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: abeddec5c2b50e0612db5efb6bc2e3c5bd9de4a8b67c50b19afee18b17c5e746
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213550"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127399"
 ---
-# <a name="using-the-interactables-spawner"></a>Verwenden des-interactables-spawners
+# <a name="using-the-interactables-spawner"></a>Verwenden des Spawners "Interactables"
 
-Der interactables Spawner ermöglicht Ihnen das Platzieren von Objekten, die sich in Ihrem Ereignis, in der Welt oder in der privatfläche befinden. Diese Funktion ist zurzeit Teil des [frühen Zugriffs Programms](../world-building/early-access.md) und ist nur verfügbar, wenn Sie sich über Ihr Hauptmenü angemeldet haben.
+Mit interactables Spawner können Sie interagierbare Elemente in Ihrem Ereignis, ihrer Welt oder Ihrem Heimbereich platzieren. Dieses Feature ist derzeit Teil unseres Early [Access-Programms](../world-building/early-access.md) und steht nur zur Verfügung, wenn Sie sich über Ihr Hauptmenü angemeldet haben.
 
 > [!NOTE]
-> Obwohl wir dieses Feature weiter testen, beachten Sie, dass das Erzeugen von zu vielen interactables möglicherweise die Leistung Ihrer Umgebung oder Ihres Ereignisses beeinträchtigt. 
+> Während wir dieses Feature weiterhin als Pilot verwenden, beachten Sie, dass sich zu viele interaktionsfähige Funktionen auf die Leistung Ihrer Umgebung oder Ihres Ereignisses auswirken können. 
 
-## <a name="creating-an-interactable"></a>Erstellen einer Interaktionen
+## <a name="creating-an-interactable"></a>Erstellen eines interagierbaren
 
-So schalten Sie das Objekt in ein Objekt mit Interaktionen um:
+So machen Sie Ihr Objekt in ein interaktionsfähiges Objekt:
 
-1. Platzieren Sie das-Objekt in Ihrem Bereich.
-2. Suchen Sie anschließend den Eintrag in der Objektliste, und wählen Sie das **Zahnrad Symbol** neben dem Eintrag aus, um die Einstellungen zu öffnen:
+1. Platzieren Sie das -Objekt in Ihrem Raum.
+2. Suchen Sie dann den Eintrag in der  Objektliste, und wählen Sie das Zahnradsymbol daneben aus, um die Einstellungen zu öffnen:
 
-![World Editor geöffnet mit hervorgehobener Objektliste](images/interactables-spawner-img-01.png)
+![Geöffneter World-Editor mit hervorgehobener Objektliste](images/interactables-spawner-img-01.png)
 
-Auf der Seite "Einstellungen" finden Sie das neue Kontrollkästchen **"Objekt Spawner"**, das verwendet wird, um es zu einem Objekt zu machen, das interacbar ist.
+Auf der Einstellungsseite finden Sie ein neues Kontrollkästchen **"Objekt-Spawner",** das verwendet wird, um es zu einem interagierbaren Objekt zu machen.
 
-1. Aktivieren Sie das Kontrollkästchen, und klicken Sie auf **bestätigen**.
-2. Im Bearbeitungsmodus können Sie den Speicherort des Objekts im Bereich verschieben.
-3. **Beenden des Bearbeitungsmodus** zum Aktivieren der Element Interaktion.
+1. Aktivieren Sie das Kontrollkästchen, und wählen Sie **bestätigen aus.**
+2. Im Bearbeitungsmodus können Sie die Spawn-Position des Objekts im Raum bewegen.
+3. **Beenden Sie den Bearbeitungsmodus,** um die Elementinteraktion zu aktivieren.
 
-![Artefaktfenster in der altspacevr-APP öffnen](images/interactables-spawner-img-02.png)
+![Öffnen des Artefaktfensters in der AltspaceVR-App](images/interactables-spawner-img-02.png)
 
 ## <a name="other-customizations"></a>Weitere Anpassungen
 
-Nachdem Sie **"Object Spawner"** aktiviert haben, wenn Sie zu den Eigenschaften für dieses Objekt zurückkehren, gibt es eine zusätzliche Einstellung, die Sie auf die Art und Weise des erzeugten Objekts anwenden können.
+Nach dem Aktivieren **von "Object spawner" (Objekt-Spawner),** wenn Sie zurück zu den Eigenschaften für dieses Objekt wechseln, gibt es eine zusätzliche Einstellung, die Sie auf das Verhalten des erstellten Objekts anwenden können.
 
 > [!NOTE]
-> Objekt Skala mit interactable: Hiermit wird die Skalierung des Objekts festgelegt, wenn es abgerufen wird, im Vergleich zu "Skalieren", bei der es sich um die Skalierung des Objekts in der Welt handelt, bevor es zum ersten mal abgerufen wird.
+> Interaktionsfähige Objektskala: Hier wird die Skalierung des Objekts bei der Aufnahme im Vergleich zu "Scale" (Skalieren) im Vergleich zur Skalierung der Art und Weise, wie das Objekt in der Welt vor der erstmaligen Aufnahme angezeigt wird, bestimmt.
 
-Die Kit-Ersteller bemerken möglicherweise, dass Änderungen an Ihrem Kit, während altspacevr ausgeführt wird, erst nach einem Neustart von altspacevr wirksam werden.
+Kit-Erhersteller bemerken möglicherweise, dass Änderungen an Ihrem Kit, während AltspaceVR ausgeführt wird, erst wirksam werden, wenn Sie AltspaceVR neu starten.
 
-Vor kurzem haben wir auf der Registerkarte " **moderate Einstellungen** " eine Schaltfläche mit dem Namen " **Upload Worlds Kits**" Wenn Sie auf diese Schaltfläche klicken, wird der Bereich erneut eingegeben, und alle Kits werden erneut geladen, sodass nur neue Versionen der Kits heruntergeladen werden, die während der Ausführung von altspacevr aktualisiert wurden.
+Vor Kurzem haben wir auf der Registerkarte Moderate Einstellungen eine Schaltfläche **namens** **Reload Worlds Kits hinzugefügt.** Wenn Sie auf diese Schaltfläche klicken, werden (nur Sie) erneut in den Bereich geladen, und alle Kits werden erneut geladen. Dadurch werden nur neue Versionen der Kits heruntergeladen, die aktualisiert wurden, während Sie sich in AltspaceVR waren.
 
-![Mittlerer Einstellungsbereich in der altspacevr-app geöffnet](images/interactables-spawner-img-03.png)
+![Moderater Einstellungsbereich in der AltspaceVR-App geöffnet](images/interactables-spawner-img-03.png)

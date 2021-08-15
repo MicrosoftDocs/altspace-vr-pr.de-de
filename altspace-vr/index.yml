@@ -18,7 +18,7 @@ highlightedContent:
       url: journey.md
     - title: Inhalte und Personen finden
       itemType: overview
-      url: getting-started/system-requirements.md
+      url: community/exploring-title-screen.md
     - title: Veranstaltungen erstellen
       itemType: how-to-guide
       url: tutorials/creating-an-event.md

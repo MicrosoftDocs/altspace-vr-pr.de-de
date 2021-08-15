@@ -1,49 +1,49 @@
 ---
-title: Oculus Quest/Quest 2-Steuerelemente und-Berechtigungen
-description: Lernen Sie die grundlegenden Steuerelemente für die Geräte "Oculus Quest" und "Quest 2" kennen.
+title: Oculus Quest/Quest 2-Steuerelemente und -Berechtigungen
+description: Lernen Sie die grundlegenden Steuerelemente für Oculus Quest- und Quest 2-Geräte, die Verwaltung von Berechtigungen und die Verwendung von Handgesten.
 ms.date: 03/11/2021
 ms.topic: article
-keywords: Oculus, oculus Quest, Steuerelemente, Berechtigungen, Handgesten
-ms.openlocfilehash: 9a10c782a4fac587621dec33d97bdfb9b9eca04d
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: Oculus, Oculus Quest, Steuerelemente, Berechtigungen, Handgesten
+ms.openlocfilehash: f5e68382d27cd155ab83ae6ea862297641744af678db8158532a6030341c8c7a
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213112"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127860"
 ---
-# <a name="oculus-questquest-2-controls-and-permissions"></a>Oculus Quest/Quest 2-Steuerelemente und-Berechtigungen
+# <a name="oculus-questquest-2-controls-and-permissions"></a>Oculus Quest/Quest 2-Steuerelemente und -Berechtigungen
 
 ## <a name="basic-controls"></a>Grundlegende Steuerelemente
 
 <!-- Missing images -->
 
-| Links | Rechte Seite |
+| Linken | Rechte Hand |
 |---|---|
-| Linker fingerstick-verschieben/Scrollen | Right Ministick-Turn/Scroll |
-| X-Aktion | Eine-Aktion |
-| Y-Teleport | B-Teleport |
-| Menü: Öffnen des Menüs "altspacevr" | Oculus-Open oculushome |
-| Linkes Ziehpunkt-Objekt mit linker Seite | Rechter Ziehpunkt-Objekt mit rechter Hand |
-| Linker Trigger-auslösen/ausführen | Rechter Trigger-auslösen |
-| Klicken Sie auf Left Ministick-Reset HMD und Altitude |  |
+| Linker Fingerabdruck – Verschieben/Scrollen | Rechter Thumbstick – Turn/Scroll |
+| X – Aktion | A – Aktion |
+| Y – Teleport | B – Teleport |
+| Menü – AltspaceVR-Menü öffnen | Oculus – Open OculusHome |
+| Linker Greif – Objekt mit linker Hand greifen | Rechter Greif – Objekt mit der rechten Hand greifen |
+| Linker Trigger – Auslösen/Ausführen | Rechter Trigger– Auslösen |
+| Klicken Sie auf den linken Thumbstick – HMD und Höhe zurücksetzen. |  |
 
 ## <a name="hand-gestures"></a>Handgesten
 
 | Geste | Eingabe |
 |---|---|
 | Im Ruhezustand | Standardposition |
-| Punktindexfinger | Zieh Schaltfläche gehalten |
-| Daumen nach oben | Ziehpunkt & Schaltflächen für die Ausführung |
-| Pfand | Ziehpunkt, Schaltflächen für Ziehpunkt, Auslösung und A/X |
+| Zeigeindexfinger | Greiftaste gedrückt |
+| Daumen hoch | Greiftasten & Triggertasten |
+| Faust | Greiftaste, Trigger und A/X-Schaltflächen |
 
 ## <a name="managing-permissions"></a>Berechtigungen verwalten
 
 <!-- Missing image -->
 
-So verwalten Sie Ihre Berechtigungen für die Oculus-Quest auf App-Basis in ihrer Oculus-Bibliothek:
+So verwalten Sie Ihre Berechtigungen für oculus Quest pro App über Ihre Oculus-Bibliothek:
 
-1. Navigieren Sie zu der app in ihrer Oculus-Bibliothek.
-2. Wählen Sie das **Symbol mit drei** Punkten aus, um das App-Menü zu öffnen.
-3. Wählen Sie im angezeigten Dropdown Menü die Option **Berechtigungen** aus.
+1. Navigieren Sie in Ihrer Oculus-Bibliothek zur App.
+2. Wählen Sie **das Symbol mit drei Punkten aus,** um das Menü der App zu öffnen.
+3. Wählen **Sie im** angezeigten Dropdownmenü Berechtigungen aus.
 
-Die Benutzeroberfläche "Berechtigungen" wird geladen, die Sie für jede APP ein-und ausschalten können.
+Eine "Berechtigungen"-Benutzeroberfläche wird geladen, die Sie für jede App ein- und ausschalten können.
