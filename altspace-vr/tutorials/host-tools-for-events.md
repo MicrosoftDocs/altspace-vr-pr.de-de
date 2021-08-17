@@ -129,23 +129,23 @@ Verschaffen Sie sich einen kurzen Überblick über die Informationen/Schaltfläc
 
 Räume verfügen über Schaltflächen für "Speicherplatz zurücksetzen", "Speicherplatz löschen", "Benutzer verteilen" und "Teleport":
 
-![Schaltfläche "Leerzeichen zurücksetzen" im Raumbereich hervorgehoben](images/host-front-row-img-09.png)
+![Hervorgehobene Schaltfläche "Speicherplatz zurücksetzen" im Raumbereich](images/host-front-row-img-09.png)
 
-Wird in dem Raum, in dem Sie sich gerade befinden, einen "Reset Space" (Speicherplatz zurücksetzen) aus. Sie können Leerzeichen nicht für alle Räume gleichzeitig zurücksetzen. Sie müssen zu jedem Raum reisen, um eine Zurücksetzung zu machen.
+Führt einen "Speicherplatz zurücksetzen" in dem Raum aus, in dem Sie sich derzeit befinden. Sie können keine Leerzeichen für alle Räume gleichzeitig zurücksetzen. Sie müssen zu jedem Raum reisen, um eine Zurücksetzung durchführen zu können.
 
-![Schaltfläche "Leerzeichen löschen" im Raumbereich hervorgehoben](images/host-front-row-img-10.png)
+![Hervorgehobene Schaltfläche "Speicherplatz löschen" im Raumbereich](images/host-front-row-img-10.png)
 
-Löscht dauerhaft den Raum, in dem Sie sich gerade befinden. Alle Personen im gelöschten Raum treten dem Ereignis automatisch wieder bei und treten einem anderen Raum bei.
+Löscht dauerhaft den Raum, in dem Sie sich gerade befinden. Alle Benutzer im gelöschten Raum treten dem Ereignis automatisch erneut bei und treten einem anderen Raum bei.
 
-![Schaltfläche "Benutzer neu verteilen" im Raumbereich hervorgehoben](images/host-front-row-img-11.png)
+![Im Raumbereich hervorgehobene Schaltfläche "Benutzer neu verteilen"](images/host-front-row-img-11.png)
 
-Manchmal ist die Kapazität der ersten Zimmer fast erreicht, nachdem Ihr FrontRow-Ereignis eine Weile in Aktion war, aber das letzte Zimmer oder zwei verfügen möglicherweise nur über eine kleine Anzahl von Gästen pro Zimmer. Durch Klicken auf diese Schaltfläche erhalten die Gäste in diesem Raum die Möglichkeit, in ihrem aktuellen Raum zu bleiben oder zu einem aufgefüllten Raum zu gehen.
+Manchmal sind die ersten Räume nach dem FrontRow-Ereignis für eine Weile fast ausgelastet, aber das letzte Oder zwei Zimmer kann nur eine kleine Anzahl von Gästen pro Zimmer aufweisen. Wenn Sie auf diese Schaltfläche klicken, haben die Gäste in diesem Raum die Möglichkeit, in ihrem aktuellen Raum zu bleiben oder zu einem gefüllteren Raum zu gehen.
 
 > [!NOTE]
-> Sie müssen nicht zu dem Raum reisen, den Sie verteilen möchten. Sie können direkt im Bereich Zimmer auf die Schaltfläche Benutzer verteilen in einem beliebigen Raum klicken. Versuchen Sie, dies nicht zu oft in demselben Raum zu tun. Die Gäste in diesem Raum möchten möglicherweise nur wenige Personen haben und möchten möglicherweise keine Nachrichten erhalten, die zum Verschieben von Räumen aufgefordert werden.
+> Sie müssen nicht zu dem Raum reisen, den Sie neu verteilen möchten. Sie können in jedem Raum direkt im Bereich "Räume" auf die Schaltfläche Benutzer neu verteilen klicken. Versuchen Sie, dies nicht zu oft im selben Raum zu tun. Die Gäste dort möchten möglicherweise nur mit einigen wenigen Personen zusammen sein und möchten möglicherweise keine Nachrichten erhalten, die zum Verschieben von Räumen aufgefordert werden.
 
-![Schaltfläche "Teleport" im Raumbereich hervorgehoben](images/host-front-row-img-12.png)
+![Die Schaltfläche "Teleport" ist im Raumbereich hervorgehoben.](images/host-front-row-img-12.png)
 
-So können Sie von einem Front Row Room in einen anderen reisen. Moderatoren möchten dies verwenden, um von Raum zu Raum zu springen, um die Menge zu überprüfen. Während der Sommerzeit können Sie einen Host (On-Air) im primären Raum haben und den Rest Ihrer Besatzer in die anderen Räume wechseln lassen, um zu sehen, wie alles aussieht. Ist alles synchron in den anderen Räumen und sieht wie im primären Raum aus? Wenn jeder, der beim Testen mithilft, über die Hostrolle verfügt, kann er auch zu den anderen Räumen reisen, on-air (On-Air) wechseln, und Sie können jeden sehen und hören, damit Sie auf diese Weise über Räume hinweg kommunizieren können.
+Auf diese Weise gelangen Sie von einem Vorderzeilenraum in einen anderen. Moderatoren möchten dies verwenden, um von Raum zu Raum zu springen, um die Menschenmenge zu überprüfen. Während der Probe können Sie einen Host (On-Air) im Primären Raum haben und den Rest Ihres Teams zu den anderen Räumen wechseln lassen, um zu sehen, wie alles aussieht. Ist alles in den anderen Räumen synchron und sieht wie im Primären Raum aus? Wenn jeder, der beim Testen hilft, über die Hostrolle verfügt, kann er auch zu den anderen Räumen reisen, in die Luft gehen, und Sie können jeden sehen und hören, sodass Sie auf diese Weise über Räume hinweg kommunizieren können.
 
-Sie sind gejazzt, um alles auszuprobieren? Prima! Gehen Sie fort, und strecken Sie diese FrontRow-Ereignishosts.
+Sie haben das Gefühl, alles auszuprobieren? Sehr gut! Fahren Sie fort, und strecken Sie diese FrontRow-Ereignishosts.

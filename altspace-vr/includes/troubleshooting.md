@@ -9,7 +9,7 @@ ms.locfileid: "119126450"
 # <a name="altspacevr-application"></a>[AltspaceVR-Anwendung](#tab/application)
 
 * [Suchen der AltspaceVR-App-Version](../faqs/app-version.md)
-* [Gewusst wie meine Clientprotokolle hoch?](../faqs/uploading-client-logs.md)
+* [Gewusst wie meine Clientprotokolle hochladen?](../faqs/uploading-client-logs.md)
 * [Ich kann AltspaceVR nicht starten.](../faqs/unable-to-launch.md)
 
 # <a name="audio"></a>[Audio](#tab/audio)
@@ -19,10 +19,10 @@ ms.locfileid: "119126450"
 * [Mein Audiosignal ist abgehackt](../faqs/choppy-audio.md)
 * [Andere Benutzer können mich nicht hören](../faqs/other-users-cant-hear-me.md)
 
-# <a name="account--avatar"></a>[Konto-& Avatar](#tab/account)
+# <a name="account--avatar"></a>[Konto & Avatar](#tab/account)
 
 * [Wie funktionieren Namenstags?](../faqs/nametags.md)
-* [Gewusst wie meine persönlichen Informationen zu aktualisieren?](../faqs/updating-email-address.md)
+* [Gewusst wie meine persönlichen Informationen aktualisieren?](../faqs/updating-email-address.md)
 
 # <a name="contact-us"></a>[Kontakt](#tab/contact)
 

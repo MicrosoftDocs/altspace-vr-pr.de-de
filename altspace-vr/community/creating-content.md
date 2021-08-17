@@ -41,4 +41,4 @@ Mit world-building können Benutzer Objekte auf einfache Weise in ihrem eigenen 
 * Hilfeseiten – World-Building
     * [Gewusst wie beginnen Sie mit der Entwicklung?](../world-building/world-building-getting-started.md)
     * [Wo erhalte ich Hilfe bei der Entwicklung in der Welt?](../world-building/getting-help.md)
-* [Discord – Official AltspaceVR](https://discord.gg/eYQ5VxK), im #world Building Channel
+* [Discord - Official AltspaceVR](https://discord.gg/eYQ5VxK), in the #world-building channel

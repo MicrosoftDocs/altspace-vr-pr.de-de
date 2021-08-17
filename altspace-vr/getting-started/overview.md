@@ -23,7 +23,7 @@ Das MRE SDK ist das neue SDK zum Erstellen von AltspaceVR-Erweiterungen mit Node
 2. [Installieren von Git-Befehlszeilentools](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 3. Wechseln Sie zum Repository mit den [MRE SDK-Beispielen,](https://github.com/Microsoft/mixed-reality-extension-sdk-samples) und befolgen Sie die Schritt-für-Schritt-Anweisungen, um ein Beispiel zu erstellen und auszuführen.
 
-Sie können außerdem:
+Sie haben außerdem folgende Möglichkeiten:
 
 * Treten Sie dem [MRE SDK Discord Community](https://discord.com/invite/xyBcQec) bei, um mit anderen MRE-Entwicklern zu chatten.
 * [Sehen Sie sich das Video Building Tic-Tac-Toe (Erstellen von Tic-Tac-Toe) an.](https://www.youtube.com/watch?v=DQHrdK9JSXI&ab_channel=AltspaceVR)

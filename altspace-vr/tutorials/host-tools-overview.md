@@ -66,4 +66,4 @@ Von hier aus können Sie sie aufrufen, megaphonen, stummschalten, verwerfen und 
  
 ![Teilnahmebereich der Zielgruppe mit hervorgehobener Raise-Hand geöffnet](images/host-tools-img-05.png)
 
-Sie haben das Gefühl, alles auszuprobieren? Prima! Fahren Sie fort, und strecken Sie diese Hostgeraden.
+Sie haben das Gefühl, alles auszuprobieren? Sehr gut! Fahren Sie fort, und strecken Sie diese Hostgeraden.

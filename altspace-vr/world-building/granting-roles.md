@@ -3,7 +3,7 @@ title: Gewähren von World-Rollen
 description: Erfahren Sie mehr über das Rollen- und Fähigkeitssystem, und erhalten Sie schritt-für-Schritt-Anweisungen zum Zuweisen von Rollen für Benutzer in Ihren AltspaceVR-Welten.
 ms.date: 04/14/2021
 ms.topic: article
-keywords: roles
+keywords: Rollen
 ms.openlocfilehash: f299f637d77c989be5504532279fb42451367b4ac53095d00627f67402dd8552
 ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
@@ -33,7 +33,7 @@ Nachdem Sie Aktualisieren **ausgewählt haben,** setzen Sie den Speicherplatz in
 
 ## <a name="roles"></a>Rollen
 
-* **Megaphone_only:** Möglichkeit, überall auf der Welt in die Menschen zu sprechen
+* **Megaphone_only:** Möglichkeit, überall auf der Welt in die Menschen der Benutzer zu sprechen
 * **Moderator:** Fähigkeiten wie **"Kick"** zum Verwalten des Anstands
 * **Pilot:** Möglichkeit zum Umschalten des Flymodus und Zum Erstellen des 6DOF-Flugtools
 * **Host:** Fähigkeiten wie die Möglichkeit, auf der Stage zu sein, megaphone

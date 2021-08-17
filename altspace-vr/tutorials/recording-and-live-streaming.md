@@ -84,9 +84,9 @@ Wir stummschalten die Mikrofone/Aux in der Regel bei der Aufzeichnung. Wählen S
 * Um nur die Audiodaten von AltspaceVR zu erfassen, wechseln Sie zu Volume Mixer (klicken Sie mit der rechten Maustaste auf das Lautsprechersymbol unten rechts von Windows), und stummschalten Sie Systemklang, Browser und so weiter, aber stummschalten Sie OBS oder AltspaceVR nicht.
 
 > [!IMPORTANT]
-> Vergessen Sie nicht, diese Volumeeinstellungen Mixer nach der Aufzeichnung wieder zu aktivieren.
+> Vergessen Sie nicht, diese Volume-Mixer nach der Aufzeichnung wieder zu aktivieren.
 
-Navigieren Sie nun zurück zu OBS, und wählen **Sie Aufzeichnung** aus Datei beenden **>Aufzeichnungen anzeigen aus.** Dadurch wird der Ordner mit Ihren OBS-Videodateien geöffnet, und doppelklicken Sie auf das Testvideo.
+Navigieren Sie nun zurück zu OBS, und wählen **Sie Aufzeichnung** über Datei beenden **>Aufzeichnungen anzeigen aus.** Dadurch wird der Ordner mit Ihren OBS-Videodateien geöffnet, und doppelklicken Sie auf das Testvideo.
 
 Manchmal ist die Aufzeichnung recht laut, also senken Sie den Schieberegler für Desktopaudio, und erstellen Sie eine weitere Aufzeichnung zum Testen.
 
@@ -123,8 +123,8 @@ Wechselt nun in OBS zu Datei>Einstellungen:
 | Registerkarte | Einstellungen |
 |---|---|
 | Allgemein | Automatische Aufzeichnung beim Streaming aktivieren (dadurch wird zusätzlich zum Livestreaming eine Videodatei auf Ihrem Computer aufgezeichnet) |
-| STREAM | Streamtyp: Streamingdienste <br> Dienst: YouTube/YouTube Gaming (kann auch an Twitch, Mixer, Facebook Live usw. gestreamt werden)<br>Server: Primärer YouTube-Erfassungsserver <br>Streamschlüssel: Fügen Sie Ihren Streamschlüssel von YouTube ein. (Siehe "Einrichten von Livestreaming auf YouTube" weiter unten) |
-| Output | Ausgabemodus: Wechseln Sie zu Erweitert. |
+| STREAM | Streamtyp: Streamingdienste <br> Dienst: YouTube/YouTube Gaming (kann auch an Twitch, Mixer, Facebook Live usw. gestreamt werden.)<br>Server: Primärer YouTube-Erfassungsserver <br>Streamschlüssel: Fügen Sie Ihren Streamschlüssel von YouTube ein. (Siehe "Einrichten von Livestreaming auf YouTube" weiter unten) |
+| Ausgabe | Ausgabemodus: Wechseln Sie zu Erweitert. |
 | Streaming | Audiospur 1 <br>Encoder: x264 <br>Erzwingen der Encodereinstellungen des Streamingdiensts: Tick <br>Neuskalierungsausgabe: nicht angezeigt <br>Ratensteuerung: CBR <br>Bitrate: 6000 (6000 für 30 fps oder 9000 für 60 fps) <br>Keyframeintervall = 2 <br>CPU-Auslastungsvoreinstellung = sehr schnell |
 | Aufzeichnung | Typ: Standard <br>Aufzeichnungspfad: D:/Video (Navigieren Sie zu dem Ort, an dem die Videodatei gespeichert werden soll, wenn Sie zuvor "Beim Streaming automatisch aufzeichnen" ausgewählt haben) <br>Aufzeichnungsformat: mp4 (Wenn sie während der Aufzeichnung abstürzt, versuchen Sie hier flv anstelle von mp4. Wenn Sie einen Absturz erstellen, kann das Video weiterhin mit flv verwendet werden. <br>Audiospur 1 <br>Encoder: Streamencoder verwenden |
 | Audio | Audiobitrate: 160 (für alle Spuren) Abtastrate: 48 KHz <br>Kanäle: Stereo <br>Desktopaudiogerät: Standard <br>Desktopaudiogerät 2: Deaktivieren <br>Mic/Aux-Audiogerät: Standard |
@@ -166,13 +166,13 @@ Sie können entweder schnell einen Livestream in Betrieb nehmen (**Stream**) ode
 * Wechseln Sie zu YouTube, und Sie werden sehen, dass Sie jetzt LIVE auf YouTube sind!<br>
 * Um Ihre tatsächliche YouTube-Livestream-Videoseite anzuzeigen, müssen Sie oben rechts das Symbol FREIGEBEN auswählen.<br>
 * Kopieren Sie den Link "Video", und fügen Sie ihn in eine neue Browserregisterkarte ein. Daraufhin wird Ihre YouTube-Livestreamseite angezeigt.<br>
-* Diese URL ist Ihr Livestreamlink und kann für alle Ihre Social Media-Kanäle freigegeben werden :)<br>
+* Diese URL ist Ihr Livestreamlink und kann für alle Social Media-Kanäle freigegeben :)<br>
 * Um den Livestream zu beenden, wählen Sie Streaming auf OBS beenden aus. Dadurch wird der Livestream auf YouTube beendet.<br>
 * Beenden Sie dann den Stream auf YouTube.<br>
 
 **"Manage"-Methode:**
 * Wählen Sie "Stream planen" aus.
-* Erstellen eines neuen oder wiederverwendeten Einstellungen, wenn Sie bereits einen vorherigen verwalteten Livestream eingerichtet haben
+* Erstellen eines neuen oder wiederverwenden Einstellungen, wenn Sie bereits einen vorherigen verwalteten Livestream eingerichtet haben
 * Hinzufügen von Titel, Datum, Startzeit, Beschreibung, Hochladen Miniaturansicht und Tags – Vergessen Sie nicht, altspaceVR :)
 * Wählen Sie im Dropdownmenü Öffentlich aus (Standardwert ist "Nicht aufgeführt").
 * Standardwerte verwenden

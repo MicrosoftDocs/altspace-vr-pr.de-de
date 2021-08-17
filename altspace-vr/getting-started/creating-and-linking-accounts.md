@@ -119,7 +119,7 @@ Ja, wir haben ein wenig neu korriert. Sie können Ihr Konto jetzt verwalten, & K
 
 **Habe ich bereits ein Microsoft-Konto?**
 
-Es ist möglich, dass Sie bereits über ein Microsoft-Konto verfügen. Spielen Sie auf Minecraft Xbox, abonnieren Office 365 oder verwenden Sie regelmäßig andere Microsoft-Produkte oder -Dienste? Wenn ja, verfügen Sie wahrscheinlich bereits über eine Microsoft-Anmeldung! Sie können überprüfen, ob Ihre E-Mail bereits an eine vorhandene MSA gebunden [ist.](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2)
+Es ist möglich, dass Sie bereits über ein Microsoft-Konto verfügen. Spielen Sie Minecraft Xbox, abonnieren Office 365 oder verwenden Sie regelmäßig andere Microsoft-Produkte oder -Dienste? Wenn ja, verfügen Sie wahrscheinlich bereits über eine Microsoft-Anmeldung! Sie können überprüfen, ob Ihre E-Mail bereits an eine vorhandene MSA gebunden [ist.](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2)
 
 **Bedeutet dies, dass ich eine neue E-Mail-Adresse mit Outlook erstellen muss?**
 

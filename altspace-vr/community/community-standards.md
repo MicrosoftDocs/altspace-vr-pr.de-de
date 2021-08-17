@@ -13,7 +13,7 @@ ms.locfileid: "119125039"
 ---
 # <a name="community-standards"></a>Community-Standards
 
-Die AltspaceVR Community-Standards sind eine Reihe von Prinzipien, die es Communitymitgliedern ermöglichen, eine wirklich beeindruckende Umgebung zu erleben, ohne die Gefahr von Verunstößung und Gesellschaft, Hemd und Toleranz, Lewdverhalten oder der Anzeige anstößiger Inhalte zu erleben. Im Folgenden werden die einzelnen Bereiche und vieles mehr beschrieben, und microsoft erwartet das Benutzerverhalten, wenn sie beim AltspaceVR-Dienst angemeldet sind oder auf von Microsoft verwalteten Social Media-Seiten und Foren posten.
+Die AltspaceVR Community Standards sind eine Reihe von Prinzipien, die es Communitymitgliedern ermöglichen, eine wirklich beeindruckende Umgebung zu erleben, ohne die Gefahr von Anstößigem und Freundlichkeit, Hemd und Toleranz, Lewdverhalten oder der Anzeige anstößiger Inhalte zu erleben. Im Folgenden werden die einzelnen Bereiche und vieles mehr beschrieben, und microsoft erwartet das Benutzerverhalten, wenn sie beim AltspaceVR-Dienst angemeldet sind oder auf von Microsoft verwalteten Social Media-Seiten und Foren posten.
 
 ## <a name="defamation-and-intolerance"></a>Umschübe und Umschübe
 
@@ -56,7 +56,7 @@ Die Mitarbeiter von Microsoft wissen, dass es eine Lernkurve mit virtuellen VR- 
 
 ## <a name="alternate-accounts"></a>Alternative Konten
 
-Communitymitglieder können zwar mehrere Konten erstellen und verwenden, aber insbesondere oder konsistent ein alternatives Konto verwenden, um andere Benutzer zu belangen oder gegen die Community Standards zu verstoßen, ist nicht akzeptabel. Alternative Konten werden als getrennt vom Prinzipalkonto eines Benutzers behandelt, aber der Missbrauch alternativer Konten kann und führt zu disziplinären Aktionen für das Prinzipalkonto.
+Communitymitglieder können sich entscheiden, mehrere Konten zu erstellen und zu verwenden. Es ist jedoch nicht akzeptabel, ein anderes Konto zu verwenden, um andere Benutzer zu belangen oder gegen die Community Standards zu verstoßen. Alternative Konten werden als getrennt vom Prinzipalkonto eines Benutzers behandelt, aber der Missbrauch alternativer Konten kann und führt zu disziplinären Aktionen für das Prinzipalkonto.
 
 ## <a name="reporting-violations-of-the-community-standards"></a>Melden von Verstößen gegen die Community Standards
 

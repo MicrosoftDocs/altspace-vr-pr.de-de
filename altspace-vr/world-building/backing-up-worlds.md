@@ -40,7 +40,7 @@ Sie können eine Sicherung erstellen, indem Sie ihren World Editor/Altspace öff
 
 So verwalten Sie Ihre Sicherungen auf unserer Website:
 
-1. Navigieren Sie [zu Worlds > Mine,](https://account.altvr.com/users/sign_in)suchen Sie Ihre Welt, und klicken Sie in den Administratorsteuerelementen auf "Sicherungen":
+1. Navigieren Sie [zu Worlds > Mine,](https://account.altvr.com/users/sign_in)suchen Sie Ihre Welt, und drücken Sie in den Administratorsteuerelementen "Sicherungen":
 
 ![Administratorsteuerelemente auf der Worlds-Website mit geöffneten Sicherungen](images/world-backup-img-01.png)
 
@@ -59,6 +59,6 @@ Es gibt keine Beschränkung für die Anzahl von Sicherungen, und mehr Sicherunge
 
 **Hilfe! Ich habe versehentlich eine Sicherung wiederhergestellt, und meine Arbeit ist nicht** mehr wichtig. Wir erstellen automatisch eine neue Sicherung, bevor wir die alte Wiederherstellen durchführen. Suchen Sie nach einem Namen mit einem Namen, der mit **Auto** mit dem richtigen Zeitstempel beginnt, und stellen Sie diesen wiederhergestellt (z. B. **Auto 2019-01-14T08:23:33-08:00**).  Wenn dies nicht funktioniert, übermitteln Sie [eine Supportanfrage](https://help.altvr.com/hc/requests/new)
 
-**Ich habe eine Sicherung wiederhergestellt, und einige Objekte fehlen.** Wurden diese Fotos gelöscht, falls fotos? Gelöschte Fotos können aus Datenschutzgründen nicht wiederhergestellt werden. Übermitteln Sie [eine Supportanfrage,](https://help.altvr.com/hc/requests/new) damit wir dies untersuchen können.
+**Ich habe eine Sicherung wiederhergestellt, und einige Objekte fehlen.** Wurden diese Fotos gelöscht, falls fotos? Gelöschte Fotos können aus Datenschutzgründen nicht wiederhergestellt werden. Übermitteln Sie [eine Supportanfrage,](https://help.altvr.com/hc/requests/new) damit wir sie untersuchen können.
 
 **Ich sehe keine Änderungen.** Sicherungen werden asynchron wiederhergestellt, was bedeutet, dass die Wiederherstellung je nach Anzahl der Objekte einige Minuten dauern kann. Denken Sie daran, Ihre Welt zurückzusetzen, und versuchen Sie es erneut, wenn nach einigen Minuten nichts mehr zu sehen ist. In Zukunft können wir weitere Feedback zum Status des Wiederherstellungsprozesses geben.

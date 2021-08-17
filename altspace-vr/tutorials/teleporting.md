@@ -17,40 +17,40 @@ Das Reisen von einem Ereignis oder einer Welt zu einem anderen ist eine hervorra
 
 ## <a name="the-short-version"></a>Die Kurzversion
 
-![Teleportingschritte vom Editorbereich bis zum Festlegen eines Teleportierungsziels](images/teleporter.png)
+![Teleportierungsschritte im Editorbereich zum Festlegen eines Teleportierungsziels](images/teleporter.png)
 
 ## <a name="the-slightly-longer-version"></a>Die etwas längere Version
 
-Stellen Sie zunächst sicher, dass Sie sich in Ihrem Homespace, in einem Ereignis oder in einer Welt, in dem Sie erstellt haben oder in dem Sie die Terraformer-Rolle erhalten haben. Wenn Sie sich im 2D-Modus befinden und die Schaltfläche World Editor (Welt-Editor) unten rechts auf der Benutzeroberfläche nicht angezeigt wird, klicken Sie mit der rechten Maustaste auf die Maustaste, um diese ein-/auszuschalten. Wenn die Schaltfläche World Editor (Welt-Editor) weiterhin nicht angezeigt wird, können Sie sich im Bereich einer anderen Person befindet. Wenn dies der Fall ist, bitten Sie den Host, Ihnen die Terraformer-Rolle zu geben.
+Stellen Sie zunächst sicher, dass Sie sich in Ihrem Homespace, in einem Event oder einer Welt, in dem Sie die Terraformer-Rolle erstellt haben oder erhalten haben, auf einem Event oder in einer Welt befingen. Wenn Sie sich im 2D-Modus befinden und die Schaltfläche "Welt-Editor" unten rechts auf der Benutzeroberfläche nicht angezeigt wird, klicken Sie mit der rechten Maustaste auf die Maustaste, um sie ein-/ausschalten. Wenn die Schaltfläche "Welt-Editor" immer noch nicht angezeigt wird, sind Sie möglicherweise im Bereich eines anderen Benutzer. Wenn dies der Fall ist, bitten Sie den Host, Ihnen die Terraformer-Rolle zu geben.
 
-Dies ist auch hilfreich für: 
-1. Erstellen Sie zuerst die Ereignisse oder Welten.
-2. Wechseln Sie zu dem Ort, an dem Sie den Teleporter erstellen möchten, damit Ihre Events/Worlds im Bereich Teleporter Destination (Teleporter-Ziel) aufgefüllt werden, sodass Sie diese schneller und einfacher verbinden können.
+Dies hilft auch bei: 
+1. Erstellen der Ereignisse oder Welten zuerst
+2. Wechseln Sie zu dem Ort, an dem Sie den Teleporter ausfüllen möchten, damit Ihre Events/Worlds im Bereich Teleporter Destination aufgefüllt werden, damit Sie diese schneller und einfacher verbinden können.
 
-Ein weiterer Trick, mit dem Sie mit Teleportern im 2D-Modus navigieren können, ist die Verwendung von STRG+LEERTASTE. Daraufhin wird die Eingabeaufforderung angezeigt, und Sie können Folgendes eingeben: "Zurück". Dadurch gelangen Sie zurück zum letzten Speicherplatz, in dem Sie sich befanden. 
+Ein weiterer Trick, der Ihnen beim Navigieren mit Teleporters im 2D-Modus hilft, ist die Verwendung von STRG+LEERZEICHEN. Es wird die Eingabeaufforderung angezeigt, und Sie können" eingeben: zurück . Damit werden Sie zurück zum letzten Ort, in dem Sie sich auf dem Weg waren! 
 
-Wechseln Sie nun zu dem Ort, an dem Sie einen Teleporter erstellen möchten, und wählen Sie Welt-Editor/Editor-Bereich/Grundlagen/Teleporter aus.
+Wechseln Sie nun zu dem Standort, an dem Sie einen Teleporter erstellen möchten, und wählen Sie World Editor /Editor Panel / Basics /Teleporter aus.
 
-Dadurch wird der Bereich Teleporter Destination (Teleporter-Ziel) angezeigt. Es werden drei Kategorien zur Auswahl angezeigt:
+Dadurch wird der Bereich Teleporter Destination (Teleporter-Ziel) angezeigt. Es werden drei Kategorien zur Auswahl:
 
-* **MY SPACES:** Liste der von Ihnen erstellten Welten.
-* **RECENT:** Liste der zuletzt durchgeführten Ereignisse. Verwenden Sie diese Option, wenn Sie zu einem Ereignis reisen möchten. Dies ist die einzige Option, die Sie zu einem Ereignis führt. Die anderen 2 erlauben Ihnen nur die Reise zwischen Welten. HINWEIS: Wenn Sie Front Row Events mit importierten Welten verbinden, müssen Sie die Teleporter in der importierten Welt und nicht im tatsächlichen Ereignis erstellen und einrichten.
-* **FEATURED:** Liste der ausgewählten Welten, zu der Sie Teleporter für die Reise festlegen können.
+* **MY SPACES:** Liste der Welten, die Sie erstellt haben.
+* **RECENT:** Liste der aktuellen Ereignisse, die Sie bisher gesehen haben. Verwenden Sie diese Option, wenn Sie zu einem Ereignis reisen möchten. Dies ist die einzige Option, die Sie zu einem Ereignis weiterträgt. Die anderen 2 lassen sie nur zwischen Welten zu. HINWEIS: Wenn Sie Front Row-Ereignisse mit importierten Welten verbinden, müssen Sie die Teleporters in der importierten Welt und nicht im eigentlichen Ereignis neu einrichten und einrichten.
+* **FEATURED** : Liste der ausgewählte Welten, in die Teleporter reisen soll.
 
-Wählen Sie das Ereignis oder die Welt aus, das Sie verwenden möchten, wodurch der Teleporter entsteht und der Text Label (Bezeichnung) des Event- oder World-Namens etwas zurückgesetzt wird. Sie können also das Zahnradsymbol im Abschnitt Present Objects (Objekte präsentieren) auswählen, um den Bezeichnungsnamen zu ändern.
+Wählen Sie das Ereignis oder die Welt aus, das bzw. die Sie verwenden möchten, wodurch der Teleporter angezeigt wird, und legen Sie einen Text Label of the Event or World name (Bezeichnung des Ereignisses oder World-Namens) etwas zurück. Sie können also das Zahnradsymbol im Abschnitt Objekte präsentieren auswählen, um den Bezeichnungsnamen zu ändern.
 
-Sie können entweder den Teleporter mit dem Cursor auswählen (Sie werden gefragt, ob es in Ordnung ist, dorthin zu wechseln, falls es ein Fehlklick war), oder Ihren Avatar direkt in den Teleporter verschieben und presto zu Ihrem Ziel verschieben. Sagen Sie ihnen, dass wir hallo!
+Sie können entweder Teleporter mit dem Cursor auswählen (Sie werden gefragt, ob es in Ordnung ist, dort zu wechseln, falls es ein Mausklick war), oder Sie verschieben Ihren Avatar direkt in den Teleporter, und sie fahren zu Ihrem Ziel. Sagen Sie ihnen, dass wir hi!
 
 ## <a name="advanced-features"></a>Erweiterte Funktionen
 
-Wenn Sie mithilfe von Front Row mit einer benutzerdefinierten Welt (z. B. einer Foundation World, einer Unity Uploader Space Template Re-Import World) eine Konferenz, einen Konferenzhöher oder ein größeres Ereignis erstellen, müssen Sie teleporter in Ihrer Foundation World und NICHT im eigentlichen Ereignis einrichten. Stellen Sie sicher, dass Sie Teleporter so einrichten, dass er zum richtigen Ereignis (muss aus der Liste Zuletzt angezeigt werden) in Ihrer Foundation World und dann Re-Import World im Ereignis, damit die Teleporter in allen Front Row-Ereignisbereichen angezeigt werden.
+Wenn Sie eine Konferenz, einen Konferenztag oder ein größeres Ereignis mit Front Row mit einer benutzerdefinierten Welt erstellen (z. B. eine Foundation World- oder Unity Uploader Space-Vorlage, Re-Import World), müssen Sie Teleporter in Ihrer Foundation World und NICHT im eigentlichen Ereignis einrichten. Stellen Sie sicher, dass Sie Den Teleporter so einrichten, dass er zum richtigen Ereignis (muss aus der Liste Zuletzt verwendet werden) in Ihrer Foundation World und dann Re-Import World im Event reist, damit die Teleporters in allen Front Row-Ereignisräumen angezeigt werden.
 
 ## <a name="faqs"></a>Häufig gestellte Fragen
 
-**Fehler: "Sorry, we'd like to, but we just't let you in there"**
+**Fehler: "Sorry, we't like to, but we can't let you in there"**
 
-An das Ereignis kann eine Gruppe angefügt sein, sodass nur Benutzernamen in der Gruppe in diesen Teleporter gelangen können, um zu diesem privaten Gruppenereignis zu gelangen.
+Dem Ereignis ist möglicherweise eine Gruppe angefügt, sodass nur Benutzernamen in der Gruppe an diesen Teleporter übertragen werden können, um zu diesem privaten Gruppenereignis zu kommen.
 
-**Wie viele Teleporter kann ich in einem Bereich verwenden?**
+**Wie viele Teleporter kann ich in einem Raum verwenden?**
 
-Teleporter verwenden transparente Texturen mit animierten Partikeleffekten, sodass es am besten ist, nicht zu viele an derselben Stelle/überlappende Textur zu haben, da sich dies auf die Leistung auswirken kann. Versuchen Sie, nicht mehr als 4 im selben Bereich oder mehr als 10 zu haben, wenn sie alle in Ihrem Bereich verteilt sind.
+Teleporter verwenden transparente Texturen mit animierten Partikeleffekten, daher ist es am besten, nicht zu viele an derselben Stelle/Überlappung zu haben, da dies die Leistung beeinträchtigen kann. Versuchen Sie, nicht mehr als 4 im gleichen Bereich oder mehr als 10 zu haben, wenn sie alle in Ihrem Bereich verteilt sind.

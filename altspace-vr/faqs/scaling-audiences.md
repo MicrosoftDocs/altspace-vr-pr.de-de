@@ -17,7 +17,7 @@ ms.locfileid: "119128063"
 
 FrontRow ist eine AltspaceVR-Technologie, mit der ihr gesamtes Ereignis über mehrere Instanzen hinweg "gespiegelt" werden kann. FrontRow ermöglicht es Ihnen, Ihre Zielgruppe über einzelne Raumgrenzen hinaus zu skalieren, und kann verwendet werden, um große Zielgruppen in einem einzigen Ereignis zu erreichen. Ohne FrontRow ist Ihre Zielgruppengröße auf die Raumgrenze Ihrer Hauptumgebung beschränkt.
 
-## <a name="how-does-it-work"></a>Wie funktioniert dies?
+## <a name="how-does-it-work"></a>Wie funktioniert sie?
 
 FrontRow fügt der Hosterfahrung zusätzliche Features und Funktionen hinzu, die Ihnen maximale Kontrolle über Ihr Ereignis und Ihre Zielgruppe bieten. 
 
@@ -56,7 +56,7 @@ Durch die Konvertierung Ihres Ereignisses in ein FrontRow-Ereignis werden dem Ho
 * **Neu verteilen:** Verteilen Sie alle Gäste, die sich derzeit in einem Raum befindet, in andere Räume neu. (Gut zum Überhängen.)
 * **Teleport:** Wechseln Sie zu einem anderen Raum.
 
-In einem FrontRow-Ereignis sehen Hosts auch einige andere Tools und Features wie **On-Air**. Diese Schaltfläche, die sich neben **Hosttools** befindet, ermöglicht es einem Host oder Moderator, Zielgruppenmitglieder und andere Teilnehmer zu spiegeln, damit sie in allen Räumen sichtbar sind. (Als Host möchten Sie wahrscheinlich auch selbst **on-air** sein. (Pro Tipp: Verwenden [Sie Hostzonen,](https://altvr.com/holiday2020/) um On-Air automatisch für alle Benutzer innerhalb der Zone zu aktivieren.)
+In einem FrontRow-Ereignis sehen Hosts auch einige andere Tools und Features wie **On-Air**. Diese Schaltfläche, die sich neben **Hosttools** befindet, ermöglicht es einem Host oder Moderator, Zielgruppenmitglieder und andere Teilnehmer zu spiegeln, damit sie in allen Räumen sichtbar sind. (Als Host möchten Sie wahrscheinlich auch selbst **on-air** sein. (Pro Tipp: Verwenden [Sie Hostzonen,](https://altvr.com/holiday2020/) um on-air automatisch für alle Benutzer innerhalb der Zone zu aktivieren.)
 
 Lesen Sie den Artikel Übersicht über Die Hosttools für [FrontRow-Ereignisse,](../tutorials/host-tools-for-events.md) um einen vollständigen und detaillierten Einblick in die einzelnen Features und Funktionen zu erhalten, die hosts in FrontRow-Ereignissen zur Verfügung stehen.
 

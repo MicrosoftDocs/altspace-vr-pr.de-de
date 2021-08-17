@@ -1,9 +1,9 @@
 ---
 title: Avatar-Steuerelemente mit Maus/Tastatur im 2D-PC-Modus
-description: Erfahren Sie, wie Sie zwischen neuen und klassischen Steuerelementschemas wechseln, um Ihre Avatare mit der Maus und Tastatur im 2D-PC-Modus zu verschieben.
+description: Erfahren Sie, wie Sie zwischen neuen und klassischen Steuerelementschemas wechseln, um Ihre Avatare mit der Maus und tastatur im 2D-PC-Modus zu bewegen.
 ms.date: 02/10/2021
 ms.topic: article
-keywords: Avatar, Maus, Tastatur, 2D, PC-Modus, Steuerelemente
+keywords: Avatar, Maus, Tastatur, 2d, PC-Modus, Steuerelemente
 ms.openlocfilehash: 670cd05bdcaa63b3a0c6ff772bef0e9f7d05bb3c3ba795d104bf5d857401a848
 ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
@@ -14,20 +14,20 @@ ms.locfileid: "119127997"
 # <a name="avatar-controls-with-mousekeyboard-in-2d-pc-mode"></a>Avatar-Steuerelemente mit Maus/Tastatur im 2D-PC-Modus
 
 Es gibt zwei verschiedene Steuerungsschemas für den 2D-PC-Modus mit Maus und Tastatur:
-* Neue PC-Steuerelemente( Standardeinstellung für neue Konten)
+* Neue PC-Steuerelemente, die die Standardeinstellung für neue Konten sind
 * Klassische PC-Steuerelemente
 
-Sie können zwischen neuen/klassischen Steuerelementen wechseln, indem Sie zu **Menü > Einstellungen > Eingabe > klassischen PC-Steuerelementen** wechseln und die Option ein- oder ausschalten.
+Sie können zwischen neuen/klassischen Steuerelementen wechseln, indem Sie zum Menü > Einstellungen > Eingabe > **klassischen** PC-Steuerelementen wechseln und die Option ein- oder ausschalten.
 
 ## <a name="new-pc-controls"></a>Neue PC-Steuerelemente
 
-Sie haben zwei verschiedene Modi, wenn Sie die Steuerelemente für neue PCs verwenden: Cursormodus und Suchmodus. Klicken Sie mit der rechten Maustaste auf Ihren Laptop oder die Maus, um die **Umschaltfläche Cursor/Look** zwischen den beiden Modi zu verwenden.
+Sie haben zwei verschiedene Modi, wenn Sie die neuen PC-Steuerelemente verwenden: Cursormodus und Look Mode. Klicken Sie mit der rechten Maustaste auf Ihren Laptop oder die Maus, um mit **der Umschalttaste Cursor/Look** zwischen den beiden Modi umschalten zu können.
 
-* Im **Cursormodus** können Sie mit den Menüs interagieren. Sie werden wissen, dass Sie sich im Cursormodus befinden, wenn die AltspaceVR-Schaltfläche Logo/Menü unten links in der Ansicht angezeigt wird:
+* **Im Cursormodus** können Sie mit den Menüs interagieren. Sie werden wissen, dass Sie sich im Cursormodus befinden, wenn unten links in der Ansicht die AltspaceVR-Schaltfläche Logo/Menu (AltspaceVR-Logo/Menü) angezeigt wird:
 
 ![Cursormodus mit Menü](images/avatar-controls-img-01.png)
 
-* **Mit dem Look-Modus** können Sie sich umsehen und eignet sich hervorragend, wenn Sie ein Laptop-Trackpad verwenden. Sie können den Suchmodus und die Tastatur verwenden, um gleichzeitig zu suchen/zu verschieben. Sie wissen, dass Sie sich im Suchmodus befinden, wenn Ihre Ansicht unten links wie im folgenden Screenshot aussieht:
+* **Im Look Mode** können Sie sich umschauen und können sich gut umschauen, wenn Sie ein Laptop-Trackpad verwenden. Sie können den Look-Modus und die Tastatur verwenden, um gleichzeitig zu suchen/zu verschieben. Sie werden wissen, dass Sie sich im Look-Modus befinden, wenn die Ansicht unten links wie der folgende Screenshot aussieht:
 
 ![Look-Modus](images/avatar-controls-img-02.png)
 
@@ -44,17 +44,17 @@ Sie haben zwei verschiedene Modi, wenn Sie die Steuerelemente für neue PCs verw
 | Eingabe | Aktion |
 |---|---|
 | Linksklick | Teleport zum Zielstandort |
-| Linksklick halten | Zielspeicherort in der Vorschau |
-| Klicken mit der mittleren Maustaste | Vorankommen |
-| Rechtsklick + Maus bewegen | Drehen/Schwenken der Kamera zum Umsehen |
-| Rechtsklick + Mittleres Rad nach vorn/zurück scrollen | Vergrößern/Verkleinern der Kamera |
+| Klicken Mit der linken Maustaste halten | Vorschau des Zielstandorts |
+| Mittelklick | Vorankommen |
+| Rechtsklick + Maus verschieben | Drehen/Schwenken der Kamera zum Umschauen |
+| Rechtsklick + Mittleres Rad scrollen nach vorn/zurück | Kamera vergrößern/verkleinern |
 
 **Menüoptionen**
 
 | Eingabe | Aktion |
 |---|---|
-| Klicken mit der linken Maustaste (über Schaltflächen) | Auswählen einer Schaltfläche |
-| Halten Sie links, und klicken Sie mit der rechten Maustaste. | AltspaceVR-Menü ausblenden |
+| Linker Klick (über Schaltflächen) | Auswählen einer Schaltfläche |
+| Halten Sie die linke Maustaste, klicken Sie mit der rechten Maustaste. | AltspaceVR-Menü ausblenden |
 
 ### <a name="keyboard-controls"></a>Tastenkombinationen
 
@@ -63,20 +63,20 @@ Sie haben zwei verschiedene Modi, wenn Sie die Steuerelemente für neue PCs verw
 | Aktion | Key | Alternativer Schlüssel |
 |---|---|---|
 | Vorankommen | W | Pfeil nach oben |
-| Rückwärtsbewegung | E | Pfeil nach unten |
-| Linken Linken | Ein | Nicht zutreffend |
-| Berechtigung "1" (rechts) | D | Nicht zutreffend |
-| Ausführen nach vorn | UMSCHALT+W | UMSCHALT+NACH-OBEN-TASTE |
+| Rückwärts bewegen | E | Pfeil nach unten |
+| Nach links | Ein | Nicht zutreffend |
+| Right-Rechte -Rechte | D | Nicht zutreffend |
+| Vorlauf ausführen | UMSCHALT+W | UMSCHALT+NACH-OBEN-TASTE |
 | Rückwärts ausführen | UMSCHALT+S | UMSCHALT+NACH-UNTEN-TASTE |
-| Ausführung links | UMSCHALT+A | Nicht zutreffend |
+| Ausführen links | UMSCHALT+A | Nicht zutreffend |
 | Rechts ausführen | UMSCHALT+D | Nicht zutreffend |
-| Drehung "Komfortmodus" nach links | Q | Pfeil nach links |
-| Drehung "Komfortmodus" nach rechts | E | Pfeil nach rechts |
+| "Komfortmodus"-Drehung links | Q | Pfeil nach links |
+| Drehung "Komfortmodus" rechts | E | Pfeil nach rechts |
 
 **Menüoptionen**
 
 | Aktion | Key | Alternativer Schlüssel |
 |---|---|---|
-| Umschaltmenü | Esc | Nicht zutreffend |
+| Menü "Umschalten" | Esc | Nicht zutreffend |
 | App-Vollbild umschalten | ALT+EINGABETASTE | Nicht zutreffend |
 | Mikrofon umschalten | LEERTASTE | STRG+ALT+T |

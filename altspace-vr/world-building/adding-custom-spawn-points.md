@@ -25,7 +25,7 @@ Personen, die in Ihre Welt eintreten, werden am Ursprung und an der Position (0,
 
 3. Reenter Your World via **Menu > Einstellungen > General > Reenter Space > Re-Enter**
 4. Sie sollten am neuen Spawn Point erstellen!
-5. Wenn Sie möchten, dass Personen in eine andere Richtung wechseln, wählen Sie die Einstellungen für den Spawn Point (Spawn Point) aus, und legen Sie Rotation > Y only (Nur **Drehung > Y)** fest. Versuchen Sie, Y auf 180 und sowohl X als auch Z auf 0 festzulegen (Warnung: X und Z sind erweitert, kann dies dazu führen, dass Die Menschen untätig werden). Wählen Sie dann **Bestätigen** aus, und geben Sie die Welt erneut ein. Dadurch sollten Sie die entgegengesetzte Richtung sehen. 
+5. Wenn Sie möchten, dass Personen in eine andere Richtung wechseln, wählen Sie die Einstellungen für Spawn Point (Spawn Point) aus, und legen Sie Rotation > Y only (Nur **Drehung > Y)** fest. Versuchen Sie, Y auf 180 und sowohl X als auch Z auf 0 festzulegen (Warnung: X und Z sind erweitert, kann dies dazu führen, dass Die Menschen untätig werden). Wählen Sie dann **Bestätigen** aus, und geben Sie die Welt erneut ein. Dadurch sollten Sie die entgegengesetzte Richtung sehen. 
 
 ## <a name="troubleshooting"></a>Problembehandlung
 

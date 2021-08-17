@@ -47,9 +47,9 @@ Nachdem Ihre Erweiterung heruntergeladen und installiert wurde, können Sie sie 
 ## <a name="projecting-your-browser-in-world"></a>Weltweites Projektieren Ihres Browsers
 
 1. Sobald Ihr Browser für die Projektion eingerichtet ist und Sie mit dem Streamen über die Erweiterung begonnen haben, öffnen Sie AltspaceVR.
-2. Richten Sie den Webprojektor in Ihrer Umgebung Ihrer Wahl ein, indem Sie ihren World Editor > Basics > WebProjektor öffnen.
+2. Richten Sie den Webprojektor in Ihrer Umgebung Ihrer Wahl ein, indem Sie Den World Editor > Basics (Grundlagen) > Webprojektor öffnen.
 3. Nach dem Einordnen können Sie die Größe des Webprojektors mithilfe Der Welt-Editor-Steuerelemente ändern. (Er enthält auch Anweisungen auf dem Bildschirm.)
-4. Klicken Sie auf **Verbinden,** um mit dem Streamen Ihres Edgebrowsers zu beginnen.
+4. Wählen Sie die **schaltfläche Verbinden,** um mit dem Streamen Ihres Edgebrowsers zu beginnen.
 5. Denken Sie daran, auf **Broadcast** zu klicken, um mit der Freigabe für alle Gäste im Raum zu beginnen.
 6. Vergessen Sie nicht, das **Streaming zu beenden.** Für Ihre Sitzung kommt es schließlich zu einem Time out, aber bis dahin wird ihr Browser weiterhin live geprojektt. Es ist am besten, ihre Sitzung zu beenden, sobald Sie fertig sind.
 

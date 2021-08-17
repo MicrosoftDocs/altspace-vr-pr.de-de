@@ -16,7 +16,7 @@ ms.locfileid: "119126605"
 Unser Gruppenfeature bietet Hosts die Möglichkeit, einen VR-Bereich zu erstellen, der für eine genehmigte Liste von Gästen geöffnet ist. Hosts können manuell alle AltspaceVR-Benutzernamen/-E-Mails hinzufügen, denen sie Zugriff auf ihren Bereich gewähren möchten. So können Sie dieses Feature verwenden, um Ereignisse, Besprechungen und Konferenz zu hosten:
 
 > [!NOTE]
-> Bevor Sie auf "Gruppen" zugreifen können, müssen Sie die Features für den frühen Zugriff aktivieren, indem Sie sich bei altvr.com anmelden, Ihr Benutzerprofil auf der Website bearbeiten und Early Access (Frühzeitiger Zugriff) auswählen. Oder nehmen Sie in der AltspaceVR-App Einstellungen, Allgemein, Am Early Access Program teil.
+> Bevor Sie auf "Gruppen" zugreifen können, müssen Sie die Features für den frühen Zugriff aktivieren, indem Sie sich bei altvr.com anmelden, Ihr Benutzerprofil auf der Website bearbeiten und Early Access auswählen. Oder nehmen Sie in der AltspaceVR-App Einstellungen, Allgemein, Am Early Access Program teil.
 
 1. Wechseln Sie in Ihrem Browser zu ,  [https://altvr.com](https://altvr.com)   und melden Sie sich bei Ihrem Konto an. 
 2. Suchen Sie **das Pull-Downmenü** Weitere.

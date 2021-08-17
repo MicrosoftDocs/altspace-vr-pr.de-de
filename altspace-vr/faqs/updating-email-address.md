@@ -1,6 +1,6 @@
 ---
-title: Gewusst wie meine persönlichen Informationen aktualisieren?
-description: Erfahren Sie, wie Sie Ihre persönlichen Informationen und Ihre E-Mail-Adresse in Ihrem AltspaceVR-Konto aktualisieren oder ein Supportproblem einreichen.
+title: Gewusst wie meine persönlichen Informationen zu aktualisieren?
+description: Erfahren Sie, wie Sie Ihre persönlichen Informationen und Ihre E-Mail-Adresse in Ihrem AltspaceVR-Konto aktualisieren oder ein Supportproblem erstellen.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: ''
@@ -11,15 +11,15 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 08/11/2021
 ms.locfileid: "119127945"
 ---
-# <a name="how-do-i-update-my-personal-information"></a>Gewusst wie meine persönlichen Informationen aktualisieren?
+# <a name="how-do-i-update-my-personal-information"></a>Gewusst wie meine persönlichen Informationen zu aktualisieren?
 
-Wir wissen, dass Fehler gemacht werden und Sie möglicherweise eine Änderung Ihres Namens oder Benutzernamens benötigen. Stellen Sie eine [Supportanfrage](https://help.altvr.com/hc/requests/new) beim AltspaceVR Community-Team. Wir wenden die Änderung bei der frühestmöglichen Gelegenheit auf Ihr Konto an.
+Wir wissen, dass Fehler gemacht werden und Sie möglicherweise eine Änderung Ihres Namens oder Benutzernamens benötigen. Stellen Sie [eine Supportanfrage](https://help.altvr.com/hc/requests/new) beim AltspaceVR Community Team. Wir wenden die Änderung so bald wie möglich auf Ihr Konto an.
 
 > [!IMPORTANT]
-> AltspaceVR behält sich das Recht vor, Namensänderungen zu verweigern, wenn sie gegen die Community Standards verstoßen oder wenn übermäßige Anforderungen für ein bestimmtes Konto vorliegen.
+> AltspaceVR behält sich das Recht vor, Namensänderungen zu verweigern, wenn sie gegen die Community-Standards verstoßen oder wenn für ein bestimmtes Konto übermäßige Anforderungen gelten.
 
 ## <a name="updating-your-email"></a>Aktualisieren Ihrer E-Mail
 
-Von Zeit zu Zeit wissen wir, dass Personen zu neuen E-Mail-Adressen migrieren oder die Möglichkeit verlieren, auf ihr E-Mail-Konto zuzugreifen. Wenn Sie Ihre Kontoinformationen im AltspaceVR-System aktualisieren möchten, senden Sie eine [Supportanfrage an das AltspaceVR Community Team.](https://help.altvr.com/hc/requests/new) 
+Von Zeit zu Zeit ist uns klar, dass Benutzer zu neuen E-Mail-Adressen migrieren oder nicht mehr auf ihr E-Mail-Konto zugreifen können. Wenn Sie Ihre Kontoinformationen im AltspaceVR-System aktualisieren möchten, senden Sie eine Supportanfrage an das [AltspaceVR](https://help.altvr.com/hc/requests/new)Community Team. 
 
-Senden Sie die Anforderung von Ihrer alten E-Mail-Adresse, damit wir Ihre Identität überprüfen können. Wenn dies aufgrund der Unmöglichkeit, auf Ihr E-Mail-Konto zuzugreifen, nicht möglich ist, teilen Sie uns dies mit, wenn Sie ein Supportticket übermitteln.
+Senden Sie die Anforderung von Ihrer alten E-Mail-Adresse, damit wir Ihre Identität überprüfen können. Wenn dies aufgrund des Nichtzugriffs auf Ihr E-Mail-Konto nicht möglich ist, teilen Sie uns dies bei der Übermittlung eines Supporttickets mit.

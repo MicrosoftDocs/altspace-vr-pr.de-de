@@ -26,7 +26,7 @@ Sie können nicht in Events oder in derFire-Datei flynn, da dies wahrscheinlich 
 
 * **Pilot** – Flug (sie müssen dies in VR aktivieren, indem sie Einstellungen > Eingabe > Fly)
 * **megaphone_only** : Wenn diese Option aktiviert ist, hören Sie alle auf ihrem Hörer.
-* **musical_performer:** höhere Audioqualität und Bandbreitennutzung
+* **musical_performer:** Höhere Audioqualität und Bandbreitennutzung
 * **Terraformer** : Zugriff auf den World Editor
 * **showcase_new_sdk:** Erstellen neuer SDK-Apps
 * Mehr...

@@ -45,7 +45,7 @@ Es wird dringend empfohlen, Ihr AltspaceVR-Konto mit einem persönlichen Microso
     
 * Wenn Sie versuchen, die Consumerversion von AltspaceVR zu verwenden, müssen Sie eine Microsoft-Konto verwenden. Wenn Sie ein Arbeits- oder Schulkonto verwenden, erhalten Sie eine Fehlermeldung, in der Sie aufgefordert werden, stattdessen einen Link zu einem persönlichen Microsoft-Konto zu erstellen. Führen Sie die obigen Schritte aus, um die Verknüpfung von Konten zu aufheben und erneut zu verknüpfen. 
 
-* Übermitteln Sie Ihre Protokolle, wenn Probleme auftreten, indem Sie zum **HAUPTMENÜ > EINSTELLUNGEN > SUPPORT > Hochladen Protokolle gelangen.**
+* Übermitteln Sie Ihre Protokolle, wenn Probleme auftreten, indem Sie unter **HAUPTMENÜ > EINSTELLUNGEN > SUPPORT > Hochladen Protokolle nachgehen.**
 
 * Weitere Tipps finden Sie in den [häufig gestellten Fragen zu Konten.](../getting-started/creating-and-linking-accounts.md)
 

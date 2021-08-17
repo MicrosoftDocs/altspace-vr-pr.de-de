@@ -13,7 +13,7 @@ ms.locfileid: "119125005"
 ---
 # <a name="submitting-feature-requests"></a>Übermitteln von Featureanforderungen
 
-Prima! Vielen Dank, dass sie uns helfen möchten, freuen wir uns auf Ihr Feedback.
+Sehr gut! Vielen Dank, dass sie uns helfen möchten, freuen wir uns auf Ihr Feedback.
 
 > [!div class="nextstepaction"] 
 > [Erstellen einer Featureanforderung](https://help.altvr.com/hc/en-us/requests/new?ticket_form_id=360001742213)

@@ -1,6 +1,6 @@
 ---
 title: Öffnen eines Supporttickets
-description: Wenden Sie sich an das Supportteam von AltspaceVR, um Hilfe zu erhalten, ein Supportticket zu öffnen oder ein neues Feature vorzuschlagen.
+description: Wenden Sie sich an das AltspaceVR-Supportteam, um Hilfe zu erhalten, ein Supportticket zu öffnen oder ein neues Feature zu vorschlagen.
 ms.date: 03/26/2021
 ms.topic: article
 keywords: Hilfe, Support

@@ -1,6 +1,6 @@
 ---
 title: Community-Hilfsprogramm
-description: Bleiben Sie über die neuesten Antworten auf häufig gestellte Fragen zur AltspaceVR-Community auf dem Laufenden.
+description: Bleiben Sie über die neuesten Antworten auf häufig gestellte Fragen zur AltspaceVR-Community auf dem laufenden.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Faq, Community, Hilfsprogramm, häufig gestellte Fragen
@@ -15,52 +15,52 @@ ms.locfileid: "119126522"
 
 ## <a name="what-is-a-community-helper"></a>Was ist ein Community Helper? 
 
-Community Hilfsmitglieder sind reguläre AltspaceVR-Mitglieder, die ihre Zeit zum Teilen von Informationen, zum Trainieren anderer und zum Dienen als Community-Botschafter freiwillig nutzen. Sie sind mit den verschiedenen Aspekten von AltspaceVR vertraut – z. B. EventHosting oder World Building – und sie veranschaulichen und halten unsere [Community Standards](community-standards.md) und [Nutzungsbedingungen](terms-of-service.md)vor. Obwohl Community Helpers keine Mitarbeiter oder Administratoren von AltspaceVR sind, handelt es sich um eine großartige Gruppe von Personen, die sich dafür einsetzen, neue Personen zu fördern, andere über die Kultur von AltspaceVR zu informieren und AltspaceVR zu einem einladenden Ort für alle zu machen.
+Community Hilfsmitglieder sind reguläre AltspaceVR-Mitglieder, die ihre Zeit für das Teilen von Informationen, das Schulen anderer und das Dienen als Community-Community-Mitglieder freiwillig leisten. Sie sind mit den verschiedenen Aspekten von AltspaceVR vertraut , z. B. Ereignishosting [](community-standards.md) oder World Building, und sie wiederherstellen unsere Community Standards und [Nutzungsbedingungen.](terms-of-service.md) Obwohl Community Helpers keine Mitarbeiter oder Administratoren von AltspaceVR sind, sind sie eine hervorragende Gruppe von Personen, die neue Personen begrüßen, andere über die Kultur von AltspaceVR sprechen und AltspaceVR zu einem einladenden Ort für alle machen.
 
-## <a name="how-do-i-find-a-community-helper"></a>Gewusst wie ein Community Helper finden? 
-Community Hilfshilfen befinden sich überall in AltspaceVR. Sie können sie identifizieren, indem Sie mit dem Mauszeiger auf einen Avatar zeigen und ihr Namenstag betrachten. Community Namenstags von Hilfern haben einen grünen Umriss und einen grünen Heart-Badge. Da sie Freiwillige sind, können Community Helpers ihren Badge jederzeit ein/aus umschalten, um AltspaceVR auch als reguläre Altspacer zu nutzen!
+## <a name="how-do-i-find-a-community-helper"></a>Gewusst wie Sie ein Community Hilfe? 
+Community Hilfsatoren sind überall in AltspaceVR verfügbar. Sie können sie identifizieren, indem Sie auf einen Avatar bewegen und sich deren Namenstag an sehen. Community Die Namenstags der Hilfsatoren verfügen über eine grüne Kontur und einen grünen Heart-Badge. Da es sich bei ihnen um freiwillige Community, können Community ihr Badge jederzeit ein-/ausschalten, um AltspaceVR auch als reguläre Altspacer zu nutzen!
 
-## <a name="how-can-i-become-a-community-helper"></a>Wie kann ich ein Community Helper werden? 
+## <a name="how-can-i-become-a-community-helper"></a>Wie kann ich ein Community werden? 
 
 Qualifikationen: 
 
-Alle Community Helpers müssen mindestens drei Monate (90 Tage) teil von AltspaceVR sein, bevor sie sich für die Rolle Community Helper bewerben. Um sich als Community Helper zu bewerben, müssen Sie mindestens zwei von drei Qualifikationen erfüllen: 
+Alle Community müssen mindestens drei Monate (90 Tage) Teil von AltspaceVR sein, bevor sie sich für die Community-Hilfsrolle bewerben. Sie müssen mindestens zwei von drei Qualifikationen erfüllen, um sich als Community zu bewerben: 
 
-1. Sie haben in den letzten 30 Tagen mindestens drei [Hauptereignisse](../tutorials/main-events.md) gehostet. 
-2. Sie haben in den letzten drei Monaten (90 Tage) mindestens fünf [Hauptereignisse](../tutorials/main-events.md) moderiert. 
-3. Sie wurden von einem Community Supportteammitglied für Ihre hervorragenden Beiträge zu AltspaceVR (Kultur, Inhalt, Community usw.) empfohlen.
+1. Sie haben im letzten [](../tutorials/main-events.md) Monat (30 Tage) mindestens drei Hauptereignisse gehostet. 
+2. Sie haben in den [](../tutorials/main-events.md) letzten drei Monaten (90 Tage) mindestens fünf Hauptereignisse moderiert. 
+3. Sie wurden von einem Community Supportteammitglied für Ihre großartigen Beiträge zu AltspaceVR (Kultur, Inhalt, Community und so weiter) empfohlen.
 
-## <a name="what-would-i-be-expected-to-do-as-a-community-helper"></a>Was sollte ich als Community Helper tun? 
+## <a name="what-would-i-be-expected-to-do-as-a-community-helper"></a>Was soll ich als Hilfs Community tun? 
 
-Als Community Helper MÜSSEN Sie diese Erwartungen erfüllen oder überschreiten: 
+Als Hilfe Community müssen Sie diese Erwartungen erfüllen oder überschreiten: 
 
-1. Befolgen Sie unsere [Community Standards](community-standards.md) und [Nutzungsbedingungen.](terms-of-service.md)
-2. Hier finden Sie ein Beispiel für ein Verhalten, das AltspaceVR ansprechender, sicherer und ausgereifter macht.
-3. Fungieren Sie als Bindeglied zwischen der Community und dem AltspaceVR-Team:
-    * Anderen vermitteln, wenn möglich hilfreich sein, Fragen von interessierten Altspacern in der Welt beantworten
-    * Mit hilfreichen und freundlichen Antworten auf [unserem offiziellen Discord-Server](https://altvr.com/discord) oder in sozialen Medien
-    * Leiten Von Personen zu geeigneten Kommunikationskanälen wie [altvr.com/help](../world-building/getting-help.md) oder [altvr.com/feedback](https://help.altvr.com/hc/requests/new?ticket_form_id=360001742213)
-    * Kommunikation und Zusammenarbeit mit AltspaceVR-Mitarbeitern auf positive und hilfreiche Weise 
-4. Setzen Sie sich für positive AltspaceVR-Aktivitäten in all Ihren Interaktionen online, in der Welt und im realen Leben ein. 
+1. Halten Sie sich an unsere [Community Standards](community-standards.md) und [Nutzungsbedingungen.](terms-of-service.md)
+2. Verhalten, das AltspaceVR einladend, sicher und ausgereift macht.
+3. Dienen sie als Glied zwischen der Community und dem AltspaceVR-Team:
+    * Schulen anderer, Wenn möglich hilfreich sein und Fragen von interessanten Altspacern in der Welt beantworten
+    * Chime in with helpful and kind responses on our Official Discord server or on social media (Chime in mit hilfreichen und freundliche Antworten auf unserem [offiziellen Server oder](https://altvr.com/discord) in sozialen Medien)
+    * Sie können Personen zu geeigneten Kommunikationskanälen wie [altvr.com/help](../world-building/getting-help.md) oder [altvr.com/feedback](https://help.altvr.com/hc/requests/new?ticket_form_id=360001742213)
+    * Kommunizieren und Zusammenarbeit mit AltspaceVR-Mitarbeitern auf positive und hilfreiche Weise 
+4. Bekennen Sie sich dazu, AltspaceVR in all Ihren Interaktionen online, in der Welt und im realen Leben positiv zu beleben. 
 5. Nehmen Sie an der AltspaceVR-Community teil:
-    * Teilnahme an Veranstaltungen, Zeit in Commons Hubs & Worlds
+    * Teilnehmen an Veranstaltungen, Verbringen von Zeit in Commons Hubs & Worlds
     * Regelmäßiges Hosten und Moderieren von Hauptereignissen
-    * Nehmen Sie an einer hilfreichen und positiven Methode auf unserem [offiziellen Discord-Server](https://altvr.com/discord) teil.
-    * Erstellen Von Welten, Erstellen mit der MRE usw. 
+    * Nehmen Sie an einer hilfreichen und positiven Art und Weise auf unserem [offiziellen Discord-Server teil.](https://altvr.com/discord)
+    * Erstellen Sie Worlds, erstellen Sie mit mrE, und so weiter. 
 
-## <a name="do-i-get-special-privileges-as-a-community-helper"></a>Erhalte ich spezielle Berechtigungen als Community Helper? 
+## <a name="do-i-get-special-privileges-as-a-community-helper"></a>Habe ich spezielle Berechtigungen als Community Hilfe? 
 
-Ja... unsere undying love and love and love. Ferner gilt Folgendes:
+Ja... unsere ungnädige Gernkeit und Ungnädigkeit. Ferner gilt Folgendes:
 
-1. Abstimmung bis Zum Anhalten: Als Community Helper verfügen Sie über zusätzliche Sicherheitstools, um Maßnahmen gegen Trolle und solche zu ergreifen, die gegen unsere Community Standards verstoßen. Sehen Sie sich die Regeln & Zuständigkeiten für die Abstimmung zur Suspendierung [hier](community-helper-guide.md)an.
-2. Zugriff auf einen speziellen Community Helpers-Kanal auf dem offiziellen AltspaceVR Discord-Server.
+1. Vote-to-Suspend:Als Community-Hilfsprogramme verfügen Sie über zusätzliche Sicherheitstools, um Gegenmaßnahmen gegen Dieb und solche zu ergreifen, die gegen unsere Community verstoßen. Sehen Sie sich die & Responsibilities for Vote-to-Suspend (Regeln für Die Zuständigkeiten für das Aussetzen von [Stimmen) hier an.](community-helper-guide.md)
+2. Zugriff auf einen speziellen Community-Hilfskanal auf dem offiziellen AltspaceVR-Diskothekenserver.
 3. Frühzeitiger Zugriff auf bestimmte Communityankündigungen.
 
 ## <a name="other-considerations"></a>Weitere Überlegungen
 
-AltspaceVR behält sich das Recht vor, Community Helper-Badges zu widerrufen, wenn die Berechtigungsanforderungen nicht erfüllt werden, erwartungen nicht eingehalten werden, altspaceVR aus Gründen der Programmkapazität, verstöße gegen unsere Community Standards und Nutzungsbedingungen sowie aus gründen, die nicht aufgeführt, aber als gültig eingestuft werden.
+AltspaceVR behält sich das Recht vor, Community Helper-Badges zu widerrufen, wenn die Berechtigungsanforderungen nicht erfüllt werden, erwartungen nicht erfüllt werden, eine längere Abwesenheit von AltspaceVR aus Gründen der Programmkapazität, Verstöße gegen unsere Community-Standards und -Nutzungsbedingungen sowie alle Gründe, die nicht aufgeführt, aber als gültig angesehen werden.
 
-Wenn Sie Community Helper waren und Ihren Badge verloren oder anderweitig aufgegeben haben, müssen Sie mindestens sechs Monate (180 Tage) warten, bevor Sie sich erneut für das Programm anmelden.
+Wenn Sie ein Community Helper waren und Ihren Badge verloren haben oder auf andere Weise aufgeknappt haben, müssen Sie mindestens sechs Monate (180 Tage) warten, bevor Sie sich erneut für das Programm anwendungen.
 
 Sind Sie bereit, sich zu bewerben?
-Prima! WENDEN SIE [SICH HIER AN.](https://help.altvr.com/hc/requests/new?ticket_form_id=360002060313)
+Sehr gut! WENDEN [SIE HIER AN.](https://help.altvr.com/hc/requests/new?ticket_form_id=360002060313)

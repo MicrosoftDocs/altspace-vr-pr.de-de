@@ -38,5 +38,5 @@ Das Early Access-Programm bietet Ihnen Zugriff auf die neuesten Features, die si
 
 * Ich habe keine bestimmte Fähigkeit
     * Haben Sie Altspace neu gestartet? Funktionen werden geladen, wenn Sie ALTSPACE zum ersten Mal starten.
-    * Sind Sie die neueste Version von Altspace? Öffnen Sie ihr Menü, um die Zu überprüfende Einstellungen > Zu überprüfen. Bestätigen Sie bei Bedarf mit einem Administrator in DerFire.
+    * Sind Sie die neueste Version von Altspace? Öffnen Sie ihr Menü, um zu Einstellungen > Zu überprüfende Informationen. Bestätigen Sie bei Bedarf mit einem Administrator in DerFire.
     * Einige Funktionen sind nur für Administratoren und einige nur an bestimmten Stellen verfügbar. Beispielsweise verfügen Sie möglicherweise über besondere Fähigkeiten in Ihrer Startseite, aber nicht in einer öffentlichen Welt. Bestätigen Sie mit einem Administrator, ob Sie in diesem Kontext über eine bestimmte Fähigkeit verfügen sollten.

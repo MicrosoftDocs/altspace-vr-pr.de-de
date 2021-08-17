@@ -13,9 +13,9 @@ ms.locfileid: "119125020"
 ---
 # <a name="community-helper-guide"></a>Community-Hilfsleitfaden
 
-Das Feature Zum Anhalten abstimmen ist ausschließlich für die Community Helpers von AltspaceVR verfügbar. Es ist ein Moderationstool, mit dem AltspaceVR ansprechender, sicherer und ausgereifter wird. Vote-to-Suspend ermöglicht es Community-Hilfatoren, jeden zu kennzeichnen, der gegen unsere Community Richtlinien verstößt. Im Folgenden sind die offiziellen Regeln und Zuständigkeiten aufgeführt, die mit der Funktion "Vote-to-Suspend" verbunden sind. 
+Das Feature Zum Anhalten abstimmen ist ausschließlich für die Community Helpers von AltspaceVR verfügbar. Es ist ein Moderationstool, mit dem AltspaceVR ansprechender, sicherer und ausgereifter wird. Vote-to-Suspend ermöglicht es Community-Hilfatoren, jeden zu kennzeichnen, der gegen unsere Community-Richtlinien verstößt. Im Folgenden sind die offiziellen Regeln und Zuständigkeiten aufgeführt, die mit der Funktion "Vote-to-Suspend" verbunden sind. 
 
-## <a name="vote-to-suspend-rules--responsibilities"></a>Vote-to-Suspend Rules & Responsibilities (Abstimmungs-zu-Suspend-Regeln & Zuständigkeiten): 
+## <a name="vote-to-suspend-rules--responsibilities"></a>Vote-to-Suspend Rules & Responsibilities (Abstimmungs-zu-Anhalten-Regeln & Zuständigkeiten): 
 
 **Regeln** 
 

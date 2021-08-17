@@ -1,6 +1,6 @@
 ---
 title: Windows Mixed Reality-Steuerelemente
-description: Erfahren Sie mehr über das grundlegende Steuerelementschema für die Ausführung von ALTSPACEVR mit Windows Mixed Reality Motion-Controllern.
+description: Erfahren Sie mehr über das grundlegende Steuerelementschema für die Ausführung von AltspaceVR mit Windows Mixed Reality Motion-Controllern.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Windows Mixed Reality, Steuerelemente

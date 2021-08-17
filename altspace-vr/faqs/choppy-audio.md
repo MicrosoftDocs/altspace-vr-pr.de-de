@@ -1,6 +1,6 @@
 ---
 title: Mein Audiosignal ist abgehackt
-description: Erfahren Sie, wie Sie abgesengte Audiodaten in AltspaceVR-Ereignissen diagnostizieren und beheben.
+description: Erfahren Sie, wie Sie drosselte Audiodaten in AltspaceVR-Ereignissen diagnostizieren und beheben.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: faq
@@ -13,9 +13,9 @@ ms.locfileid: "119128209"
 ---
 # <a name="my-audio-is-choppy"></a>Mein Audiosignal ist abgehackt
 
-Einige Benutzer haben bemerkt, dass die Audiowiedergabe beim Sprechen eines anderen Avatars als Drosselung oder mit regelmäßigen Aussteigern zu sehen ist. Sie können in anderen Fällen von anderen Benutzern darüber informiert werden, dass Ihre eigenen Audiodaten durch Drosselung oder Roboter kommen.
+Einige Benutzer haben bemerkt, dass die Audiodaten, wenn ein anderer Avatar spricht, als "choppy" oder mit regulären Ausfällen angezeigt werden. Sie können in anderen Fällen von anderen Benutzern darüber informiert werden, dass Ihre eigenen Audiodaten durch Drosselung oder Roboter stammen.
 
-Als Erstes sollten Sie immer den Speicherplatz erneut ein geben, in dem Sie sich befinden, oder altspaceVR neu starten, wenn dies fehlschlägt. Audioprobleme treten nicht häufig auf, aber wenn sie auftreten, ist dies häufig eine einfache Lösung. 
+Der erste Versuch besteht darin, immer wieder den Speicherplatz einzufahren, in dem Sie sich befinden, oder sogar altspaceVR neu zu starten, wenn dies fehlschlägt. Audioprobleme sind nicht üblich, aber wenn sie auftreten, ist dies oft eine einfache Lösung. 
 
 Wenn dies fehlschlägt, können Sie einige andere Dinge untersuchen. 
 
@@ -23,8 +23,8 @@ Wenn dies fehlschlägt, können Sie einige andere Dinge untersuchen.
 
 ### <a name="cpu-performance"></a>CPU-Leistung
 
-Lesen Sie unsere [empfohlenen Systemspezifikationen](../getting-started/system-requirements.md) für Hardware, die wir für die Ausführung von AltspaceVR empfehlen. Wir haben festgestellt, dass DIE CPUs i3 und niedriger nicht nur Probleme mit den Bildraten des Videos verursachen, sondern auch zu Audioproblemen wie Aussteigern und schlechter Qualität beitragen können.
+Lesen Sie unsere [empfohlenen Systemspezifikationen](../getting-started/system-requirements.md) für Hardware, die wir für die Ausführung von AltspaceVR vorschlagen. Wir haben festgestellt, dass CPUs i3 und niedriger nicht nur probleme mit den Frameraten des Videos verursachen, sondern auch zu Audioproblemen wie Aussteigern und schlechter Qualität beitragen können.
 
 ### <a name="internet-bandwidth-and-network-connection"></a>Internetbandbreite und Netzwerkverbindung
 
-Bei Benutzern mit langsamen Internetverbindungen (weniger als 5 MB/s) oder WLAN können Audioprobleme wie z. B. Aussteiger auftauen. Es empfiehlt sich, ein Ethernet-Kabel mit ihrem Computer zu verbinden und eine Verbindung schneller als 5 MB/s herzustellen. Möglicherweise möchten Sie alle Programme beenden, die möglicherweise internetkonnektivität im Hintergrund verwenden.
+Bei Benutzern mit langsamen Internetverbindungen (weniger als 5 MBit/s) oder WLAN können Audioprobleme auftreten, z. B. Dropdowns. Es wird empfohlen, eine Hardlineverbindung eines Ethernet-Kabels mit Ihrem Computer und eine Verbindung schneller als 5 MBit/s herzustellen. Möglicherweise möchten Sie alle Programme beenden, die möglicherweise eine Internetverbindung im Hintergrund verwenden.

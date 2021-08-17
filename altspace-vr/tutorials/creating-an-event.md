@@ -22,7 +22,7 @@ In diesem Artikel lernen Sie Folgendes:
 * Verwenden der Multimediakonsole für eine Präsentation
 * Branding Ihres Ereignisses mit Bildern
 * Hinzufügen von 3D-Objekten mithilfe von World Editor/Kits
-* Aufzeichnen oder Live Stream Von meinem Ereignis
+* Aufzeichnen oder Live Stream My Event
 
 ## <a name="altspacevr-event-terminology"></a>AltspaceVR-Ereignisterminologie
 
@@ -40,7 +40,7 @@ Im Folgenden finden Sie Begriffe, mit denen Sie beim Erstellen Ihres Ereignis- u
 | Website | Verweise auf die "Website" beziehen sich auf die [AltspaceVR-Website](https://altvr.com/). Es ist häufig einfacher, Ereignisse über die [Webseite Ereignisse](https://account.altvr.com/events/my) auf einem Computer oder Tablet zu erstellen und zu bearbeiten, anstatt über Ihr VR-Gerät. Sie müssen auch auf die Website zugreifen, um weltweit [zu erstellen.](../world-building/managing-worlds.md) |
 | Kontextbezogene Rollen | [Kontextbezogene Rollen](../getting-started/roles.md) werden vom Ereignisersteller oder World Builder zugewiesen. Diese Rollen bieten Benutzern in einer Welt oder einem Ereignisbereich zusätzliche Features und Funktionen. Derzeit bestehen diese aus Host, Moderator, Pilot (Flight), Terraformer (World Building) und Megaphone Only. Diese können einzeln oder global zugewiesen werden, sodass jeder die gleichen Rollen im Ereignisraum oder in der Welt haben kann. |
 | Benutzeroberfläche (BENUTZEROBERFLÄCHE)/Menü | Wenn Sie sich in altspaceVR in der Welt befinden, befinden sich in der immersiven Umgebung Menüs auf der linken und rechten Seite des Bildschirms. Der Kreis oder das Hauptmenü mit dem AltspaceVR-Logo öffnet die Hauptbenutzeroberfläche (UI) oder das Menü, um auf verschiedene Bildschirme zuzugreifen, um AltspaceVR zu erkunden und Ihre Benutzeroberfläche anzupassen. Optionale Benutzeroberflächenelemente befinden sich auf der richtigen Bildschirmgröße und enthalten in der Regel World Editor und Host Tools. Diese werden geöffnet und interagieren mit , indem Sie mit dem Cursor darauf klicken. |
-| SDK/MRE | Hierbei handelt es sich um World Building-Begriffe, die dem Software Development Kit zugeordnet sind, und [Mixed Reality Erweiterungen,](../world-building/using-mixed-reality-extensions.md) die zum Hinzufügen von Features und Funktionen zur Gebäudeerfahrung auf der ganzen Welt verwendet werden. Diese sind in der Regel für fortgeschrittene Benutzer vorgesehen. |
+| SDK/MRE | Hierbei handelt es sich um World Building-Begriffe, die dem Software Development Kit zugeordnet sind, und [Mixed Reality Erweiterungen,](../world-building/using-mixed-reality-extensions.md) die zum Hinzufügen von Features und Funktionen zur Weltweiten Gebäudeerfahrung verwendet werden. Diese sind in der Regel für fortgeschrittene Benutzer vorgesehen. |
 
 ## <a name="understanding-events"></a>Grundlegendes zu Ereignissen
 
@@ -172,58 +172,58 @@ Das Hinzufügen von Bildern zu Ihrem Ereignisbereich oder dem Logo und Branding 
 Die Imageanforderungen sind:
 * JPG- oder PNG-Dateien werden akzeptiert.
 * Maximale Bildgröße: 1920 x 1080
-* Auflösung: 72 DPI
+* Lösung: 72 DPI
 * Dateigröße: Weniger als 250 KB pro Datei
 
-Der Prozess umfasst das Hochladen Ihres Bilds in Ihre [AltspaceVR-Fotos](https://account.altvr.com/photos)und dann die Verwendung der Fotos im World Editor in der Welt, um sie zu importieren und in den Raum der Ereigniswelt zu platzieren.
+Der Prozess umfasst das Hochladen Ihres Bilds in [AltspaceVR Fotos](https://account.altvr.com/photos)und anschließendes Verwenden des Fotos im World Editor in der Welt, um sie zu importieren und in den Raum der Ereigniswelt zu platzieren.
 
-1. Wechseln Sie auf der AltspaceVR-Website zu [Fotos.](https://account.altvr.com/photos)
-2. Wählen Sie die Option **Hochladen**.
-3. Wählen Sie **Durchsuchen** aus, um ein Dialogfeld auf Ihrem Computer zu öffnen und das optimierte Image zu suchen und auszuwählen.
+1. Wechseln Sie [Fotos](https://account.altvr.com/photos) AltspaceVR-Website zu "Web".
+2. Klicken Sie auf **Hochladen**.
+3. Wählen **Sie Durchsuchen** aus, um ein Dialogfeld auf Ihrem Computer zu öffnen und das optimierte Image zu suchen und auszuwählen.
 4. Klicken Sie auf **Öffnen**.
-5. Wählen Sie **CREATE PHOTO (FOTO ERSTELLEN)** aus.
-6. Wiederholen Sie dies für alle Images.
+5. Wählen Sie **CREATE PHOTO (FOTO ERSTELLEN) aus.**
+6. Wiederholen Sie dies für alle Ihre Images.
 
-Positionieren Sie sich in AltspaceVR und in der Ereigniswelt in der Nähe, an der Sie das Bild platzieren möchten. (Wenn Sie dies für ein **Wiederholtes Verwendungsereignis** erstellen, stellen Sie sicher, dass Sie sich in Ihrer Welt und nicht im Ereignisbereich befinden!)
+Positionieren Sie sich in AltspaceVR und in der Ereigniswelt in der Nähe des Orts, an dem Sie das Bild platzieren möchten. (Wenn Sie dies für ein **Wiederholtes** Verwenden-Ereignis erstellen, stellen Sie sicher, dass Sie sich in Ihrer Welt befinden und nicht im Ereignisbereich!)
 
-1. Wählen Sie auf der Benutzeroberfläche in der unteren rechten Ecke **World Editor/Editor Panel (Welt-Editor/Editor-Bereich)** aus.
-2. Klicken Sie unten auf die Registerkarte **Mining.**
-3. Wählen Sie **Fotos** aus.
+1. Wählen Sie auf der Benutzeroberfläche in der unteren rechten Ecke die Option **World Editor/Editor Panel (Welt-Editor/Editor-Bereich) aus.**
+2. Klicken Sie **unten auf** die Registerkarte Mine .
+3. Wählen **Sie Fotos** aus.
 4. Fotos werden in der chronologischen Reihenfolge des Uploads gespeichert, sodass das neueste hochgeladene Bild das erste Bild in der Liste sein sollte. Wählen Sie es aus, um es der Welt hinzuzufügen.
-5. Greifen Sie mit dem Gerätecursor auf das Bild, und platzieren Sie es an der gewünschten Stelle.
-    * Sie können die Größe mit ihren Controllern ändern (in der Regel können Sie den Daumen horizontal über das Touchpad in VR oder mit der Maus im 2D-Modus bewegen).
-    * Um die Position und Drehung des Bilds zu optimieren, wählen Sie das **ZAHNRAD-Symbol** auf dem Bild im Editor aus, und legen Sie Drehung und Position entsprechend fest.
-    * Sie können die Größe des Images auch mit dem Scale-Feature ändern.
+5. Greifen Sie mit dem Gerätecursor auf das Bild, und platzieren Sie es an der Stelle, an der sie sich bewegen möchten.
+    * Sie können die Größe mit Ihren Controllern ändern (in der Regel gleiten Sie den Daumen horizontal über das Touchpad in VR oder verwenden Sie die Maus im 2D-Modus).
+    * Um die Position und Drehung des Bilds zu optimieren, wählen Sie im Editor das **Zahnradsymbol** auf dem Bild aus, und legen Sie Drehung und Position entsprechend fest.
+    * Sie können die Größe des Bilds auch mit dem Skalierungsfeature ändern.
 
 > [!NOTE]
-> Wenn der Bearbeitungsmodus aktiviert ist (orangefarbener Text), haben Sie automatisch die Möglichkeit, zu flyn, sodass Bilder leichter in der Ereigniswelt platziert werden können.
+> Wenn der Bearbeitungsmodus aktiviert ist (orangefarbener Text), haben Sie automatisch die Möglichkeit zu fliegt, sodass Bilder leichter in der Ereigniswelt platziert werden können.
 
 6. Wiederholen Sie dies für jede Bildplatzierung.
-7. Wenn die Bilder eingerichtet sind, wählen Sie **Alle sperren** aus, wenn Sie sie nicht einzeln gesperrt haben. Deaktivieren Sie den Bearbeitungsmodus, und schließen Sie den Editor.
+7. Wenn die Bilder eingerichtet sind, wählen Sie Alle sperren aus, wenn Sie sie nicht einzeln gesperrt haben, und deaktivieren Sie den Bearbeitungsmodus, und schließen Sie den Editor. 
 8. Verwenden Sie nur maximal fünf Fotos pro Ereignis.
 
-## <a name="adding-3d-objects-using-world-editor-and-kits"></a>Hinzufügen von 3D-Objekten mithilfe von World Editor und Kits
+## <a name="adding-3d-objects-using-world-editor-and-kits"></a>Hinzufügen von 3D-Objekten mit dem World-Editor und Kits
 
-AltspaceVR ermöglicht das Importieren von 3D-Objekten in Welten mit dem World Editor. Es gibt viele World Editors Kits, die derzeit verwendet werden können, und vieles mehr. Es gibt Raumräume, Raketen, animierte Haustiere, Hunde, Strukturen, Pflanzen und viele verschiedene Objekte. Oder Sie können Ihre eigenen Kits zur öffentlichen Sammlung oder für Ihre eigene persönliche Verwendung hinzufügen oder eine der [ALTSPACEVR MRE-Apps](../world-building/using-mixed-reality-extensions.md)verwenden, die interaktive Objekte in Ihre Welt bringen, z. B. Bekleidung, Bekleidung, Ziehschutz oder andere interaktive Objekte. Es wird erwartet, dass die Liste der Objekte bald erweitert wird.
+AltspaceVR ermöglicht das Importieren von 3D-Objekten in Welten mit dem World Editor. Es gibt viele World Editors Kits, die derzeit verwendet werden können, und vieles mehr. Es gibt Raumräume, Raketen, animierte Figuren, Wäge, Baumarten, Pflanzen und viele verschiedene Objekte. Oder Sie können Ihre eigenen Kits zur öffentlichen Sammlung oder für Ihre eigene persönliche Nutzung hinzufügen oder eine der [AltspaceVR MRE-Apps](../world-building/using-mixed-reality-extensions.md)verwenden, die interaktionsfähige Objekte in Ihre Welt bringen, z. B. Brillen, Brillen, Brillen, Brillen oder andere interaktionsfähige Objekte. Erwarten Sie, dass die Liste der Objekte bald erweitert wird.
 
-Die Anweisungen hier konzentrieren sich auf die Verwendung von Elementen, die bereits in den Kits enthalten sind. Weitere Informationen zum Hinzufügen und Importieren von 3D-Objekten in AltspaceVR finden Sie unter ["Importieren von glTF-Modellen in meine Welten?".](../world-building/importing-models.md) und ["Gewusst wie meine eigenen Kits hochladen?"](../world-building/uploading-custom-kits.md).
+Die Anweisungen hier konzentrieren sich auf die Verwendung von Elementen, die bereits in den Kits enthalten sind. Weitere Informationen zum Hinzufügen und Importieren von 3D-Objekten in AltspaceVR finden Sie unter "Importieren von [glTF-Modellen in meine Welten?"](../world-building/importing-models.md) und ["Gewusst wie eigene Kits hochladen?"](../world-building/uploading-custom-kits.md).
 
-So fügen Sie Ihrer Event World ein vorhandenes 3D-Objekt aus den World Building Kits hinzu, wobei der Editor/Editor-Bereich der Welt geöffnet und der Bearbeitungsmodus aktiviert ist:
+So fügen Sie Ihrer Ereigniswelt ein vorhandenes 3D-Objekt aus den World Building Kits hinzu, wenn der World Editor/Editor Panel geöffnet und der Bearbeitungsmodus aktiviert ist:
 
-1. Untersuchen Sie die Kits für das Objekt, das Sie importieren möchten, und wählen Sie es aus.
-2. Wählen Sie das Kit-Objekt mit dem Cursor aus, und positionieren Sie es. Verwenden Sie das ZAHNRAD-Symbol für das Objekt im Welt-Editor, um die Optionen Position, Drehen und Skalieren für die manuelle Nummerneingabe zu verwenden.
+1. Erkunden Sie die Kits für das Objekt, das Sie importieren möchten, und wählen Sie es aus.
+2. Wählen Sie das Kitobjekt mit dem Cursor aus, und positionieren Sie es. Verwenden Sie das ZAHNRADsymbol für das Objekt im World Editor, um die Optionen Position, Drehen und Skalieren für die manuelle Eingabe von Zahlen zu verwenden.
 3. Wenn das Objekt an der rechten Position platziert wird, sperren Sie es, indem Sie auf das Symbol Sperren klicken.
-4. Fügen Sie bei Bedarf ein weiteres -Objekt hinzu. Fügen Sie 3D-Objekte mit Vorsicht hinzu, und behalten Sie Ihre Auswahl auf nicht mehr als Elemente aus fünf verschiedenen einzelnen Kits bei, um eine bessere Oculus Quest-Benutzerunterstützung zu erhalten. Verwenden Sie nicht mehr als 200 Objekte in einer Welt.
-5. Wenn Sie fertig sind, sperren Sie alle Elemente, deaktivieren Sie den Bearbeitungsmodus, und schließen Sie den World Editor. Schlendern. Laden Sie einige Tester ein, um sie zu besuchen und zu testen, und bereiten Sie sich auf Ihr großartiges Ereignis vor!
+4. Fügen Sie bei Wunsch ein weiteres -Objekt hinzu. Fügen Sie 3D-Objekte mit Umsicht hinzu, und behalten Sie ihre Auswahl auf nicht mehr als Elemente aus fünf verschiedenen einzelnen Kits bei, um die Oculus Quest-Benutzerunterstützung zu verbessern. Verwenden Sie nicht mehr als 200 Objekte auf einer Welt.
+5. Wenn Sie fertig sind, sperren Sie alle Elemente, deaktivieren Sie den Bearbeitungsmodus, und schließen Sie den Welt-Editor. Schlendern. Laden Sie einige Tester ein, um es zu besuchen und zu testen, und bereiten Sie sich auf Ihr großartiges Ereignis vor!
 
 Weitere Informationen zu den World Editor Kits und zum Hinzufügen von 3D-Objekten zu AltspaceVR:
 
 * [Was ist das Early Access Program?](../world-building/early-access.md)
 * [Importieren von glTF-Modellen in meine Welten](../world-building/importing-models.md)
-* [Gewusst wie eine MRE in meiner Welt verwenden?](../world-building/using-mixed-reality-extensions.md)
+* [Gewusst wie mrE in meiner Welt verwenden?](../world-building/using-mixed-reality-extensions.md)
 
-## <a name="how-to-record-or-live-stream-my-event"></a>Aufzeichnen oder Live Stream My Event
+## <a name="how-to-record-or-live-stream-my-event"></a>Aufzeichnen oder Live Stream "Mein Ereignis"
 
 Anweisungen zum Aufzeichnen oder Livestreaming Ihres Ereignisses finden Sie im folgenden Supportdokument:
 
-* [Aufzeichnen oder Live Stream My Event](recording-and-live-streaming.md)
+* [Aufzeichnen oder Live Stream "Mein Ereignis"](recording-and-live-streaming.md)

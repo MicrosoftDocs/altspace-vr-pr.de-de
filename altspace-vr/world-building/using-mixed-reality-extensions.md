@@ -20,7 +20,7 @@ ms.locfileid: "119125356"
 3. Geben Sie Ihre Welt ein, und öffnen Sie den World Editor für **Grundlagen > SDK-App**. Fügen Sie die URL für Fügemarke in das Feld Ziel-URI ein, und wählen Sie **Bestätigen** aus. Das MRE-Objekt sollte angezeigt werden und versuchen, eine Verbindung mit der MRE herzustellen, die in der Cloud ausgeführt wird. Sie sollten nun einige Sehenswürdigkeiten sehen, auf die Sie klicken können.
 4. Verschieben/drehen/skalieren Sie die MRE genau wie jedes andere World Object.
 
-Herzlichen Glückwunsch! Sie verwenden jetzt MREs– Sie sind so cool!
+Glückwunsch! Sie verwenden jetzt MREs– Sie sind so cool!
 
 ## <a name="troubleshooting"></a>Problembehandlung
 
@@ -32,4 +32,4 @@ Herzlichen Glückwunsch! Sie verwenden jetzt MREs– Sie sind so cool!
 **MRE verzögert sich** Je nachdem, wo eine MRE gehostet wird, kommt es möglicherweise zu netzwerklatenz.
 
 **Warum müssen wir URLs einfügen?**
-In Zukunft können Sie MREs wie Artifacts von Kits verwalten und erstellen. Bis dahin verwenden wir weiterhin URLs.
+In Zukunft können Sie MREs wie Artifacts aus Kits verwalten und erstellen. Bis dahin verwenden wir weiterhin URLs.

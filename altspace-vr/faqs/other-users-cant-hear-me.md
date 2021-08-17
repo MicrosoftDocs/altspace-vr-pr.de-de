@@ -13,30 +13,30 @@ ms.locfileid: "119128091"
 ---
 # <a name="other-users-cant-hear-me"></a>Andere Benutzer können mich nicht hören
 
-Ermitteln Sie zunächst, ob AltspaceVR die Audiodaten von Ihrem Mikrofon erkennt. Sie können dies ermitteln, indem Sie sich ansehen, ob das Mikrofonsymbol in der unteren linken Seite Ihrer Ansicht blinkt, wenn Sie sprechen. Wenn das Symbol blinkt, wenn Sie sprechen, funktioniert Ihr Mikrofon. Wenn das Symbol rot ist, werden Sie stummgeschaltet. Wählen Sie das Symbol aus, um sich selbst zu stummschalten oder zu ändern.
+Ermitteln Sie zunächst, ob AltspaceVR die Audiodaten von Ihrem Mikrofon erkennt. Sie können dies ermitteln, indem Sie überprüfen, ob das Mikrofonsymbol in der unteren linken Ecke der Ansicht blinkt, wenn Sie sprechen. Wenn das Symbol blinkt, wenn Sie sprechen, funktioniert Ihr Mikrofon. Wenn das Symbol rot ist, sind Sie stummgeschaltet. Wählen Sie das Symbol aus, um sich selbst zu stummschalten oder die Stummschaltung zu entändern.
 
-Wenn Ihr Mikrofonsymbol nach dem Aufheben der Unveränderlichung nicht blinkt, müssen Sie möglicherweise ihre Mikrofoneinstellungen in AltspaceVR anpassen, und wechseln Sie zu Menü /Einstellungen/Audio/Audioeingabeauswahl. Wählen Sie dann mithilfe der Pfeilschaltflächen das Mikrofon aus, das Sie verwenden möchten.
+Wenn Ihr Mikrofonsymbol nach dem Entmuten nicht blinkt, müssen Sie ihre Mikrofoneinstellungen in AltspaceVR möglicherweise anpassen, indem Sie zu Menü/Einstellungen/Audio/Audioeingabeauswahl wechseln. Wählen Sie dann mithilfe der Pfeilschaltflächen das Mikrofon aus, das Sie verwenden möchten.
  
 ## <a name="oculus-quest"></a>Oculus Quest 
 
-Stellen Sie sicher, dass Sie Beim Installieren von ALTSPACEVR Berechtigungen für die Verwendung Ihres Mikrofonaudios erteilen. Ein weiteres Häkchen, das Sie durchführen können, ist das Anzeigen von Menü/Einstellungen/Audio/Audioeingabeauswahl und das Festlegen der Einstellung auf Android-Audioeingabe (das Standard-Mikrofon von Quest/Quest2).
+Stellen Sie sicher, dass Sie bei der Installation von AltspaceVR Berechtigungen zur Verwendung Ihrer Mikrofonaudiodaten erteilen. Eine weitere Überprüfung, die Sie tun können, ist die Suche nach: Menü/Einstellungen/Audio/Audioeingabeauswahl und Festlegen auf Android-Audioeingabe (das Standardmikrofon von Quest/Quest2).
  
-## <a name="windows-mixed-reality-oculus-rift-htc-vive-or-2d-mode"></a>Windows Mixed Reality, Oculus Rift, OCT Vive oder 2D-Modus
+## <a name="windows-mixed-reality-oculus-rift-htc-vive-or-2d-mode"></a>Windows Mixed Reality, Oculus Rift,TIVE Vive oder 2D-Modus
 
-Stellen Sie sicher, dass Sie über die richtigen Mikrofoneinstellungen in AltspaceVR verfügen: Menü/Einstellungen/Audio/Audioeingabeauswahl. Wählen Sie dann mithilfe der Pfeilschaltflächen das Mikrofon aus, das Sie verwenden möchten.
+Stellen Sie sicher, dass Sie in AltspaceVR über die richtigen Mikrofoneinstellungen verfügen: Menü/Einstellungen/Audio/Audioeingabeauswahl. Wählen Sie dann mithilfe der Pfeilschaltflächen das Mikrofon aus, das Sie verwenden möchten.
 
-Stellen Sie vor dem Starten von AltspaceVR sicher, dass das richtige Mikrofon als Standardaufzeichnungsgerät in Windows festgelegt ist. Oculus Rift und DIE Vive VERFÜGEN beide über ein integriertes Mikrofon, wenn Sie ein anderes Mikrofon angeschlossen haben, versucht AltspaceVR möglicherweise, dieses Gerät zu verwenden.
+Stellen Sie vor dem Starten von AltspaceVR sicher, dass das richtige Mikrofon als Standardaufzeichnungsgerät in Windows. Oculus Rift und OCULU Vive verfügen beide über ein integriertes Mikrofon, wenn Sie ein anderes Mikrofon in AltspaceVR angeschlossen haben, versuchen Sie möglicherweise, dieses Gerät zu verwenden.
  
 So ändern Sie Ihr Standardaufzeichnungsgerät in Windows:
-* Klicken Sie in Windows mit der rechten Maustaste auf das Lautsprechersymbol, und wählen Sie **Wiedergabegeräte** aus.
-* Navigieren Sie zur Registerkarte **Aufzeichnung.**
-* Suchen Sie das Mikrofon, das Sie verwenden möchten. Das MIKROFON DER Vive wird mit Mikrofon – **USB-Audiogerät** bezeichnet, und das Oculus Rift-Mikrofon erhält die Bezeichnung **Mikrofon – Rift-Audio.**
-* Klicken Sie mit der rechten Maustaste auf das Mikrofon, und wählen **Sie Als Standardgerät festlegen** aus.
-* Nach dem Neustart von AltspaceVR wird Ihr Mikrofon nun übernommen.
+* Klicken Sie mit der rechten Maustaste auf das Lautsprechersymbol in Windows und wählen Sie **Wiedergabegeräte aus.**
+* Navigieren Sie zur **Registerkarte Aufzeichnung.**
+* Suchen Sie das Mikrofon, das Sie verwenden möchten. Das Vive-Mikrofon von OCULU hat die Bezeichnung **Mikrofon – USB-Audiogerät,** und das Oculus-Rift-Mikrofon wird als **Mikrofon – Rift Audio bezeichnet.**
+* Klicken Sie mit der rechten Maustaste auf dieses Mikrofon, und wählen **Sie Als Standardgerät festlegen aus.**
+* Nach dem Neustart von AltspaceVR wird Ihr Mikrofon jetzt wieder aufgenommen.
  
-Wenn Sie nach dem Ausführen dieser Schritte weiterhin Probleme haben, gibt es einige andere Probleme, die sich möglicherweise auf Sie auswirken können:
-* Wenn Sie mehr als 30 Sekunden lang Alt-Tab, werden Sie von AltspaceVR automatisch geändert. Sie können dies mithilfe der Tastenkombination deaktivieren: Leertaste zum Ausschalten/Einschalten.
-* Das AltspaceVR-Audiosystem weist einen Lautstärkeschwellenwert auf, den Sie möglicherweise unterschreiten. Legen Sie die Mikrofonwerte auf max fest, legen Sie das Mikrofon näher an Ihrem Mund fest, und sprechen Sie bei normaler Lautstärke.
-* Beenden Sie VR, und schließen Sie Ihr USB-Kabel von Ihrem Headset an einen alternativen USB 3.0-Anschluss an. Unserer Erfahrung nach verursachen einige USB 3.0-Anschlüsse Probleme.
+Wenn Sie nach dem Ausführen dieser Schritte weiterhin Probleme haben, gibt es einige andere Probleme, die sich möglicherweise auf Sie ausdrennen:
+* Wenn Sie Alt-Tab 30 Sekunden entfernt haben, werden Sie von AltspaceVR automatisch zurückverändert. Sie können dies deaktivieren, indem Sie die Tastenkombination Leertaste verwenden, um stummgeschaltet/eingeschaltet zu werden.
+* Das AltspaceVR-Audiosystem verfügt über einen Volumeschwellenwert, den Sie möglicherweise unterschreitet. Legen Sie die Mikrofonebenen auf max fest, legen Sie das Mikrofon näher an Ihrem Mikrofon fest, und sprechen Sie bei normaler Lautstärke.
+* Beenden Sie VR, und schließen Sie ihr USB-Kabel von Ihrem Headset an einen alternativen USB 3.0-Anschluss an. Unserer Erfahrung nach verursachen einige USB 3.0-Anschlüsse Probleme.
 
-AltspaceVR erkennt möglicherweise keine Änderungen an der Soundeinstellung, die während des Spiels vorgenommen wurden. Daher müssen Sie altspaceVR der oben genannten Mikrofonänderungen möglicherweise neu starten, um wirksam zu werden.  Wenn Sie das Spiel erneut einspielen, sehen Sie sich das Mikrofonsymbol an, und prüfen Sie, ob es blinkt. Wenn das Symbol blinkt, funktioniert Ihr Mikrofon.
+AltspaceVR erkennt möglicherweise keine Änderungen der Soundeinstellung, die während des Spiels vorgenommen wurden. Daher müssen Sie AltspaceVR möglicherweise der oben genannten Mikrofonänderungen neu starten, um wirksam zu werden.  Wenn Sie das Spiel erneut ein geben, sehen Sie sich das Mikrofonsymbol an, und sehen Sie, ob es blinkt. Wenn das Symbol blinkt, funktioniert Ihr Mikrofon.

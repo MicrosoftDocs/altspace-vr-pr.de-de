@@ -39,7 +39,7 @@ AltspaceVR meldet die App-Version in der Clientprotokolldatei während des Anwen
 
 ## <a name="windows"></a>Windows
 
-Auf Windows finden Sie die Clientprotokolldatei über Windows Explorer unter:
+Auf Windows befindet sich die Clientprotokolldatei über Windows Explorer unter:
 
 ```
 %userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player.log

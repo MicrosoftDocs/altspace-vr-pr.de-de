@@ -32,7 +32,7 @@ Dieser Leitfaden hilft Ihnen beim Erstellen und Freigeben Ihrer ersten Altspace 
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-Create-a-Label-Using-the-World-Editor/player]
 
-Herzlichen Glückwunsch! Sie haben Ihre erste Altspace World-Umgebung erstellt, Ihre eigene Multiplayer-VR-Umgebung in sozialen Netzwerken! Spielen Sie mit dem World Editor, beginnend mit Kits, die Objekte enthalten, die Sie platzieren und bearbeiten können.
+Glückwunsch! Sie haben Ihre erste Altspace World-Umgebung erstellt, Ihre eigene Multiplayer-VR-Umgebung in sozialen Netzwerken! Spielen Sie mit dem World Editor, beginnend mit Kits, die Objekte enthalten, die Sie platzieren und bearbeiten können.
 
 ## <a name="sharing"></a>Freigabe
 

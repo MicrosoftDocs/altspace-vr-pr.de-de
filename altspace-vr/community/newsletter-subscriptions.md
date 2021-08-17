@@ -1,5 +1,5 @@
 ---
-title: Abonnieren des Newsletters
+title: Abonnieren unseres Newsletters
 description: Registrieren Sie sich für unseren wöchentlichen Newsletter, und bleiben Sie mit bevorstehenden Veranstaltungen, neuen Features und Communityinformationen auf dem laufenden.
 ms.date: 03/11/2021
 ms.topic: article
@@ -11,9 +11,9 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 08/11/2021
 ms.locfileid: "119125082"
 ---
-# <a name="subscribing-to-our-newsletter"></a>Abonnieren des Newsletters
+# <a name="subscribing-to-our-newsletter"></a>Abonnieren unseres Newsletters
 
-Wir freuen uns, dass Sie an Updates und Neuigkeiten zu AltspaceVR interessiert sind. Unser wöchentlicher Newsletter ist der beste Ort, um mehr über bevorstehende Veranstaltungen und neue Features zu erfahren. Zu unseren Liveereignissen gehören Stand up-Sessions, Q&A-Sitzungen und Musikleistungen. Sehen Sie sich eine Veranstaltung an, an der Sie teilnehmen möchten? Wählen Sie in unserer E-Mail die Schaltfläche "Interessiert" aus, und wir senden Ihnen eine Erinnerung, bevor das Ereignis gestartet wird, damit Sie es nicht verpassen!
+Wir freuen uns, wenn Sie Updates und Neuigkeiten zu AltspaceVR erhalten möchten. Unser wöchentlicher Newsletter ist der beste Ort, um sich über bevorstehende Ereignisse und neue Features zu informieren. Zu unseren Liveereignissen gehören Stand-Up-Sessions, Q&A-Sitzungen und Musiksendungen. Sehen Sie sich ein Ereignis an, an dem Sie teilnehmen möchten? Wählen Sie in unserer E-Mail die Schaltfläche "Interessiert" aus, und wir stellen sicher, dass Sie eine Erinnerung senden, bevor das Ereignis beginnt, damit Sie nicht auslassen!
 
 Wir aktualisieren AltspaceVR ständig und planen Ereignisse nur für Sie. 
 

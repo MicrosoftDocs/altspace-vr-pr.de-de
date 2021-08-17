@@ -21,7 +21,7 @@ Die ersten Schritte mit der Multimedia-Konsole sind ein zweiteiler Prozess.  Zue
 
 ### <a name="configuring-the-multimedia-console-with-the-web-portal"></a>Konfigurieren der Multimedia-Konsole mit dem Webportal
 
-1. Zunächst müssen Sie sicherstellen, dass Ihre Inhalte online gehostet werden, da Sie eine URL benötigen. (Sie können Fotos in die altvr.com hochladen, eine Videodatei .mp4 online hosten oder einen Dlive-Livestreamlink verwenden: https://dlive.tv/yourlivestream) 
+1. Zunächst müssen Sie sicherstellen, dass Ihre Inhalte online gehostet werden, da Sie eine URL benötigen. (Sie können Fotos in altvr.com hochladen, eine Videodatei .mp4 online hosten oder einen Dlive-Livestreamlink verwenden: https://dlive.tv/yourlivestream) 
 2. Navigieren Sie unter zum Webportal für die Multimediakonsole. [https://multimedia-console.altvr.com/](https://multimedia-console.altvr.com/)
 3. Über das Webportal können Sie eine Konfiguration für die Multimedia-Konsole generieren und veröffentlichen.  (Weitere Informationen zu den verschiedenen Eigenschaften finden Sie weiter unten.)
 4. Nachdem Sie die Medien in die Medienliste eingegeben und die allgemeinen Einstellungen konfiguriert haben, wählen Sie oben rechts in der App die Schaltfläche Veröffentlichen aus.
@@ -29,7 +29,7 @@ Die ersten Schritte mit der Multimedia-Konsole sind ein zweiteiler Prozess.  Zue
   
 ### <a name="placing-the-multimedia-console-in-your-environment"></a>Platzieren der Multimedia-Konsole in Ihrer Umgebung
 
-1. Wählen Sie in der Multimedia-Konsole > Editor-Bereich für > **SDK-Apps > Aus.** (Wechseln Sie nicht zu **World Editor > Basics > SDK-App**– das ist für nicht registrierte Apps.)  
+1. Wählen Sie **in der Multimediakonsole > Editor-Bereich** für > SDK-Apps > Aus. (Wechseln Sie nicht zu **World Editor > Basics > SDK-App**– das ist für nicht registrierte Apps.)  
 2. Positionieren Sie die Multimedia-Konsole so, dass sie Ihren Bereich und Ihre Zielgruppe am besten geeignet ist.
 3. Wechseln Sie aus dem Bearbeitungsmodus, indem Sie auf die orangefarbene Schaltfläche Bearbeitungsmodus klicken.
 4. Sie werden gefragt, **ob Sie der Media Player-Besitzer sind?** Wenn Sie die Person sind, die der offizielle Besitzer dieser Multimedia-Konsolensitzung sein sollte, bestätigen Und fahren Sie fort. (Es sind auch andere Rollen mit Berechtigungen verfügbar. Eine ausführliche Liste finden Sie weiter unten.)
@@ -126,7 +126,7 @@ Die Multimedia-Konsole unterstützt die direkte Eingabe von JSON in die Eingabea
 
 ### <a name="media-list"></a>Medienliste
 
-Die Medienliste ist eine Eigenschaft, die im Stammverzeichnis der JSON-Struktur festgelegt ist, z. B. rollen- und wiedergabe Einstellungen.  Es ist ein einfaches Array, das eine der folgenden Medienkonfigurationsstrukturen enthalten kann. (Ausführliche Informationen zu den einzelnen Funktionen finden Sie in den obigen Eigenschaftenbeschreibungen.)
+Die Medienliste ist eine Eigenschaft, die im Stammverzeichnis der JSON-Struktur festgelegt ist, z. B. rollen- und wiedergabe Einstellungen.  Es ist ein einfaches Array, das eine der folgenden Medienkonfigurationsstrukturen enthalten kann. (Ausführliche Informationen zu den einzelnen Eigenschaften finden Sie oben in den Eigenschaftenbeschreibungen.)
 
 **Bildbeispiel**
 
@@ -320,4 +320,4 @@ Die Medienliste ist eine Eigenschaft, die im Stammverzeichnis der JSON-Struktur 
 ```
 
 > [!NOTE]
-> Aktuell mit Multimedia Console v0.5.0
+> Aktuelle Version von Multimedia Console v0.5.0
