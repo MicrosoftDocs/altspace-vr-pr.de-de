@@ -1,21 +1,23 @@
 ---
 title: Erkunden von AltspaceVR
 description: Beginnen Sie mit dem Erstellen und Hosten virtueller Ereignisse auf der AltspaceVR-Plattform mit unserer zusammengestellten Prüfpunkt journey.
-ms.date: 03/29/2021
+author: qianw211
+ms.author: v-qianwen
+ms.date: 08/26/2021
 ms.topic: article
-keywords: altspace, virtual reality, events, world-building, tutorials
-ms.openlocfilehash: 7caf7f30980effa405bd68baf15bbfc43f4000d0888461452f36a1445a0b8214
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+keywords: AltspaceVR, virtuelles Meetup, Virtual Reality-Meetup, VR-Meetup, Virtual Reality-Plattformen, VR-Plattform, immersive virtuelle Ereignisse, immersive VR-Ereignisse, Virtual Reality-Ereignisse, VR-Ereignisse, VR-Welterstellung, immersive VR-Erfahrung, social VR, social VR-Plattform, VR-Ereignishosting, Social Virtual Reality, Virtual Reality-Ereignishosting
+ms.openlocfilehash: da13b9491e1b0e4c72d3378301d2b0e2d1c0e134
+ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119126449"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122979029"
 ---
 # <a name="exploring-altspacevr"></a>Erkunden von AltspaceVR
 
 ![AltspaceVR-Bannerbild](images/altspace-vr-banner.png)
 
-AltspaceVR ist eine führende soziale Plattform für virtual reality. AltspaceVR konzentriert sich auf Ereignisse, die von Dernskalieren bis hin zu Speziellen treffen reichen. AltspaceVR verwendet Technologie, um Ihnen bei der Skalierung Ihrer menschlichen Verbindung zu helfen.
+AltspaceVR ist die führende Plattform für Live-Mixed Reality-Erfahrungen. AltspaceVR ermöglicht es Interpreten, Erstellern, Marken und Unternehmen, ganz einfach eigene virtuelle Ereignisse zu erstellen. Mit dieser Social Media-App können Menschen aus der ganzen Welt in Echtzeit mit einem wahren Gefühl der Präsenz eine Verbindung herstellen und zusammenarbeiten. Ausdruckslose Avatare, ansprechender Blickkontakt, räumlicher Sound und immersive virtuelle Umgebungen ermöglichen es Menschen, sich selbst dann zusammen zu fühlen, wenn sie sich voneinander trennen. AltspaceVR liegt an der Schnittmenge von Erfahrung, Inhalten und Community und ist der wichtigste Ort für Livesendungen, Konferenzen, Shows, Veranstaltungen, Tech-Besprechungen, Teambesprechungen, Remotezusammenarbeit und vieles mehr.  
 
 Unabhängig davon, ob Sie ein erfahrener AltspaceVR-Routinier oder ein neuer Benutzer sind, ist es wichtig, über solide Ressourcen zu verfügen, auf die Sie zählen können. Wir haben die folgenden Prüfpunkte kompiliert, um Sie durch das Bringen Ihrer virtuellen Ereignisse in die Welt zu führen. Sie können sie sequenziell abdecken, was wir empfehlen, oder sie nach Be wunsch umgehen, wenn Sie wissen, was Sie suchen. In beiden Fällen sollten Sie diese Reise immer dann erneut besuchen, wenn Sie eine Richtung benötigen.
 
