@@ -15,7 +15,7 @@ highlightedContent:
   items:
     - title: Erste Schritte
       itemType: get-started
-      url: journey.md
+      url: overview.md
     - title: Inhalte und Personen finden
       itemType: overview
       url: community/exploring-title-screen.md
@@ -30,7 +30,7 @@ highlightedContent:
       url: world-building/early-access.md
     - title: Problembehandlung
       itemType: reference
-      url: faqs/vr-headset-mic.md
+      url: faqs/audio-faq.md
 productDirectory:
   title: Erste Schritte
   summary: 'Verwenden Sie AltspaceVR, um Veranstaltungen zu hosten, virtuelle Umgebungen zu schaffen und mit Remotebenutzern und Communitys auf der ganzen Welt zu interagieren.'
@@ -94,13 +94,13 @@ additionalContent:
         - title: Problembehandlung und Support
           links:
             - text: Audioprobleme
-              url: faqs/vr-headset-mic.md
+              url: faqs/audio-faq.md
             - text: Konten und Avatare
-              url: faqs/nametags.md
+              url: faqs/account-avatar-faq.md
             - text: AltspaceVR-Anwendung
-              url: faqs/app-version.md
+              url: faqs/altspacevr-app-faq.md
             - text: Integrität und Sicherheit
-              url: faqs/motion-sickness.md
+              url: faqs/health-safety-faq.md
             - text: Ereignisse
               url: faqs/front-row-events.md
         - title: Kontakt

@@ -6,12 +6,12 @@ ms.author: v-qianwen
 ms.date: 08/26/2021
 ms.topic: article
 keywords: AltspaceVR, virtuelles Meetup, Virtual Reality-Meetup, VR-Meetup, Virtual Reality-Plattformen, VR-Plattform, immersive virtuelle Ereignisse, immersive VR-Ereignisse, Virtual Reality-Ereignisse, VR-Ereignisse, VR-Welterstellung, immersive VR-Erfahrung, social VR, social VR-Plattform, VR-Ereignishosting, Social Virtual Reality, Virtual Reality-Ereignishosting
-ms.openlocfilehash: da13b9491e1b0e4c72d3378301d2b0e2d1c0e134
-ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
+ms.openlocfilehash: dc88f0ff8664b062a8be9f5cbf79e7ddd3f4872a
+ms.sourcegitcommit: 5c452a9092297c0bfbc8efabebf395e7ee31853f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122979029"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "129310471"
 ---
 # <a name="exploring-altspacevr"></a>Erkunden von AltspaceVR
 
@@ -48,7 +48,7 @@ Sie müssen nicht immer ein Host in AltspaceVR sein– manchmal sind Sie Gastben
 |  Prüfpunkt  |  Ergebnis  |
 | --- | --- |
 | [Untersuchen des Titelbildschirms](community/exploring-title-screen.md) | Navigieren Sie im Titelbildschirm zur AltspaceVR-Plattform, um sich anzumelden, ein Ereignis einzugeben oder Ihren Avatar anzupassen. |
-| [Social Features & NameTags](faqs/nametags.md) | Erfahren Sie, wie NameTags und Features für soziale Netzwerke in AltspaceVR funktionieren. |
+| [Social Features & NameTags](faqs/account-avatar-faq.md#how-do-nametags-work) | Erfahren Sie, wie NameTags und Features für soziale Netzwerke in AltspaceVR funktionieren. |
 
 ## <a name="4-creating--hosting-events"></a>4. Erstellen & Hosten von Ereignissen
 

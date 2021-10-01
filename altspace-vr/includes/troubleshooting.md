@@ -1,30 +1,30 @@
 ---
-ms.openlocfilehash: 9e4ce07f8e549f9d648e7666971a1009ecaffc729b5f1ff9d5fd1148e520e05c
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: b69f1c6741e957caed47ea7b191d30274d42f8c9
+ms.sourcegitcommit: 5c452a9092297c0bfbc8efabebf395e7ee31853f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119126450"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "129310470"
 ---
 # <a name="altspacevr-application"></a>[AltspaceVR-Anwendung](#tab/application)
 
-* [Suchen der AltspaceVR-App-Version](../faqs/app-version.md)
-* [Gewusst wie meine Clientprotokolle hochladen?](../faqs/uploading-client-logs.md)
-* [Ich kann AltspaceVR nicht starten.](../faqs/unable-to-launch.md)
+* [Suchen der AltspaceVR-App-Version](../faqs/altspacevr-app-faq.md#finding-the-altspacevr-app-version)
+* [Gewusst wie meine Clientprotokolle hoch?](../faqs/altspacevr-app-faq.md#how-do-i-upload-my-client-logs)
+* [Ich kann AltspaceVR nicht starten.](../faqs/altspacevr-app-faq.md#what-do-i-do-if-i-cant-launch-altspacevr)
 
 # <a name="audio"></a>[Audio](#tab/audio)
 
-* [Verfügen meine VR-Headsets über ein integriertes Mikrofon?](../faqs/vr-headset-mic.md)
-* [Gibt es eine Taste, die zum Sprechen gedrückt wird?](../faqs/push-to-talk.md)
-* [Mein Audiosignal ist abgehackt](../faqs/choppy-audio.md)
-* [Andere Benutzer können mich nicht hören](../faqs/other-users-cant-hear-me.md)
+* [Verfügen meine VR-Headsets über ein integriertes Mikrofon?](../faqs/audio-faq.md#does-my-vr-headset-have-a-built-in-mic)
+* [Gibt es eine Taste, die zum Sprechen gedrückt wird?](../faqs/audio-faq.md#is-there-a-push-to-talk-button)
+* [Mein Audiosignal ist abgehackt](../faqs/audio-faq.md#what-do-i-do-if-my-audio-is-choppy)
+* [Andere Benutzer können mich nicht hören](../faqs/audio-faq.md#what-do-i-do-if-other-users-cant-hear-me)
 
-# <a name="account--avatar"></a>[Konto & Avatar](#tab/account)
+# <a name="account--avatar"></a>[Konto-& Avatar](#tab/account)
 
-* [Wie funktionieren Namenstags?](../faqs/nametags.md)
-* [Gewusst wie meine persönlichen Informationen aktualisieren?](../faqs/updating-email-address.md)
+* [Wie funktionieren Namenstags?](../faqs/account-avatar-faq.md#how-do-nametags-work)
+* [Gewusst wie meine persönlichen Informationen zu aktualisieren?](../faqs/account-avatar-faq.md#how-do-i-update-my-personal-information)
 
-# <a name="contact-us"></a>[Kontakt](#tab/contact)
+# <a name="contact-us"></a>[Kontaktieren Sie uns](#tab/contact)
 
 * [Öffnen eines Supporttickets](../community/open-support-ticket.md)
 * [Senden Sie uns Feedback und Featureanfrage.](../community/feature-requests.md)
