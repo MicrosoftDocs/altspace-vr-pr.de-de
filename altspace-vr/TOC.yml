@@ -127,44 +127,18 @@
       href: community/terms-of-service.md
     - name: Community-Standards
       href: community/community-standards.md
-- name: Problembehandlung und Support
+- name: Häufig gestellte Fragen (FAQ) zu Problembehandlung und Support
   items:
-    - name: Häufig gestellte Fragen
-      items:
-        - name: Audio
-          items:
-            - name: Hat mein VR-Headset ein integriertes Mikrofon?
-              href: faqs/vr-headset-mic.md
-            - name: 'Gibt es eine Taste, die zum Sprechen gedrückt wird?'
-              href: faqs/push-to-talk.md
-            - name: Mein Audiosignal ist abgehackt
-              href: faqs/choppy-audio.md
-            - name: Andere Benutzer können mich nicht hören
-              href: faqs/other-users-cant-hear-me.md
-        - name: Konto und Avatar
-          items:
-            - name: Wie funktionieren Namenstags?
-              href: faqs/nametags.md
-            - name: Wie ändere ich meine Kontoinformationen?
-              href: faqs/updating-email-address.md
-            - name: Wie hebe ich die Verknüpfung meines Kontos auf und stelle sie wieder her?
-              href: faqs/unlinking-and-relinking-accounts.md
-        - name: AltspaceVR-Anwendung
-          items:
-            - name: Wie ermittle ich die Version der AltspaceVR-App?
-              href: faqs/app-version.md
-            - name: Wie lade ich Clientprotokolle hoch?
-              href: faqs/uploading-client-logs.md
-            - name: Ich kann AltspaceVR nicht starten
-              href: faqs/unable-to-launch.md
-        - name: Integrität und Sicherheit
-          items:
-            - name: Führt AltspaceVR zu Bewegungskrankheit?
-              href: faqs/motion-sickness.md
-        - name: Ereignisse
-          items:
-            - name: Was sind FrontRow-Veranstaltungen?
-              href: faqs/front-row-events.md
+    - name: Audioprobleme
+      href: faqs/audio-faq.md
+    - name: Konto und Avatar
+      href: faqs/account-avatar-faq.md
+    - name: AltspaceVR-Anwendung
+      href: faqs/altspacevr-app-faq.md
+    - name: Integrität und Sicherheit
+      href: faqs/health-safety-faq.md
+    - name: FrontRow-Veranstaltungen
+      href: faqs/front-row-events.md
 - name: Kontakt
   items:
     - name: Hilfe erhalten
