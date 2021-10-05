@@ -1,41 +1,41 @@
 ---
 title: Avatar-Steuerelemente mit Maus/Tastatur im 2D-PC-Modus
 description: Erfahren Sie, wie Sie zwischen neuen und klassischen Steuerelementschemas wechseln, um Ihre Avatare mit der Maus und Tastatur im 2D-PC-Modus zu verschieben.
-ms.date: 9/14/2021
+ms.date: 10/4/2021
 author: qianw211
 ms.author: v-qianwen
 ms.topic: article
 keywords: Avatar, Maus, Tastatur, 2D, PC-Modus, Steuerelemente
-ms.openlocfilehash: 680ef1eb1a8751e4437b147fd1bec7e0911500b6
-ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
+ms.openlocfilehash: bacaf5e267ab28cc410b5659a34273b12ad36be5
+ms.sourcegitcommit: 44cb9f91859001dbda7d15e0f25f94284708a715
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127871231"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129446301"
 ---
 # <a name="avatar-controls-with-mousekeyboard-in-2d-pc-mode"></a>Avatar-Steuerelemente mit Maus/Tastatur im 2D-PC-Modus
 
-Es gibt zwei verschiedene Steuerungsschemas für den 2D-PC-Modus mit Maus und Tastatur:
+Es gibt zwei verschiedene Steuerschemas für den 2D-PC-Modus mit Maus und Tastatur:
 * Neue PC-Steuerelemente( Standardeinstellung für neue Konten)
 * Klassische PC-Steuerelemente
 
-Sie können zwischen neuen/klassischen Steuerelementen wechseln, indem Sie zu **Menü > Einstellungen > Eingabe > klassische PC-Steuerelemente** wechseln und die Option ein- oder ausschalten.
+Sie können zwischen neuen/klassischen Steuerelementen wechseln, indem Sie zu **Menü > Einstellungen > Eingabe > klassischen PC-Steuerelementen** wechseln und die Option ein- oder ausschalten.
 
 ## <a name="new-pc-controls"></a>Neue PC-Steuerelemente
 
 Sie haben zwei verschiedene Modi, wenn Sie die Steuerelemente für neue PCs verwenden: Cursormodus und Suchmodus. Klicken Sie mit der rechten Maustaste auf Ihren Laptop oder die Maus, um die **Umschaltfläche Cursor/Look** zwischen den beiden Modi zu verwenden.
 
-* Im **Cursormodus** können Sie mit den Menüs interagieren. Sie werden wissen, dass Sie sich im Cursormodus befinden, wenn die AltspaceVR-Schaltfläche Logo/Menü unten links in der Ansicht angezeigt wird:
+* Im **Cursormodus** können Sie mit den Menüs interagieren. Sie werden wissen, dass Sie sich im Cursormodus befinden, wenn unten links in der Ansicht die Schaltfläche AltspaceVR Logo/Menu (AltspaceVR-Logo/Menü) angezeigt wird:
 
     ![Cursormodus mit Menü](images/avatar-controls-img-01.png)
 
-* **Mit dem Look-Modus** können Sie sich umsehen und eignet sich hervorragend, wenn Sie ein Laptop-Trackpad verwenden. Sie können den Suchmodus und die Tastatur verwenden, um gleichzeitig zu suchen/zu verschieben. Sie wissen, dass Sie sich im Suchmodus befinden, wenn Ihre Ansicht unten links wie im folgenden Screenshot aussieht:
+* **Mit dem Look-Modus** können Sie sich umsehen und ist hervorragend, wenn Sie ein Laptop-Trackpad verwenden. Sie können den Suchmodus und die Tastatur verwenden, um gleichzeitig zu suchen/zu verschieben. Sie werden wissen, dass Sie sich im Suchmodus befinden, wenn Ihre Ansicht unten links wie im folgenden Screenshot aussieht:
 
     ![Look-Modus](images/avatar-controls-img-02.png)
 
 ### <a name="new-pc-controls-for-keyboard--mouse"></a>Neue PC-Steuerelemente für Tastatur/Maus
 
-<img src="images/keyboard-mouse-controls.png" alt="Keyboard and mouse with input mappings">
+![Tastatur und Maus mit Eingabezuordnungen](images/keyboard-mouse-controls.svg)
 
 ## <a name="classic-pc-controls"></a>Klassische PC-Steuerelemente 
 
@@ -46,10 +46,10 @@ Sie haben zwei verschiedene Modi, wenn Sie die Steuerelemente für neue PCs verw
 | Eingabe | Aktion |
 |---|---|
 | Linksklick | Teleport zum Zielstandort |
-| Linksklick halten | Zielspeicherort in der Vorschau |
+| Linksklick halten | Vorschau des Zielspeicherorts |
 | Klicken mit der mittleren Maustaste | Vorankommen |
 | Rechtsklick + Maus bewegen | Drehen/Schwenken der Kamera zum Umsehen |
-| Rechtsklick + Mittleres Rad nach vorn/zurück scrollen | Vergrößern/Verkleinern der Kamera |
+| Rechtsklick + Mittleres Rad scrollen nach vorn/zurück | Vergrößern/Verkleinern der Kamera |
 
 **Menüoptionen**
 
@@ -66,9 +66,9 @@ Sie haben zwei verschiedene Modi, wenn Sie die Steuerelemente für neue PCs verw
 |---|---|---|
 | Vorankommen | W | Pfeil nach oben |
 | Rückwärtsbewegung | E | Pfeil nach unten |
-| Linken Linken | A | – |
-| Berechtigung "1" (rechts) | D | – |
-| Ausführen nach vorn | UMSCHALT+W | UMSCHALT+NACH-OBEN-TASTE |
+| Linke Linken | Ein | – |
+| Berechtigung "Rechts" | D | – |
+| Run forward (Vorwärts ausführen) | UMSCHALT+W | UMSCHALT+NACH-OBEN-TASTE |
 | Rückwärts ausführen | UMSCHALT+S | UMSCHALT+NACH-UNTEN-TASTE |
 | Ausführung links | UMSCHALT+A | – |
 | Rechts ausführen | UMSCHALT+D | – |
