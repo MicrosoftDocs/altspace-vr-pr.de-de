@@ -4,16 +4,16 @@ description: Bleiben Sie auf dem neuesten Stand der Systemanforderungen für Alt
 ms.date: 06/03/2021
 ms.topic: article
 keywords: Anforderungen, Bildschirme mit Head-Mounted, Oculus Rift, vive, Windows 2D-Modus
-ms.openlocfilehash: 7783d2c6e1acbbc48c4b0ca63d26c58c107f48559fc9d0fe7d88156a1d6762f9
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 1a43574c0c88dbceea77cd9191797e7d9f6c96f7
+ms.sourcegitcommit: 8c58f9f9ad1a3f9534141dee2c78e32792d0db7a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127554"
+ms.lasthandoff: 10/25/2021
+ms.locfileid: "130298767"
 ---
 # <a name="minimum-system-requirements"></a>Mindestsystemanforderungen
 
-Wir empfehlen die unten angegebenen Mindestsystemprofile, um die vollständige AltspaceVR-Erfahrung zu erhalten. AltspaceVR unterstützt derzeit die folgenden Bildschirme mit Haupteinführung:
+Wir empfehlen die unten angegebenen Mindestsystemprofile, um die vollständige AltspaceVR-Erfahrung zu erhalten. AltspaceVR unterstützt die folgenden Head-Mounted-Displays:
 
 * Oculus Rift CV1
 * HTC Vive
@@ -54,3 +54,5 @@ Wir empfehlen die unten angegebenen Mindestsystemprofile, um die vollständige A
 
 > [!NOTE]
 > Ereignisse mit vielen Videostreams erfordern möglicherweise mehr Bandbreite.
+
+<!-- test1 101921 -->

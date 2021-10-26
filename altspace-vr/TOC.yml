@@ -103,8 +103,8 @@
           items:
             - name: Welterstellungs-Toolkit (Unity-Uploadprogramm)
               href: world-building/world-building-toolkit-getting-started.md
-            - name: Aktualisieren von Inhalten auf die neueste Unity-Version
-              href: world-building/upgrading-content-to-the-latest-unity.md
+            - name: Upgrade alter Unity-Projekte
+              href: world-building/upgrading-old-unity-projects.md
             - name: Leitfaden zur Leistungsoptimierung für mobile Geräte
               href: world-building/unity-mobile-performance-guide.md
             - name: Verwenden von Mixed Reality-Erweiterungen
