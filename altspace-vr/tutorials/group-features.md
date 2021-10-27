@@ -4,12 +4,12 @@ description: Erfahren Sie, wie Sie mithilfe unserer Funktion für Gruppenereigni
 ms.date: 10/24/2021
 ms.topic: article
 keywords: Gruppen, private Ereignisse, Patreon, Eventbrite, Problembehandlung
-ms.openlocfilehash: dd536a2a8ef075ee9bc47ec065c04d0ab2c6d979
-ms.sourcegitcommit: 8c58f9f9ad1a3f9534141dee2c78e32792d0db7a
+ms.openlocfilehash: 92a05d6b0ee6f1212918dead7630cb917bf6972c
+ms.sourcegitcommit: 442497136b369a9789be161eae09d0e662094a85
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2021
-ms.locfileid: "130298852"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "130325894"
 ---
 # <a name="using-the-groups-feature-to-create-private-events"></a>Verwenden des Gruppenfeatures zum Erstellen privater Ereignisse
 
@@ -119,7 +119,7 @@ Auf einigen Plattformen können Sie möglicherweise eine *.csv-Datei (durch Komm
     * Bilder müssen ein Seitenverhältnis von 16:9 aufweisen.  
     * Wir erstellen automatisch Miniaturansichten aus Ihrem Upload und verwenden sie auf verschiedenen Bildschirmen der Benutzeroberfläche in AltspaceVR und auf der Website.  
 * **Profilbild**   – Wird als Gruppenprofilimage verwendet. Sie ist auf der Webseite "Gruppe" und in VR sichtbar.  
-    * Wir empfehlen 512×512, um die Bildgenauigkeit zu verbessern.  
+    * Wir empfehlen 512×512, um eine bessere Bildgenauigkeit zu erreichen.  
     * JPEG oder PNG bevorzugt.  
     * Wir erstellen automatisch Miniaturansichten aus Ihrem Upload und verwenden sie auf verschiedenen Bildschirmen der Benutzeroberfläche in AltspaceVR und auf der Website.  
 * **Auswählen einer Umgebung**   – Auf der rechten Seite der Seite werden verschiedene Miniaturansichten der verfügbaren Umgebungen angezeigt, die sie verwenden können. Diese Umgebung fungiert als primäre Hangout-Welt Ihrer Gruppe und wird für Sie und Ihre Gruppenmitglieder in "Worlds -> My Worlds -> <Name from "Name" field> Commons angezeigt.  
