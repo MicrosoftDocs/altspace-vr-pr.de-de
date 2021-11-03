@@ -1,16 +1,15 @@
 ---
 title: Einführung in altspace uploader
 description: Erfahren Sie, wie Sie Ihre AltspaceVR-Welten mithilfe von Unity-Szenenvorlagen mit dem Altspace Uploader einrichten und hochladen.
-ms.date: 09/29/2021
+ms.date: 10/29/2021
 ms.author: v-vtieto
 ms.topic: article
-keywords: Toolkit, Altspace, Uploader
-ms.openlocfilehash: 8d71551fe552159c0078105307802774f44c0d47
-ms.sourcegitcommit: 8c58f9f9ad1a3f9534141dee2c78e32792d0db7a
+ms.openlocfilehash: 6d28b3efe75d589a0a09d4969add5d043a3116d0
+ms.sourcegitcommit: 20605c50a93852f93a3464c5c339f6a7da67a047
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2021
-ms.locfileid: "130298803"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "131278961"
 ---
 # <a name="introducing-the-altspace-uploader"></a>Einführung in altspace uploader
 
@@ -25,14 +24,14 @@ Mit dem Uploader können Sie eine Unity-Szene als Vorlage für Ihre Welten verwe
 ## <a name="setup"></a>Einrichten
 
 1. Treten Sie der [offiziellen AltspaceVR-Diskothek bei,](https://discordapp.com/invite/altspacevr) und besuchen Sie den #world-Building-Kanal. Freunde lassen Freunde nicht allein Welten erstellen.
-2. Lesen Sie [unseren Leitfaden für Erste Schritte world-building für](world-building-getting-started.md) die Grundlagen.
-3. [Installieren Sie Unity Hub](https://unity3d.com/get-unity/download) und **Unity 2020.3.9.** Der Uploader funktioniert nur, wenn Sie genau mit dieser Version übereinstimmen. Wenn Sie noch kein Unity-Konto haben, benötigen Sie ein kostenloses Unity-Konto. Wählen Sie während der Installation die **persönliche Version** aus (da Sie dies aus Spaß machen!) und stellen Sie sicher, dass Sie Folgendes tun:
+2. Lesen Sie [unseren Leitfaden für Erste Schritte für die](world-building-getting-started.md) Grundlagen.
+3. [Installieren Sie Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) und [**2020.3.18f1**](https://unity3d.com/unity/whats-new/2020.3.18). Der Uploader funktioniert nur, wenn Sie genau mit dieser Version übereinstimmen. Wenn Sie noch kein Unity-Konto haben, benötigen Sie ein kostenloses Unity-Konto, und wählen Sie **Persönlich** aus, da Sie dies zum Spaß machen! Stellen Sie während der Installation sicher, dass Sie die **Option Android Builds** aktivieren und die automatische Aktualisierung deaktivieren.
     * Schließen Sie das **Android Build Support-Modul** ein.
     * Fügen Windows das Modul **Mac Build Support (Mono)** ein.
     * Fügen Sie unter Mac das Modul **Windows BuildUnterstützung (Mono)** ein.
-4. [Herunterladen des AltspaceVR-Uploaders](https://aka.ms/AvrUrpUploader)
+4. [Herunterladen des neuesten Unity-Uploaders](https://altvr.com/download-latest-unity-uploader)
 5. [Erstellen Sie eine Vorlage](https://account.altvr.com/space_templates/new) auf unserer Website. Nennen Sie **ihn Hallo Welt Vorlage**.
-6. [Erstellen Sie eine Welt,](https://account.altvr.com/worlds/my) und nennen Sie **sie Hallo Welt.** Wählen **Hallo Welt Vorlage** als Vorlage aus.
+6. [Erstellen Sie eine Welt,](https://account.altvr.com/worlds/my) und nennen **Sie sie Hallo Welt**. Wählen **Hallo Welt Vorlage** als Vorlage aus.
 
 ![Bildschirm "Welt erstellt"](images/unity-uploader-img-02.png)
 
@@ -47,20 +46,20 @@ Mit dem Uploader können Sie eine Unity-Szene als Vorlage für Ihre Welten verwe
 
 1. Navigieren Sie zu dem Ordner, in den Sie den Altspace Uploader heruntergeladen haben, und kopieren oder verschieben Sie ihn dann aus diesem Ordner in den Stammordner Ihres neuen Unity-Projekts.
 1. Wählen Sie in Unity auf der Menüleiste **Fenster**  >  **Paket-Manager.**
-1. Wählen Sie Paket-Manager Menüleiste die Dropdownliste mit dem Pluszeichen ("+") und dann Paket aus **Tarball hinzufügen aus.**
-1. Navigieren Sie zu dem Ordner, der den Altspace Uploader enthält, wählen Sie den Uploader aus, und klicken Sie dann **auf Öffnen.**  Nachdem das Paket geladen wurde, **wird AltspaceVR** auf der Menüleiste angezeigt:
+1. Klicken Sie Paket-Manager Menüleiste auf das Dropdownmenü mit dem Pluszeichen ("+"), und wählen Sie dann Paket aus **Tarball hinzufügen aus.**
+1. Navigieren Sie zu dem Ordner, der den Altspace Uploader enthält, wählen Sie den Uploader aus, und klicken Sie dann **auf Öffnen.**  Nachdem das Paket geladen wurde, **wird AltspaceVR** in der Menüleiste angezeigt:
 
     ![AltspaceVR in der Menüleiste](images/002-altspacevr-on-menu-bar.png)
 
 > [!NOTE]
 > Sie müssen das Altspace Uploader-Paket in jedes Unity-Projekt importieren, das Sie mit Altspace verwenden möchten.
 1. Wählen Sie in der Menüleiste **AltspaceVR > Vorlagen aus.**
-1. Melden Sie **sich im Dialogfeld Altspace VR Templates (ALTSPACE-VR-Vorlagen)** mit ihren Altspace-Kontoanmeldeinformationen an. (Die MSA-Anmeldung ist in Kürze verfügbar. Wenn Sie sich bisher nur mit Ihrem Microsoft-Konto bei Altspace angemeldet haben, müssen Sie mithilfe der Option "Kennwort vergessen" auf der Website ein Kennwort erstellen.)
-1. Klicken Sie **auf die Dropdownliste** Vorlage auswählen, und wählen Sie **dann vorlage Hallo Welt aus.**
-1. Wählen Sie eine Szene aus: Klicken Sie auf die Schaltfläche Auslassungspunkten für eine **UNITY-Datei** auswählen (drei Punkte), navigieren Sie dann zum Ordner Assets Scenes in Ihrem Projekt, und wählen Sie  >   **SampleScene.unity** aus, und öffnen Sie ihn.
+1. Melden Sie **sich im Dialogfeld Altspace VR Templates (ALTSPACE-VR-Vorlagen)** mit ihren Altspace-Kontoanmeldeinformationen an. (Die MSA-Anmeldung ist in Kürze verfügbar. Wenn Sie sich jemals nur mit Ihrem Microsoft-Konto bei Altspace angemeldet haben, müssen Sie ein Kennwort mithilfe der Option "Kennwort vergessen" auf der Website erstellen.)
+1. Klicken Sie **auf die Dropdownliste Vorlage** auswählen, und wählen Sie dann vorlage Hallo Welt **aus.**
+1. Wählen Sie eine  Szene aus: Klicken Sie auf die Schaltfläche Auslassungspunkten für unity-Dateien auswählen (drei Punkte), navigieren Sie dann zum Ordner Assets Scenes in Ihrem Projekt, wählen Sie   >   **SampleScene.unity** aus, und öffnen Sie ihn.
 1. Stellen **Sie sicher, dass unter Build** für Plattformen: die **Windows** ausgewählt ist. Derzeit sollten die anderen beiden Optionen, **Android** und **Mac,** **nicht** ausgewählt werden. Sobald Sie möchten, dass Die Benutzer besuchen, sollten Sie für alle Plattformen erstellen und hochladen."
-1. Wählen Sie die **Schaltfläche Build & Hochladen** aus. Dieser Vorgang kann ein bis zwei Minuten dauern.
-1. Starten Sie ALTSPACE, wählen Sie **hauptmenü** aus, und wählen Sie dann auf der Menüleiste **My Worlds (Meine Welten) aus.**
+1. Wählen Sie **die Schaltfläche Build & Hochladen** aus. Dieser Vorgang kann ein bis zwei Minuten dauern.
+1. Starten Sie ALTSPACE, wählen Sie **hauptmenü** aus, und wählen Sie dann auf der Menüleiste **Meine Welten aus.**
 1. Navigieren Sie **Hallo Welt,** und öffnen Sie es.
 
     Ihre Szene sollte mit denen im Unity-Editor vergleichbar sein.
@@ -76,11 +75,11 @@ Mit dem Uploader können Sie eine Unity-Szene als Vorlage für Ihre Welten verwe
 ## <a name="tips"></a>Tipps
 
 * Treten Sie der [offiziellen AltspaceVR-Verwesung bei.](https://discordapp.com/invite/altspacevr)
-* Auf der Seite Vorlage auf der linken Seite werden die neuesten Uploads nach Plattform angezeigt. Wenn dies erfolgreich war, wurde **vor 1 bis 2 Minuten die 1-2-Minuten-1-Minute-1-000-000-Uhr -1-0000-000** 
+* Auf der Seite Vorlage auf der linken Seite werden die neuesten Uploads nach Plattform angezeigt. Wenn dies erfolgreich war, wird vor **1 bis 2 Minuten die 1-2-Minuten-1000-000-Uhr -1-2-Minuten-1-000-000** 
 
 ![Geöffneter Vorlagenbereich mit hervorgehobenen Uploads](images/template-upload-list.png)
 
-* Sie können sich bei der Aktualisierung auf der ganzen Welt befingen. In dem Moment, in dem der Uploader **Hochladen Abgeschlossen ausdrückt,** können Sie die Welt zurücksetzen, um die Änderungen zu sehen.
+* Sie können sich beim Aktualisieren auf der ganzen Welt befingen. In dem Moment, in dem der Uploader **Hochladen Abgeschlossen,** können Sie die Welt zurücksetzen, um die Änderungen zu sehen.
 * Beim Erstellen für nur PC mit einer einfachen Szene sollte es weniger als eine Minute dauern, bis eine Änderung in Altspace zu sehen ist.
 * Legen Sie Ihre Welt auf Privat und Nicht aufgeführt fest, um Ableitungen zu vermeiden.
 * Platzieren Sie einen Cube am Ursprung, damit Sie sehen können, wo benutzer standardmäßig erstellt werden. Blendet den Cube beim Hochladen aus.
@@ -97,7 +96,7 @@ Mit dem Uploader können Sie eine Unity-Szene als Vorlage für Ihre Welten verwe
 
 **Hochladen schlägt fehl oder es kommt zu einem Zeitsendzeit**
     * Der häufigste Uploadfehler resultiert aus der falschen Unity-Version. Sie müssen genau mit der erforderlichen Version übereinstimmen.
-    * Ihr Upload ist möglicherweise zu groß. Versuchen Sie, PC-Szenen < 100 MB zu halten. Beginnen Sie klein, und erstellen Sie es. Optimieren, Optimieren, Optimieren.
+    * Ihr Upload ist möglicherweise zu groß. Versuchen Sie, PC-Szenen < 100 MB zu halten. Beginnen Sie klein, und erstellen Sie sich. Optimieren, Optimieren, Optimieren.
     * Versuchen Sie es mit einem neuen Projekt, das einen einfachen Cube enthält.
     * Erzwingen Sie nicht das Beenden während eines Build- es kann Ihre Szene beschädigt. Versuchen Sie, erneut hochzuladen.
 
@@ -110,7 +109,7 @@ Mit dem Uploader können Sie eine Unity-Szene als Vorlage für Ihre Welten verwe
     * Versuchen Sie es mit einem neuen Projekt.
     * Stellen Sie sicher, dass Ihr Altspace-Konto in gutem Zustand ist.
 
-## <a name="see-also"></a>Weitere Informationen
+## <a name="see-also"></a>Siehe auch
 
 * [Unity Learn](https://unity3d.com/learn)
 * [Unity-Foren](https://forum.unity.com)  

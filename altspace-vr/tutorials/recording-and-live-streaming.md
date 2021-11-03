@@ -1,19 +1,21 @@
 ---
 title: Aufzeichnung und Livestreaming
-description: Erfahren Sie, wie Sie AltspaceVR-Ereignisse von Ihrem PC aufzeichnen und live streamen, um sie zu bewerben und für Ihre Benutzer zu teilen.
-ms.date: 04/26/2021
+description: Erfahren Sie, wie Sie AltspaceVR-Ereignisse von Ihrem PC aufzeichnen und live streamen, um sie für Ihre Benutzer zu bewerben und freizugeben.
+author: qianw211
+ms.author: v-qianwen
+ms.date: 11/1/2021
 ms.topic: article
-keywords: Streaming, Aufzeichnung, Video, Audio, Youtube, Obs
-ms.openlocfilehash: 95a742cb2bfe5c277e698175bd9f657fcac5923d181c3eeb6905004d25f81aa6
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+keywords: Streaming, Aufzeichnung, Video, Audio, Youtube, Obs, Live
+ms.openlocfilehash: e82960097103df25c50f0b03b76d21e10b1cbbd6
+ms.sourcegitcommit: 20605c50a93852f93a3464c5c339f6a7da67a047
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119126106"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "131278978"
 ---
 # <a name="recording-and-live-streaming"></a>Aufzeichnung und Livestreaming
 
-Das Aufzeichnen und Livestreaming Ihrer AltspaceVR-Umgebung, um andere Personen auf der ganzen Welt zu zeigen, ist eine hervorragende Möglichkeit, Ihr Ereignis, AltspaceVR und VR im Allgemeinen zu bewerben! Sehen Sie sich unten die ersten Schritte an:
+Das Aufzeichnen und Livestreaming Ihrer AltspaceVR-Erfahrung, um anderen Personen auf der ganzen Welt zu zeigen, ist eine hervorragende Möglichkeit, Ihre Ereignisse, AltspaceVR und VR im Allgemeinen zu bewerben! Sehen Sie sich unten die ersten Schritte an.
 
 In diesem Artikel lernen Sie Folgendes:
 
@@ -24,176 +26,132 @@ In diesem Artikel lernen Sie Folgendes:
 
 ### <a name="the-short-version"></a>Die Kurzversion
 
-1. AltspaceVR und OBS müssen installiert sein. Starten Sie AltspaceVR im 2D-Modus, starten Sie OBS, richten Sie OBS so ein, dass AltspaceVR aufzeichnen und entfernt werden kann!
+1. Haben Sie AltspaceVR und OBS (Open Zusender Software) installiert. Starten Sie AltspaceVR im 2D-Modus, starten Sie OBS, legen Sie OBS so fest, dass AltspaceVR erfasst und entfernt wird!
 
 ### <a name="the-slightly-longer-version"></a>Die etwas längere Version
 
 1. Besuchen Sie [https://obsproject.com/](https://obsproject.com/).
-2. Wählen **Windows** aus, um OBS herunterzuladen. In diesem Beitrag wird **OBS v22.0.2 verwendet.**
+2. Wählen Sie **Windows** aus, um OBS herunterzuladen. In diesem Beitrag wird **OBS v26.1.1 verwendet.**
 3. Installieren von OBS
 
-### <a name="have-altspacevr-running-in-2d-mode-before-you-run-obs"></a>AltspaceVR im 2D-Modus ausführen, bevor Sie OBS ausführen
+### <a name="have-altspacevr-running-before-you-run-obs"></a>Führen Sie ALTSPACEVR AUS, BEVOR Sie OBS ausführen.
 
-1. Laden Sie AltspaceVR von unserer Website herunter, und installieren [Sie altvr.com/get](https://altvr.com/getaltspacevr)
-2. Stellen Sie sicher, dass Sie AltspaceVR im 2D-Modus starten, indem Sie das HMD-USB-Kabel von Ihrem PC entpappen oder wenn Sie einen Rift haben: STRG+ALT+ENTF, Dienste, Oculus VR Runtime Service, Rechtsklick, Beenden. 
-    * Dadurch wird Oculus deaktiviert und AltspaceVR im 2D-Modus gestartet. Wiederholen Sie diese Schritte, und verwenden Sie Start, um den VR-Modus wieder zu erhalten.
+1. Laden Sie AltspaceVR von unserer Website herunter, und installieren Sie es: [altvr.com/get](https://altvr.com/getaltspacevr)
+2. Wenn Sie Ihr VR-Video stabiler machen und ruckartige Kopfbewegungen beseitigen möchten, stellen Sie sicher, dass Sie entweder den 2D-Client verwenden oder AltspaceVR im 2D-Modus starten, indem Sie das USB-Kabel Ihres Headsets von Ihrem PC trennen. Wenn Sie einen Rift haben, drücken Sie STRG+ALT+ENTF, wählen Sie **Dienste**, **Oculus VR Runtime Service**, klicken Sie mit der rechten Maustaste, und wählen Sie **Beenden** aus. Dadurch wird Oculus deaktiviert und AltspaceVR im 2D-Modus gestartet. Wiederholen Sie diese Schritte, und verwenden Sie Start, um den VR-Modus wieder abzurufen.
+3. Sie können Ihre Erfahrung auch im VR-Modus aufzeichnen, indem Sie Game Capture mit OBS verwenden.
 
-Nun können Alt-Tab OBS um:
+Jetzt Alt-Tab zu OBS:
 
-1. Wählen Sie unter Quellen die Option+ **> Game Capture > Create New (Neu erstellen) aus.**
-2. Bearbeiten Sie Text in "AltspaceVR Capture", aktivieren Sie **Quelle sichtbar machen,** und wählen Sie OK aus.
-3. Doppelklicken Sie unter Quellen **auf AltspaceVR Capture.**
-4. Ändern **des Modus** in **"Bestimmtes Fenster erfassen"**
+1. Wählen Sie unter **Szenen** die neue Szene aus, **+** und benennen Sie sie.
+2. Wählen Sie als **Nächstes** unter Quellen folgende Option aus: **+ > Game Capture > Neu erstellen.**
+2. Text in "AltspaceVR Capture" bearbeiten, **Quelle sichtbar machen** aktivieren und **OK** auswählen
+3. Doppelklicken Sie unter **Quellen** auf **AltspaceVR Capture.**
+4. Ändern des **Modus** in **Bestimmtes Fenster erfassen**
 5. Fenster: [AltspaceVR.exe]: AltspaceVR
-6. Übereinstimmungspriorität des Fensters: Übereinstimmungstitel, andernfalls Fenster der gleichen ausführbaren Datei suchen
-7. Scrollen Sie nach unten zu Capture Cursor: untick
-8. Klicken Sie auf „OK“.
+6. Fensterübertrefferpriorität: Übereinstimmungstitel, andernfalls Fenster derselben ausführbaren Datei suchen
+7. Scrollen Sie nach unten zu **Capture Cursor**: untick
+8. Wählen Sie **OK** aus.
+9. Dadurch sollte AltspaceVR in OBS angezeigt werden.
 
-Dies sollte dazu sorgen, dass AltspaceVR in OBS auftritt. Um nun die folgenden Eigenschaften in OBS festlegen zu können, wechseln Sie **zu Datei > Einstellungen:**
+Um nun die folgenden Eigenschaften in OBS festzulegen, wechseln Sie zu **Datei > Einstellungen**:
 
 |Registerkarte|Einstellungen|
 |---|---|
 | **Allgemein** | Behalten Sie die Standardeinstellung bei. |
 | **Stream** | Behalten Sie die Standardeinstellung bei. |
-| Ausgabemodus | Wechseln Sie zu Erweitert. |
-| Registerkarte "Streaming" | Audiospur 1 <br> Encoder: x264 <br> Neuskalieren der Ausgabe: unticked <br> Ratensteuerung: CBR <br> Bitrate: 6000 (6000 für 30 Fps oder 9000 für 60 Fps) <br> Keyframe-Intervall = 2 <br> CPU-Auslastungsvoreinstellung = sehr schnell |
-| Registerkarte "Aufzeichnung" | Typ: Standard <br> Aufzeichnungspfad: D:/Video (Navigieren Sie zu dem Ort, an dem die Videodatei gespeichert werden soll) <br> Aufzeichnungsformat: mp4 (Wenn sie während der Aufzeichnung abstürzen, versuchen Sie hier flv anstelle von mp4, wenn Sie abstürzen, kann das Video weiterhin mit flv verwendet werden.) <br> Audiospur 1 <br> Encoder: Streamencoder verwenden |
-| Registerkarte "Audio" | Audiobitrate: 160 (für alle Spuren) |
-| Registerkarte "Wiedergabepuffer" | Behalten Sie die Standardeinstellung bei. |
-| **Audio** | Abtastrate: 48khz <br> Kanäle: Stereo <br> Desktopaudiogerät: Standard <br> Desktopaudiogerät 2: Deaktivieren <br> Mikrofon/Hilfsaudiogerät: Standard |
-| **Video** | Basisauflösung (Canvas): 1920 x 1080 <br> Ausgabeauflösung (skaliert): 1920 x 1080 <br> Downscale Filter: Bicubic (Schärfere Skalierung, 16 Beispiele) <br> Allgemeine FPS-Werte: 30 |
+| **Ausgabe** | Wechseln Sie zu Erweitert. |
+| **Registerkarte "-Streaming"** | Audiospur 1 <br> Encoder: x264 <br> Neuskalierungsausgabe: nicht angezeigt <br> Ratensteuerung: CBR <br> Bitrate: 6000 (6000 für 30 fps oder 9000 für 60 fps) <br> Keyframeintervall = 2 <br> CPU-Auslastungsvoreinstellung = sehr schnell |
+| **Registerkarte "-Recording"** | Typ: Standard <br> Aufzeichnungspfad: D:/Video (Navigieren Sie zu dem Ort, an dem die Videodateien gespeichert werden sollen) <br> Aufzeichnungsformat: mp4 (Wenn während der Aufzeichnung abstürzen, versuchen Sie hier flv anstelle von mp4. Wenn Sie abstürzen, kann das Video weiterhin mit flv verwendet werden.) <br> Audiospur 1 <br> Encoder: Streamencoder verwenden |
+| **Registerkarte "-Audio"** | Audiobitrate: 160 (für alle Spuren) |
+| **-Replay buffer (Registerkarte "Puffer wiedergeben" )** | Behalten Sie die Standardeinstellung bei. |
+| **Audio** | Abtastrate: 44,1 KHz <br> Kanäle: Stereo <br> Desktopaudio: Standard <br> DesktopAudio 2: Deaktivieren <br> Mic/Aux Audio: Standard |
+| **Video** | Basisauflösung (Canvas): 1920x1080 <br> Ausgabeauflösung (skaliert): 1920x1080 <br> Downscale-Filter: Bicubic (Schärfte Skalierung, 16 Beispiele) <br> Allgemeine FPS-Werte: 30 (oder 60) |
 | **Tastenkürzel** | Behalten Sie die Standardeinstellung bei. |
 | **Erweitert** | Prozesspriorität: Normal | <br>
 
-<br>Wählen Sie jetzt Anwenden und dann **OK** aus, um alle OBS-Einstellungen zu speichern. 
+<br>Stellen Sie nun sicher, dass **Sie Übernehmen** und dann **OK** auswählen, um alle OBS-Einstellungen zu speichern. 
 
-1. Alt-Tab zu AltspaceVR, in den richtigen Raum/die richtige Welt/das richtige Ereignis zu springen und Ihre Kamera (d. h. Ihren Avatar) zu stellen, werden wir ein Video aufzeichnen!
-2. Alt-Tab auf OBS um, und wenn Sie bereit sind, klicken Sie **auf Aufzeichnung starten.**
+1. Alt-Tab zu AltspaceVR, steigen Sie in den richtigen Raum/die richtige Welt/das richtige Ereignis ein, und richten Sie Ihre Kamera (also Ihren Avatar) ein, um ein Video aufzuzeichnen!
+2. Alt-Tab zu OBS über, und wenn Sie bereit sind, klicken Sie auf **Aufzeichnung starten.**
 
-Unten rechts in OBS sehen Sie, dass REC: mit dem Aufzählen beginnt und der Punkt rot ist, was bedeutet, dass Sie aufzeichnen!
+Am unteren rechten Rand von OBS sehen Sie, dass **REC:** beginnt zu zählen, und der Punkt ist rot, was bedeutet, dass Sie aufzeichnen!
 
-Führen Sie eine Testaufzeichnung aus: 
-1. Öffnen/Schließen/Rollover der Menüs in AltspaceVR, um Benutzeroberflächenklänge zu erzeugen
-2. Stellen Sie sicher, dass Sie unveränderlich sind, z. B. "Sibilance, Sibilance", oder lassen Sie einen anderen Benutzer auf einem normalen Volume mit Ihnen sprechen.
-3. Sehen Sie sich die Desktopaudio- und Mikrofon-/Hilfsebenen an, um zu sehen, ob es funktioniert.
+Erstellen Sie aus diesem Grund eine Testaufzeichnung: 
+1. Öffnen/Schließen/Rollover der Menüs in AltspaceVR, um Benutzeroberflächensounds zu erzeugen
+2. Stellen Sie sicher, dass Sie unveränderlich sind, z. B. "Sibilance, Sibilance", oder lassen Sie einen anderen Benutzer mit einem normalen Volume sprechen.
+3. Sehen Sie sich die **Desktopaudio-** und **Mic/Aux-Ebenen** an, um zu sehen, ob die Audiodaten richtig aufgenommen werden.
 
-Wir stummschalten die Mikrofone/Aux in der Regel bei der Aufzeichnung. Wählen Sie das Lautsprechersymbol für Mic/Aux aus, und es wird rot mit einem X angezeigt.
+In der Regel stummschalten wir mic/Aux bei der Aufzeichnung. Wählen Sie das Lautsprechersymbol für Mic/Aux aus, und es wird rot mit einem X angezeigt.
 
-* Es ist sehr schwierig, Ihre Audiodaten und die Audiodaten des anderen Benutzers zu finden, sodass das Mikrofon am besten stumm geschaltet wird, wenn Sie ein Ereignis aufzeichnen.
-* Ein weiteres Problem bei Audiodaten ist die Art und Weise, wie OBS eingerichtet wird. Sie erfasst ALLE Audiodaten von Ihrem Computer. Wenn Sie YouTube also auf Ihrem PC ansehen, werden diese Audiodaten oder Benachrichtigungen von Diskotheken erfasst.
-* Um nur die Audiodaten von AltspaceVR zu erfassen, wechseln Sie zu Volume Mixer (klicken Sie mit der rechten Maustaste auf das Lautsprechersymbol unten rechts von Windows), und stummschalten Sie Systemklang, Browser und so weiter, aber stummschalten Sie OBS oder AltspaceVR nicht.
+* Es ist sehr schwierig, ihre Mikrofonaudioebenen mit den Audiodaten des anderen Benutzers abzugleichen, sodass das Mikrofon am besten stummgeschaltet wird, wenn Sie ein Ereignis aufzeichnen.
+* Ein weiteres Problem bei Audiodaten ist die Einrichtung von OBS. Es erfasst alle Audiodaten von Ihrem Computer. Wenn Sie also YouTube ansehen oder Benachrichtigungssounds auf Ihrem PC erhalten, werden diese Audiodaten aufgezeichnet.
+* Um nur die Audiodaten von AltspaceVR aufzuzeichnen, wechseln Sie zu **Open Volume Mixer** (klicken Sie mit der rechten Maustaste auf das Lautsprechersymbol unten rechts neben Windows), und stummschalten Sie Systemsounds, Browser usw., aber stummschalten Sie OBS oder AltspaceVR nicht.
 
-> [!IMPORTANT]
-> Vergessen Sie nicht, diese Volume-Mixer nach der Aufzeichnung wieder zu aktivieren.
+> [WICHTIG] Vergessen Sie nicht, diese Einstellungen für den Volumemixer nach der Aufzeichnung zu ändern.
 
-Navigieren Sie nun zurück zu OBS, und wählen **Sie Aufzeichnung** über Datei beenden **>Aufzeichnungen anzeigen aus.** Dadurch wird der Ordner mit Ihren OBS-Videodateien geöffnet, und doppelklicken Sie auf das Testvideo.
+Navigieren Sie nun zurück zu OBS, und wählen **Sie Aufzeichnung beenden** aus. Um das soeben aufgezeichnete Video zu finden, wechseln Sie zu **Datei>Aufzeichnungen anzeigen**. Dadurch wird der Ordner mit Ihren OBS-Videodateien geöffnet, und doppelklicken Sie auf das Testvideo.
 
-Manchmal ist die Aufzeichnung recht laut, also senken Sie den Schieberegler für Desktopaudio, und erstellen Sie eine weitere Aufzeichnung zum Testen.
+Manchmal ist die Aufzeichnung ziemlich laut, also setzen Sie den Schieberegler für Desktopaudio in OBS herunter, und nehmen Sie eine weitere Aufzeichnung zum Testen vor.
 
+Pro-tip: Verwenden Sie STRG+ALT+P, um im Fotomodus umzuschalten. Dadurch wird die Benutzeroberfläche aus Ihrer Ansicht entfernt, um einen ansprechenden Cleanshot zu erhalten.
+
+Herzlichen Glückwunsch, Sie sind ein AltspaceVR-Videorecorder!
 
 ## <a name="live-streaming-to-youtube-in-altspacevr-2d-mode-on-pc"></a>Livestreaming auf YouTube im AltspaceVR 2D-Modus auf dem PC
 
 ### <a name="the-short-version"></a>Die Kurzversion
 
-AltspaceVR und OBS müssen installiert sein. Starten Sie AltspaceVR im 2D-Modus, starten Sie OBS, entweder Livestream, oder erstellen Sie ein "Neues Liveereignis" auf YouTube, richten Sie OBS mit Ihrem YouTube-Streamschlüssel ein, beginnen Sie mit dem Streamen in OBS, beginnen Sie mit dem Streaming auf YouTube, und Sie sind auf dem Weg zur Strömen!
+AltspaceVR und OBS müssen installiert sein. Starten Sie AltspaceVR und OBS. Sie können entweder den Livestream "Right Now" oder "Later date" (Später) streamen. Richten Sie OBS auf YouTube mit Ihrem YouTube-Streamschlüssel ein. Beginnen Sie mit dem Streamen in OBS und auf YouTube, und Sie sind auf dem Weg zu den Strömen!
 
 ### <a name="the-slightly-longer-version"></a>Die etwas längere Version
 
-1. Besuchen Sie [https://obsproject.com/](https://obsproject.com/).
-2. Wählen **Windows** aus, um OBS herunterzuladen (in diesem Beitrag wird OBS v22.0.2 verwendet).
-3. Installieren von OBS
-
-Führen Sie ALTSPACEVR im 2D-Modus aus, BEVOR Sie OBS ausführen.
-1. Laden Sie AltspaceVR von unserer Website herunter: [https://account.altvr.com/downloads](https://account.altvr.com/downloads)
-2. Um sicherzustellen, dass Sie AltspaceVR im 2D-Modus starten, trennen Sie entweder das USB-Kabel Ihrer HMD von Ihrem PC, oder wenn Sie einen Rift haben: STRG+ALT+ENTF, Dienste, Oculus VR-Laufzeitdienst, klicken Sie mit der rechten Maustaste auf Beenden. Dadurch wird Oculus Home deaktiviert und AltspaceVR im 2D-Modus gestartet. Wiederholen Sie diese Schritte, und starten Sie erneut, um den VR-Modus abzurufen.
-
-3. Alt-Tab zu OBS
-
-4. Wählen Sie unter Quellen die Option **+** aus, wählen Sie Game Capture aus, Neu erstellen, Text in "AltspaceVR Capture" bearbeiten, Häkchen Quelle sichtbar machen, OK
-5. Doppelklicken Sie auf AltspaceVR Capture.
-6. Modus: Bestimmtes Fenster erfassen
-7. Fenster: [AltspaceVR.exe]: AltspaceVR
-8. Fensterübertrefferpriorität: Übereinstimmungstitel, andernfalls Fenster derselben ausführbaren Datei suchen
-9. Scrollen Sie nach unten zu Aufzeichnungscursor: untick OK
-
-Dadurch sollte AltspaceVR in OBS angezeigt werden. Sehr schön!
-
-Wechselt nun in OBS zu Datei>Einstellungen:
-
-| Registerkarte | Einstellungen |
-|---|---|
-| Allgemein | Automatische Aufzeichnung beim Streaming aktivieren (dadurch wird zusätzlich zum Livestreaming eine Videodatei auf Ihrem Computer aufgezeichnet) |
-| STREAM | Streamtyp: Streamingdienste <br> Dienst: YouTube/YouTube Gaming (kann auch an Twitch, Mixer, Facebook Live usw. gestreamt werden.)<br>Server: Primärer YouTube-Erfassungsserver <br>Streamschlüssel: Fügen Sie Ihren Streamschlüssel von YouTube ein. (Siehe "Einrichten von Livestreaming auf YouTube" weiter unten) |
-| Ausgabe | Ausgabemodus: Wechseln Sie zu Erweitert. |
-| Streaming | Audiospur 1 <br>Encoder: x264 <br>Erzwingen der Encodereinstellungen des Streamingdiensts: Tick <br>Neuskalierungsausgabe: nicht angezeigt <br>Ratensteuerung: CBR <br>Bitrate: 6000 (6000 für 30 fps oder 9000 für 60 fps) <br>Keyframeintervall = 2 <br>CPU-Auslastungsvoreinstellung = sehr schnell |
-| Aufzeichnung | Typ: Standard <br>Aufzeichnungspfad: D:/Video (Navigieren Sie zu dem Ort, an dem die Videodatei gespeichert werden soll, wenn Sie zuvor "Beim Streaming automatisch aufzeichnen" ausgewählt haben) <br>Aufzeichnungsformat: mp4 (Wenn sie während der Aufzeichnung abstürzt, versuchen Sie hier flv anstelle von mp4. Wenn Sie einen Absturz erstellen, kann das Video weiterhin mit flv verwendet werden. <br>Audiospur 1 <br>Encoder: Streamencoder verwenden |
-| Audio | Audiobitrate: 160 (für alle Spuren) Abtastrate: 48 KHz <br>Kanäle: Stereo <br>Desktopaudiogerät: Standard <br>Desktopaudiogerät 2: Deaktivieren <br>Mic/Aux-Audiogerät: Standard |
-| Wiedergabepuffer | Behalten Sie die Standardeinstellung bei. |
-| Video | Basisauflösung (Canvas): 1920x1080 <br>Ausgabeauflösung (skaliert): 1920x1080 <br>Downscale-Filter: Bicubic (Schärfte Skalierung, 16 Beispiele) <br>Allgemeine FPS-Werte: 30 |
-| Tastenkürzel | Behalten Sie die Standardeinstellung bei. |
-| Fortgeschrittene | Prozesspriorität: Normal |
-|||
-
-<br>Stellen Sie nun sicher, dass Sie auf Übernehmen, dann auf OK und dann auf OBS schließen und erneut öffnen. Dadurch werden Ihre gesamten OBS-Einstellungen gespeichert. Gute :)
-
-Im Abschnitt "Aufzeichnen von AltspaceVR im 2D-Modus auf dem PC" weiter oben finden Sie Anweisungen zum Testen der Aufzeichnung mithilfe einer lokalen Aufzeichnung anstelle des Livestreams und zum Einrichten der Kameraaufnahme vor der Aufzeichnung.
-
-Ein weiteres Problem bei Audiodaten ist die Einrichtung von OBS. Es erfasst alle Audiodaten von Ihrem Computer. Wenn Sie also YouTube ansehen, zeichnet es diese Audiodaten auf, Teams Nachrichten oder Benachrichtigungsgeräusche.
-
-Um nur die Audiodaten von AltspaceVR aufzuzeichnen, wechseln Sie zu Volume Mixer (klicken Sie mit der rechten Maustaste auf das Lautsprechersymbol unten rechts neben Windows) und Stummschalten von Systemsounds, Browsern usw., aber stummschalten Sie OBS oder ALTSPACEVR nicht.
-
-Vergessen Sie nicht, die Audiodaten nach der Aufzeichnung wieder zu aktivieren ;)
-
-Herzlichen Glückwunsch, Sie sind ein AltspaceVR-Videorecorder!
+Im Abschnitt [Recording AltspaceVR in 2D mode on PC](#recording-altspacevr-in-2d-mode-on-pc) (Aufzeichnung von AltspaceVR im 2D-Modus auf dem PC) oben auf dieser Seite finden Sie Anweisungen zum Testen der Aufzeichnung mithilfe einer lokalen Aufzeichnung anstelle des Livestreams und zum Einrichten Ihres Kamerabilds.
 
 ## <a name="setting-up-live-streaming-on-youtube"></a>Einrichten von Livestreaming auf YouTube
 
-Sie können entweder schnell einen Livestream in Betrieb nehmen (**Stream**) oder ein zukünftiges Livestreamereignis einrichten (**Verwalten**). Es kann empfohlen werden, dass Sie die Methode "Verwalten" einrichten.
+Sie können entweder einen Livestream "Right Now" erhalten oder einen zukünftigen Livestream mit "Later date" einrichten.
 
-1. Öffnen Sie Ihren Browser, melden Sie sich [https://www.youtube.com/](https://www.youtube.com/) an, und wechseln Sie dann zu . [https://www.youtube.com/my_live_events](https://www.youtube.com/my_live_events)
-2. Klicken Sie oben rechts auf Ihr Kontosymbol, und wählen Sie in der Dropdownleiste Creator Studio aus.
-3. LIVE STREAMING auf der linken Seite der Seite.
+1. Öffnen Sie Ihren Browser, melden Sie sich [https://www.youtube.com/](https://www.youtube.com/) an, und wechseln Sie dann zu . [https://studio.youtube.com/](https://studio.youtube.com/)
+2. Suchen Sie nach oben rechts, und wählen Sie **CREATE** und dann **Go live (Live) aus.**
 
-**'Stream** now'-Methode:
+**"Right now"-Methode:**
 
-* Wählen Sie BEARBEITEN aus, um Ihre Livestreaminformationen einzugeben.<br>
-* Behalten Sie unter Stream Einstellungen die Standardwerte bei.<br>
-* Streamschlüssel (In Encoder einfügen), "Reveal" auswählen und diesen Schlüssel kopieren, damit Sie ihn in OBS einfügen können<br>
-* Öffnen von OBS/Einstellungen/Stream<br>
-* Fügen Sie den Stream-Schlüssel von YouTube in das Feld Stream Key in OBS ein.<br>
-* Anwenden und dann OK<br>
-* Wählen Sie Streaming in OBS starten aus.<br>
-* Wechseln Sie zu YouTube, und Sie werden sehen, dass Sie jetzt LIVE auf YouTube sind!<br>
-* Um Ihre tatsächliche YouTube-Livestream-Videoseite anzuzeigen, müssen Sie oben rechts das Symbol FREIGEBEN auswählen.<br>
-* Kopieren Sie den Link "Video", und fügen Sie ihn in eine neue Browserregisterkarte ein. Daraufhin wird Ihre YouTube-Livestreamseite angezeigt.<br>
-* Diese URL ist Ihr Livestreamlink und kann für alle Social Media-Kanäle freigegeben :)<br>
-* Um den Livestream zu beenden, wählen Sie Streaming auf OBS beenden aus. Dadurch wird der Livestream auf YouTube beendet.<br>
-* Beenden Sie dann den Stream auf YouTube.<br>
+1. Wählen **Sie Jetzt starten aus.**
+1. Auswählen **von Streamingsoftware/GO**
+1. Klicken **Sie oben** rechts auf BEARBEITEN, um Ihre Videodetails und Anpassungen zu bearbeiten.
+1. Behalten **Sie unter Stream Einstellungen** die Standardwerte bei.
+1. Kopieren Sie den Schlüssel neben  Stream key (paste in encoder) (Streamschlüssel **(in Encoder einfügen)),** damit Sie ihn in OBS einfügen können.
+1. ÖFFNEN VON **OBS/Einstellungen**  /  **Stream**
+1. Wählen Sie **im Dropdownmenü** Dienst die Option **YouTube – RTMPS aus.**
+1. Fügen Sie den Streamschlüssel von YouTube in das **Feld StreamSchlüssel** in OBS ein.
+1. Klicken **Sie auf Übernehmen** und dann auf **OK.**
+1. Wählen Sie **Streaming in** OBS starten aus.
+1. Wechseln Sie zu YouTube, und Sie werden sehen, dass Sie jetzt live auf YouTube sind!
+1. Um Ihre tatsächliche YouTube-Livestream-Videoseite anzuzeigen, müssen Sie oben rechts das Symbol FREIGEBEN auswählen.
+1. Klicken Sie auf den Link "Video", um Ihren YouTube-Livestream zu sehen und zu hören. 
+1. Diese URL ist Ihr Livestreamlink und kann für alle Kanäle in sozialen Netzwerken freigegeben :)
+1. Um den Livestream zu beenden, wählen Sie END STREAM auf YouTube und dann Stop Streaming on OBS (Streaming bei OBS beenden) aus.
 
-**"Manage"-Methode:**
-* Wählen Sie "Stream planen" aus.
-* Erstellen eines neuen oder wiederverwenden Einstellungen, wenn Sie bereits einen vorherigen verwalteten Livestream eingerichtet haben
-* Hinzufügen von Titel, Datum, Startzeit, Beschreibung, Hochladen Miniaturansicht und Tags – Vergessen Sie nicht, altspaceVR :)
-* Wählen Sie im Dropdownmenü Öffentlich aus (Standardwert ist "Nicht aufgeführt").
-* Standardwerte verwenden
-* Kopieren des Streamschlüssels (Einfügen in den Encoder)
-* Um Ihre tatsächliche YouTube-Livestream-Videoseite anzuzeigen, müssen Sie oben rechts das Symbol FREIGEBEN auswählen. Dies ist Ihr YouTube-Livestream-Ereignislink, der auf Social Way vor Ihrem eigentlichen Ereignis freigegeben werden kann.
-* Jetzt OBS öffnen
-* Datei/Einstellungen
-* STREAM
-* Fügen Sie den kopierten Streamschlüssel in das Feld Streamschlüssel ein.
-* Anwenden und dann OK
-* Wählen Sie "Streaming starten" aus.
-* Zurück zu YouTube wird das Fenster "Vorschau" mit Ihrem Stream angezeigt, und GO LIVE wird jetzt oben rechts angezeigt.
-* Wählen Sie GO LIVE (LIVE) aus.
-* Sie sind jetzt LIVE!
-* Wechseln Sie zu Ihrer Browserregisterkarte, und öffnen Sie den Link "Auf Überwachungsseite anzeigen", um sicherzustellen, dass das Video gut aussieht. DENKEN Sie daran, dass Sie die Audiodaten nicht hören, da Sie audio von Ihren Browsern ausgeschaltet haben, wenn Sie sie in Windows Volume Mixer stummgeschaltet haben. Überprüfen Sie die Audiodaten auf Ihrem Telefon, oder bitten Sie einen Freund, die Audiodaten für Sie zu überprüfen.
-* Gut aussehen!
-* Alt-Tab zurück zu AltspaceVR, um Ihre Kamera (also Ihren Avatar) in Ihrem Ereignis zu bewegen.
-* Wenn Sie mit dem Livestream fertig sind, kehren Sie zur YouTube-Seite "Live Control Room" zurück.
-* Wählen Sie "Streaming beenden" aus.
-* Das Dialogfeld wird geöffnet, und Sie werden gefragt, ob Sie das Streaming des Liveereignisses beenden möchten. OK
-* Wechseln Sie zu OBS, und wählen Sie auch Streaming beenden aus.
-* Herzlichen Glückwunsch, Sie sind jetzt ein AltspaceVR-Streamer!
+Methode **"Späteres** Datum":
+1. Klicken Sie oben links auf das **Symbol Verwalten.**
+1. Wählen Sie **SCHEDULE STREAM** oben rechts aus.
+1. Hinzufügen von Titel, Beschreibung, Kategorie, Miniaturansicht (1280 x 720) und dann **WEITER**
+1. Livechatoptionen und dann **WEITER**
+1. Privat, Nicht aufgelistet oder Öffentlich (wählen Sie Öffentlich)
+1. Planen Sie das Datum und die Uhrzeit, zu der Sie live gehen möchten, und dann **FERTIG.**
 
-Um Bonuspunkte zu erhalten, teilen Sie Ihre Videos in sozialen Medien mit der Welt, und markieren Sie uns @AltspaceVR :)
+ **Wenn Sie bereit sind, Ihren Livestream in der Zukunft zu starten:**
+1. Behalten Sie unter Stream Einstellungen die Standardwerte bei.
+1. Kopieren Sie den Schlüssel neben  Stream key (paste in encoder) (Streamschlüssel **(in Encoder einfügen)),** damit Sie ihn in OBS einfügen können.
+1. ÖFFNEN VON **OBS/Einstellungen**  /  **Stream**
+* Wählen Sie **im Dropdownmenü** Dienst die Option **YouTube – RTMPS aus.**
+1. Fügen Sie den Streamschlüssel von YouTube in das **Feld StreamSchlüssel** in OBS ein.
+1. Klicken **Sie auf Übernehmen** und dann auf **OK.**
+1. Wählen Sie **Streaming in** OBS starten aus.
+1. Wechseln Sie zu YouTube, und Sie werden sehen, dass Sie jetzt live auf YouTube sind!
+1. Um Ihre tatsächliche YouTube-Livestream-Videoseite anzuzeigen, müssen Sie oben rechts das Symbol FREIGEBEN auswählen.
+1. Klicken Sie auf den Link "Video", um Ihren YouTube-Livestream zu sehen und zu hören. 
+1. Diese URL ist Ihr Livestreamlink und kann für alle Kanäle in sozialen Netzwerken freigegeben :)
+1. Um den Livestream zu beenden, wählen Sie **END STREAM** auf YouTube und dann Stop Streaming on OBS **(Streaming bei** OBS beenden) aus.
+
+Um Bonuspunkte zu erhalten, teilen Sie Ihre Videos in sozialen Netzwerken mit, und markieren Sie @AltspaceVR uns :)
